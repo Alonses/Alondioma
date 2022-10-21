@@ -2,127 +2,127 @@
     "data": {
         "inic": {
             "inicio": {
-                "slash_commands": "Os comandos tradicionais foram desativados, continue usando o Alonsal pelos comandos de `/barra`! Experimente agora mesmo ;D\n\nNota: Não consegue ver meus comandos? Me convide novamente clicando no botão abaixo! Também verifique se meus comandos estão habilitados para todos nas integrações do servidor em `Integrações -> Alonsal -> Comandos`",
-                "convidar": "Convidar!",
-                "suporte": "Suporte"
+                "slash_commands": "I comandi tradizionali sono stati disabilitati, continua a usare Alonsal con i comandi `/slash`! Provalo ora ;D\n\nNota: non vedi i miei comandi? Invitami di nuovo cliccando il pulsante qui sotto! Controlla anche se i miei comandi sono abilitati per tutti nelle integrazioni del server in `Integrazioni -> Alonsal -> Comandi`",
+                "convidar": "Invitare!",
+                "suporte": "Supporto"
             },
             "error": {
-                "epic_embed_fail": "Houve um erro ao tentar executar este comando, _não é comum mas acontece_, chamei os enceiradores para eliminar este baidu o quanto antes!\nDesculpas pelo inconveniente",
-                "comando_dm": "Comandos em DM não estão ativos :spy:"
+                "epic_embed_fail": "Si è verificato un errore durante il tentativo di eseguire questo comando, _non è comune ma succede_, ho chiamato gli enceiradores per eliminare questo baidu il prima possibile!\nScusiamo per l'inconveniente",
+                "comando_dm": "I comandi DM non sono attivi :spy:"
             },
             "ping": {
-                "titulo": "> Ó Abre alas que eu queru passsaa :notes:",
-                "boas_vindas": "Olá! Obrigado por me adicionar ao servidor!\n\nDeixo em anexo abaixo o meu site, com todos os comandos caso necessário ;D",
-                "idioma_dica": "Do not speak Portuguese? No problems! Change my language right now with the /idioma command!",
-                "site": "Site Alonsal"
+                "titulo": "> Oh fammi passare :notes:",
+                "boas_vindas": "Ehi! Grazie per avermi aggiunto al server!\n\nLascio il mio sito Web allegato di seguito, con tutti i comandi se necessario ;D",
+                "idioma_dica": "Non parli italiano? Nessun problema! Cambia subito la mia lingua con il comando /language!",
+                "site": "Il sito web di Alonsal"
             }
         },
         "misc": {
             "daily": {
-                "daily": "Daily coletado! Você recebeu `B$valor_repl` Bufunfas, retorne amanhã para mais",
-                "error": "Você já coletou seu daily! Use o comando novamente"
+                "daily": "Bufunfas raccolti! Hai ricevuto `B$valor_repl` Bufunfas, controlla domani per maggiori informazioni",
+                "error": "Hai già raccolto oggi! Usa di nuovo il comando"
             },
             "color": {
-                "cor_ativa": "Você já está usando essa cor!",
-                "error": "Insira valores entre 0 e 255 para as cores",
-                "titulo": "> Este é um Embed demonstração :tada:",
-                "descricao": "Alguma descrição aleatória por aqui...",
-                "footer": "Seus embeds irão aparecer assim e ao verem seu perfil com o Alonsal",
-                "rand_color": "Suas cores serão aleatórias a cada comando",
-                "cor_att": "Cor atualizada! Agora seus embeds serão na cor selecionada",
-                "sem_money": "Você não possui `B$preco_repl` Bufunfas suficientes para essa cor!",
-                "att_cancelada": "Alteração de cor cancelada"
+                "cor_ativa": "Stai già usando questo colore!",
+                "error": "Immettere valori compresi tra 0 e 255 per i colori",
+                "titulo": "> Questa è una dimostrazione di incorporazione :tada:",
+                "descricao": "Qualche descrizione casuale qui intorno...",
+                "footer": "I tuoi incorporamenti appariranno in questo modo e quando vedranno il tuo profilo con Alonsal",
+                "rand_color": "I tuoi colori saranno casuali su ogni comando",
+                "cor_att": "Colore aggiornato! I tuoi incorporamenti saranno ora nel colore selezionato",
+                "sem_money": "Non hai abbastanza `B$preco_repl` Bufunfas per questo colore!",
+                "att_cancelada": "Cambio colore annullato"
             },
             "pay": {
-                "error": "Você não possui `B$valor_repl` Bufunfas para transferir!",
-                "error_2": "Informe um número positivo para depositar",
-                "error_3": "Você não pode transferir para si mesmo!",
-                "user_bot": "Você não pode transferir Bufunfas para outros bots além de mim!",
-                "sucesso": "Transferência aprovada! `B$valor_repl` Bufunfas foram depositadas na conta de",
-                "notifica": "Você acabou de receber um depósito! <@!user_repl> depositou `B$valor_repl` Bufunfas em sua conta! Obaa"
+                "error": "Non hai `B$value_repl` Bufunfas da trasferire!",
+                "error_2": "Inserisci un numero positivo per depositare",
+                "error_3": "Non puoi trasferirti su te stesso!",
+                "user_bot": "Non puoi trasferire Bufunfas a bot diversi da me!",
+                "sucesso": "Trasferimento approvato! `B$valor_repl` Bufunfas sono stati depositati sul conto di",
+                "notifica": "Hai appena ricevuto un deposito! <@!user_repl> ha depositato `B$valor_repl` Bufunfas nel tuo account! Sìì"
             },
             "banco": {
-                "suas_bufunfas": "> Suas Bufunfas",
-                "bufunfas_outros": "Bufunfas de nome_repl",
-                "bufunfas": "Bufunfas enceiradas em estoque",
-                "daily": "Próximo `/daily` disponível",
-                "dica_comando": "Use `/daily` para coletar Bufunfas!",
-                "dica_rodape": "Você pode usar Bufunfas em customizações, como o /color por exemplo!"
+                "suas_bufunfas": "> Le tue Bufunfas",
+                "bufunfas_outros": "Bufunfas di nome_repl",
+                "bufunfas": "Bufunfas cerati in stock",
+                "daily": "Successivo `/daily` disponibile",
+                "dica_comando": "Usa `/daily` per raccogliere Bufunfas!",
+                "dica_rodape": "Puoi usare Bufunfas nelle personalizzazioni, come /color per esempio!"
             }
         },
         "dive": {
             "baidu": {
-                "baidu": "Louvado seja!!"
+                "baidu": "Lode sia!!"
             },
             "esfiha": {
-                "asf": "Vai uma esfiha ae?"
+                "asf": "C'è un esfiha lì?"
             },
             "amor": {
-                "aviso_1": "marque duas pessoas para testar\nPor exemplo, `/amor @Alonsal @Slondo`",
-                "limda": "Limda :gift_heart:",
-                "rodape": "Amor a si próprio é oq importa :heartpulse:",
-                "100perc": "Praticamente casados :heart_on_fire:",
-                "90perc": "Meu casal :smiling_face_with_3_hearts:",
-                "80perc": "Literalmente amantes :revolving_hearts:",
-                "60perc": "Tá rolando um clima :hot_face:",
-                "40perc": "Será? :eyes:",
+                "aviso_1": "tagga due persone da testare \nAd esempio, `/amore @Alonsal @Slondo`",
+                "limda": "Bellissimo :gift_heart:",
+                "rodape": "Amare te stesso è ciò che conta :heartpulse:",
+                "100perc": "Praticamente sposato :heart_on_fire:",
+                "90perc": "La mia coppia :smiling_face_with_3_hearts:",
+                "80perc": "Letteralmente amanti :revolving_hearts:",
+                "60perc": "C'è uno stato d'animo in corso :hot_face:",
+                "40perc": "Sarà? :eyes:",
                 "20perc": "Friendzone :people_hugging:",
-                "0perc": "São inimigos públicos :angry:",
-                "teste": "O teste retornou"
+                "0perc": "Sono nemici pubblici :angry:",
+                "teste": "Prova restituita"
             },
             "gado": {
-                "gado": "Ô SEU GADO",
-                "error_2": "sai pra lá seu GA :cow: DO, teste isso com outro usuário"
+                "gado": "AH TU BOVINO",
+                "error_2": "Non sono un BOVI :cow: NO, prova con un altro utente"
             },
             "peao": {
-                "peao": "Roda o pião"
+                "peao": "Girare il pedone"
             },
             "anagrama": {
-                "aviso_1": "Informe algo além do comando, por exemplo `/anagrama alonsal > odnols`",
-                "anagrama": "Seu anagrama",
-                "entrada": "Entrada original",
-                "lista_combinacoes": "Possiveis combinações",
-                "sequencia": "Sua sequência de caracteres produz",
-                "combinacao": "combinação",
-                "combinacoes": "combinações!",
-                "sorte": "Houve uma repetição de palavras! Seria sorte?"
+                "aviso_1": "Immettere qualcosa di diverso dal comando, ad esempio `/anagram alonsal > odnols`",
+                "anagrama": "Il tuo anagramma",
+                "entrada": "Testo di input",
+                "lista_combinacoes": "Combinazioni possibili",
+                "sequencia": "La tua stringa produce",
+                "combinacao": "combinazione",
+                "combinacoes": "combinazioni!",
+                "sorte": "C'era una ripetizione di parole! È stata fortuna?"
             },
             "jaja": {
-                "nsfw_jaja": "Devido ao excesso de delícia este comando só pode ser usado num canal NSFW"
+                "nsfw_jaja": "A causa del piacere eccessivo, questo comando può essere utilizzato solo su un canale NSFW"
             },
             "sans": {
-                "aviso_1": "Escreva algo para este comando\nPor exemplo, `/sans slomdo muinto cringerrr afff`"
+                "aviso_1": "Scrivi qualcosa in questo comando\nAd esempio `/sans slomdo very cringe afff`"
             },
             "rank": {
-                "rank_sv": "Rank de",
-                "rank_rc": "Ranking de comandos",
-                "rodape": "páginas, use /rank pagina:<num> para ver outras páginas",
-                "rodape_rc": "páginas, use /rank comandos pagina:<num> para ver outras páginas",
+                "rank_sv": "Cassificazione di",
+                "rank_rc": "Classificazione dei comandi",
+                "rodape": "pagine, utilizzare il comando /rank page:<numero> per vedere altre pagine",
+                "rodape_rc": "pagine, usa i comandi /rank page:<numero> per vedere altre pagine",
                 "paginas": "Informe um número menor para a página",
-                "nivel_descricao": "nível = experiência / 1000",
-                "enceirados": "Enceirados",
-                "experiencia": "Experiência",
-                "nivel": "Nível",
-                "comandos": "Comandos",
-                "ativacoes": "Ativações",
+                "nivel_descricao": "livello = esperienza / 1000",
+                "enceirados": "Ceratos",
+                "experiencia": "Esperienza",
+                "nivel": "Livello",
+                "comandos": "Comandi",
+                "ativacoes": "Attivazioni",
                 "historia_alonsal": "Estes são os comandos ativados durante toda a história do Alonsal",
-                "aliase_faltando": "aliase faltando",
-                "nome_faltando": "Nome faltando",
-                "error_1": "Informe um número da página menor para isto",
-                "error_rc": "Não foi possível carregar o ranking de comandos no momento, tente novamente mais tarde"
+                "aliase_faltando": "alias assente",
+                "nome_faltando": "nome mancante",
+                "error_1": "Inserisci un numero di pagina più piccolo per questo",
+                "error_rc": "Impossibile caricare le valutazioni dei comandi al momento, riprova più tardi"
             },
             "badges": {
-                "error_1": "Você não possui nenhuma badge para visualizar!",
-                "error_2": "Você não possui essa badge para fixar",
-                "suas_badges": "Suas Badges",
-                "ganhou": "ganhou em",
-                "cabecalho_menu": "Qual será fixada?",
-                "escolha_uma": "Escolha uma badge!",
-                "fixar": "Fixar a badge",
-                "badge_fixada": "fixada ao seu perfil!",
-                "badge_removida": "removida do seu perfil",
-                "rodape": "Use o comando /badge fixar para fixar uma!",
-                "new_badge": "Você acabou de ganhar uma Badge! O `nome_repl` emoji_repl! Ele será exibido em seu perfil ao usarem o comando `/user info`\n\nVocê também pode fixar Badges em destaque com o comando `/badge fixar`!"
+                "error_1": "Non hai badge da vedere!",
+                "error_2": "Non hai questo badge da apporre",
+                "suas_badges": "I tuoi badges",
+                "ganhou": "vinto ad",
+                "cabecalho_menu": "Quale sarà contrassegnato?",
+                "escolha_uma": "Scegli un badge!",
+                "fixar": "segnare il badge",
+                "badge_fixada": "aggiunto ai preferiti sul tuo profilo!",
+                "badge_removida": "rimosso dal tuo profilo",
+                "rodape": "Usa il comando /badge pin per contrassegnarne uno!",
+                "new_badge": "Hai appena vinto un badge! L'`name_repl` emoji_repl! Verrà visualizzato sul tuo profilo quando usi il comando `/user info`\n\nPuoi anche mettere i badge in primo piano con il comando ` /badge pin`!"
             }
         },
         "game": {
@@ -219,7 +219,7 @@
         },
         "mode": {
             "idiomas": {
-                "titulo_idioma": "Idiomas disponíveis"
+                "titulo_idioma": "Lingue disponibili"
             },
             "clear": {
                 "permissao_1": "Você não possui a permissão `Gerenciar mensagens`",
@@ -512,37 +512,37 @@
                 "rodape": "4 senhas com tamanho_repl caracteres para escolher, elas não são salvas por aqui e nem sei o conteúdo, apenas você ;)"
             },
             "timestamp": {
-                "timestamp_1": "De data para timestamp",
-                "timestamp_2": "De timestamp para data",
-                "timestamp_now": "Timestamp agora",
-                "timestamp_crono": "Timestamp cronometrado",
-                "erro_titulo": ":warning: | Algo saiu errado",
-                "erro_conversao": "Não foi possível gerar um timestamp com a entrada informada, tente novamente",
-                "valor_nulo": "O resultado desta conversão foi nulo",
-                "aviso_1": "Necessito de mais informações para poder converter sua data\nPor exemplo `/timestamp 2022-06-08 23:03:57` ou `/timestamp 385723948238`"
+                "timestamp_1": "Dalla data al timestamp",
+                "timestamp_2": "Dalla timestamp al data",
+                "timestamp_now": "Timestamp ora",
+                "timestamp_crono": "Timestamp calcolato",
+                "erro_titulo": ":warning: | Qualcosa è andato storto",
+                "erro_conversao": "Impossibile generare un timestamp con l'input specificato. Riprova",
+                "valor_nulo": "Il risultato di questa conversione era nullo",
+                "aviso_1": "Ho bisogno di più informazioni per poter convertire i tuoi dati \nAd esempio `/timestamp 2022-06-08 23:03:57` o `/timestamp 385723948238`"
             },
             "lastfm": {
-                "sem_scrobbles": "Este perfil existe, porém não possui nenhum Scrobble :(",
-                "semanal": "Semanal",
-                "media_dia": "Média p/ dia",
-                "tempo_tocado": "Tempo tocado",
-                "albuns": "Álbuns",
-                "artistas": "Artistas",
-                "faixas_favoritas": "Faixas favoritas",
+                "sem_scrobbles": "Questo profilo esiste ma non ha Scrobble :(",
+                "semanal": "Settimanalmente",
+                "media_dia": "Media al giorno",
+                "tempo_tocado": "Tempo ascoltato",
+                "albuns": "Albuns",
+                "artistas": "Artisti",
+                "faixas_favoritas": "Canzoni preferite",
                 "geral": "Geral",
-                "perfil_musical": "Perfil musical de nome_repl",
-                "em_scrobble": "Em Scrobble no momento",
-                "obsessao": "Obsessão do momento",
-                "error_1": "Este perfil não existe, tente novamente",
-                "sem_link": "O usuário mencionado não linkou o Alonsal com a LastFM, tente pesquisar pelo nome personalizado do mesmo!",
-                "new_link": "O Alonsal foi vinculado a sua conta `plat_repl`! Agora ao usar `/plat_repl` você não precisará escrever seu nome toda hora :P"
+                "perfil_musical": "Il profilo musicale di nome_repl",
+                "em_scrobble": "Su Scrobble ora",
+                "obsessao": "Ossessione del momento",
+                "error_1": "Questo profilo non esiste, riprova",
+                "sem_link": "L'utente menzionato non ha collegato Alonsal a LastFM, prova a cercare il suo nome personalizzato!",
+                "new_link": "Alonsal è stato collegato al tuo account `plat_repl`! Ora quando usi `/plat_repl` non avrai bisogno di digitare il tuo nome tutto il tempo :P"
             },
             "rastreio": {
-                "local": "Local",
-                "objeto_rastreado": "Rastreio de objeto",
-                "objeto_invalido": "Objeto não encontrado",
-                "codigo": "Código utilizado",
-                "codigo_invalido": "O código utilizado não foi registrado, ou já expirou e não é mais possível consultar"
+                "local": "Posto",
+                "objeto_rastreado": "Tracciamento degli oggetti",
+                "objeto_invalido": "Oggetto non trovato",
+                "codigo": "Codice utilizzato",
+                "codigo_invalido": "Il codice utilizzato non è stato registrato, oppure è scaduto e non è più consultabile"
             }
         }
     }
