@@ -208,7 +208,7 @@
             "data": {
                 "ranking_guilds": "Ranking on the following servers",
                 "dados_conhecidos": "> Your known data",
-                "resumo_dados": "This is a summary of the data we save about you.",
+                "resumo_dados": "This is a summary of the data I have recorded about you.",
                 "dica_rodape": "You can delete all your data with /data excluir command",
                 "dados_removidos": "Your data has been removed from",
                 "sem_dados": "You don't have any data saved here ;)",

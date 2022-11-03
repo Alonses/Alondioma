@@ -201,11 +201,11 @@
             },
             "data": {
                 "ranking_guilds": "Ranking nos seguintes servidores",
-                "dados_conhecidos": "> Seus dados conhecidos",
-                "resumo_dados": "Este é um resumo dos dados que salvamos docê",
-                "dica_rodape": "Ocê pode excluir todos os seus dados com o comando /data excluir",
-                "dados_removidos": "Seus dados foram removidos do",
-                "sem_dados": "Ocê não possui dados salvos por aqui ;)",
+                "dados_conhecidos": "> Seus :game_die: conhecidos",
+                "resumo_dados": "Este é um resumão dos :game_die: que salvei docê",
+                "dica_rodape": "Ocê pode excluir todos os seus :game_die: com o comando /data excluir",
+                "dados_removidos": "Seus :game_die: foram removidos do",
+                "sem_dados": "Ocê não possui :game_die: salvos por aqui ;)",
                 "server_desconhecido": "servidor desconhecido",
                 "um_server": "e 1 outro servidor",
                 "outros_servers": "e outros server_repl servidores"

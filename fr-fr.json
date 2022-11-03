@@ -208,7 +208,7 @@
             "data": {
                 "ranking_guilds": "Classement sur les serveurs suivants",
                 "dados_conhecidos": "> Vos données connues",
-                "resumo_dados": "Ceci est un résumé des données que nous détenons à votre sujet.",
+                "resumo_dados": "Ceci est un résumé des données que j'ai enregistrées à votre sujet.",
                 "dica_rodape": "Vous pouvez supprimer toutes vos données avec la commande /data excluir",
                 "dados_removidos": "Vos données ont été supprimées de",
                 "sem_dados": "Vous n'avez aucune donnée enregistrée ici ;)",

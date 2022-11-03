@@ -164,51 +164,51 @@
         "manu": {
             "convite": {
                 "titulo": "> Ó Abre alas que eu queru passsaa :notes:",
-                "convite": "Convide-me clicando aqui!"
+                "convite": "Invitami cliccando qui!"
             },
             "git": {
-                "repositorio": "> Repositório Alonsal",
-                "link": "Contribua reportando bugs ou roubando códigos do Alonsal :pray_tone2:"
+                "repositorio": "> Archivio Alonsal",
+                "link": "Contribuisci segnalando bug o rubando codici Alonsal :pray_tone2:"
             },
             "info": {
-                "infos": "Patinando entre as linhas bugadas :man_golfing:",
-                "conteudo_1": "Este bot é patrocinado por Baidu e Renato's lanches, 40 tipos de lanches, hot dog, fastfood em 5 minutos, a maior casa de lanches de extrema, venha comer o renatão de 4, o lanche completo!\n\n:mailbox: Sugira comandos ou reporte bugs usando o **`/mail <sua msg>`**\n:page_facing_up: Utilize **`/git`** para visualizar o repositório do Alonsal",
-                "conteudo_2": "**`/discord`** - Entre no Hub multiconectado do Alonsal",
-                "conteudo_3": "**`/suporte`** - Ajude a manter e desenvolver o Alonsal\n\n-----------------------------\n> OUTROS RECURSOS\nFrases do **`/gado`** são de total direito do @GadoDecider, todos os créditos vão a ele. ( https://twitter.com/GadoDecider )",
-                "invocado_1": "Já fui invocado",
-                "invocado_2": "vezes",
-                "versao": "Versão",
+                "infos": "Pattinare tra le linee del buggy :man_golfing:",
+                "conteudo_1": "Questo bot è sponsorizzato da Baidu e Renato Snacks, 40 tipi di snack, hot dog, fast food in 5 minuti, il più grande snack house estremo, vieni a mangiare il renatao da 4 pollici, lo spuntino completo!\n\n:mailbox: Suggerisci comandi o segnala bug utilizzando il comando **`/mail <il tuo messaggio>`**\n:page_facing_up: Usa **`/git`** per visualizzare il repository Alonsal",
+                "conteudo_2": "**`/discord`** - Unisciti all'hub multiconnesso di Alonsal",
+                "conteudo_3": "**`/suportto`** - Aiuta a mantenere e sviluppare Alonsal\n\n-----------------------------\n> ALTRE RISORSE\nLe frasi di **`/gado`** sono tutti copyright di @GadoDecider, tutti i crediti vanno a lui. ( https://twitter.com/GadoDecider )",
+                "invocado_1": "Ero già stato convocato",
+                "invocado_2": "volte",
+                "versao": "Versione",
                 "spawn_alonsal": "Spawnei em "
             },
             "mail": {
-                "aviso_1": "Há um erro em sua mensagem, tente novamente.",
-                "aviso_2": ":mailbox: Sua mensagem foi entregue!",
-                "aviso_5": ":incoming_envelope:\nDespachei mais informações no seu privado :mailbox_with_mail:",
+                "aviso_1": "C'è un errore nel tuo messaggio, per favore riprova.",
+                "aviso_2": ":mailbox: Il tuo messaggio è stato consegnato!",
+                "aviso_5": ":incoming_envelope:\nHo inviato maggiori informazioni in privato :mailbox_with_mail:",
                 "error_1": "Não foi possível enviar a mensagem para este ID",
-                "sucesso_1": "Mensagem enviada para o Alonsal :incoming_envelope:\nDespachei mais informações no seu privado :mailbox_with_mail:",
-                "conteudo_1": "Sua mensagem foi entregue para o/a",
-                "conteudo_2": "O Conteúdo da mensagem é"
+                "sucesso_1": "Messaggio inviato ad Alonsal :incoming_envelope:\nHo inviato maggiori informazioni in privato :mailbox_with_mail:",
+                "conteudo_1": "Il tuo messaggio è stato recapitato a",
+                "conteudo_2": "Il contenuto del messaggio è"
             },
             "help": {
-                "comandos": "Veja os comandos, me convide ou acesse meu servidor pelo site!"
+                "comandos": "Guarda i comandi, invitami o accedi al mio server attraverso il sito!"
             },
             "apoio": {
-                "apoie": "> Apoie o Alonsal!",
-                "escaneie": "Escaneie ou clique no Titulo acima para doar\ne ajudar a manter e desenvolver o Alonsal!\nToda ajuda é ultra Bem-Vinda ;D"
+                "apoie": "> Supporta Alonsal!",
+                "escaneie": "Scansiona o fai clic sul titolo sopra per donare\ne aiutare a mantenere e sviluppare Alonsal!\nTutto l'aiuto è estremamente gradito ;D"
             },
             "hub": {
-                "hub_alonsal": "> Hub do Alonsal",
-                "info": "Entre agora mesmo no meu servidor, seja para tirar dúvidas, ou usar os comandos, o server é liberado para todos!"
+                "hub_alonsal": "> Hub di Alonsal",
+                "info": "Unisciti subito al mio server, sia per fare domande che per usare comandi, il server è gratuito per tutti!"
             },
             "help_comando": {
                 "traducao_faltando": "Este comando ainda não possui uma tradução para o seu idioma, aguarde!",
-                "usos": "Usos",
+                "usos": "Usi",
                 "nao_encontrado": "Não encontrei nenhum comando com este nome ou aliase, tente novamente"
             },
             "data": {
-                "ranking_guilds": "Ranking nos seguintes servidores",
-                "dados_conhecidos": "> Seus dados conhecidos",
-                "resumo_dados": "Este é um resumo dos dados que salvamos de você",
+                "ranking_guilds": "Classifica sui seguenti server",
+                "dados_conhecidos": "> I tuoi dati conosciuti",
+                "resumo_dados": "Questo è un riepilogo dei dati che ho salvato su di te",
                 "dica_rodape": "Você pode excluir todos os seus dados com o comando /data excluir",
                 "dados_removidos": "Seus dados foram removidos do",
                 "sem_dados": "Você não possui dados salvos por aqui ;)",
@@ -285,25 +285,25 @@
         },
         "util": {
             "ping": {
-                "ping_1": "Tá lagado um poko tô renderizando vídeo",
-                "ping_2": "Tudo numa boa!",
-                "ping_3": "Dá até para jogar de olhos fechados!",
-                "ping_4": "Pode jogar fora esse teu roteador!",
-                "ping_5": "BLZ, quem instalou baidu aqui? EMMM???",
-                "latencia": "Latência do Alonsal"
+                "ping_1": "È un po' lento Sto rendendo il video",
+                "ping_2": "Va tutto bene!",
+                "ping_3": "Puoi anche giocare con gli occhi chiusi!",
+                "ping_4": "Puoi buttare via quel tuo router!",
+                "ping_5": "OK, chi ha installato baidu qui? chii???",
+                "latencia": "Latenza alonsale"
             },
             "wiki": {
-                "wiki_slondo": "Esse vagabundo não tá na wiki, pesquise outra coisa! :sunglasses:",
-                "topicos_rel": "Tópicos relacionados",
-                "sem_dados": "Não encontrei nada relacionado a sua pesquisa",
-                "auto_pesquisa": "Pq vc está se pesquisando? Não tem nada sobre vc aq"
+                "wiki_slondo": "Non sul wiki, cerca altrove! :sunglasses:",
+                "topicos_rel": "Argomenti correlati",
+                "sem_dados": "Non ho trovato nulla relativo alla tua ricerca.",
+                "auto_pesquisa": "Perché stai cercando te stesso? non c'è niente su di te qui"
             },
             "morse": {
-                "caracteres": "Alguns caracteres não foram codificados pois não existem no morse",
-                "codificado": ":symbols: Sua mensagem codificada em morse",
-                "decodificado": ":symbols: Sua mensagem decodificada do morse",
-                "carac_invalidos": "Caracteres inválidos",
-                "error": ":warning: Houve um problema ao codificar"
+                "caracteres": "Alcuni caratteri non sono stati codificati in quanto non esistono in morse",
+                "codificado": ":symbols: Il tuo messaggio in codice Morse",
+                "decodificado": ":symbols: Il tuo messaggio decodificato da morse",
+                "carac_invalidos": "I caratteri non validi",
+                "error": ":warning: Si è verificato un problema di codifica"
             },
             "binario": {
                 "codificado": ":one: Sua mensagem codificada em binário",

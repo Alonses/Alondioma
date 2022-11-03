@@ -208,7 +208,7 @@
             "data": {
                 "ranking_guilds": "Ranking nos seguintes servidores",
                 "dados_conhecidos": "> Seus dados conhecidos",
-                "resumo_dados": "Este é um resumo dos dados que salvamos de você",
+                "resumo_dados": "Este é um resumo dos dados que salvei sobre você",
                 "dica_rodape": "Você pode excluir todos os seus dados com o comando /data excluir",
                 "dados_removidos": "Seus dados foram removidos do",
                 "sem_dados": "Você não possui dados salvos por aqui ;)",
@@ -372,7 +372,9 @@
                 "comeco": "Começou em",
                 "termino": ", termina em",
                 "termino_hoje": ", termina hoje",
-                "equador": "Este local esta próximo da linha do equador, a estação atual pode não refletir seu clima atual"
+                "equador": "Este local esta próximo da linha do equador, a estação atual pode não refletir seu clima atual",
+                "new_link": "Agora usarei sua entrada ( `entrada_repl` ) como padrão de pesquisa no comando `/tempo`!\nUse o comando `/link locale` novamente caso queira mudar de local fixado",
+                "error_locale": "Não há um local padrão definido, use o comando `/link locale` para definir um, ou use o comando `/tempo` novamente informando um valor de entrada"
             },
             "minecraft": {
                 "nao_encontrado": "Não encontrei nenhum item ou bloco com o nome",
