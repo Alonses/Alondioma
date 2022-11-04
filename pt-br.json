@@ -141,8 +141,6 @@
                 "errou": "Perdeu playboy!"
             },
             "dado": {
-                "aviso_1": "Informe **apenas números** para a quantidade de dados e número de faces.",
-                "aviso_2": "Informe pelo menos 1 dado como `.ada 1 <faces>` para poder rodar.",
                 "error_1": "Não é possível rodar mais que 50 dados ao mesmo tempo.",
                 "error_2": "Não é possível rodar sólidos geométricos com mais de 10.000 faces.",
                 "error_3": "Não é possível rodar sólidos geométricos com menos de 4 faces."
@@ -510,7 +508,6 @@
                 "primaria": "Senha primária",
                 "bonus": "Senhas bônus",
                 "titulo": "Su4s §3nH@5, clique aqui para testar sua senha",
-                "senha": "Verifique seu privado, sua senha foi gerada com um tamanho de `tamanho_repl` caracteres",
                 "rodape": "4 senhas com tamanho_repl caracteres para escolher, elas não são salvas por aqui e nem sei o conteúdo, apenas você ;)"
             },
             "timestamp": {

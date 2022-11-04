@@ -141,8 +141,6 @@
                 "errou": "¡Equivocado!"
             },
             "dado": {
-                "aviso_1": "Ingrese **solo números** para la cantidad de dados y la cantidad de caras.",
-                "aviso_2": "Ingrese al menos 1 dato como `/dado 1 <caras>` para ejecutar.",
                 "error_1": "No es posible ejecutar más de 50 dados al mismo tiempo.",
                 "error_2": "No es posible rotar sólidos geométricos con más de 10.000 caras.",
                 "error_3": "No es posible rotar sólidos geométricos con menos de 4 caras."
@@ -508,7 +506,6 @@
                 "primaria": "Contraseña principal",
                 "bonus": "Contraseñas de bonificación",
                 "titulo": "Su5 c0Ntr4S3ña5, haga clic aquí para probar su contraseña",
-                "senha": "Verifique su privacidad, su contraseña se generó con una longitud de caracteres `tamanho_repl`",
                 "rodape": "4 contraseñas con caracteres tamanho_repl para elegir, no se guardan aquí y ni siquiera sé el contenido, solo tú ;)"
             },
             "timestamp": {

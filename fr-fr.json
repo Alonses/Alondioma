@@ -141,8 +141,6 @@
                 "errou": "Faux cette fois !"
             },
             "dado": {
-                "aviso_1": "Entrez **des chiffres uniquement** pour le nombre de dés et le nombre de faces",
-                "aviso_2": "Entrez au moins 1 dé sous la forme `.ada 1 <faces>` pour pouvoir courir.",
                 "error_1": "Il n'est pas possible de prendre plus de 50 dés en même temps.",
                 "error_2": "Il n'est pas possible de dessiner des solides géométriques avec plus de 10.000 faces.",
                 "error_3": "Il n'est pas possible de faire pivoter des solides géométriques avec moins de 4 faces."
@@ -530,7 +528,6 @@
                 "primaria": "Mot de passe principal",
                 "bonus": "Mots de passe bonus",
                 "titulo": "V0s_M0t5 d3 p4553, cliquez ici pour tester votre mot de passe",
-                "senha": "Vérifiez votre privé, votre mot de passe a été généré avec une longueur de caractères `tamanho_repl`",
                 "rodape": "4 mots de passe avec des caractères tamanho_repl à choisir, ils ne sont pas enregistrés ici et je ne connais même pas le contenu, seulement vous ;)"
             },
             "timestamp": {

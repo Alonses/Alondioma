@@ -135,8 +135,6 @@
                 "errou": "Perdeu playboy!"
             },
             "dado": {
-                "aviso_1": "Informe **apenas números** para a quantidade de dados e número de faces.",
-                "aviso_2": "Informe pelo menos 1 dado como `.ada 1 <faces>` para poder rodar.",
                 "error_1": "Não é possível rodar mais que 50 dados ao mesmo tempo.",
                 "error_2": "Não é possível rodar sólidos geométricos com mais de 10.000 faces.",
                 "error_3": "Não é possível rodar sólidos geométricos com menos de 4 faces."
@@ -203,7 +201,7 @@
                 "ranking_guilds": "Ranking nos seguintes servidores",
                 "dados_conhecidos": "> Seus :game_die: conhecidos",
                 "resumo_dados": "Este é um resumão dos :game_die: que salvei docê",
-                "dica_rodape": "Ocê pode excluir todos os seus :game_die: com o comando /data excluir",
+                "dica_rodape": "Ocê pode excluir todos os seus 🎲 com o comando /data excluir",
                 "dados_removidos": "Seus :game_die: foram removidos do",
                 "sem_dados": "Ocê não possui :game_die: salvos por aqui ;)",
                 "server_desconhecido": "servidor desconhecido",
@@ -493,7 +491,6 @@
                 "primaria": "Senha primária",
                 "bonus": "Otras senhas",
                 "titulo": "Su4s §3nH@5, clique aqui pra testar a senha",
-                "senha": "Olha sua DM, gerei sua senha com `tamanho_repl` caracteres",
                 "rodape": "4 senhas com tamanho_repl caracteres, nunca nem vi elas, passar bem :detective:"
             },
             "lastfm": {
