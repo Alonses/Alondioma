@@ -127,6 +127,7 @@
         },
         "game": {
             "anuncio": {
+                "link_app": "Ouvrir dans l'application plat_repl",
                 "anuncio_game_1": "Le jeu nomes_repl est gratuit jusqu'à `data_repl` ici\n\nUtilisez-le avant la date pour enregistrer `R$valor_repl` et garantir une copie dans votre compte plat_repl",
                 "anuncio_game_2": "Les jeux nomes_repl sont gratuits jusqu'à `data_repl`\n\nÉchangez-les tous avant la date pour économiser `R$valor_repl` et garantir des copies dans votre compte plat_repl",
                 "anuncio_dlc_1": "Le DLC nomes_repl est gratuit jusqu'à `data_repl` ici\n\nUtilisez-le avant la date pour enregistrer `R$valor_repl` et garantir une copie dans votre compte plat_repl",

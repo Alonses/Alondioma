@@ -127,6 +127,7 @@
         },
         "game": {
             "anuncio": {
+                "link_app": "Open in plat_repl app",
                 "anuncio_game_1": "The Game `nomes_repl`_ it's free until the day `data_repl` over there\n\nRedeem it before date to save `R$valor_repl` and get a copy in your plat_repl account",
                 "anuncio_game_2": "The Games nomes_repl are free until the day `data_repl over there\n\nRedeem all before date to save `R$valor_repl` and get a copy in your plat_repl account",
                 "anuncio_dlc_1": "The DLC `nomes_repl` it's free until the day `data_repl` over there\n\nRedeem it before date to save `R$valor_repl` and get a copy in your plat_repl account",
