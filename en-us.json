@@ -133,9 +133,33 @@
                 "anuncio_dlc_1": "The DLC `nomes_repl` it's free until the day `data_repl` over there\n\nRedeem it before date to save `R$valor_repl` and get a copy in your plat_repl account",
                 "anuncio_dlc_2": "The DLC's nomes_repl are free until the day `data_repl` over there\n\nRedeem both before date to save `R$valor_repl` and get a copy in your plat_repl account"
             },
-            "pula_predios": {
+            "pula": {
                 "conteudo": "The 1st Game created by SLondo!\nHow far can you run? Test now!",
-                "rodape": "The game may not run properly on mobile phones."
+                "rodape": "The game may not run properly on mobile phones.",
+                "vinculo": "This user has not yet linked his Discord account to Pula Prédios:tm:!",
+                "error_1": "There was an error with the Token, we are checking what the problem was, please try again later",
+                "error_2": "There was an error with APISAL, it was not possible to perform this function at the moment, please try again later",
+                "estatisticas_pula": "> Your statistics in Pula",
+                "gerais": "General",
+                "pulos": "Jumps",
+                "mods_ativos": "Active Mods",
+                "mortes": "Deaths",
+                "tempos": "Times",
+                "jogado": "Played",
+                "voando": "Flying",
+                "em_eventos": "At events",
+                "moedas": "Coins",
+                "gastas": "Spent",
+                "Guardadas": "Bank",
+                "eventos": "Events",
+                "aquatico": "Aquatic",
+                "Lava": "Lava",
+                "zona_densa": "Dense zone",
+                "parque": "Park",
+                "pisoes": "Bonus",
+                "concluidos": "Completed",
+                "progresso": "Progress",
+                "recorde": "🏆 Record of pontos_repl points in a match!\n🏃 distancia_repl km's covered in total"
             },
             "cara": {
                 "acertou": "You're right! Congratulations!",
@@ -214,6 +238,11 @@
                 "server_desconhecido": "unknown server",
                 "um_server": "and one other server",
                 "outros_servers": "and server_repl other servers"
+            },
+            "telemetria": {
+                "titulo": "> Telemetry data",
+                "descricao": "For a better functioning of Alonsal, we use several anonymized data to decide which functionalities to pay more attention and improve in the future.\n\nThis data can come from all the functions of the bot, the most important being the commands, when using a command, like this from /telemetry, the bot records the interaction in its history of commands issued and displays a short summary of which server the command was used, as shown in the print attached below.\n\nOther data we also collect is listed below:\n`Servers input and output (bot)`, `Total servers, channels and users that the bot can view`, `Errors that occur during a command`, `Text messages for experiences/level`, `Bufunfas movements`, `Channels that receive free game updates`, and finally those last ones that are updated daily:\n\n`Commands fired, errors, experience granted, messages valid for xp, bufunfas distributed and moved, and \"known\" servers, channels and users.`",
+                "rodape": "🔰 | It is worth noting that the text entries are also hidden, making the typed content not visible for your privacy."
             }
         },
         "mode": {
@@ -470,7 +499,7 @@
                 "enceirado": "eternally waxed",
                 "moderador": "This member is an administrator on this server"
             },
-           "unidades": {
+            "unidades": {
                 "anos": " years",
                 "ano": " year",
                 "meses": " months",

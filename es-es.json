@@ -133,9 +133,33 @@
                 "anuncio_dlc_1": "El DLC nomes_repl es gratuito hasta `data_repl` allí\n\nCanjéelo antes de la fecha para ahorrar `R$valor_repl y garantizar una copia en su cuenta plat_repl",
                 "anuncio_dlc_2": "Los DLC nomes_repl son gratuitos hasta `data_repl` allí\n\nCanjéelos todos antes de la fecha para ahorrar `R$valor_repl y garantizar copias en su cuenta plat_repl"
             },
-            "pula_predios": {
+            "pula": {
                 "conteudo": "El 1er juego creado por Longo!\n¿Hasta dónde puedes correr? ¡Pruébalo ahora mismo!",
-                "rodape": "Es posible que el juego no funcione correctamente en teléfonos móviles."
+                "rodape": "Es posible que el juego no funcione correctamente en teléfonos móviles.",
+                "vinculo": "¡Este usuario no ha vinculado su cuenta de Discord a Pula Prédios:tm: todavía!",
+                "error_1": "Hubo un error con el token, estamos verificando cuál fue el problema, intente nuevamente más tarde",
+                "error_2": "Ocurrió un error con APISAL, esta función no se pudo ejecutar en este momento, intente nuevamente más tarde",
+                "estatisticas_pula": "> Tus estadísticas en Pula",
+                "gerais": "General",
+                "pulos": "Salta",
+                "mods_ativos": "Modificaciones activas",
+                "mortes": "Muertes",
+                "tempos": "Tempos",
+                "jogado": "Jogado",
+                "voando": "Voo",
+                "em_eventos": "Em eventos",
+                "moedas": "Monedas",
+                "gastas": "Gastó",
+                "Guardadas": "En stock",
+                "eventos": "Eventos",
+                "aquatico": "Acuático",
+                "Lava": "Lava",
+                "zona_densa": "Zona densa",
+                "parque": "Parque",
+                "pisoes": "Pisões",
+                "concluidos": "Terminado",
+                "progresso": "Progreso",
+                "recorde": "🏆 ¡Récord de pontos_repl puntos en un partido!\n🏃 distancia_repl km recorridos en total"
             },
             "cara": {
                 "acertou": "¡Eres afortunado!",
@@ -214,6 +238,11 @@
                 "server_desconhecido": "servidor desconocido",
                 "um_server": "y 1 otro servidor",
                 "outros_servers": "u otros server_repl servidores"
+            },
+            "telemetria": {
+                "titulo": "> Datos de telemetría",
+                "descricao": "Para que Alonsal funcione mejor, utilizamos varios datos anónimos para decidir a qué funciones prestar más atención y mejorar en el futuro.\n\nEstos datos pueden provenir de todas las funciones del bot, siendo las más destacadas los comandos, al usar un comando como este de /telemetria, el bot registra la interacción en su historial de comandos emitidos y muestra un breve resumen de qué servidor se utilizó el comando, como en la impresión adjunta a continuación.\n\nTambién se enumeran otros datos que recopilamos a continuación:\n`Servidores (bot) entrantes y salientes`, `Total de servidores, canales y usuarios que el bot puede ver`, `Errores que ocurren durante un comando`, `Mensajes de texto para experiencias/nivel`, `Movimientos de bufón`, `Canales que reciben actualizaciones gratuitas de juegos`, y finalmente los que se actualizan diariamente:\n\n`Comandos disparados, errores, experiencia otorgada, mensajes xp válidos, bufones distribuidos y movidos, y servidores, canales y usuarios \"conocidos\".`",
+                "rodape": "🔰 | Vale la pena señalar que las entradas de texto también están ocultas, lo que hace que el contenido escrito sea invisible para su privacidad."
             }
         },
         "mode": {

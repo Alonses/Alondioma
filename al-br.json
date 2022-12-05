@@ -2,7 +2,7 @@
     "data": {
         "inic": {
             "inicio": {
-                "slash_commands": "Os comandos tradicionais foram desativados, continue usando o Alonsal pelos comandos de `/barra`! Experimente agora mesmo ;D\n\nNota: Não consegue ver meus comandos? Me convide novamente clicando no botão abaixo! Também verifique se meus comandos estão habilitados para todos nas integrações do servidor em `Integrações -> Alonsal -> Comandos`",
+                "slash_commands": "Os comandos tradicionais foram desativados, continue usando o Alonsal pelos comandos de `/barra`! Experimente agora mesmo ;D\n\nNota: Não consegue ver meus comandos? Me convide novamente clicando no botão abaixo! Tbm verifique se meus comandos estão habilitados para todos nas integrações do servidor em `Integrações -> Alonsal -> Comandos`",
                 "convidar": "Convidar!",
                 "suporte": "Suporte"
             },
@@ -37,7 +37,7 @@
                 "error": "Ocê não tem `B$valor_repl` Bufunfas pra transferir!",
                 "error_2": "Bota um número positivo para depositar aí meo!",
                 "error_3": "Cê não pode transferir para si mesmo!",
-                "user_bot": "Cê não pode transferir Bufunfas para outros bots além de mim!",
+                "user_bot": "Cê não pode transferir Bufunfas para outros bótis além de mim!",
                 "sucesso": "Transferência aprovada! `B$valor_repl` Bufunfas foram enviadas na conta de",
                 "notifica": "Ocê acabou de receber um depósito! <@!user_repl> mandou `B$valor_repl` Bufunfas procê! STONKS"
             },
@@ -122,13 +122,16 @@
                 "badge_fixada": "colada no seu perfil!",
                 "badge_removida": "tirada do seu perfil",
                 "rodape": "Usa o comando /badge fixar pra colar uma!",
-                "new_badge": "Cê ganhou uma Badge! O `nome_repl` emoji_repl! Ela será exibida em seu perfil se usarem o `/user info`\n\nCê também pode fixar Badges em destaque com o `/badge fixar`!"
+                "new_badge": "Cê ganhou uma Badge! O `nome_repl` emoji_repl! Ela será exibida em seu perfil se usarem o `/user info`\n\nCê tbm pode fixar Badges em destaque com o `/badge fixar`!"
             }
         },
         "game": {
-            "pula_predios": {
+            "pula": {
                 "conteudo": "O 1° Jogo criado pelo Slondo!\nQuão longe ocê consegue correr? Teste agora mesmo!",
-                "rodape": "O jogo pode não rodar direito em celulares."
+                "rodape": "O jogo pode não rodar direito em celulares.",
+                "vinculo": "Esse usuário não linkou o Discord ao Pula Prédios:tm: ainda!",
+                "error_1": "Houve um erro com o Token, estamos enceirando para descobrir qual foi o problema, por favor, tente novamente mais tarde",
+                "error_2": "Houve um erro com a APISAL, não sendo foi possível realizar essa função no momento, tenta dnv depois"
             },
             "cara": {
                 "acertou": "Ocê acertou! Parabéns!",
@@ -164,7 +167,7 @@
             },
             "info": {
                 "infos": "Patinando entre as linhas bugadas :man_golfing:",
-                "conteudo_1": "Este bot é patrocinado por Baidu e Renato's lanches, 40 tipos de lanche, hot dog, fastfood em 5 minutos, a maior casa de lanches de extrema, venha comer o renatão de 4, o lanche completo!\n\n:mailbox: Sugira comandos ou reporte bugs usando o **`/mail <sua msg>`**\n:page_facing_up: Utilize **`/git`** para visualizar o repositório do Alonsal",
+                "conteudo_1": "Este bóti é patrocinado por Baidu e Renato's lanches, 40 tipos de lanche, hot dog, fastfood em 5 minutos, a maior casa de lanches de extrema, venha comer o renatão de 4, o lanche completo!\n\n:mailbox: Sugira comandos ou reporte bugs usando o **`/mail <sua msg>`**\n:page_facing_up: Utilize **`/git`** para visualizar o repositório do Alonsal",
                 "conteudo_2": "**`/discord`** - Entre no Hub multiconectado do Alonsal",
                 "conteudo_3": "**`/suporte`** - Ajude a manter e desenvolver o Alonsal\n\n-----------------------------\n> OUTROS RECURSOS\nFrases do **`/gado`** são de total direito do @GadoDecider, todos os créditos vão a ele. ( https://twitter.com/GadoDecider )",
                 "invocado_1": "Já fui invocado",
@@ -207,6 +210,11 @@
                 "server_desconhecido": "servidor desconhecido",
                 "um_server": "e 1 outro servidor",
                 "outros_servers": "e outros server_repl servidores"
+            },
+            "telemetria": {
+                "titulo": "> 🎲 de telemetria",
+                "descricao": "Para um melhor funcionamento do Alonsal utilizamos de vários 🎲 anonimizados para decidir em quais recursos prover mais atenção e melhorar no futuro.\n\n🎲 esses podem vir de todas as funções do bóti, o mais destacado deles é o de comandos, ao usar um comando, como este do /telemetria, o bóti registra a interação em seu histórico de comandos e mostra um resuminho de qual servidor o comando foi invocado, tipo na print abaixo.\n\nOutros 🎲 que tbm coletamos estão disponíveis a seguir:\n`Entrada e saída (do bóti) de servers`, `Total de servers, canéis e usuários que o bóti consegue ver`, `Epic Embed Fails que ocorrerem durante um comando`, `Mensagens de texto para as experiências/nível`, `Movimentações nas Bufunfas`, `Canais que recebem atts de jogos gratuitos`, e por fim estes últimos que são atualizados todo dia:\n\n`Comandos invocados, erros, xp concedido, mensagens válidas para xp, bufunfas distribuídas e movimentadas, e servers, canais e usuários \"conhecidos\".`",
+                "rodape": "🔰 | Vale ressaltar que entradas de texto são privadas tbm, tornando o conteúdo digitado não visível para sua privacidade."
             }
         },
         "mode": {
@@ -230,7 +238,7 @@
                 "aviso_5": "Envie uma imagem com tamanho menor que 250kb para usar de emoji",
                 "aviso_6": "Inclua o emoji para remover\nTipo,",
                 "aviso_7": "Informe um emoji para ser removido",
-                "aviso_8": "Informe um emoji customizado deste servidor para ser removido\nOcê também pode usar o ID, como `.armoji 914227763978838116` tipo",
+                "aviso_8": "Informe um emoji customizado deste servidor para ser removido\nOcê tbm pode usar o ID, como `.armoji 914227763978838116` tipo",
                 "permissao_1": "Ocê não possui permissões para gerenciar emojis neste servidor",
                 "permissao_2": "Eu não possuo permissões para `gerenciar emojis` neste servidor",
                 "requebrando": "requebrando",
@@ -246,7 +254,7 @@
                 "permissao_3": "Ocê não possui permissões para gerenciar o servidor",
                 "user_id": "Informe o ID de um usuário",
                 "razao": "Razão não informada",
-                "error_1": "Parado ai seu salafrário! Este membro é um Administrador também",
+                "error_1": "Parado ai seu salafrário! Este membro é um Administrador tbm",
                 "error_2": "Usuário inválido!",
                 "error_ban": "Não foi possível banir o usuário",
                 "error_kick": "Não foi possível expulsar o usuário",

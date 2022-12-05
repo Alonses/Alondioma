@@ -133,9 +133,33 @@
                 "anuncio_dlc_1": "Le DLC nomes_repl est gratuit jusqu'à `data_repl` ici\n\nUtilisez-le avant la date pour enregistrer `R$valor_repl` et garantir une copie dans votre compte plat_repl",
                 "anuncio_dlc_2": "Les DLC nomes_repl sont gratuits jusqu'à `data_repl` ici\n\nÉchangez-les tous avant la date pour économiser `R$valor_repl` et garantir des copies dans votre compte plat_repl"
             },
-            "pula_predios": {
+            "pula": {
                 "conteudo": "Le 1er jeu créé par Slondo!\nJusqu'où pouvez-vous courir? Testez maintenant!",
-                "rodape": "Le jeu peut ne pas fonctionner correctement sur les téléphones portables."
+                "rodape": "Le jeu peut ne pas fonctionner correctement sur les téléphones portables.",
+                "vinculo": "Cet utilisateur n'a pas encore lié son compte Discord à Pula Prédios:tm:!",
+                "error_1": "Il y a eu une erreur avec le jeton, nous vérifions quel était le problème, veuillez réessayer plus tard",
+                "error_2": "Il y a eu une erreur avec APISAL, il n'était pas possible d'exécuter cette fonction pour le moment, veuillez réessayer plus tard",
+                "estatisticas_pula": "> Vos statistiques à Pula",
+                "gerais": "Général",
+                "pulos": "Sauts",
+                "mods_ativos": "Mods actifs",
+                "mortes": "Des morts",
+                "tempos": "Fois",
+                "jogado": "Joué",
+                "voando": "Voo",
+                "em_eventos": "Dans les événements",
+                "moedas": "Argent",
+                "gastas": "Dépensé",
+                "Guardadas": "En stock",
+                "eventos": "Événements",
+                "aquatico": "Aquatique",
+                "Lava": "Lave",
+                "zona_densa": "Zone dense",
+                "parque": "Parque",
+                "pisoes": "Prime",
+                "concluidos": "Complété",
+                "progresso": "Progrès",
+                "recorde": "🏆 Record de pontos_repl points en un match !\n🏃 distancia_repl km parcourus au total"
             },
             "cara": {
                 "acertou": "Tu as raison! Toutes nos félicitations!",
@@ -214,6 +238,11 @@
                 "server_desconhecido": "serveur inconnu",
                 "um_server": "et 1 autre serveur",
                 "outros_servers": "et server_repl autres serveurs"
+            },
+            "telemetria": {
+                "titulo": "> Données de télémétrie",
+                "descricao": "Pour un meilleur fonctionnement d'Alonsal, nous utilisons diverses données anonymisées pour décider quelles fonctionnalités accorder plus d'attention et améliorer à l'avenir.\n\nCes données peuvent provenir de toutes les fonctions du bot, dont les plus importantes sont les commandes, lors de l'utilisation d'un commande, comme celle-ci de / telemetry, le bot enregistre l'interaction dans son historique des commandes émises et affiche un bref résumé du serveur sur lequel la commande a été utilisée, selon l'impression jointe ci-dessous.\n\nD'autres données que nous recueillons également sont listés ci-dessous :\n`Serveurs (bot) entrants et sortants`, `Nombre total de serveurs, de canaux et d'utilisateurs que le bot peut afficher`, `Des erreurs se sont produites pendant 'une commande`, `Messages texte pour les expériences/niveau` , `Snort mouvements `, `Chaînes qui reçoivent des mises à jour gratuites du jeu`, et enfin celles qui sont mises à jour quotidiennement :\n\n` Commandes déclenchées, erreurs, expérience accordée, messages valables pour xp, bouffons distribués et déplacés et serveurs, chaînes et utilisateurs \"des connaissances\".",
+                "rodape": "🔰 | Il convient de noter que les entrées de texte sont également masquées, ce qui rend le contenu saisi non visible pour votre vie privée."
             }
         },
         "mode": {
