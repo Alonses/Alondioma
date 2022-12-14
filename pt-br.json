@@ -128,9 +128,9 @@
         "game": {
             "anuncio": {
                 "link_app": "Abrir no app plat_repl",
-                "anuncio_game_1": "O Game nomes_repl está gratuito até o dia `data_repl` por lá\n\nResgate ele o antes da data para poupar `R$valor_repl` e garantir uma cópia em sua conta plat_repl",
+                "anuncio_game_1": "O Game nomes_repl está gratuito até o dia `data_repl` por lá\n\nResgate antes da data para poupar `R$valor_repl` e garantir uma cópia em sua conta plat_repl",
                 "anuncio_game_2": "Os Games nomes_repl estão gratuitos até o dia `data_repl` por lá\n\nResgate todos antes da data para poupar `R$valor_repl` e garantir as cópias em sua conta plat_repl",
-                "anuncio_dlc_1": "A DLC nomes_repl esta gratuita até o dia `data_repl` por lá\n\nResgate ela antes da data para poupar `R$valor_repl` e garantir uma cópia em sua conta plat_repl",
+                "anuncio_dlc_1": "A DLC nomes_repl esta gratuita até o dia `data_repl` por lá\n\nResgate antes da data para poupar `R$valor_repl` e garantir uma cópia em sua conta plat_repl",
                 "anuncio_dlc_2": "As DLC's nomes_repl estão gratuitas até o dia `data_repl` por lá\n\nResgate todas antes da data para poupar `R$valor_repl` e garantir cópias em sua conta plat_repl"
             },
             "pula": {
