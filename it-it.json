@@ -2,7 +2,7 @@
     "data": {
         "inic": {
             "inicio": {
-                "slash_commands": "I comandi tradizionali sono stati disabilitati, continua a usare Alonsal con i comandi `/slash`! Provalo ora ;D\n\nNota: non vedi i miei comandi? Invitami di nuovo cliccando il pulsante qui sotto! Controlla anche se i miei comandi sono abilitati per tutti nelle integrazioni del server in `Integrazioni -> Alonsal -> Comandi`",
+                "slash_commands": "I comandi tradizionali sono stati disabilitati, continua a usare Alonsal con i comandi `/slash` ( </help:1018609879512006787> )! Provalo ora ;D\n\nNota: non vedi i miei comandi? Invitami di nuovo cliccando il pulsante qui sotto! Controlla anche se i miei comandi sono abilitati per tutti nelle integrazioni del server in `Integrazioni -> Alonsal -> Comandi`",
                 "convidar": "Invitare!",
                 "suporte": "Supporto"
             },

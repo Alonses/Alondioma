@@ -2,7 +2,7 @@
     "data": {
         "inic": {
             "inicio": {
-                "slash_commands": "Los comandos heredados se han deshabilitado, ¡siga usando Alonsal con los comandos `/slash`! Pruébelo ahora ;D\n\nNota: ¿No puede ver mis comandos? ¡Invítame de nuevo haciendo clic en el botón de abajo! También verifique que mis comandos estén habilitados para todas las integraciones de servidor en `Integraciones -> Alonsal -> Comandos`",
+                "slash_commands": "Los comandos heredados se han deshabilitado, ¡siga usando Alonsal con los comandos `/slash` ( </help:1018609879512006787> )! Pruébelo ahora ;D\n\nNota: ¿No puede ver mis comandos? ¡Invítame de nuevo haciendo clic en el botón de abajo! También verifique que mis comandos estén habilitados para todas las integraciones de servidor en `Integraciones -> Alonsal -> Comandos`",
                 "convidar": "¡Invitar!",
                 "suporte": "Apoyo"
             },
