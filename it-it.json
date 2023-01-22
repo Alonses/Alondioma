@@ -45,8 +45,8 @@
                 "suas_bufunfas": "> Le tue Bufunfas",
                 "bufunfas_outros": "Bufunfas di nome_repl",
                 "bufunfas": "Bufunfas cerati in stock",
-                "daily": "Successivo `/daily` disponibile",
-                "dica_comando": "Usa `/daily` per raccogliere Bufunfas!",
+                "daily": "Successivo </daily:1020794974377353338> disponibile",
+                "dica_comando": "Usa </daily:1020794974377353338> per raccogliere Bufunfas!",
                 "dica_rodape": "Puoi usare Bufunfas nelle personalizzazioni, come /color per esempio!"
             }
         },
@@ -172,7 +172,7 @@
                 "error_3": "Non è possibile ruotare solidi geometrici con meno di 4 facce."
             },
             "jokenpo": {
-                "aviso_1": "Envie como `/jokenpo papel` ou como `/jokenpo` para uma partida randômica."
+                "aviso_1": "Envie como `/jokenpo papel` ou como </jokenpo:1018609879470047257> para uma partida randômica."
             },
             "choose": {
                 "aviso_1": "Informe pelo menos 2 itens para eu escolher",
@@ -412,7 +412,7 @@
                 "atributos": "Attributi",
                 "disco_musical": "Registrazione musicale",
                 "livro_encantado": "Libro incantato",
-                "sugestao_pesquisa": "Articolo sbagliato? Prova a cercare usando le virgolette, per esempio /mine \"item_repl\"",
+                "sugestao_pesquisa": "Articolo sbagliato? Prova a cercare usando le virgolette, per esempio </mine:1018609879562334390>\"item_repl\"",
                 "mais_detalhes_wiki": "[Vedi maggiori dettagli sul wiki](link_repl)",
                 "nota_rodape": "Questo articolo non è stato ancora implementato ufficialmente, i suoi dati non sono ufficiali",
                 "sim": "Sì",

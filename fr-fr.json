@@ -45,8 +45,8 @@
                 "suas_bufunfas": "> Vos Bufunfas",
                 "bufunfas_outros": "Les Bufunfas de nome_repl",
                 "bufunfas": "Bufunfas cirés en stock",
-                "daily": "Suivant `/daily` disponible",
-                "dica_comando": "Utilisez `/daily` pour collecter des Bufunfas!",
+                "daily": "Suivant </daily:1020794974377353338> disponible",
+                "dica_comando": "Utilisez </daily:1020794974377353338> pour collecter des Bufunfas!",
                 "dica_rodape": "Vous pouvez utiliser Bufunfas dans les personnalisations, comme /couleur par exemple!"
             }
         },
