@@ -252,12 +252,12 @@
             },
             "clear": {
                 "permissao_1": "You do not have `Manage messages` permission",
-                "permissao_2": "I don't have `Manage Messages` permission",
+                "permissao_2": "I can't do this without the `Manage messages` permission",
                 "aviso_1": "Enter the number of messages you want to remove\nFor example, `.acl 20`",
                 "aviso_2": ":warning: | Enter a number between `0` and `100` to remove",
                 "apagado_1": "messages` have been removed",
                 "apagado_2": "message` has been removed",
-                "error": "Unable to execute this command because there are messages pinned or messages that are too old, decrease the quantity and try again"
+                "error": "Unable to run this command because there are pinned or too old messages, decrease the value and try again"
             },
             "emojis": {
                 "aviso_1": "Add a custom emoji to your command! :P",

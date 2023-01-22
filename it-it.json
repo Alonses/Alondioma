@@ -252,11 +252,11 @@
             },
             "clear": {
                 "permissao_1": "Non hai l'autorizzazione `Gestisci messaggi`.",
-                "permissao_2": "Non sono autorizzato a inviare `Gestisci messaggi`.",
+                "permissao_2": "Non posso farlo senza l'autorizzazione `Gestisci messaggi`.",
                 "aviso_2": ":warning: | Immettere un numero compreso tra `0` e `100` da rimuovere",
                 "apagado_1": "messaggi` sono stati rimossi",
                 "apagado_2": "messaggio` è stato rimosso",
-                "error": "Impossibile eseguire questo comando perché sono presenti messaggi bloccati o troppo vecchi. Riduci l'importo e riprova"
+                "error": "Impossibile eseguire questo comando perché ci sono messaggi bloccati o troppo vecchi, riduci il numero e riprova"
             },
             "emojis": {
                 "aviso_1": "Inclua um emoji customizado em seu comando! :P",

@@ -252,12 +252,12 @@
             },
             "clear": {
                 "permissao_1": "No tienes permiso para \"Gestionar mensajes\".",
-                "permissao_2": "Eu não tenho permissão a permissão `Gerenciar mensagens`",
-                "aviso_1": "Informe o número de mensagens q deseja remover\nPor exemplo, `.acl 20`",
-                "aviso_2": ":warning: | Informe um número entre `0` e `100` para remover",
-                "apagado_1": "mensagens` foram removidas",
-                "apagado_2": "mensagem` foi removida",
-                "error": "Não foi possível executar este comando, pois há mensagens fixadas ou mensagens muito antigas, diminua a quantidade e tente novamente"
+                "permissao_2": "No puedo hacer esto sin el permiso `Administrar mensajes`.",
+                "aviso_1": "Ingrese la cantidad de mensajes que desea eliminar\nPor ejemplo, `.acl 20`",
+                "aviso_2": ":warning: | Introduzca un número entre `0` y `100` para eliminar",
+                "apagado_1": "publicaciones` han sido eliminadas",
+                "apagado_2": "publicación` ha sido eliminada",
+                "error": "No se puede ejecutar este comando porque hay mensajes fijos o demasiado antiguos, reduzca el número e intente nuevamente"
             },
             "emojis": {
                 "aviso_1": "Inclua um emoji customizado em seu comando! :P",

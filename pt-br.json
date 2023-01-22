@@ -252,12 +252,12 @@
             },
             "clear": {
                 "permissao_1": "Você não possui a permissão `Gerenciar mensagens`",
-                "permissao_2": "Eu não tenho permissão a permissão `Gerenciar mensagens`",
+                "permissao_2": "Eu não posso fazer isso sem a permissão de `Gerenciar mensagens`",
                 "aviso_1": "Informe o número de mensagens q deseja remover\nPor exemplo, `.acl 20`",
                 "aviso_2": ":warning: | Informe um número entre `0` e `100` para remover",
                 "apagado_1": "mensagens` foram removidas",
                 "apagado_2": "mensagem` foi removida",
-                "error": "Não foi possível executar este comando, pois há mensagens fixadas ou mensagens muito antigas, diminua a quantidade e tente novamente"
+                "error": "Não foi possível executar este comando, pois há mensagens fixadas ou muito antigas, por favor, diminua a quantidade e tente novamente"
             },
             "emojis": {
                 "aviso_1": "Inclua um emoji customizado em seu comando! :P",

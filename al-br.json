@@ -223,12 +223,12 @@
             },
             "clear": {
                 "permissao_1": "Ocê não possui a permissão `Gerenciar mensagens`",
-                "permissao_2": "Eu não tenho permissão a permissão `Gerenciar mensagens`",
+                "permissao_2": "O não consigo fazer isso sem a permissão de `Gerenciar mensagens`",
                 "aviso_1": "Informe o número de mensagens q deseja remover\nTipo, `.acl 20`",
                 "aviso_2": ":warning: | Informe um número entre `0` e `100` para remover",
-                "apagado_1": "mensagens` foram removidas",
-                "apagado_2": "mensagem` foi removida",
-                "error": "Não foi possível executar este comando, pois há mensagens fixadas ou mensagens muito antigas, diminua a quantidade e tente novamente"
+                "apagado_1": "mensagens` foram excluídas",
+                "apagado_2": "mensagem` foi excluída",
+                "error": "Deu xabu aqui, tem algumas mensagens fixadas ou mensagens bem véias, diminui a quantidade ai e tenta dnv"
             },
             "emojis": {
                 "aviso_1": "Bota um emoji customizado no seu comando alek",
@@ -252,15 +252,15 @@
                 "permissao_1": "Ocê não pode banir ou expulsar membros",
                 "permissao_2": "Eu não posso banir ou expulsar membros",
                 "permissao_3": "Ocê não possui permissões para gerenciar o servidor",
-                "user_id": "Informe o ID de um usuário",
+                "user_id": "Bota o ID de um user ae",
                 "razao": "Razão não informada",
                 "error_1": "Parado ai seu salafrário! Este membro é um Administrador tbm",
                 "error_2": "Usuário inválido!",
-                "error_ban": "Não foi possível banir o usuário",
-                "error_kick": "Não foi possível expulsar o usuário",
+                "error_ban": "Não foi possível banir esse usuário",
+                "error_kick": "Não foi possível expulsar esse usuário",
                 "banido": "tomou uma esfihada!",
                 "expulso": "foi expulso do servidor",
-                "moderadores": "Apenas moderadores podem executar este comando"
+                "moderadores": "Apenas adms (do discord) podem executar este comando"
             },
             "anuncio": {
                 "anuncio_games": "A partir de agora o canal repl_canal irá receber menções quando houver jogos gratuitos disponíveis\nUsa o comando fartando valores pra desligar as notificações",

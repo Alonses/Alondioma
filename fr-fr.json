@@ -252,12 +252,12 @@
             },
             "clear": {
                 "permissao_1": "Vous ne disposez pas de l'autorisation `Gérer les messages`",
-                "permissao_2": "Je n'ai pas l'autorisation `Gérer les messages`",
+                "permissao_2": "Je ne peux pas faire cela sans l'autorisation `Gérer les messages`",
                 "aviso_1": "Entrez le nombre de messages que vous souhaitez supprimer\nPar exemple, `.acl 20`",
                 "aviso_2": ":warning: | Entrez un nombre entre `0` et `100` pour supprimer",
                 "apagado_1": "messages` ont été supprimés",
                 "apagado_2": "message` a été supprimé",
-                "error": "Impossible d'exécuter cette commande car il y a des messages épinglés ou des messages trop anciens, diminuez la quantité et réessayez"
+                "error": "Impossible d'exécuter cette commande car il y a des publications épinglées ou obsolètes, veuillez réduire le nombre et réessayer"
             },
             "emojis": {
                 "aviso_1": "Ajoutez un emoji personnalisé à votre commande! :P",
