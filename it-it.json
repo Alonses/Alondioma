@@ -186,6 +186,10 @@
             }
         },
         "manu": {
+            "avalie": {
+                "titulo": "> Valutami su TopGG e aiuta la causa Alonsal!",
+                "descricao": "Lascia la tua opinione su di me su TopGG e contribuisci ad aggiornare le nostre funzionalità!\n\nPer segnalare bug e problemi o dare suggerimenti, usa il comando </mail:1018609879512006788>"
+            },
             "convite": {
                 "titulo": "> Oh, fammi passare! :notes:",
                 "convite": "Invitami cliccando qui!"
@@ -244,6 +248,10 @@
                 "titulo": "> Dati di telemetria",
                 "descricao": "Per un migliore funzionamento di Alonsal, utilizziamo vari dati resi anonimi per decidere quali funzionalità prestare maggiore attenzione e migliorare in futuro.\n\nQuesti dati possono provenire da tutte le funzioni del bot, i più importanti sono i comandi, quando si utilizza un comando come come questo da /telemetria, il bot registra l'interazione nella sua cronologia dei comandi attivati ​​e visualizza un breve riepilogo del server in cui è stato utilizzato il comando, come nella stampa allegata di seguito.\n\nAnche altri dati vengono raccolti e sono elencati di seguito:\n`Server in entrata e in uscita (bot)`, `Server totali, canali e utenti che il bot può visualizzare`, `Errori che si verificano durante un comando`, `Messaggi di testo per esperienza/livello`, `Movimenti di sbuffo`, `Canali che ricevono aggiornamenti gratuiti del gioco`, e infine gli ultimi che vengono aggiornati quotidianamente:\n\n`Comandi rilasciati, errori, esperienza concessa, messaggi validi per xp, b uffons distribuiti e spostati e server, canali e \"conosciuti utenti\".`",
                 "rodape": "🔰 | Vale la pena notare che anche le voci di testo sono nascoste, rendendo il contenuto digitato non visibile per la tua privacy."
+            },
+            "traduz": {
+                "titulo": "> Banca di traduzione Alonsianas",
+                "descricao": "Aiutami a tradurre e migliorare le traduzioni o aggiungere nuove lingue tramite il repository Alondioma! Le nuove lingue sono sempre benvenute e la correzione di alcuni termini è essenziale per una buona comprensione e un uso amichevole di alonses"
             }
         },
         "mode": {

@@ -186,6 +186,10 @@
             }
         },
         "manu": {
+            "avalie": {
+                "titulo": "> Rate me on TopGG and help the Alonsal cause!",
+                "descricao": "Leave your opinion about me on Top GG and contribute to our feature update\nTo report bugs and issues, or make suggestions, use the </mail:1018609879512006788> command"
+            },
             "convite": {
                 "titulo": "> Oh open up the way I want to go :notes:",
                 "convite": "Invite me by clicking here!"
@@ -244,6 +248,10 @@
                 "titulo": "> Telemetry data",
                 "descricao": "For a better functioning of Alonsal, we use several anonymized data to decide which functionalities to pay more attention and improve in the future.\n\nThis data can come from all the functions of the bot, the most important being the commands, when using a command, like this from /telemetry, the bot records the interaction in its history of commands issued and displays a short summary of which server the command was used, as shown in the print attached below.\n\nOther data we also collect is listed below:\n`Servers input and output (bot)`, `Total servers, channels and users that the bot can view`, `Errors that occur during a command`, `Text messages for experiences/level`, `Bufunfas movements`, `Channels that receive free game updates`, and finally those last ones that are updated daily:\n\n`Commands fired, errors, experience granted, messages valid for xp, bufunfas distributed and moved, and \"known\" servers, channels and users.`",
                 "rodape": "🔰 | It is worth noting that the text entries are also hidden, making the typed content not visible for your privacy."
+            },
+            "traduz": {
+                "titulo": "> Alonsal translation database",
+                "descricao": "Help me translate and improve translations, or add new languages via the Alondioma repository! New languages are always welcome, and the correction of some terms is essential for a good understanding and friendly use of Alonses"
             }
         },
         "mode": {

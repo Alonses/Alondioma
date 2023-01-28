@@ -157,6 +157,10 @@
             }
         },
         "manu": {
+            "avalie": {
+                "titulo": "> Me avalie pelo TopGG e ajude a causa Alonsal!",
+                "descricao": "Bota tua avaliação de mim no TopGG e ajude com minha att de recursos!\n\nPara denunciar bugs e problemas, ou dar sugestões, use o comando </mail:1018609879512006788>"
+            },
             "convite": {
                 "titulo": "> Ó Abre alas que eu queru passsaa :notes:",
                 "convite": "Convide-me clicando aqui!"

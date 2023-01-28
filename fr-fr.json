@@ -186,6 +186,10 @@
             }
         },
         "manu": {
+            "avalie": {
+                "titulo": "> Évaluez-moi sur TopGG et aidez la cause d'Alonsal!",
+                "descricao": "Laissez votre avis sur moi sur TopGG et contribuez à notre mise à jour des fonctionnalités!\n\nPour signaler des bugs et des problèmes, ou faire des suggestions, utilisez la commande </mail:1018609879512006788>"
+            },
             "convite": {
                 "titulo": "> Oh ouvre la voie que je veux suivre :notes:",
                 "convite": "Invitez-moi en cliquant ici!"
@@ -244,6 +248,10 @@
                 "titulo": "> Données de télémétrie",
                 "descricao": "Pour un meilleur fonctionnement d'Alonsal, nous utilisons diverses données anonymisées pour décider quelles fonctionnalités accorder plus d'attention et améliorer à l'avenir.\n\nCes données peuvent provenir de toutes les fonctions du bot, dont les plus importantes sont les commandes, lors de l'utilisation d'un commande, comme celle-ci de / telemetry, le bot enregistre l'interaction dans son historique des commandes émises et affiche un bref résumé du serveur sur lequel la commande a été utilisée, selon l'impression jointe ci-dessous.\n\nD'autres données que nous recueillons également sont listés ci-dessous :\n`Serveurs (bot) entrants et sortants`, `Nombre total de serveurs, de canaux et d'utilisateurs que le bot peut afficher`, `Des erreurs se sont produites pendant 'une commande`, `Messages texte pour les expériences/niveau` , `Snort mouvements `, `Chaînes qui reçoivent des mises à jour gratuites du jeu`, et enfin celles qui sont mises à jour quotidiennement :\n\n` Commandes déclenchées, erreurs, expérience accordée, messages valables pour xp, bouffons distribués et déplacés et serveurs, chaînes et utilisateurs \"des connaissances\".",
                 "rodape": "🔰 | Il convient de noter que les entrées de texte sont également masquées, ce qui rend le contenu saisi non visible pour votre vie privée."
+            },
+            "traduz": {
+                "titulo": "> Banque de traduction en alonsien",
+                "descricao": "Aidez-moi à traduire et à améliorer les traductions, ou ajoutez de nouvelles langues via le référentiel Alondioma! Les nouvelles langues sont toujours les bienvenues, et corriger certains termes est indispensable pour une bonne compréhension et une utilisation conviviale d'Alonses"
             }
         },
         "mode": {

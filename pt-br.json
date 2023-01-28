@@ -186,6 +186,10 @@
             }
         },
         "manu": {
+            "avalie": {
+                "titulo": "> Me avalie pelo TopGG e ajude a causa Alonsal!",
+                "descricao": "Deixe sua avaliação sobre mim no TopGG e contribua com nossa atualização de recursos!\n\nPara reportar bugs e problemas, ou dar sugestões, use o comando </mail:1018609879512006788>"
+            },
             "convite": {
                 "titulo": "> Ó Abre alas que eu queru passsaa :notes:",
                 "convite": "Convide-me clicando aqui!"
@@ -244,6 +248,10 @@
                 "titulo": "> Dados de telemetria",
                 "descricao": "Para um melhor funcionamento do Alonsal utilizamos de vários dados anonimizados para decidir em quais recursos prover mais atenção e melhorar no futuro.\n\nDados esses podem vir de todas as funções do bot, o mais destacado deles é o de comandos, ao usar um comando, como este do /telemetria, o bot registra a interação em seu histórico de comandos disparados e exibe um pequeno resumo de qual servidor o comando foi usado, como na print em anexo abaixo.\n\nOutros dados que também coletamos estão listados abaixo:\n`Entrada e saída (do bot) de servidores`, `Total de servidores, canais e usuários que o bot consegue visualizar`, `Erros que ocorrerem durante um comando`, `Mensagens de texto para as experiências/nível`, `Movimentações de Bufunfas`, `Canais que recebem atualizações de jogos gratuitos`, e por fim estes últimos que são atualizados diariamente:\n\n`Comandos disparados, erros, experiência concedida, mensagens válidas para xp, bufunfas distribuídas e movimentadas, e servidores, canais e usuários \"conhecidos\".`",
                 "rodape": "🔰 | Vale ressaltar que entradas de texto são escondidas também, tornando o conteúdo digitado não visível para sua privacidade."
+            },
+            "traduz": {
+                "titulo": "> Banco de traduções Alonsianas",
+                "descricao": "Me ajude a traduzir e melhorar traduções, ou adicionar novos idiomas pelo repositório do Alondioma! Novos idiomas são sempre bem vindos, e a correção de alguns termos é essencial para a boa compreensão e uso amigável alonsês"
             }
         },
         "mode": {
