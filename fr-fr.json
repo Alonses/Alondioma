@@ -312,6 +312,10 @@
                 "permissao_1": "Vous ne pouvez pas gérer les membres de ce serveur",
                 "sucesso": "L'expérience pour `nick_repl` a été changée en `exp_repl exp`, son nouveau niveau est `nivel_repl`",
                 "error_2": "Une erreur inattendue s'est produite et l'expérience de cet utilisateur n'a pas pu être modifiée pour le moment.\nVeuillez réessayer plus tard"
+            },
+            "oculto": {
+                "ativo": "Mode fantôme activé! Désormais, toutes les commandes utilisées ne seront visibles que par vous.\nUtilisez à nouveau la commande pour désactiver.",
+                "desativo": "Mode fantôme désactivé ! Désormais, toutes les commandes utilisées seront visibles par tout le monde.\nUtilisez à nouveau la commande si vous souhaitez activer."
             }
         },
         "util": {

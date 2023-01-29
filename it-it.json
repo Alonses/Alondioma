@@ -294,6 +294,10 @@
                 "permissao_1": "Non puoi gestire i membri di questo server",
                 "sucesso": "L'Esperienza di `nick_repl` è stata cambiata a `exp_repl exp`, il suo nuovo livello è `nivel_repl`",
                 "error_2": "Si è verificato un errore imprevisto e non è stato possibile modificare l'exp di questo utente in questo momento.\nRiprova più tardi"
+            },
+            "oculto": {
+                "ativo": "Modalità fantasma attiva! Ora tutti i comandi usati saranno visibili solo a te.\nUsa di nuovo il comando per disabilitare.",
+                "desativo": "Modalità fantasma disattivata! Ora tutti i comandi utilizzati saranno visibili a tutti.\nUtilizzare nuovamente il comando se si desidera attivare."
             }
         },
         "util": {

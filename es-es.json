@@ -312,6 +312,10 @@
                 "permissao_1": "No puede administrar miembros de este servidor",
                 "sucesso": "La experiencia de `nick_repl` ha sido cambiada a `exp_repl exp`, su nuevo nivel es `nivel_repl`",
                 "error_2": "Hubo un error inesperado y la experiencia de este usuario no se pudo cambiar en este momento.\nVuelva a intentarlo más tarde"
+            },
+            "oculto": {
+                "ativo": "¡Modo fantasma activo! Ahora todos los comandos usados ​​serán visibles solo para usted.\nUse el comando nuevamente para deshabilitar.",
+                "desativo": "¡Modo fantasma desactivado! Ahora todos los comandos usados ​​serán visibles para todos.\nUse el comando nuevamente si desea activar."
             }
         },
         "util": {

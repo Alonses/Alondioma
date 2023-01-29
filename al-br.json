@@ -263,6 +263,10 @@
                 "permissao_1": "Ocê não pode gerenciar os membros deste servidor",
                 "sucesso": "A Experiência de `nick_repl` foi alterada para `exp_repl exp`, seu novo nível é `nivel_repl`",
                 "error_2": "Houve um erro inesperado e não foi possível alterar o exp deste usuário no momento.\nPor Favor, tente novamente mais tarde"
+            },
+            "oculto": {
+                "ativo": "Modo fantasma ativado! Agora todos os retornos serão visíveis apenas procê.\nUsa o comando dnv pra desligar.",
+                "desativo": "Modo fantasma desligado! Agora todos os comandos serão visíveis pra geral.\nUsa o comando dnv caso queira se esconder."
             }
         },
         "util": {

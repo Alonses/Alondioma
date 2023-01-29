@@ -312,6 +312,10 @@
                 "permissao_1": "You cannot manage members of this server",
                 "sucesso": "Experience for `nick_repl` has been changed to `exp_repl exp`, its new level is `nivel_repl`",
                 "error_2": "An unexpected error occurred and this user's exp could not be changed at this time.\nPlease try again later"
+            },
+            "oculto": {
+                "ativo": "Ghost mode active! Now all used commands will be visible only to you.\nUse the command again to disable.",
+                "desativo": "Ghost mode disabled! Now all used commands will be visible to everyone.\nUse the command again if you want to activate."
             }
         },
         "util": {
