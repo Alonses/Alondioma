@@ -410,8 +410,8 @@
                 "termino": ", termina en",
                 "termino_hoje": ", termina hoy",
                 "equador": "Esta ubicación está cerca del ecuador, es posible que la temporada actual no refleje su clima actual",
-                "new_link": "Ahora voy a usar su entrada (`entrada_repl`) como patrón de búsqueda en el comando </tiempo:1018653229128622187>!\nUse el comando </link locale:1020561785620803674> nuevamente si desea cambiar la ubicación fija",
-                "error_locale": "No hay una configuración regional predeterminada definida, use el comando </link locale:1020561785620803674> para definir una o use el comando </tiempo:1018653229128622187> nuevamente para informar un valor de entrada"
+                "new_link": "Ahora voy a usar su entrada (`entrada_repl`) como patrón de búsqueda en el comando </weather:1018653229128622187>!\nUse el comando </link locale:1020561785620803674> nuevamente si desea cambiar la ubicación fija",
+                "error_locale": "No hay una configuración regional predeterminada definida, use el comando </link locale:1020561785620803674> para definir una o use el comando </weather:1018653229128622187> nuevamente para informar un valor de entrada"
             },
             "minecraft": {
                 "nao_encontrado": "No encontré ningún elemento o bloque con el nombre",

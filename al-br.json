@@ -370,8 +370,8 @@
                 "error_2": "Não consegui puxar os dados desse lugar, tenta depois",
                 "antartida": "Antártida",
                 "equador": "Sa joça ae tá perto do equador, se pá a estação não funfa aqui",
-                "new_link": "Agora ovo usar entrada ( `entrada_repl` ) pra pesquisar com o comando </tempo:1018653229128622187>!\nUsa dnv o </link locale:1020561785620803674> pra mudar o local fixado",
-                "error_locale": "Ocê não setou um lugar ainda, usa o </link locale:1020561785620803674> para setar um, ou usa o </tempo:1018653229128622187> dnv informando algum lugar"
+                "new_link": "Agora ovo usar entrada ( `entrada_repl` ) pra pesquisar com o comando </weather:1018653229128622187>!\nUsa dnv o </link locale:1020561785620803674> pra mudar o local fixado",
+                "error_locale": "Ocê não setou um lugar ainda, usa o </link locale:1020561785620803674> para setar um, ou usa o </weather:1018653229128622187> dnv informando algum lugar"
             },
             "minecraft": {
                 "nao_encontrado": "Não encontrei nenhum item ou bloco com o nome",

@@ -407,8 +407,8 @@
                 "comeco": "Commencé en",
                 "termino": ", fini dans",
                 "equador": "Cet emplacement est proche de l'équateur, la saison en cours peut ne pas refléter votre météo actuelle",
-                "new_link": "Maintenant, je vais utiliser votre entrée ( `entrada_repl` ) comme modèle de recherche dans la commande </climat:1018653229128622187> !\nUtilisez à nouveau la commande </link locale:1020561785620803674> si vous souhaitez modifier l'emplacement épinglé",
-                "error_locale": "Il n'y a pas de paramètres régionaux par défaut définis, utilisez la commande </link locale:1020561785620803674> pour en définir un ou utilisez la commande </climat:1018653229128622187> informant à nouveau une valeur d'entrée"
+                "new_link": "Maintenant, je vais utiliser votre entrée ( `entrada_repl` ) comme modèle de recherche dans la commande </weather:1018653229128622187> !\nUtilisez à nouveau la commande </link locale:1020561785620803674> si vous souhaitez modifier l'emplacement épinglé",
+                "error_locale": "Il n'y a pas de paramètres régionaux par défaut définis, utilisez la commande </link locale:1020561785620803674> pour en définir un ou utilisez la commande </weather:1018653229128622187> informant à nouveau une valeur d'entrée"
             },
             "minecraft": {
                 "nao_encontrado": "Je n'ai trouvé aucun élément ou bloc avec le nom",

@@ -403,8 +403,8 @@
                 "termino": ", finisce in",
                 "termino_hoje": ", finisce oggi",
                 "equador": "Questa posizione è vicino all'equatore, la stagione in corso potrebbe non riflettere il clima attuale",
-                "new_link": "Ora userò la tua voce ( `entrada_repl` ) come modello di ricerca nel comando </clima:1018653229128622187>!\nUsa di nuovo il comando </link locale:1020561785620803674> se vuoi cambiare la posizione bloccata",
-                "error_locale": "Non esiste una locale predefinita definita, usa il comando </link locale:1020561785620803674> per definirne una o ancora usa il comando </clima:1018653229128622187> per informare un valore di input"
+                "new_link": "Ora userò la tua voce ( `entrada_repl` ) come modello di ricerca nel comando </weather:1018653229128622187>!\nUsa di nuovo il comando </link locale:1020561785620803674> se vuoi cambiare la posizione bloccata",
+                "error_locale": "Non esiste una locale predefinita definita, usa il comando </link locale:1020561785620803674> per definirne una o ancora usa il comando </weather:1018653229128622187> per informare un valore di input"
             },
             "minecraft": {
                 "nao_encontrado": "Non ho trovato nessun elemento o blocco con il nome",
