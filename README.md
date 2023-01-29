@@ -30,4 +30,4 @@ Um caminho até a tradução é definido usando-se os nomes das chaves, por esse
 ( neste caso o pt-br ), para que seu idioma seja compreendido e funcione.
 
 Temos como exemplo de uma chamada de tradução a seguinte linha <br>
-`client.tls.phrase(client, interaction, "manu.convite.titulo")`
+`client.tls.phrase(user, "manu.convite.titulo")`
