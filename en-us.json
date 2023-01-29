@@ -51,6 +51,12 @@
             }
         },
         "dive": {
+            "nick": {
+                "permissao_1": "Discord does not allow bots to assign nicknames to server owners",
+                "permissao_2": "I cannot change the nickname of other users on this server :(",
+                "error_1": "An error occurred and we are unable to change your nickname at the moment!\nPlease try again later.",
+                "apelido": "Your nickname has been changed to `apelido_repl`!\nUse the command again to scramble even more!"
+            },
             "baidu": {
                 "baidu": "Praise be to!!"
             },
@@ -78,7 +84,6 @@
                 "peao": "Rotate the pawn"
             },
             "anagrama": {
-                "aviso_1": "Enter something in addition to this command, for example `.ana alonsal > odnols`",
                 "anagrama": "Your anagram",
                 "entrada": "Original entry",
                 "lista_combinacoes": "Possible combinations",

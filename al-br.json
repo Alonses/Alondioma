@@ -51,34 +51,23 @@
             }
         },
         "dive": {
-            "baidu": {
-                "baidu": "Louvado seja!!"
+            "nick": {
+                "permissao_1": "O Discord não deixa os bots botarem apelido nos donos do server (tu)",
+                "permissao_2": "Eu não posso mudar o apelido de outros usuários nesse server :(",
+                "error_1": "Deu um xabu aqui e não consegui trocar seu apelido! Tenta dnv dps",
+                "apelido": "Seu apelido foi trocado para `apelido_repl`!\nUsa o comando dnv para bagunçar ainda mais!"
             },
-            "esfiha": {
-                "asf": "Vai uma esfiha ae?"
+            "baidu": {
+                "baidu": ["Louvado seja!!", "Amém igroja!!", "Kifflom!"]
             },
             "amor": {
                 "aviso_1": "marque dois salafrarios\nTipo, `.amor @Alonsal @Slondo`",
-                "limda": "Limda :gift_heart:",
-                "rodape": "Amor a si próprio é oq importa :heartpulse:",
-                "100perc": "Praticamente casados :heart_on_fire:",
-                "90perc": "Meu casal :smiling_face_with_3_hearts:",
-                "80perc": "Literalmente amantes :revolving_hearts:",
-                "60perc": "Tá rolando um clima :hot_face:",
-                "40perc": "Será? :eyes:",
-                "20perc": "Friendzone :people_hugging:",
-                "0perc": "São inimigos públicos :angry:",
                 "teste": "Deu issaq"
-            },
-            "gado": {
-                "gado": "Ô SEU GADO",
-                "error_2": "sai pra lá seu GA :cow: DO, teste isso com outro usuário"
             },
             "peao": {
                 "peao": "Roda o pião dona maria"
             },
             "anagrama": {
-                "aviso_1": "Tá faltando uns outros dados ai, tipo `.ana alonsal > odnols`",
                 "anagrama": "O Anagrama",
                 "entrada": "Sua entrada",
                 "lista_combinacoes": "O que dá eu fiz",

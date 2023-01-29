@@ -30,7 +30,7 @@
                 "footer": "Tus incrustaciones aparecerán así y cuando vean tu perfil con Alonsal",
                 "rand_color": "Tus colores serán aleatorios con cada comando.",
                 "cor_att": "¡Color actualizado! Ahora sus embeds estarán en el color seleccionado",
-                "sem_money": "¡No tienes `B$preco_repl` créditos para ese color!",
+                "sem_money": "¡No tienes `B$preco_repl` Bufunfas para ese color!",
                 "att_cancelada": "Cambio de color cancelado"
             },
             "pay": {
@@ -51,6 +51,12 @@
             }
         },
         "dive": {
+            "nick": {
+                "permissao_1": "Discord no permite que los bots asignen apodos a los propietarios de los servidores",
+                "permissao_2": "No puedo cambiar el apodo de otros usuarios en este servidor :(",
+                "error_1": "¡Ocurrió un error y no podemos cambiar tu apodo en este momento!\nPor favor, inténtalo de nuevo más tarde.",
+                "apelido": "¡Tu apodo ha sido cambiado a `apelido_repl`!\n¡Usa el comando nuevamente para codificar aún más!"
+            },
             "baidu": {
                 "baidu": "¡¡Alabado sea!!"
             },
@@ -78,7 +84,6 @@
                 "peao": "Rueda el peón"
             },
             "anagrama": {
-                "aviso_1": "Escriba algo que no sea el comando, por ejemplo `/anagrama alonsal > odnols`",
                 "anagrama": "Tu anagrama",
                 "entrada": "Entrada original",
                 "lista_combinacoes": "Posibles combinaciones",

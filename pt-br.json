@@ -51,6 +51,12 @@
             }
         },
         "dive": {
+            "nick": {
+                "permissao_1": "O Discord não permite que bots atribuam apelidos aos proprietários do servidor",
+                "permissao_2": "Eu não posso alterar o apelido de outros usuários neste servidor :(",
+                "error_1": "Ocorreu um erro e não foi possível alterar seu apelido no momento!\nPor favor, tente novamente mais tarde.",
+                "apelido": "Seu apelido foi alterado para `apelido_repl`!\nUse o comando novamente para embaralhar mais ainda!"
+            },
             "baidu": {
                 "baidu": "Louvado seja!!"
             },
@@ -78,7 +84,6 @@
                 "peao": "Roda o pião"
             },
             "anagrama": {
-                "aviso_1": "Informe algo além do comando, por exemplo `/anagrama alonsal > odnols`",
                 "anagrama": "Seu anagrama",
                 "entrada": "Entrada original",
                 "lista_combinacoes": "Possiveis combinações",
