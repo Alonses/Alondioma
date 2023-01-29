@@ -406,7 +406,9 @@
                 "inverno": "Winter",
                 "comeco": "Started in",
                 "termino": ", ends in",
-                "equador": "This location is close to the equator, the current season may not reflect your current climate"
+                "equador": "This location is close to the equator, the current season may not reflect your current climate",
+                "new_link": "Now I'm going to use your entry ( `entrada_repl` ) as the search pattern in the command </weather:1018653229128622187>!\nUse the command </link locale:1020561785620803674> again if you want to change the pinned location",
+                "error_locale": "There is no default locale defined, use the command </link locale:1020561785620803674> to define one, or use the command </weather:1018653229128622187> again informing an input value"
             },
             "minecraft": {
                 "nao_encontrado": "I didn't find any item or block with the name",

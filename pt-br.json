@@ -410,8 +410,8 @@
                 "termino": ", termina em",
                 "termino_hoje": ", termina hoje",
                 "equador": "Este local esta próximo da linha do equador, a estação atual pode não refletir seu clima atual",
-                "new_link": "Agora usarei sua entrada ( `entrada_repl` ) como padrão de pesquisa no comando <tempo:1018653229128622187>!\nUse o comando <link locale:1020561785620803674> novamente caso queira mudar de local fixado",
-                "error_locale": "Não há um local padrão definido, use o comando <link locale:1020561785620803674> para definir um, ou use o comando <tempo:1018653229128622187> novamente informando um valor de entrada"
+                "new_link": "Agora usarei sua entrada ( `entrada_repl` ) como padrão de pesquisa no comando </tempo:1018653229128622187>!\nUse o comando </link locale:1020561785620803674> novamente caso queira mudar de local fixado",
+                "error_locale": "Não há um local padrão definido, use o comando </link locale:1020561785620803674> para definir um, ou use o comando </tempo:1018653229128622187> novamente informando um valor de entrada"
             },
             "minecraft": {
                 "nao_encontrado": "Não encontrei nenhum item ou bloco com o nome",
