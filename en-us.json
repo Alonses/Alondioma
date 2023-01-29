@@ -482,11 +482,6 @@
                 "error_1": "Enter a number contained in the event list to see more details",
                 "sem_entradas": "There are no events for this date, please enter a different date `.acon 01-21`"
             },
-            "cripto": {
-                "chave": "Key",
-                "aviso_1": "Enter a key and the text to be encrypted\nFor example, `.acr slondo Hello World!`, or `.acr slondo U2FsdG~~`",
-                "error_1": "Incorrect key, unable to decrypt\nIf you are trying to encrypt, add more spaces to your text"
-            },
             "server": {
                 "id_server": "Server ID",
                 "membros": "Members",

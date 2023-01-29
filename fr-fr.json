@@ -482,11 +482,6 @@
                 "error_1": "Entrez un numéro contenu dans la liste des événements pour voir plus de détails",
                 "sem_entradas": "Il n'y a pas d'événements pour cette date, veuillez entrer une date différente `.acon 01-21`"
             },
-            "cripto": {
-                "chave": "Clé",
-                "aviso_1": "Saisissez une clé et le texte à chiffrer\nPar exemple, `.acr slondo Hello World!` ou `.acr slondo U2FsdG~~`",
-                "error_1": "Clé incorrecte, impossible de déchiffrer\nSi vous essayez de chiffrer, ajoutez plus d'espaces à votre texte"
-            },
             "server": {
                 "id_server": "Identifiant du serveur",
                 "membros": "Membres",

@@ -458,11 +458,6 @@
                 "error_1": "Ingrese un número de la lista de eventos para ver más detalles",
                 "sem_entradas": "No hay eventos para esta fecha, por favor ingrese una fecha diferente `/history 21-01`"
             },
-            "cripto": {
-                "chave": "Chave",
-                "aviso_1": "Informe uma chave e o texto para ser criptografado\nPor exemplo, `.acr slondo Hello World!`, ou `.acr slondo U2FsdG~~`",
-                "error_1": "Chave errada, não foi possível descriptografar\nCaso esteja tentando criptografar, adicione mais espaços em seu texto"
-            },
             "server": {
                 "id_server": "ID do server",
                 "membros": "Miembros",

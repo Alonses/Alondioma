@@ -400,11 +400,6 @@
                 "error_1": "Informe um número da lista de acontecimentos para visualizar mais detalhes",
                 "sem_entradas": "Não aconteceu nada nesse dia, bota uma data diferente aí `.acon 21-01`"
             },
-            "cripto": {
-                "chave": "Chave",
-                "aviso_1": "Screva a chave e a o texto a ser criptografado\nTipo, `.acr slondo Hello World!`, ou `.acr slondo U2FsdG~~`",
-                "error_1": "Chave errada, não deu para descriptografar\nSe tiver tentando criptografar, bota mais uns espaços no seu texto"
-            },
             "server": {
                 "id_server": "ID do server",
                 "membros": "Usuários",
