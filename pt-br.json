@@ -64,7 +64,6 @@
                 "asf": "Vai uma esfiha ae?"
             },
             "amor": {
-                "aviso_1": "marque duas pessoas para testar\nPor exemplo, `/amor @Alonsal @Slondo`",
                 "limda": "Limda :gift_heart:",
                 "rodape": "Amor a si próprio é oq importa :heartpulse:",
                 "100perc": "Praticamente casados :heart_on_fire:",
@@ -94,9 +93,6 @@
             },
             "jaja": {
                 "nsfw_jaja": "Devido ao excesso de delícia este comando só pode ser usado num canal NSFW"
-            },
-            "sans": {
-                "aviso_1": "Escreva algo para este comando\nPor exemplo, `/sans slomdo muinto cringerrr afff`"
             },
             "rank": {
                 "rank_sv": "Rank de",
@@ -176,18 +172,13 @@
                 "error_2": "Não é possível rodar sólidos geométricos com mais de 10.000 faces.",
                 "error_3": "Não é possível rodar sólidos geométricos com menos de 4 faces."
             },
-            "jokenpo": {
-                "aviso_1": "Envie como `/jokenpo papel` ou como </jokenpo:1018609879470047257> para uma partida randômica."
+            "gta": {
+                "horario": "Agora são exatamente horario_repl no GTA Online"
             },
-            "choose": {
-                "aviso_1": "Informe pelo menos 2 itens para eu escolher",
-                "aviso_2": "Informe uma quantidade em números como `.ach [2 s a l 4 d @` e um valor maior que zero",
-                "escolho_todos": "Você informou um número maior ou igual a quantidade de opções, eu escolho todas!",
-                "escolho": "Eu escolho..."
-            },
-            "pedra": {
-                "aviso_1": "Informe algum ou vários dos itens abaixo para jogar\nPor exemplo, `.asjkp pedra papel tesoura` ou `.asjkp capeta`",
-                "error_1": "Escreva um item que faça parte do jogo, este item não é válido"
+            "nazar": {
+                "titulo": ":wind_chime: Madame Nazar hoje",
+                "descricao": "A Madame Nazar se encontra hoje na região de \n`regiao_repl`, em `preciso_repl`\n\n:round_pushpin: Próximo a `proximo_repl` e `proximo_2_repl`",
+                "error_1": "Não foi possível localizar a Madame Nazar no momento, por favor, tente novamente mais tarde"
             }
         },
         "manu": {
@@ -266,29 +257,9 @@
             "clear": {
                 "permissao_1": "Você não possui a permissão `Gerenciar mensagens`",
                 "permissao_2": "Eu não posso fazer isso sem a permissão de `Gerenciar mensagens`",
-                "aviso_1": "Informe o número de mensagens q deseja remover\nPor exemplo, `.acl 20`",
-                "aviso_2": ":warning: | Informe um número entre `0` e `100` para remover",
                 "apagado_1": "mensagens` foram removidas",
                 "apagado_2": "mensagem` foi removida",
                 "error": "Não foi possível executar este comando, pois há mensagens fixadas ou muito antigas, por favor, diminua a quantidade e tente novamente"
-            },
-            "emojis": {
-                "aviso_1": "Inclua um emoji customizado em seu comando! :P",
-                "aviso_2": "Informe um emoji para ser visualizado\nPor exemplo,",
-                "aviso_3": "Insira um emoji e o nome dele\nPor exemplo,",
-                "aviso_4": "Envie apenas 1 emoji por vez :P",
-                "aviso_5": "Envie uma imagem com tamanho menor que 250kb para usar de emoji",
-                "aviso_6": "Inclua o emoji para remover\nPor exemplo,",
-                "aviso_7": "Informe um emoji para ser removido",
-                "aviso_8": "Informe um emoji customizado deste servidor para ser removido\nVocê também pode usar o ID, como `.armoji 914227763978838116` por exemplo",
-                "permissao_1": "Você não possui permissões para gerenciar emojis neste servidor",
-                "permissao_2": "Eu não possuo permissões para `gerenciar emojis` neste servidor",
-                "requebrando": "requebrando",
-                "sucesso_1": "O Emoji foi adicionado!",
-                "sucesso_2": "O Emoji foi removido do servidor",
-                "error_1": "Não é possível processar este arquivo\nEnvie um arquivo de imagem para eu poder manipular ;)",
-                "error_2": "O Limite de emojis para este servidor foi atingido, remova alguns antes de adicionar novos",
-                "error_3": "Não foi possível remover este emoji, tente novamente"
             },
             "adm": {
                 "permissao_1": "Você não pode banir ou expulsar membros",
@@ -323,6 +294,10 @@
                 "permissao_1": "Você não pode gerenciar os membros deste servidor",
                 "sucesso": "A Experiência de `nick_repl` foi alterada para `exp_repl exp`, seu novo nível é `nivel_repl`",
                 "error_2": "Houve um erro inesperado e não foi possível alterar o exp deste usuário no momento.\nPor Favor, tente novamente mais tarde"
+            },
+            "oculto": {
+                "ativo": "Modo fantasma ativo! Agora todos os comandos usados serão visíveis apenas para você.\nUse o comando novamente para desativar.",
+                "desativo": "Modo fantasma desativado! Agora todos os comandos usados serão visíveis para todos.\nUse o comando novamente caso queira ativar."
             }
         },
         "util": {
@@ -365,10 +340,6 @@
             },
             "reverso": {
                 "reverso": "Sua mensagem ao contrário"
-            },
-            "replace": {
-                "aviso_1": "Entre com algo para ser removido ou substituído e uma string\nPor exemplo `.arm o slondo` ou `.arp i o slindo`",
-                "remove_tudo": "Você removeu tudo, vai dá não"
             },
             "tempo": {
                 "aviso_1": "Informe o nome de alguma cidade para buscar\nPor exemplo, como `/tempo sao paulo`",

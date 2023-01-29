@@ -64,7 +64,6 @@
                 "asf": "Voulez-vous un sfiha?"
             },
             "amor": {
-                "aviso_1": "Taguez deux personnes à tester\nPar exemple, `.alove @Alonsal @Slondo`",
                 "limda": "Magnifique :cadeau coeur:",
                 "rodape": "Si aimer est ce qui compte :heartpulse:",
                 "100perc": "Pratiquement marié :heart_on_fire:",
@@ -94,9 +93,6 @@
             },
             "jaja": {
                 "nsfw_jaja": "En raison de l'excès de plaisir, cette commande ne peut être utilisée que sur un canal NSFW."
-            },
-            "sans": {
-                "aviso_1": "Écrivez quelque chose pour cette commande\nPar exemple, `.asans slomdo very cringerrr afff`"
             },
             "rank": {
                 "rank_sv": "Rang de",
@@ -176,18 +172,13 @@
                 "error_2": "Il n'est pas possible de dessiner des solides géométriques avec plus de 10.000 faces.",
                 "error_3": "Il n'est pas possible de faire pivoter des solides géométriques avec moins de 4 faces."
             },
-            "jokenpo": {
-                "aviso_1": "Écrivez comme `.ajkp paper` ou `.ajkp` pour une correspondance aléatoire."
+            "gta": {
+                "horario": "Maintenant sont exactement horario_repl dans GTA Online"
             },
-            "choose": {
-                "aviso_1": "Informez au moins 2 articles pour que je choisisse",
-                "aviso_2": "Entrez une quantité en nombres tels que `.ach [2 s a l 4 d @` et une valeur supérieure à zéro",
-                "escolho_todos": "Vous avez saisi un nombre supérieur ou égal au nombre d'options, je les choisis toutes !",
-                "escolho": "Je choisis..."
-            },
-            "pedra": {
-                "aviso_1": "Entrez un ou plusieurs des éléments ci-dessous pour jouer\nPar exemple, `.asjkp rock paper scissors` ou `.asjkp devil`",
-                "error_1": "Écrivez un élément qui fait partie du jeu, cet élément n'est pas valide"
+            "nazar": {
+                "titulo": ":wind_chime: Madame Nazar aujourd'hui",
+                "descricao": "Madame Nazar est aujourd'hui dans la région de \n`regiao_repl`, en `preciso_repl`\n\n:round_pushpin: avec `proximo_repl` et `proximo_2_repl`",
+                "error_1": "Impossible de localiser Madame Nazar pour le moment, veuillez réessayer plus tard"
             }
         },
         "manu": {
@@ -266,8 +257,6 @@
             "clear": {
                 "permissao_1": "Vous ne disposez pas de l'autorisation `Gérer les messages`",
                 "permissao_2": "Je ne peux pas faire cela sans l'autorisation `Gérer les messages`",
-                "aviso_1": "Entrez le nombre de messages que vous souhaitez supprimer\nPar exemple, `.acl 20`",
-                "aviso_2": ":warning: | Entrez un nombre entre `0` et `100` pour supprimer",
                 "apagado_1": "messages` ont été supprimés",
                 "apagado_2": "message` a été supprimé",
                 "error": "Impossible d'exécuter cette commande car il y a des publications épinglées ou obsolètes, veuillez réduire le nombre et réessayer"
@@ -365,10 +354,6 @@
             },
             "reverso": {
                 "reverso": "Votre message inversé"
-            },
-            "replace": {
-                "aviso_1": "Entrez quelque chose à supprimer ou à remplacer et une chaîne\nPar exemple `.arm o slondo` ou `.arp i o slindo`",
-                "remove_tudo": "Tu as tout enlevé, il ne reste plus rien"
             },
             "tempo": {
                 "aviso_1": "Entrez le nom d'une ville à rechercher\nPar exemple, comme `.awe paris`",

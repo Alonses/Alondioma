@@ -64,7 +64,6 @@
                 "asf": "¿Hay una esfiha allí?"
             },
             "amor": {
-                "aviso_1": "marque duas pessoas para testar\nPor exemplo, `/amor @Alonsal @Slondo`",
                 "limda": "Limda :gift_heart:",
                 "rodape": "Amor a si próprio é oq importa :heartpulse:",
                 "100perc": "Praticamente casados :heart_on_fire:",
@@ -94,9 +93,6 @@
             },
             "jaja": {
                 "nsfw_jaja": "Debido al exceso de placer, este comando solo se puede usar en un canal NSFW"
-            },
-            "sans": {
-                "aviso_1": "Escriba algo en este comando\nPor ejemplo `/sans slomdo very cringer afff`"
             },
             "rank": {
                 "rank_sv": "Rango de",
@@ -176,18 +172,13 @@
                 "error_2": "No es posible rotar sólidos geométricos con más de 10.000 caras.",
                 "error_3": "No es posible rotar sólidos geométricos con menos de 4 caras."
             },
-            "jokenpo": {
-                "aviso_1": "Envía como `/jokenpo paper` o como </jokenpo:1018609879470047257> para reproducción aleatoria."
+            "gta": {
+                "horario": "Ahora son exactamente horario_repl en GTA Online"
             },
-            "choose": {
-                "aviso_1": "Dime al menos 2 artículos para elegir",
-                "aviso_2": "Informe uma quantidade em números como `.ach [2 s a l 4 d @` e um valor maior que zero",
-                "escolho_todos": "Ingresaste un número mayor o igual al número de opciones, ¡las elijo todas!",
-                "escolho": "Yo escojo..."
-            },
-            "pedra": {
-                "aviso_1": "Informe algum ou vários dos itens abaixo para jogar\nPor exemplo, `.asjkp pedra papel tesoura` ou `.asjkp capeta`",
-                "error_1": "Escreva um item que faça parte do jogo, este item não é válido"
+            "nazar": {
+                "titulo": ":wind_chime: Madame Nazar hoy",
+                "descricao": "Madame Nazar se encuentra hoy en la región de \n`regiao_repl`, en `preciso_repl`\n\n:round_pushpin: Junto con `proximo_repl` y `proximo_2_repl`",
+                "error_1": "No se puede ubicar a Madam Nazar en este momento, intente nuevamente más tarde"
             }
         },
         "manu": {
@@ -266,8 +257,6 @@
             "clear": {
                 "permissao_1": "No tienes permiso para \"Gestionar mensajes\".",
                 "permissao_2": "No puedo hacer esto sin el permiso `Administrar mensajes`.",
-                "aviso_1": "Ingrese la cantidad de mensajes que desea eliminar\nPor ejemplo, `.acl 20`",
-                "aviso_2": ":warning: | Introduzca un número entre `0` y `100` para eliminar",
                 "apagado_1": "publicaciones` han sido eliminadas",
                 "apagado_2": "publicación` ha sido eliminada",
                 "error": "No se puede ejecutar este comando porque hay mensajes fijos o demasiado antiguos, reduzca el número e intente nuevamente"
@@ -365,10 +354,6 @@
             },
             "reverso": {
                 "reverso": "Tu mensaje al revés"
-            },
-            "replace": {
-                "aviso_1": "Entre com algo para ser removido ou substituído e uma string\nPor exemplo `.arm o slondo` ou `.arp i o slindo`",
-                "remove_tudo": "Você removeu tudo, vai dá não"
             },
             "tempo": {
                 "aviso_1": "Ingrese el nombre de una ciudad para buscar\nPor ejemplo, como `/tiempo madrid`",

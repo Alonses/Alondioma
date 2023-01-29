@@ -61,7 +61,6 @@
                 "baidu": ["Louvado seja!!", "Amém igroja!!", "Kifflom!"]
             },
             "amor": {
-                "aviso_1": "marque dois salafrarios\nTipo, `.amor @Alonsal @Slondo`",
                 "teste": "Deu issaq"
             },
             "peao": {
@@ -78,9 +77,6 @@
             },
             "jaja": {
                 "nsfw_jaja": "Devido ao excesso de delícia este comando só pode ser usado num canal NSFW"
-            },
-            "sans": {
-                "aviso_1": "Tá faltando umas informações aí\nTipo, `.asans slomdo muinto cringerrr afff`"
             },
             "rank": {
                 "rank_sv": "Rank de",
@@ -131,18 +127,13 @@
                 "error_2": "Não é possível rodar sólidos geométricos com mais de 10.000 faces.",
                 "error_3": "Não é possível rodar sólidos geométricos com menos de 4 faces."
             },
-            "jokenpo": {
-                "aviso_1": "Envie como `.ajkp papel` ou como `.ajkp` para uma partida randômica."
+            "gta": {
+                "horario": "Agora é horario_repl no GTA Online"
             },
-            "choose": {
-                "aviso_1": "Informe pelo menos 2 itens para eu escolher",
-                "aviso_2": "Informe uma quantidade em números como `.ach [2 s a l 4 d @` e um valor maior que zero",
-                "escolho_todos": "Ocê informou um número maior ou igual a quantidade de opções, eu escolho todas!",
-                "escolho": "Eu escolho..."
-            },
-            "pedra": {
-                "aviso_1": "Informe algum ou vários dos itens abaixo para jogar\nPor exemplo, `.asjkp pedra papel tesoura` ou `.asjkp capeta`",
-                "error_1": "Escreva um item que faça parte do jogo, este item não é válido"
+            "nazar": {
+                "titulo": ":wind_chime: Madame Nazar oji",
+                "descricao": "A Madame Nazar tá oji na região de \n`regiao_repl`, em `preciso_repl`\n\n:round_pushpin: Próxima de `proximo_repl` e `proximo_2_repl`",
+                "error_1": "Não consegui rastrear a Madame Nazar agora, tente dnv mais tarde"
             }
         },
         "manu": {
@@ -217,8 +208,6 @@
             "clear": {
                 "permissao_1": "Ocê não possui a permissão `Gerenciar mensagens`",
                 "permissao_2": "O não consigo fazer isso sem a permissão de `Gerenciar mensagens`",
-                "aviso_1": "Informe o número de mensagens q deseja remover\nTipo, `.acl 20`",
-                "aviso_2": ":warning: | Informe um número entre `0` e `100` para remover",
                 "apagado_1": "mensagens` foram excluídas",
                 "apagado_2": "mensagem` foi excluída",
                 "error": "Deu xabu aqui, tem algumas mensagens fixadas ou mensagens bem véias, diminui a quantidade ai e tenta dnv"
@@ -316,10 +305,6 @@
             },
             "reverso": {
                 "reverso": "Sua mensagem ao contrário"
-            },
-            "replace": {
-                "aviso_1": "Bota um texto e um alvo para remover\nTipo `.arm o slondo` ou `.arp i o slindo`",
-                "remove_tudo": "Ocê tirou tudo, vai dá não"
             },
             "tempo": {
                 "aviso_1": "Bota o nome de um lugar aí\nTipo `.at sao paulo`",

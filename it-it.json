@@ -64,7 +64,6 @@
                 "asf": "C'è un esfiha lì?"
             },
             "amor": {
-                "aviso_1": "tagga due persone da testare \nAd esempio, `/amore @Alonsal @Slondo`",
                 "limda": "Bellissimo :gift_heart:",
                 "rodape": "Amare te stesso è ciò che conta :heartpulse:",
                 "100perc": "Praticamente sposato :heart_on_fire:",
@@ -94,9 +93,6 @@
             },
             "jaja": {
                 "nsfw_jaja": "A causa del piacere eccessivo, questo comando può essere utilizzato solo su un canale NSFW"
-            },
-            "sans": {
-                "aviso_1": "Scrivi qualcosa in questo comando\nAd esempio `/sans slomdo very cringe afff`"
             },
             "rank": {
                 "rank_sv": "Cassificazione di",
@@ -176,18 +172,13 @@
                 "error_2": "Non è possibile ruotare solidi geometrici con più di 10.000 facce.",
                 "error_3": "Non è possibile ruotare solidi geometrici con meno di 4 facce."
             },
-            "jokenpo": {
-                "aviso_1": "Envie como `/jokenpo papel` ou como </jokenpo:1018609879470047257> para uma partida randômica."
+            "gta": {
+                "horario": "Ora sono esattamente horario_repl in GTA Online"
             },
-            "choose": {
-                "aviso_1": "Informe pelo menos 2 itens para eu escolher",
-                "aviso_2": "Informe uma quantidade em números como `.ach [2 s a l 4 d @` e um valor maior que zero",
-                "escolho_todos": "Você informou um número maior ou igual a quantidade de opções, eu escolho todas!",
-                "escolho": "Eu escolho..."
-            },
-            "pedra": {
-                "aviso_1": "Informe algum ou vários dos itens abaixo para jogar\nPor exemplo, `.asjkp pedra papel tesoura` ou `.asjkp capeta`",
-                "error_1": "Escreva um item que faça parte do jogo, este item não é válido"
+            "nazar": {
+                "titulo": ":wind_chime: Madam Nazar oggi",
+                "descricao": "Madam Nazar si trova nella regione di \n`regiao_repl`, in `preciso_repl`\n\n:round_pushpin: accanto a `proximo_repl` e `proximo_2_repl`",
+                "error_1": "Impossibile localizzare Madam Nazar al momento, riprova più tardi"
             }
         },
         "manu": {
@@ -266,41 +257,22 @@
             "clear": {
                 "permissao_1": "Non hai l'autorizzazione `Gestisci messaggi`.",
                 "permissao_2": "Non posso farlo senza l'autorizzazione `Gestisci messaggi`.",
-                "aviso_2": ":warning: | Immettere un numero compreso tra `0` e `100` da rimuovere",
                 "apagado_1": "messaggi` sono stati rimossi",
                 "apagado_2": "messaggio` è stato rimosso",
                 "error": "Impossibile eseguire questo comando perché ci sono messaggi bloccati o troppo vecchi, riduci il numero e riprova"
             },
-            "emojis": {
-                "aviso_1": "Inclua um emoji customizado em seu comando! :P",
-                "aviso_2": "Informe um emoji para ser visualizado\nPor exemplo,",
-                "aviso_3": "Insira um emoji e o nome dele\nPor exemplo,",
-                "aviso_4": "Envie apenas 1 emoji por vez :P",
-                "aviso_5": "Envie uma imagem com tamanho menor que 250kb para usar de emoji",
-                "aviso_6": "Inclua o emoji para remover\nPor exemplo,",
-                "aviso_7": "Informe um emoji para ser removido",
-                "aviso_8": "Informe um emoji customizado deste servidor para ser removido\nVocê também pode usar o ID, como `.armoji 914227763978838116` por exemplo",
-                "permissao_1": "Você não possui permissões para gerenciar emojis neste servidor",
-                "permissao_2": "Eu não possuo permissões para `gerenciar emojis` neste servidor",
-                "requebrando": "requebrando",
-                "sucesso_1": "O Emoji foi adicionado!",
-                "sucesso_2": "O Emoji foi removido do servidor",
-                "error_1": "Não é possível processar este arquivo\nEnvie um arquivo de imagem para eu poder manipular ;)",
-                "error_2": "O Limite de emojis para este servidor foi atingido, remova alguns antes de adicionar novos",
-                "error_3": "Não foi possível remover este emoji, tente novamente"
-            },
             "adm": {
-                "permissao_1": "Você não pode banir ou expulsar membros",
-                "permissao_2": "Eu não posso banir ou expulsar membros",
+                "permissao_1": "Non puoi bannare o cacciare i membri",
+                "permissao_2": "Non posso bannare o cacciare membri",
                 "permissao_3": "Non hai i permessi per gestire il server",
                 "user_id": "Immettere un ID utente",
                 "razao": "Motivo non informato",
-                "error_1": "Parado ai seu salafrário! Este membro é um Administrador também",
+                "error_1": "Fermati là! Questo membro è anche un amministratore",
                 "error_2": "Utente non valido!",
-                "error_ban": "Não foi possível banir o usuário",
-                "error_kick": "Não foi possível expulsar o usuário",
-                "banido": "tomou uma esfihada!",
-                "expulso": "foi expulso do servidor",
+                "error_ban": "Impossibile escludere l'utente",
+                "error_kick": "Impossibile espellere l'utente",
+                "banido": "è stato bannato dal server",
+                "expulso": "fè stato espulso dal server",
                 "moderadores": "Solo i moderatori possono eseguire questo comando"
             },
             "anuncio": {
@@ -313,10 +285,10 @@
             },
             "canal": {
                 "canal": "Canale",
-                "lock": "bloqueado\nUtilize `.aunlk` para desbloquear",
-                "unlock": "desbloqueado\nUtilize `.alock` para bloquear",
-                "permissao_1": "Você não possuí permissões para gerenciar este canal",
-                "permissao_2": "Eu não posso bloquear este canal, eu preciso das permissões `Gerenciar Canais` & `Gerenciar cargos` para isto"
+                "lock": "bloccato\nUsa `/unlk` per sbloccare",
+                "unlock": "sbloccato\nUsa `/lock` per bloccare",
+                "permissao_1": "Non sei autorizzato a gestire questo canale.",
+                "permissao_2": "Non riesco a bloccare questo canale, ho bisogno delle autorizzazioni `Gestisci canali` e `Gestisci ruoli` per questo"
             },
             "xp": {
                 "permissao_1": "Non puoi gestire i membri di questo server",
@@ -360,9 +332,6 @@
             },
             "reverso": {
                 "reverso": "Il tuo testo invertito"
-            },
-            "replace": {
-                "remove_tudo": "Hai rimosso tutto!"
             },
             "tempo": {
                 "aviso_2": "Non ho trovato nessun posto chiamato",
