@@ -521,7 +521,7 @@
                 "obsessao": "Favorita da semana",
                 "error_1": "Esse perfil não existe, tenta dnv",
                 "sem_link": "Esse corno não me linkou com a LastFM, tenta dnv usando o nome personalizado dele",
-                "new_link": "O Alonsal foi vinculado a sua conta `plat_repl`! Agora ao usar `/plat_repl` ocê não precisará screver seu nome toda hora :P"
+                "new_link": "O Alonsal foi vinculado a sua conta `plat_repl`! Agora ao usar comando_repl ocê não precisará screver seu nome toda hora :P"
             }
         }
     }
