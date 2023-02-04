@@ -339,7 +339,10 @@
             },
             "avatar": {
                 "download_avatar": "Clicca [qui](link_repl) per scaricare l'avatar",
+                "download_banner": "Clicca [qui](link_repl) per scaricare il banner",
                 "download_icon": "Clicca [qui](link_repl) per scaricare l'icona",
+                "sem_avatar": "Questo utente non ha un avatar personalizzato!",
+                "sem_banner": "Questo utente non ha un banner personalizzato!",
                 "error_1": "Non è stato possibile recuperare questo avatar in questo momento. Riprovare più tardi"
             },
             "reverso": {

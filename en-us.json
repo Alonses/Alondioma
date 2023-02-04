@@ -359,9 +359,10 @@
             },
             "avatar": {
                 "download_avatar": "Click [here](link_repl) to download the avatar",
+                "download_banner": "Click [here](link_repl) to download the banner",
                 "download_icon": "Click [here](link_repl) to download the icon",
-                "nao_conhecido": "I don't know this user, use the command by marking him! :smiling_imp:",
-                "id_user": "Enter a user ID",
+                "sem_avatar": "This user does not have a custom avatar!",
+                "sem_banner": "This user does not have a custom banner!",
                 "error_1": "Unable to fetch this avatar at the moment, please try again later"
             },
             "reverso": {

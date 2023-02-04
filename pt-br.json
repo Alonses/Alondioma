@@ -341,9 +341,10 @@
             },
             "avatar": {
                 "download_avatar": "Clique [aqui](link_repl) para baixar o avatar",
+                "download_banner": "Clique [aqui](link_repl) para baixar o banner",
                 "download_icon": "Clique [aqui](link_repl) para baixar o icone",
-                "nao_conhecido": "Eu não conheço este usuário, use o comando marcando ele! :smiling_imp:",
-                "id_user": "Informe o ID de um usuário",
+                "sem_avatar": "Este usuário não possui um avatar customizado!",
+                "sem_banner": "Este usuário não possui um banner customizado!",
                 "error_1": "Não foi possível buscar este avatar no momento, tente novamente mais tarde"
             },
             "reverso": {

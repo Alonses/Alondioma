@@ -307,9 +307,10 @@
             },
             "avatar": {
                 "download_avatar": "Clique [aqui](link_repl) para baixar essa ibagem",
+                "download_banner": "Clique [aqui](link_repl) para baixar esse banner",
                 "download_icon": "Clique [aqui](link_repl) para baixar essa ibagem",
-                "nao_conhecido": "Eu não conheço este salafrário, marca ele aí no comando",
-                "id_user": "Informe o ID de um usuário",
+                "sem_avatar": "Este corno não botou um avatar custom!",
+                "sem_banner": "Este corno não botou um banner custom!",
                 "error_1": "Não foi possível buscar este salafrario no momento, tenta dnv depois"
             },
             "reverso": {

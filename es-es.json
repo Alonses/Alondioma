@@ -359,9 +359,10 @@
             },
             "avatar": {
                 "download_avatar": "Haga clic [aquí](link_repl) para descargar el avatarr",
+                "download_banner": "Haga clic [aquí](link_repl) para descargar el banner",
                 "download_icon": "Haga clic [aquí](link_repl) para descargar el icono",
-                "nao_conhecido": "¡No conozco a este usuario, usa el comando etiquetándolo! :smiling_imp:",
-                "id_user": "Ingrese una identificación de usuario",
+                "sem_avatar": "¡Este usuario no tiene un avatar personalizado!",
+                "sem_banner": "¡Este usuario no tiene un banner personalizado!",
                 "error_1": "No se puede obtener este avatar en este momento, inténtalo de nuevo más tarde"
             },
             "reverso": {
