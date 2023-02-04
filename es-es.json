@@ -179,6 +179,14 @@
                 "titulo": ":wind_chime: Madame Nazar hoy",
                 "descricao": "Madame Nazar se encuentra hoy en la región de \n`regiao_repl`, en `preciso_repl`\n\n:round_pushpin: Junto con `proximo_repl` y `proximo_2_repl`",
                 "error_1": "No se puede ubicar a Madam Nazar en este momento, intente nuevamente más tarde"
+            },
+            "forca": {
+                "titulo": "> Juego del ahorcado :skull:",
+                "usado": "Letras ya usadas",
+                "comando": "Usa </forca:1069762590294687905> con una letra o la palabra completa para tratar de hacerlo bien",
+                "tentativas": "Intentos restantes:",
+                "acertou": "¡Está bien! ¡Felicitaciones!\nLa palabra era",
+                "errou": "¡Cometiste un error!\nLa palabra era"
             }
         },
         "manu": {

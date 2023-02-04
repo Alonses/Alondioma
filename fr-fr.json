@@ -179,6 +179,14 @@
                 "titulo": ":wind_chime: Madame Nazar aujourd'hui",
                 "descricao": "Madame Nazar est aujourd'hui dans la région de \n`regiao_repl`, en `preciso_repl`\n\n:round_pushpin: avec `proximo_repl` et `proximo_2_repl`",
                 "error_1": "Impossible de localiser Madame Nazar pour le moment, veuillez réessayer plus tard"
+            },
+            "forca": {
+                "titulo": "> Jeu du pendu :skull:",
+                "usado": "Mots déjà utilisés",
+                "comando": "Utilisez </forca:1069762590294687905> avec une lettre ou le mot entier pour essayer de bien faire les choses!",
+                "tentativas": "Tentatives restantes:",
+                "acertou": "Vous avez raison! Félicitations!\nLe mot était",
+                "errou": "Vous avez fait une erreur!\nLe mot était"
             }
         },
         "manu": {

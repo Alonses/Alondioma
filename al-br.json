@@ -134,6 +134,11 @@
                 "titulo": ":wind_chime: Madame Nazar oji",
                 "descricao": "A Madame Nazar tá oji na região de \n`regiao_repl`, em `preciso_repl`\n\n:round_pushpin: Próxima de `proximo_repl` e `proximo_2_repl`",
                 "error_1": "Não consegui rastrear a Madame Nazar agora, tente dnv mais tarde"
+            },
+            "forca": {
+                "usado": "Letras já testadas",
+                "acertou": "Accerrtouuuuuuuu!\nA palavra era",
+                "errou": "Errooouuuuuuu!\nA palava era"
             }
         },
         "manu": {

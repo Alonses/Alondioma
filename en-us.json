@@ -179,6 +179,14 @@
                 "titulo": ":wind_chime: Madame Nazar today",
                 "descricao": "Madame Nazar is located today in the region of \n`regiao_repl`, in `preciso_repl`\n\n:round_pushpin: Next to `proximo_repl` and `proximo_2_repl`",
                 "error_1": "Unable to locate Madam Nazar at the moment, please try again later"
+            },
+            "forca": {
+                "titulo": "> Hangman game :skull:",
+                "usado": "Lyrics already used",
+                "comando": "Use </forca:1069762590294687905> with a letter or the whole word to try to get it right!",
+                "tentativas": "Attempts remaining:",
+                "acertou": "You're right! Congratulations!\nThe word was",
+                "errou": "You made a mistake!\nThe word was"
             }
         },
         "manu": {

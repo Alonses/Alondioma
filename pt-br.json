@@ -179,6 +179,14 @@
                 "titulo": ":wind_chime: Madame Nazar hoje",
                 "descricao": "A Madame Nazar se encontra hoje na região de \n`regiao_repl`, em `preciso_repl`\n\n:round_pushpin: Próximo a `proximo_repl` e `proximo_2_repl`",
                 "error_1": "Não foi possível localizar a Madame Nazar no momento, por favor, tente novamente mais tarde"
+            },
+            "forca": {
+                "titulo": "> Jogo da forca :skull:",
+                "usado": "Letras já usadas",
+                "comando": "Use </forca:1069762590294687905> com uma letra ou a palavra toda para tentar acertar!",
+                "tentativas": "Tentativas restantes:",
+                "acertou": "Você acertou! Parabéns!\nA palavra era",
+                "errou": "Você errou!\nA palava era"
             }
         },
         "manu": {

@@ -179,6 +179,14 @@
                 "titulo": ":wind_chime: Madam Nazar oggi",
                 "descricao": "Madam Nazar si trova nella regione di \n`regiao_repl`, in `preciso_repl`\n\n:round_pushpin: accanto a `proximo_repl` e `proximo_2_repl`",
                 "error_1": "Impossibile localizzare Madam Nazar al momento, riprova più tardi"
+            },
+            "forca": {
+                "titulo": "> Gioco dell'impiccato :skull:",
+                "usado": "Testi già utilizzati",
+                "comando": "Usa </forca:1069762590294687905> con una lettera o l'intera parola per cercare di farlo bene!",
+                "tentativas": "Tentativi rimasti:",
+                "acertou": "Hai ragione! Congratulazioni!\nLa parola era",
+                "errou": "Hai commesso un errore!\nLa parola era"
             }
         },
         "manu": {
