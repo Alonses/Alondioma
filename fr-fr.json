@@ -269,15 +269,6 @@
                 "apagado_2": "message` a été supprimé",
                 "error": "Impossible d'exécuter cette commande car il y a des publications épinglées ou obsolètes, veuillez réduire le nombre et réessayer"
             },
-            "adm": {
-                "permissao": "Je n'ai pas les permissions \"bannir et expulser des membres\" sur le serveur",
-                "razao": "Raison non renseignée",
-                "error_1": "Arrête ça, noob! Ce membre est également administrateur.",
-                "error_ban": "Impossible de bannir cet utilisateur",
-                "error_kick": "Impossible d'expulser cet utilisateur",
-                "banido": "a été banni",
-                "expulso": "a été supprimé du serveur"
-            },
             "anuncio": {
                 "anuncio_games": "À partir de maintenant, cette repl_canal chaîne recevra des mises à jour lorsque des jeux gratuits seront disponibles\nUtilisez la commande sans paramètres pour supprimer les mises à jour.",
                 "anuncio_off": "Notifications de jeu désactivées pour cette serveur",

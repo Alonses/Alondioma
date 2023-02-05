@@ -269,15 +269,6 @@
                 "apagado_2": "publicación` ha sido eliminada",
                 "error": "No se puede ejecutar este comando porque hay mensajes fijos o demasiado antiguos, reduzca el número e intente nuevamente"
             },
-            "adm": {
-                "permissao": "No tengo permisos de `Prohibir y Expulsar a los miembros` del servidor",
-                "razao": "razón no revelada",
-                "error_1": "¡Detente ahí! Este miembro también es administrador",
-                "error_ban": "No se puede prohibir al usuario",
-                "error_kick": "No se puede expulsar al usuario",
-                "banido": "tomó una esfihada!",
-                "expulso": "fue expulsado del servidor"
-            },
             "anuncio": {
                 "anuncio_games": "A partir de ahora, el canal repl_canal recibirá actualizaciones cuando haya juegos gratuitos disponibles\nUtilice el comando sin parámetros para eliminar las actualizaciones",
                 "anuncio_off": "Anuncios de juegos desactivados para este servidor",

@@ -269,15 +269,6 @@
                 "apagado_2": "messaggio` è stato rimosso",
                 "error": "Impossibile eseguire questo comando perché ci sono messaggi bloccati o troppo vecchi, riduci il numero e riprova"
             },
-            "adm": {
-                "permissao": "Non ho i permessi `Ban and Kick members` dal server",
-                "razao": "Motivo non informato",
-                "error_1": "Fermati là! Questo membro è anche un amministratore",
-                "error_ban": "Impossibile escludere l'utente",
-                "error_kick": "Impossibile espellere l'utente",
-                "banido": "è stato bannato dal server",
-                "expulso": "fè stato espulso dal server"
-            },
             "anuncio": {
                 "anuncio_games": "D'ora in poi il canale repl_canal riceverà aggiornamenti quando saranno disponibili giochi gratuiti\nUtilizza il comando senza parametri per rimuovere gli aggiornamenti",
                 "anuncio_off": "Annunci di gioco disabilitati per questo server",

@@ -221,15 +221,6 @@
                 "apagado_2": "mensagem` foi excluída",
                 "error": "Deu xabu aqui, tem algumas mensagens fixadas ou mensagens bem véias, diminui a quantidade ai e tenta dnv"
             },
-            "adm": {
-                "permissao": "Eu não tenho permissões pra `Banir e Expulsar membros` do server",
-                "razao": "Razão não informada",
-                "error_1": "Parado ai seu salafrário! Este membro é um Administrador tbm",
-                "error_ban": "Não foi possível banir esse usuário",
-                "error_kick": "Não foi possível expulsar esse usuário",
-                "banido": "tomou uma esfihada!",
-                "expulso": "foi expulso do server"
-            },
             "anuncio": {
                 "anuncio_games": "A partir de agora o knel repl_canal irá receber menções quando houver jogos gratuitos disponíveis\nUsa o comando fartando valores pra desligar as notificações",
                 "anuncio_off": "Anúncios de jogos desligados pra este server",

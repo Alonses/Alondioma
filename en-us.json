@@ -269,15 +269,6 @@
                 "apagado_2": "message` has been removed",
                 "error": "Unable to run this command because there are pinned or too old messages, decrease the value and try again"
             },
-            "adm": {
-                "permissao": "I don't have `ban and kick members` permissions on the server",
-                "razao": "Reason not informed",
-                "error_1": "Stop there, you noob! This member is also an administrator.",
-                "error_ban": "Unable to ban this user",
-                "error_kick": "Unable to expel this user",
-                "banido": "was banned",
-                "expulso": "was removed from server"
-            },
             "anuncio": {
                 "anuncio_games": "From now on, the repl_canal channel will receive updates when free games are available\nUse the command without parameters to disable these updates.",
                 "anuncio_off": "Game notifications turned off for this server",

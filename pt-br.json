@@ -269,15 +269,6 @@
                 "apagado_2": "mensagem` foi removida",
                 "error": "Não foi possível executar este comando, pois há mensagens fixadas ou muito antigas, por favor, diminua a quantidade e tente novamente"
             },
-            "adm": {
-                "permissao": "Eu não possui permissões para `Banir e Expulsar membros` do servidor",
-                "razao": "Razão não informada",
-                "error_1": "Parado ai seu salafrário! Este membro é um Administrador também",
-                "error_ban": "Não foi possível banir o usuário",
-                "error_kick": "Não foi possível expulsar o usuário",
-                "banido": "tomou uma esfihada!",
-                "expulso": "foi expulso do servidor"
-            },
             "anuncio": {
                 "anuncio_games": "A partir de agora o canal repl_canal irá receber atualizações quando houver jogos gratuitos disponíveis\nUtilize o comando sem parametros para remover as atualizações",
                 "anuncio_off": "Anúncios de jogos desligados para este servidor",
