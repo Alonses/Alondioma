@@ -263,13 +263,13 @@
                 "titulo_idioma": "Idiomas disponíveis"
             },
             "clear": {
-                "permissao_1": "Você não possui a permissão `Gerenciar mensagens`",
-                "permissao_2": "Eu não posso fazer isso sem a permissão de `Gerenciar mensagens`",
+                "permissao": "Eu não posso fazer isso sem a permissão de `Gerenciar mensagens`",
                 "apagado_1": "mensagens` foram removidas",
                 "apagado_2": "mensagem` foi removida",
                 "error": "Não foi possível executar este comando, pois há mensagens fixadas ou muito antigas, por favor, diminua a quantidade e tente novamente"
             },
             "anuncio": {
+                "permissao": "Você não pode usar este comando, pois não pode `gerenciar os canais` do servidor!",
                 "anuncio_games": "A partir de agora o canal repl_canal irá receber atualizações quando houver jogos gratuitos disponíveis\nUtilize o comando sem parametros para remover as atualizações",
                 "anuncio_off": "Anúncios de jogos desligados para este servidor",
                 "ativos": "Ativos no momento",
@@ -285,7 +285,7 @@
                 "permissao_2": "Eu não posso bloquear este canal, eu preciso das permissões `Gerenciar Canais` & `Gerenciar cargos` para isto"
             },
             "xp": {
-                "permissao_1": "Você não pode gerenciar os membros deste servidor",
+                "permissao": "Você não pode gerenciar os membros deste servidor",
                 "sucesso": "A Experiência de `nick_repl` foi alterada para `exp_repl exp`, seu novo nível é `nivel_repl`",
                 "error_2": "Houve um erro inesperado e não foi possível alterar o exp deste usuário no momento.\nPor Favor, tente novamente mais tarde"
             },

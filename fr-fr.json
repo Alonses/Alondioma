@@ -263,13 +263,13 @@
                 "titulo_idioma": "Langues disponibles"
             },
             "clear": {
-                "permissao_1": "Vous ne disposez pas de l'autorisation `Gérer les messages`",
-                "permissao_2": "Je ne peux pas faire cela sans l'autorisation `Gérer les messages`",
+                "permissao": "Je ne peux pas faire cela sans l'autorisation `Gérer les messages`",
                 "apagado_1": "messages` ont été supprimés",
                 "apagado_2": "message` a été supprimé",
                 "error": "Impossible d'exécuter cette commande car il y a des publications épinglées ou obsolètes, veuillez réduire le nombre et réessayer"
             },
             "anuncio": {
+                "permissao": "Vous ne pouvez pas utiliser cette commande car vous ne pouvez pas `gérer les chaînes` depuis le serveur !",
                 "anuncio_games": "À partir de maintenant, cette repl_canal chaîne recevra des mises à jour lorsque des jeux gratuits seront disponibles\nUtilisez la commande sans paramètres pour supprimer les mises à jour.",
                 "anuncio_off": "Notifications de jeu désactivées pour cette serveur",
                 "ativos": "Actuellement actif",

@@ -58,11 +58,7 @@
                 "apelido": "Seu apelido foi trocado pra `apelido_repl`!\nUsa o comando dnv pra bagunçar ainda mais!"
             },
             "baidu": {
-                "baidu": [
-                    "Louvado seja!!",
-                    "Amém igroja!!",
-                    "Kifflom!"
-                ]
+                "baidu": ["Louvado seja!!", "Amém igroja!!", "Kifflom!"]
             },
             "amor": {
                 "teste": "Deu issaq"
@@ -80,7 +76,7 @@
                 "sorte": "Repetiu umas palavras! Cagado!"
             },
             "jaja": {
-                "nsfw_jaja": "Devido ao excesso de delícia este comando só pode ser usado num knel NSFW"
+                "nsfw_jaja": "Devido ao excesso de delícia esse comando só pode ser usado num knel NSFW"
             },
             "rank": {
                 "rank_sv": "Rank de",
@@ -191,7 +187,7 @@
             "help_comando": {
                 "traducao_faltando": "Este comando ainda não possui uma tradução pra o seu idioma, aguarde!",
                 "usos": "Usos",
-                "nao_encontrado": "Não encontrei nenhum comando com este nome ou aliase, xora"
+                "nao_encontrado": "Não encontrei nenhum comando com esse nome ou aliase, xora"
             },
             "data": {
                 "ranking_guilds": "Ranking nos seguintes serveres",
@@ -206,7 +202,7 @@
             },
             "telemetria": {
                 "titulo": "> 🎲 de telemetria",
-                "descricao": "Pra um melhor funcionamento do Alonsal utilizamos de vários 🎲 anonimizados pra decidir em quais recursos prover mais atenção e melhorar no futuro.\n\n🎲 esses podem vir de todas as funções do bóti, o mais destacado deles é o de comandos, ao usar um comando, como este do /telemetria, o bóti registra a interação em seu histórico de comandos e mostra um resuminho de qual server o comando foi invocado, tipo na print abaixo.\n\nOutros 🎲 que tbm coletamos estão disponíveis a seguir:\n`Entrada e saída (do bóti) de servers`, `Total de servers, canéis e usuários que o bóti consegue ver`, `Epic Embed Fails que ocorrerem durante um comando`, `Mensagens de texto pra as experiências/nível`, `Movimentações nas Bufunfas`, `Canais que recebem atts de jogos gratuitos`, e por fim estes últimos que são atualizados todo dia:\n\n`Comandos invocados, erros, xp concedido, mensagens válidas pra xp, bufunfas distribuídas e movimentadas, e servers, canais e usuários \"conhecidos\".`",
+                "descricao": "Pra um melhor funcionamento do Alonsal utilizamos de vários 🎲 anonimizados pra decidir em quais recursos prover mais atenção e melhorar no futuro.\n\n🎲 esses podem vir de todas as funções do bóti, o mais destacado deles é o de comandos, ao usar um comando, como esse do /telemetria, o bóti registra a interação em seu histórico de comandos e mostra um resuminho de qual server o comando foi invocado, tipo na print abaixo.\n\nOutros 🎲 que tbm coletamos estão disponíveis a seguir:\n`Entrada e saída (do bóti) de servers`, `Total de servers, canéis e usuários que o bóti consegue ver`, `Epic Embed Fails que ocorrerem durante um comando`, `Mensagens de texto pra as experiências/nível`, `Movimentações nas Bufunfas`, `Canais que recebem atts de jogos gratuitos`, e por fim esses últimos que são atualizados todo dia:\n\n`Comandos invocados, erros, xp concedido, mensagens válidas pra xp, bufunfas distribuídas e movimentadas, e servers, canais e usuários \"conhecidos\".`",
                 "rodape": "🔰 | Vale ressaltar que entradas de texto são privadas tbm, tornando o conteúdo digitado não visível pra sua privacidade."
             }
         },
@@ -215,15 +211,15 @@
                 "titulo_idioma": "Idiomas disponíveis"
             },
             "clear": {
-                "permissao_1": "Ocê não possui a permissão `Gerenciar mensagens`",
-                "permissao_2": "O não consigo fazer isso sem a permissão de `Gerenciar mensagens`",
+                "permissao": "Eu não consigo fazer isso sem a permissão de `Gerenciar mensagens`",
                 "apagado_1": "mensagens` foram excluídas",
                 "apagado_2": "mensagem` foi excluída",
                 "error": "Deu xabu aqui, tem algumas mensagens fixadas ou mensagens bem véias, diminui a quantidade ai e tenta dnv"
             },
             "anuncio": {
+                "permissao": "Oce não pode usar esse comando, pq não pode `gerenciar os canais` do servidor!",
                 "anuncio_games": "A partir de agora o knel repl_canal irá receber menções quando houver jogos gratuitos disponíveis\nUsa o comando fartando valores pra desligar as notificações",
-                "anuncio_off": "Anúncios de jogos desligados pra este server",
+                "anuncio_off": "Anúncios de jogos desligados pra esse server",
                 "ativos": "Ativos no momento",
                 "tipo_canal": "O knel definido precisa ser um knel de texto, tenta dnv",
                 "ate_data": "até",
@@ -234,7 +230,7 @@
                 "lock": "bloqueado\nUsa o `.aunlk` pra desbloquear",
                 "unlock": "desbloqueado\nUsa o `.alock` pra bloquear",
                 "permissao_1": "Tu não pode gerenciar esse knel",
-                "permissao_2": "Eu não posso bloquear este knel, eu preciso das permissões `Gerenciar Canais` & `Gerenciar cargos` pra isto"
+                "permissao_2": "Eu não posso bloquear esse knel, eu preciso das permissões `Gerenciar Canais` & `Gerenciar cargos` pra isto"
             },
             "xp": {
                 "permissao_1": "Ocê não pode gerenciar os membros desse server",
@@ -288,7 +284,7 @@
             "binario": {
                 "codificado": ":one: Sua mensagem codificada em binário",
                 "decodificado": ":zero: Sua mensagem decodificada do binário",
-                "aviso_1": "Escreva algo pra utilizar este comando",
+                "aviso_1": "Escreva algo pra utilizar esse comando",
                 "aviso_2": "Informe como `.abn encode <seu_texto>` ou `.abn decode <seu_texto_codificado>`",
                 "resul_vazio": "O resultado final tava bugado, tente dnv",
                 "titulo_vazio": ":octagonal_sign: A decodificação deu um bug",
@@ -300,7 +296,7 @@
                 "download_icon": "Clique [aqui](link_repl) pra baixar essa ibagem",
                 "sem_avatar": "Este corno não botou um avatar custom!",
                 "sem_banner": "Este corno não botou um banner custom!",
-                "error_1": "Não foi possível buscar este salafrario no momento, tenta dnv depois"
+                "error_1": "Não foi possível buscar esse salafrario no momento, tenta dnv depois"
             },
             "reverso": {
                 "reverso": "Sua mensagem ao contrário"

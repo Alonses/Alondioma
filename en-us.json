@@ -263,13 +263,13 @@
                 "titulo_idioma": "Available languages"
             },
             "clear": {
-                "permissao_1": "You do not have `Manage messages` permission",
-                "permissao_2": "I can't do this without the `Manage messages` permission",
+                "permissao": "I can't do this without the `Manage messages` permission",
                 "apagado_1": "messages` have been removed",
                 "apagado_2": "message` has been removed",
                 "error": "Unable to run this command because there are pinned or too old messages, decrease the value and try again"
             },
             "anuncio": {
+                "permissao": "You cannot use this command as you cannot `manage channels` from the server!",
                 "anuncio_games": "From now on, the repl_canal channel will receive updates when free games are available\nUse the command without parameters to disable these updates.",
                 "anuncio_off": "Game notifications turned off for this server",
                 "ativos": "Currently active",

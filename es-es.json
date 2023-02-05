@@ -263,13 +263,13 @@
                 "titulo_idioma": "Idiomas Disponibles"
             },
             "clear": {
-                "permissao_1": "No tienes permiso para \"Gestionar mensajes\".",
-                "permissao_2": "No puedo hacer esto sin el permiso `Administrar mensajes`.",
+                "permissao": "No puedo hacer esto sin el permiso `Administrar mensajes`.",
                 "apagado_1": "publicaciones` han sido eliminadas",
                 "apagado_2": "publicación` ha sido eliminada",
                 "error": "No se puede ejecutar este comando porque hay mensajes fijos o demasiado antiguos, reduzca el número e intente nuevamente"
             },
             "anuncio": {
+                "permissao": "¡No puede usar este comando ya que no puede `administrar canales` desde el servidor!",
                 "anuncio_games": "A partir de ahora, el canal repl_canal recibirá actualizaciones cuando haya juegos gratuitos disponibles\nUtilice el comando sin parámetros para eliminar las actualizaciones",
                 "anuncio_off": "Anuncios de juegos desactivados para este servidor",
                 "ativos": "Actualmente activo",
