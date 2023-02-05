@@ -269,37 +269,14 @@
                 "apagado_2": "message` has been removed",
                 "error": "Unable to run this command because there are pinned or too old messages, decrease the value and try again"
             },
-            "emojis": {
-                "aviso_1": "Add a custom emoji to your command! :P",
-                "aviso_2": "Enter an emoji to be viewed\nFor example,",
-                "aviso_3": "Enter an emoji and its name\nFor example,",
-                "aviso_4": "Send only 1 emoji at a time :P",
-                "aviso_5": "Upload an image smaller than 250kb to use as an emoji",
-                "aviso_6": "Include emoji to remove\nFor example,",
-                "aviso_7": "Enter an emoji to be removed",
-                "aviso_8": "Enter a custom emoji from this server to be removed\nYou can also use the emoji id, for example `.armoji 914227763978838116`",
-                "permissao_1": "You do not have permissions to manage emojis on this server",
-                "permissao_2": "I don't have permissions to `manage emojis` on this server",
-                "requebrando": "dancing",
-                "sucesso_1": "Emoji has been added!",
-                "sucesso_2": "Emoji has been removed from the server",
-                "error_1": "Unable to process this file\nSend an image file for me to manipulate ;)",
-                "error_2": "Emoji limit for this server has been reached, remove some before adding new ones",
-                "error_3": "Could not remove this emoji, try again"
-            },
             "adm": {
-                "permissao_1": "You cannot ban or kick members.",
-                "permissao_2": "I cannot ban or kick members",
-                "permissao_3": "You don't have permissions to manage the server",
-                "user_id": "Enter a user ID",
+                "permissao": "I don't have `ban and kick members` permissions on the server",
                 "razao": "Reason not informed",
                 "error_1": "Stop there, you noob! This member is also an administrator.",
-                "error_2": "Invalid User!",
                 "error_ban": "Unable to ban this user",
                 "error_kick": "Unable to expel this user",
                 "banido": "was banned",
-                "expulso": "was removed from server",
-                "moderadores": "Only moderators can run this command"
+                "expulso": "was removed from server"
             },
             "anuncio": {
                 "anuncio_games": "From now on, the repl_canal channel will receive updates when free games are available\nUse the command without parameters to disable these updates.",
@@ -324,6 +301,22 @@
             "oculto": {
                 "ativo": "Ghost mode active! Now all used commands will be visible only to you.\nUse the command again to disable.",
                 "desativo": "Ghost mode disabled! Now all used commands will be visible to everyone.\nUse the command again if you want to activate."
+            },
+            "emojis": {
+                "permissao": "I don't have the permission to manage the emojis and stickers on this server.",
+                "emoji_reservado": "This emoji is used by me! We cannot remove.",
+                "aviso_1": "Insert an image file or mention an emoji to use this command!",
+                "emoji_custom": "Enter a custom emoji to add",
+                "emoji_custom_remover": "Enter a custom emoji to remove",
+                "emoji_max": "The maximum number of emojis for this server has been reached",
+                "emoji_error": "Unable to create emoji",
+                "emoji_error_remover": "Unable to remove this emoji",
+                "sticker_max": "The maximum number of stickers for this server has been reached",
+                "sticker_error": "Unable to create this sticker",
+                "emoji_estrangeiro": "This emoji does not belong on this server!\nPlease try again",
+                "emoji_criado": "Emoji `nome_repl` successfully created!",
+                "emoji_removido": "The `nome_repl` emoji has been removed from the server!",
+                "figurinha_criada": "Sticker `nome_repl` successfully created!"
             }
         },
         "util": {
@@ -532,9 +525,7 @@
                 "mencao": "Mention",
                 "transmissao": "Transmission",
                 "sem_limite": "Unlimited",
-                "modo_lento": "Slow mode",
-                "aviso_1": "Enter the ID of a channel!",
-                "error_1": "Could not find this channel, please try again"
+                "modo_lento": "Slow mode"
             },
             "steam": {
                 "undefined": "Unknow",

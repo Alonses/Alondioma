@@ -2,7 +2,7 @@
     "data": {
         "inic": {
             "inicio": {
-                "slash_commands": "Os comandos tradicionais foram desativados, continue usando o Alonsal pelos comandos de `/barra` ( </help:1018609879512006787> )! Experimente agora mesmo ;D\n\nNota: Não consegue ver meus comandos? Me convide novamente clicando no botão abaixo! Tbm verifique se meus comandos estão habilitados para todos nas integrações do servidor em `Integrações -> Alonsal -> Comandos`",
+                "slash_commands": "Os comandos tradicionais foram desativados, continue usando o Alonsal pelos comandos de `/barra` ( </help:1018609879512006787> )! Experimente agora mesmo ;D\n\nNota: Não consegue ver meus comandos? Me convide novamente clicando no botão abaixo! Tbm verifique se meus comandos estão habilitados pra todos nas integrações do server em `Integrações -> Alonsal -> Comandos`",
                 "convidar": "Convidar!",
                 "suporte": "Suporte"
             },
@@ -12,7 +12,7 @@
             },
             "ping": {
                 "titulo": "> Ó Abre alas que eu queru passsaa :notes:",
-                "boas_vindas": "Olá! Obrigado por me adicionar ao servidor!\n\nDeixo em anexo abaixo o meu site, com todos os comandos caso necessário ;D",
+                "boas_vindas": "Olá! Obrigado por me adicionar ao server!\n\nDeixo em anexo abaixo o meu site, com todos os comandos caso necessário ;D",
                 "idioma_dica": "Do not speak Portuguese? No problems! Change my language right now with the /idioma command!",
                 "site": "Site Alonsal"
             }
@@ -30,14 +30,14 @@
                 "footer": "Seus embeds irão aparecer assim e ao verem seu perfil com o Alonsal",
                 "rand_color": "Suas cores serão aleatórias a cada comando",
                 "cor_att": "Cor alterada! Agora seus _epic embed fails_ serão na nova cor",
-                "sem_money": "Ocê n tem `B$preco_repl` Bufunfas para ter essa cor!",
+                "sem_money": "Ocê n tem `B$preco_repl` Bufunfas pra ter essa cor!",
                 "att_cancelada": "Alteração de cor cancelada"
             },
             "pay": {
                 "error": "Ocê não tem `B$valor_repl` Bufunfas pra transferir!",
-                "error_2": "Bota um número positivo para depositar aí meo!",
-                "error_3": "Cê não pode transferir para si mesmo!",
-                "user_bot": "Cê não pode transferir Bufunfas para outros bótis além de mim!",
+                "error_2": "Bota um número positivo pra depositar aí meo!",
+                "error_3": "Cê não pode transferir pra si mesmo!",
+                "user_bot": "Cê não pode transferir Bufunfas pra outros bótis além de mim!",
                 "sucesso": "Transferência aprovada! `B$valor_repl` Bufunfas foram enviadas na conta de",
                 "notifica": "Ocê acabou de receber um depósito! <@!user_repl> mandou `B$valor_repl` Bufunfas procê! STONKS"
             },
@@ -55,10 +55,14 @@
                 "permissao_1": "O Discord não deixa os bots botarem apelido nos donos do server (tu)",
                 "permissao_2": "Eu não posso mudar o apelido de outros usuários nesse server :(",
                 "error_1": "Deu um xabu aqui e não consegui trocar seu apelido! Tenta dnv dps",
-                "apelido": "Seu apelido foi trocado para `apelido_repl`!\nUsa o comando dnv para bagunçar ainda mais!"
+                "apelido": "Seu apelido foi trocado pra `apelido_repl`!\nUsa o comando dnv pra bagunçar ainda mais!"
             },
             "baidu": {
-                "baidu": ["Louvado seja!!", "Amém igroja!!", "Kifflom!"]
+                "baidu": [
+                    "Louvado seja!!",
+                    "Amém igroja!!",
+                    "Kifflom!"
+                ]
             },
             "amor": {
                 "teste": "Deu issaq"
@@ -70,13 +74,13 @@
                 "anagrama": "O Anagrama",
                 "entrada": "Sua entrada",
                 "lista_combinacoes": "O que dá eu fiz",
-                "sequencia": "O que dá para fazer",
+                "sequencia": "O que dá pra fazer",
                 "combinacao": "combinação",
                 "combinacoes": "combinações!",
                 "sorte": "Repetiu umas palavras! Cagado!"
             },
             "jaja": {
-                "nsfw_jaja": "Devido ao excesso de delícia este comando só pode ser usado num canal NSFW"
+                "nsfw_jaja": "Devido ao excesso de delícia este comando só pode ser usado num knel NSFW"
             },
             "rank": {
                 "rank_sv": "Rank de",
@@ -94,10 +98,10 @@
                 "aliase_faltando": "aliase faltando",
                 "nome_faltando": "Nome faltando",
                 "error_1": "Bota um número menor ae meo",
-                "error_rc": "Tô com preguiça para carregar o rank de comandos agr, tenta dnv dps"
+                "error_rc": "Tô com preguiça pra carregar o rank de comandos agr, tenta dnv dps"
             },
             "badges": {
-                "error_1": "Ocê não tem nenhuma badge para ver!",
+                "error_1": "Ocê não tem nenhuma badge pra ver!",
                 "error_2": "Ocê não tem essa badge",
                 "suas_badges": "Suas Badges",
                 "ganhou": "ganhou em",
@@ -115,7 +119,7 @@
                 "conteudo": "O 1° Jogo criado pelo Slondo!\nQuão longe ocê consegue correr? Teste agora mesmo!",
                 "rodape": "O jogo pode não rodar direito em celulares.",
                 "vinculo": "Esse usuário não linkou o Discord ao Pula Prédios:tm: ainda!",
-                "error_1": "Houve um erro com o Token, estamos enceirando para descobrir qual foi o problema, por favor, tente novamente mais tarde",
+                "error_1": "Houve um erro com o Token, estamos enceirando pra descobrir qual foi o problema, por favor, tenta dnv mais tarde",
                 "error_2": "Houve um erro com a APISAL, não sendo foi possível realizar essa função no momento, tenta dnv depois"
             },
             "cara": {
@@ -144,7 +148,7 @@
         "manu": {
             "avalie": {
                 "titulo": "> Me avalie pelo TopGG e ajude a causa Alonsal!",
-                "descricao": "Bota tua avaliação de mim no TopGG e ajude com minha att de recursos!\n\nPara denunciar bugs e problemas, ou dar sugestões, use o comando </mail:1018609879512006788>"
+                "descricao": "Bota tua avaliação de mim no TopGG e ajude com minha att de recursos!\n\nPra denunciar bugs e problemas, ou dar sugestões, use o comando </mail:1018609879512006788>"
             },
             "convite": {
                 "titulo": "> Ó Abre alas que eu queru passsaa :notes:",
@@ -156,7 +160,7 @@
             },
             "info": {
                 "infos": "Patinando entre as linhas bugadas :man_golfing:",
-                "conteudo_1": "Este bóti é patrocinado por Baidu e Renato's lanches, 40 tipos de lanche, hot dog, fastfood em 5 minutos, a maior casa de lanches de extrema, venha comer o renatão de 4, o lanche completo!\n\n:mailbox: Sugira comandos ou reporte bugs usando o **`/mail <sua msg>`**\n:page_facing_up: Utilize **`/git`** para visualizar o repositório do Alonsal",
+                "conteudo_1": "Este bóti é patrocinado por Baidu e Renato's lanches, 40 tipos de lanche, hot dog, fastfood em 5 minutos, a maior casa de lanches de extrema, venha comer o renatão de 4, o lanche completo!\n\n:mailbox: Sugira comandos ou reporte bugs usando o **`/mail <sua msg>`**\n:page_facing_up: Utilize **`/git`** pra ver o repositório do Alonsal",
                 "conteudo_2": "**`/discord`** - Entre no Hub multiconectado do Alonsal",
                 "conteudo_3": "**`/suporte`** - Ajude a manter e desenvolver o Alonsal\n\n-----------------------------\n> OUTROS RECURSOS\nFrases do **`/gado`** são de total direito do @GadoDecider, todos os créditos vão a ele. ( https://twitter.com/GadoDecider )",
                 "invocado_1": "Já fui invocado",
@@ -165,45 +169,45 @@
                 "spawn_alonsal": "Brotei em "
             },
             "mail": {
-                "aviso_1": "Há um erro em sua mensagem, tente novamente.",
+                "aviso_1": "Há um erro em sua mensagem, tenta dnv.",
                 "aviso_2": ":mailbox: Sua mensagem foi entregue!",
                 "aviso_5": ":incoming_envelope:\nDespachei mais informações no seu privado :mailbox_with_mail:",
-                "error_1": "Não foi possível enviar a mensagem para este ID",
-                "sucesso_1": "Mensagem enviada para o Alonsal :incoming_envelope:\nDespachei mais informações no seu privado :mailbox_with_mail:",
-                "conteudo_1": "Sua mensagem foi entregue para o/a",
+                "error_1": "Não foi possível enviar a mensagem pra esse ID",
+                "sucesso_1": "Mensagem enviada pra o Alonsal :incoming_envelope:\nDespachei mais informações no seu privado :mailbox_with_mail:",
+                "conteudo_1": "Sua mensagem foi entregue pro/a",
                 "conteudo_2": "O Conteúdo da mensagem é"
             },
             "help": {
-                "comandos": "Veja os comandos, me convide ou acesse meu servidor pelo site!"
+                "comandos": "Veja os comandos, me convide ou acesse meu server pelo site!"
             },
             "apoio": {
                 "apoie": "> Apoie o Alonsal!",
-                "escaneie": "Scaneie ou clique no Titulo acima para doar\ne ajudar a manter e desenvolver o Alonsal!\nToda ajuda é ultra Bem-Vinda ;D"
+                "escaneie": "Scaneie ou clique no Titulo acima pra doar\ne ajudar a manter e desenvolver o Alonsal!\nToda ajuda é ultra Bem-Vinda ;D"
             },
             "hub": {
                 "hub_alonsal": "> Hub do Alonsal",
-                "info": "Entre agora mesmo no meu servidor, seja para tirar dúvidas, ou usar os comandos, o server é liberado para todos!"
+                "info": "Entre agora mesmo no meu server, seja pra tirar dúvidas, ou usar os comandos, o server é liberado pra todos!"
             },
             "help_comando": {
-                "traducao_faltando": "Este comando ainda não possui uma tradução para o seu idioma, aguarde!",
+                "traducao_faltando": "Este comando ainda não possui uma tradução pra o seu idioma, aguarde!",
                 "usos": "Usos",
                 "nao_encontrado": "Não encontrei nenhum comando com este nome ou aliase, xora"
             },
             "data": {
-                "ranking_guilds": "Ranking nos seguintes servidores",
+                "ranking_guilds": "Ranking nos seguintes serveres",
                 "dados_conhecidos": "> Seus :game_die: conhecidos",
                 "resumo_dados": "Este é um resumão dos :game_die: que salvei docê",
                 "dica_rodape": "Ocê pode excluir todos os seus 🎲 com o comando /data excluir",
                 "dados_removidos": "Seus :game_die: foram removidos do",
                 "sem_dados": "Ocê não possui :game_die: salvos por aqui ;)",
-                "server_desconhecido": "servidor desconhecido",
-                "um_server": "e 1 outro servidor",
-                "outros_servers": "e outros server_repl servidores"
+                "server_desconhecido": "server desconhecido",
+                "um_server": "e 1 outro server",
+                "outros_servers": "e outros server_repl serveres"
             },
             "telemetria": {
                 "titulo": "> 🎲 de telemetria",
-                "descricao": "Para um melhor funcionamento do Alonsal utilizamos de vários 🎲 anonimizados para decidir em quais recursos prover mais atenção e melhorar no futuro.\n\n🎲 esses podem vir de todas as funções do bóti, o mais destacado deles é o de comandos, ao usar um comando, como este do /telemetria, o bóti registra a interação em seu histórico de comandos e mostra um resuminho de qual servidor o comando foi invocado, tipo na print abaixo.\n\nOutros 🎲 que tbm coletamos estão disponíveis a seguir:\n`Entrada e saída (do bóti) de servers`, `Total de servers, canéis e usuários que o bóti consegue ver`, `Epic Embed Fails que ocorrerem durante um comando`, `Mensagens de texto para as experiências/nível`, `Movimentações nas Bufunfas`, `Canais que recebem atts de jogos gratuitos`, e por fim estes últimos que são atualizados todo dia:\n\n`Comandos invocados, erros, xp concedido, mensagens válidas para xp, bufunfas distribuídas e movimentadas, e servers, canais e usuários \"conhecidos\".`",
-                "rodape": "🔰 | Vale ressaltar que entradas de texto são privadas tbm, tornando o conteúdo digitado não visível para sua privacidade."
+                "descricao": "Pra um melhor funcionamento do Alonsal utilizamos de vários 🎲 anonimizados pra decidir em quais recursos prover mais atenção e melhorar no futuro.\n\n🎲 esses podem vir de todas as funções do bóti, o mais destacado deles é o de comandos, ao usar um comando, como este do /telemetria, o bóti registra a interação em seu histórico de comandos e mostra um resuminho de qual server o comando foi invocado, tipo na print abaixo.\n\nOutros 🎲 que tbm coletamos estão disponíveis a seguir:\n`Entrada e saída (do bóti) de servers`, `Total de servers, canéis e usuários que o bóti consegue ver`, `Epic Embed Fails que ocorrerem durante um comando`, `Mensagens de texto pra as experiências/nível`, `Movimentações nas Bufunfas`, `Canais que recebem atts de jogos gratuitos`, e por fim estes últimos que são atualizados todo dia:\n\n`Comandos invocados, erros, xp concedido, mensagens válidas pra xp, bufunfas distribuídas e movimentadas, e servers, canais e usuários \"conhecidos\".`",
+                "rodape": "🔰 | Vale ressaltar que entradas de texto são privadas tbm, tornando o conteúdo digitado não visível pra sua privacidade."
             }
         },
         "mode": {
@@ -217,68 +221,62 @@
                 "apagado_2": "mensagem` foi excluída",
                 "error": "Deu xabu aqui, tem algumas mensagens fixadas ou mensagens bem véias, diminui a quantidade ai e tenta dnv"
             },
-            "emojis": {
-                "aviso_1": "Bota um emoji customizado no seu comando alek",
-                "aviso_2": "Informe um emoji para ser visualizado\nTipo,",
-                "aviso_3": "Insira um emoji e o nome dele\nTipo,",
-                "aviso_4": "Envie apenas 1 emoji por vez :P",
-                "aviso_5": "Envie uma imagem com tamanho menor que 250kb para usar de emoji",
-                "aviso_6": "Inclua o emoji para remover\nTipo,",
-                "aviso_7": "Informe um emoji para ser removido",
-                "aviso_8": "Informe um emoji customizado deste servidor para ser removido\nOcê tbm pode usar o ID, como `.armoji 914227763978838116` tipo",
-                "permissao_1": "Ocê não possui permissões para gerenciar emojis neste servidor",
-                "permissao_2": "Eu não possuo permissões para `gerenciar emojis` neste servidor",
-                "requebrando": "requebrando",
-                "sucesso_1": "O Emoji foi adicionado!",
-                "sucesso_2": "O Emoji foi removido do servidor",
-                "error_1": "Não é possível processar este arquivo\nEnvie um arquivo de imagem para eu poder manipular ;)",
-                "error_2": "O Limite de emojis para este servidor foi atingido, remova alguns antes de adicionar novos",
-                "error_3": "Não foi possível remover este emoji, tente novamente"
-            },
             "adm": {
-                "permissao_1": "Ocê não pode banir ou expulsar membros",
-                "permissao_2": "Eu não posso banir ou expulsar membros",
-                "permissao_3": "Ocê não possui permissões para gerenciar o servidor",
-                "user_id": "Bota o ID de um user ae",
+                "permissao": "Eu não tenho permissões pra `Banir e Expulsar membros` do server",
                 "razao": "Razão não informada",
                 "error_1": "Parado ai seu salafrário! Este membro é um Administrador tbm",
-                "error_2": "Usuário inválido!",
                 "error_ban": "Não foi possível banir esse usuário",
                 "error_kick": "Não foi possível expulsar esse usuário",
                 "banido": "tomou uma esfihada!",
-                "expulso": "foi expulso do servidor",
-                "moderadores": "Apenas adms (do discord) podem executar este comando"
+                "expulso": "foi expulso do server"
             },
             "anuncio": {
-                "anuncio_games": "A partir de agora o canal repl_canal irá receber menções quando houver jogos gratuitos disponíveis\nUsa o comando fartando valores pra desligar as notificações",
-                "anuncio_off": "Anúncios de jogos desligados para este servidor",
+                "anuncio_games": "A partir de agora o knel repl_canal irá receber menções quando houver jogos gratuitos disponíveis\nUsa o comando fartando valores pra desligar as notificações",
+                "anuncio_off": "Anúncios de jogos desligados pra este server",
                 "ativos": "Ativos no momento",
-                "tipo_canal": "O canal definido precisa ser um canal de texto, tente novamente",
+                "tipo_canal": "O knel definido precisa ser um knel de texto, tenta dnv",
                 "ate_data": "até",
                 "resgate_dica": "Esses são os joojs free do momento\nResgate antes que expirem!"
             },
             "canal": {
-                "canal": "Canal",
-                "lock": "bloqueado\nUsa o `.aunlk` para desbloquear",
-                "unlock": "desbloqueado\nUsa o `.alock` para bloquear",
-                "permissao_1": "Tu não pode gerenciar esse canal",
-                "permissao_2": "Eu não posso bloquear este canal, eu preciso das permissões `Gerenciar Canais` & `Gerenciar cargos` para isto"
+                "canal": "Knel",
+                "lock": "bloqueado\nUsa o `.aunlk` pra desbloquear",
+                "unlock": "desbloqueado\nUsa o `.alock` pra bloquear",
+                "permissao_1": "Tu não pode gerenciar esse knel",
+                "permissao_2": "Eu não posso bloquear este knel, eu preciso das permissões `Gerenciar Canais` & `Gerenciar cargos` pra isto"
             },
             "xp": {
-                "permissao_1": "Ocê não pode gerenciar os membros deste servidor",
-                "sucesso": "A Experiência de `nick_repl` foi alterada para `exp_repl exp`, seu novo nível é `nivel_repl`",
-                "error_2": "Houve um erro inesperado e não foi possível alterar o exp deste usuário no momento.\nPor Favor, tente novamente mais tarde"
+                "permissao_1": "Ocê não pode gerenciar os membros desse server",
+                "sucesso": "A Experiência de `nick_repl` foi alterada pra `exp_repl exp`, seu novo nível é `nivel_repl`",
+                "error_2": "Houve um erro inesperado e não foi possível alterar o exp desse usuário no momento.\nPor Favor, tenta dnv mais tarde"
             },
             "oculto": {
                 "ativo": "Modo fantasma ativado! Agora todos os retornos serão visíveis apenas procê.\nUsa o comando dnv pra desligar.",
                 "desativo": "Modo fantasma desligado! Agora todos os comandos serão visíveis pra geral.\nUsa o comando dnv caso queira se esconder."
+            },
+            "emojis": {
+                "permissao": "Não tenho permissão pra gerenciar emojis e figurinhas neste server.",
+                "emoji": "Emoji",
+                "emoji_reservado": "Este emoji é usado por mim! Não podemos remover ele seu cornu.",
+                "aviso_1": "Insira um arquivo de imagem um mencione um emoji pra usar esse comando!",
+                "emoji_custom": "Bota um emoji customizado no seu comando alek",
+                "emoji_custom_remover": "Bota um emoji customizado pra remover",
+                "emoji_max": "Já estourou o limite de emojis nesse server, chora",
+                "emoji_error": "Não deu pra criar o emoji, tenta dnv",
+                "emoji_error_remover": "Não deu pra excluir o emoji, tenta dnv",
+                "sticker_max": "Tá lotado de figurinhas nesse server, não tem como adicionar mais",
+                "sticker_error": "Não consegui criar a figurinha",
+                "emoji_estrangeiro": "Esse emoji não é desse server!\nTenta dnv",
+                "emoji_criado": "Emoji `nome_repl` criado com sucesso!",
+                "emoji_removido": "O emoji `nome_repl` foi removido do server!",
+                "figurinha_criada": "Figurinha `nome_repl` criado!"
             }
         },
         "util": {
             "ping": {
                 "ping_1": "Tá lagado um poko tô renderizando vídeo",
                 "ping_2": "Tudo numa boa!",
-                "ping_3": "Dá até para jogar de olhos fechados!",
+                "ping_3": "Dá até pra jogar de olhos fechados!",
                 "ping_4": "Pode jogar fora esse teu roteador!",
                 "ping_5": "BLZ, quem instalou baidu aqui? EMMM???",
                 "latencia": "Latência do Alonsal"
@@ -299,16 +297,16 @@
             "binario": {
                 "codificado": ":one: Sua mensagem codificada em binário",
                 "decodificado": ":zero: Sua mensagem decodificada do binário",
-                "aviso_1": "Escreva algo para utilizar este comando",
+                "aviso_1": "Escreva algo pra utilizar este comando",
                 "aviso_2": "Informe como `.abn encode <seu_texto>` ou `.abn decode <seu_texto_codificado>`",
                 "resul_vazio": "O resultado final tava bugado, tente dnv",
                 "titulo_vazio": ":octagonal_sign: A decodificação deu um bug",
                 "error_1": "Não foi possível converter, epic embed fail!"
             },
             "avatar": {
-                "download_avatar": "Clique [aqui](link_repl) para baixar essa ibagem",
-                "download_banner": "Clique [aqui](link_repl) para baixar esse banner",
-                "download_icon": "Clique [aqui](link_repl) para baixar essa ibagem",
+                "download_avatar": "Clique [aqui](link_repl) pra baixar essa ibagem",
+                "download_banner": "Clique [aqui](link_repl) pra baixar esse banner",
+                "download_icon": "Clique [aqui](link_repl) pra baixar essa ibagem",
                 "sem_avatar": "Este corno não botou um avatar custom!",
                 "sem_banner": "Este corno não botou um banner custom!",
                 "error_1": "Não foi possível buscar este salafrario no momento, tenta dnv depois"
@@ -355,12 +353,12 @@
                 "antartida": "Antártida",
                 "equador": "Sa joça ae tá perto do equador, se pá a estação não funfa aqui",
                 "new_link": "Agora ovo usar entrada ( `entrada_repl` ) pra pesquisar com o comando </weather:1018653229128622187>!\nUsa dnv o </link locale:1020561785620803674> pra mudar o local fixado",
-                "error_locale": "Ocê não setou um lugar ainda, usa o </link locale:1020561785620803674> para setar um, ou usa o </weather:1018653229128622187> dnv informando algum lugar"
+                "error_locale": "Ocê não setou um lugar ainda, usa o </link locale:1020561785620803674> pra setar um, ou usa o </weather:1018653229128622187> dnv informando algum lugar"
             },
             "minecraft": {
                 "nao_encontrado": "Não encontrei nenhum item ou bloco com o nome",
-                "tente_novamente": "tente novamente",
-                "error_1": "Não foi possível carregar a base de itens no momento, tente novamente mais tarde",
+                "tente_novamente": "tenta dnv",
+                "error_1": "Não deu pra carregar a base de itens no momento, tenta dnv mais tarde",
                 "coletavel": "Coletável",
                 "tipo": "Tipo",
                 "versao_add": "Versão adicionada",
@@ -387,18 +385,18 @@
                 "numero": "numero",
                 "acontecimentos_1": "Acontecimentos pela história",
                 "acontecimentos_2": "Abaixo estão todos os acontecimentos na data de",
-                "utilize_1": "Utilize o comando",
-                "utilize_2": "para visualizar um acontecimento específico",
-                "aviso_1": "Envie como `.acon 31-01` para poder pesquisar em uma data específica\nOu use apenas `.acon` para ver acontecimentos na data de hoje pela história",
-                "aviso_2": "Os valores informados estão errados, por favor, insira valores numéricos corretos para dia e mês",
+                "utilize_1": "Usa o comando",
+                "utilize_2": "pra ver um acontecimento específico",
+                "aviso_1": "Envie como `.acon 31-01` pra poder pesquisar em uma data específica\nOu use apenas `.acon` pra ver acontecimentos na data de hoje pela história",
+                "aviso_2": "Os valores informados estão errados, por favor, insira valores numéricos corretos pra dia e mês",
                 "aviso_3": "Procurando uns eventos...",
-                "error_1": "Informe um número da lista de acontecimentos para visualizar mais detalhes",
+                "error_1": "Informe um número da lista de acontecimentos pra ver mais detalhes",
                 "sem_entradas": "Não aconteceu nada nesse dia, bota uma data diferente aí `.acon 21-01`"
             },
             "server": {
                 "id_server": "ID do server",
                 "membros": "Usuários",
-                "dono": "Dono",
+                "dono": "Patron",
                 "canais": "Canais",
                 "categorias": "Categorias",
                 "texto": "Texto",
@@ -409,11 +407,11 @@
                 "verificacao": "Verificação",
                 "cargos": "Cargos",
                 "figurinhas": "Figurinhas",
-                "NONE": ":white_large_square: Nenhum",
+                "NONE": ":white_large_square: Baderna liberada",
                 "LOW": ":blue_square: Baixo",
                 "MEDIUM": ":green_square: Médio",
                 "HIGH": ":orange_square: Alto",
-                "HIGHEST": ":red_square: Máximo"
+                "HIGHEST": ":red_square: Maquisimu"
             },
             "user": {
                 "id_user": "ID do usuário",
@@ -439,26 +437,24 @@
                 "e": "e"
             },
             "canal": {
-                "id_canal": "ID do canal",
-                "servidor": "Servidor",
-                "canal_voz": "É um canal de voz",
+                "id_canal": "ID do knel",
+                "server": "Server",
+                "canal_voz": "É um knel de voz",
                 "topico": "Tópico",
-                "sem_topico": "Canal sem tópico",
+                "sem_topico": "Knel sem tópico",
                 "mencao": "Menção",
                 "transmissao": "Transmissão",
-                "sem_limite": "Sem limite",
-                "modo_lento": "Modo lento",
-                "aviso_1": "Bota o ID do canal ai!",
-                "error_1": "Não encontrei esse canal, tenta dnv"
+                "sem_limite": "Sem limites",
+                "modo_lento": "Modo museu"
             },
             "steam": {
                 "undefined": "Desconhecido",
                 "error_1": "Perfil não encontrado, certifique-se que o perfil pesquisado possui uma url personalizada",
                 "error_2": "Este perfil existe mas houve um erro ao carregar ele",
-                "rodape": "Alguns (ou todos os) dados deste usuário não estão disponíveis no perfil do mesmo",
-                "analises": "Análises",
+                "rodape": "Alguns (ou todos os) dados desse usuário não estão disponíveis no perfil do mesmo",
+                "analises": "Analisis",
                 "nivel": "Nível",
-                "jogos": "Jogos",
+                "jogos": "Joojs",
                 "jogos_perfeitos": "J. 100%",
                 "conquistas": "Conquistas",
                 "porcentagem": "Porcent.",
@@ -466,7 +462,7 @@
                 "criacoes": "Criações",
                 "semanas": "2 Semanas",
                 "artes": "Artes",
-                "suspeito": "Este usuário pode star usando uns hacks para conseguir conquistas, não considere isso como uma afirmação, mas né ¯\\_(ツ)_/¯ SUSPE1T0",
+                "suspeito": "Este usuário pode star usando uns hacks pra conseguir conquistas, não considere isso como uma afirmação, mas né ¯\\_(ツ)_/¯ SUSPE1T0",
                 "jogo_favorito": "Jogo favorito",
                 "capturas": "Capturas",
                 "nome": "Nome",
@@ -476,7 +472,7 @@
                 "sem_link": "Esse corno não me linkou com a Steam, tenta dnv usando o nome personalizado dele"
             },
             "calc": {
-                "aviso_1": "Screva pelo menos uma operação básica para isso",
+                "aviso_1": "Screva pelo menos uma operação básica pra isso",
                 "resultado": "Resultado",
                 "error": "Deu pt aq ao processar sa budega"
             },

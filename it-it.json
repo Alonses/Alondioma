@@ -270,18 +270,13 @@
                 "error": "Impossibile eseguire questo comando perché ci sono messaggi bloccati o troppo vecchi, riduci il numero e riprova"
             },
             "adm": {
-                "permissao_1": "Non puoi bannare o cacciare i membri",
-                "permissao_2": "Non posso bannare o cacciare membri",
-                "permissao_3": "Non hai i permessi per gestire il server",
-                "user_id": "Immettere un ID utente",
+                "permissao": "Non ho i permessi `Ban and Kick members` dal server",
                 "razao": "Motivo non informato",
                 "error_1": "Fermati là! Questo membro è anche un amministratore",
-                "error_2": "Utente non valido!",
                 "error_ban": "Impossibile escludere l'utente",
                 "error_kick": "Impossibile espellere l'utente",
                 "banido": "è stato bannato dal server",
-                "expulso": "fè stato espulso dal server",
-                "moderadores": "Solo i moderatori possono eseguire questo comando"
+                "expulso": "fè stato espulso dal server"
             },
             "anuncio": {
                 "anuncio_games": "D'ora in poi il canale repl_canal riceverà aggiornamenti quando saranno disponibili giochi gratuiti\nUtilizza il comando senza parametri per rimuovere gli aggiornamenti",
@@ -306,6 +301,22 @@
             "oculto": {
                 "ativo": "Modalità fantasma attiva! Ora tutti i comandi usati saranno visibili solo a te.\nUsa di nuovo il comando per disabilitare.",
                 "desativo": "Modalità fantasma disattivata! Ora tutti i comandi utilizzati saranno visibili a tutti.\nUtilizzare nuovamente il comando se si desidera attivare."
+            },
+            "emojis": {
+                "permissao": "Non sono autorizzato a gestire emoji e adesivi su questo server.",
+                "emoji_reservado": "Questa emoji è usata da me! Non possiamo rimuoverlo",
+                "aviso_1": "Inserisci un file immagine o menziona un'emoji per utilizzare questo comando!",
+                "emoji_custom": "Inserisci un'emoji personalizzata da aggiungere",
+                "emoji_custom_remover": "Inserisci un'emoji personalizzata da rimuovere",
+                "emoji_max": "È stato raggiunto il numero massimo di emoji per questo server",
+                "emoji_error": "Impossibile creare emoji",
+                "emoji_error_remover": "Impossibile rimuovere questa emoji",
+                "sticker_max": "È stato raggiunto il numero massimo di adesivi per questo server",
+                "sticker_error": "Impossibile creare la miniatura",
+                "emoji_estrangeiro": "Questa emoji non appartiene a questo server!\nRiprova",
+                "emoji_criado": "Emoji `nome_repl` creato con successo!",
+                "emoji_removido": "L'emoji `nome_repl` è stata rimossa dal server!",
+                "figurinha_criada": "Sticker `nome_repl` creato con successo!"
             }
         },
         "util": {
@@ -516,8 +527,7 @@
                 "mencao": "Citare",
                 "transmissao": "Streaming",
                 "sem_limite": "Illimitato",
-                "modo_lento": "Modalità lenta",
-                "error_1": "Impossibile trovare questo canale, riprova"
+                "modo_lento": "Modalità lenta"
             },
             "steam": {
                 "undefined": "Sconosciuto",

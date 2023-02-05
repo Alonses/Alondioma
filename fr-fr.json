@@ -269,37 +269,14 @@
                 "apagado_2": "message` a été supprimé",
                 "error": "Impossible d'exécuter cette commande car il y a des publications épinglées ou obsolètes, veuillez réduire le nombre et réessayer"
             },
-            "emojis": {
-                "aviso_1": "Ajoutez un emoji personnalisé à votre commande! :P",
-                "aviso_2": "Saisissez un emoji à afficher\nPar exemple,",
-                "aviso_3": "Entrez un emoji et son nom\nPar exemple,",
-                "aviso_4": "N'envoyez qu'un seul emoji à la fois :P",
-                "aviso_5": "Téléchargez une image inférieure à 250Kb à utiliser comme emoji",
-                "aviso_6": "Inclure les emoji à supprimer\nPar exemple,",
-                "aviso_7": "Entrez un emoji à supprimer",
-                "aviso_8": "Entrez un emoji personnalisé de ce serveur à supprimer\nVous pouvez également utiliser l'identifiant emoji, par exemple `.armoji 914227763978838116`",
-                "permissao_1": "Vous n'êtes pas autorisé à gérer les emojis sur ce serveur",
-                "permissao_2": "Je n'ai pas les autorisations pour `gérer les emojis` sur ce serveur",
-                "requebrando": "dansant",
-                "sucesso_1": "Emoji a été ajouté!",
-                "sucesso_2": "Emoji a été supprimé du serveur",
-                "error_1": "Impossible de traiter ce fichier\nEnvoyez un fichier image pour que je le manipule ;)",
-                "error_2": "La limite d'emoji pour ce serveur a été atteinte, supprimez-en quelques-uns avant d'en ajouter de nouveaux",
-                "error_3": "Impossible de supprimer cet emoji, réessayez"
-            },
             "adm": {
-                "permissao_1": "Vous ne pouvez pas bannir ou expulser des membres.",
-                "permissao_2": "Je ne peux pas bannir ou expulser des membres",
-                "permissao_3": "Vous n'êtes pas autorisé à gérer le serveur",
-                "user_id": "Entrez l'ID utilisateur",
+                "permissao": "Je n'ai pas les permissions \"bannir et expulser des membres\" sur le serveur",
                 "razao": "Raison non renseignée",
                 "error_1": "Arrête ça, noob! Ce membre est également administrateur.",
-                "error_2": "Utilisateur invalide!",
                 "error_ban": "Impossible de bannir cet utilisateur",
                 "error_kick": "Impossible d'expulser cet utilisateur",
                 "banido": "a été banni",
-                "expulso": "a été supprimé du serveur",
-                "moderadores": "Seuls les modérateurs peuvent exécuter cette commande"
+                "expulso": "a été supprimé du serveur"
             },
             "anuncio": {
                 "anuncio_games": "À partir de maintenant, cette repl_canal chaîne recevra des mises à jour lorsque des jeux gratuits seront disponibles\nUtilisez la commande sans paramètres pour supprimer les mises à jour.",
@@ -324,6 +301,22 @@
             "oculto": {
                 "ativo": "Mode fantôme activé! Désormais, toutes les commandes utilisées ne seront visibles que par vous.\nUtilisez à nouveau la commande pour désactiver.",
                 "desativo": "Mode fantôme désactivé ! Désormais, toutes les commandes utilisées seront visibles par tout le monde.\nUtilisez à nouveau la commande si vous souhaitez activer."
+            },
+            "emojis": {
+                "permissao": "Je ne suis pas autorisé à gérer les emojis et les autocollants sur ce serveur.",
+                "emoji_reservado": "Cet emoji est utilisé par moi ! Nous ne pouvons pas le supprimer !",
+                "aviso_1": "Insérez un fichier image et mentionnez un emoji pour utiliser cette commande !",
+                "emoji_custom": "Entrez un emoji personnalisé à ajouter",
+                "emoji_custom_remover": "Entrez un emoji personnalisé à supprimer",
+                "emoji_max": "Le nombre maximum d'emojis pour ce serveur a été atteint",
+                "emoji_error": "Impossible de créer des emoji",
+                "emoji_error_remover": "Impossible de supprimer cet emoji",
+                "sticker_max": "Le nombre maximum d'autocollants pour ce serveur a été atteint",
+                "sticker_error": "Impossible de créer la vignette",
+                "emoji_estrangeiro": "Cet emoji n'appartient pas à ce serveur !\nRéessayez",
+                "emoji_criado": "Emoji `nome_repl` créé avec succès !",
+                "emoji_removido": "L'emoji `nome_repl` a été supprimé du serveur !",
+                "figurinha_criada": "L'autocollant `nome_repl` a été créé avec succès !"
             }
         },
         "util": {
@@ -532,9 +525,7 @@
                 "mencao": "Mention",
                 "transmissao": "Transmission",
                 "sem_limite": "Illimité",
-                "modo_lento": "Mode lent",
-                "aviso_1": "Saisissez un identifiant de chaîne!",
-                "error_1": "Impossible de trouver cette chaîne, veuillez réessayer"
+                "modo_lento": "Mode lent"
             },
             "steam": {
                 "undefined": "Inconnu",

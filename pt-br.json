@@ -270,18 +270,13 @@
                 "error": "Não foi possível executar este comando, pois há mensagens fixadas ou muito antigas, por favor, diminua a quantidade e tente novamente"
             },
             "adm": {
-                "permissao_1": "Você não pode banir ou expulsar membros",
-                "permissao_2": "Eu não posso banir ou expulsar membros",
-                "permissao_3": "Você não possui permissões para gerenciar o servidor",
-                "user_id": "Informe o ID de um usuário",
+                "permissao": "Eu não possui permissões para `Banir e Expulsar membros` do servidor",
                 "razao": "Razão não informada",
                 "error_1": "Parado ai seu salafrário! Este membro é um Administrador também",
-                "error_2": "Usuário inválido!",
                 "error_ban": "Não foi possível banir o usuário",
                 "error_kick": "Não foi possível expulsar o usuário",
                 "banido": "tomou uma esfihada!",
-                "expulso": "foi expulso do servidor",
-                "moderadores": "Apenas moderadores podem executar este comando"
+                "expulso": "foi expulso do servidor"
             },
             "anuncio": {
                 "anuncio_games": "A partir de agora o canal repl_canal irá receber atualizações quando houver jogos gratuitos disponíveis\nUtilize o comando sem parametros para remover as atualizações",
@@ -306,6 +301,23 @@
             "oculto": {
                 "ativo": "Modo fantasma ativo! Agora todos os comandos usados serão visíveis apenas para você.\nUse o comando novamente para desativar.",
                 "desativo": "Modo fantasma desativado! Agora todos os comandos usados serão visíveis para todos.\nUse o comando novamente caso queira ativar."
+            },
+            "emojis": {
+                "permissao": "Não tenho permissão para gerenciar emojis e figurinhas neste servidor.",
+                "emoji": "Emoji",
+                "emoji_reservado": "Este emoji é usado por mim! Não podemos remover ele!",
+                "aviso_1": "Insira um arquivo de imagem um mencione um emoji para usar esse comando!",
+                "emoji_custom": "Informe um emoji customizado para adicionar",
+                "emoji_custom_remover": "Informe um emoji customizado para remover",
+                "emoji_max": "O número máximo de emojis para este servidor foi atingido",
+                "emoji_error": "Não foi possível criar o emoji",
+                "emoji_error_remover": "Não foi possível remover este emoji",
+                "sticker_max": "O número máximo de figurinhas para este servidor foi atingido",
+                "sticker_error": "Não foi possível criar a figurinha",
+                "emoji_estrangeiro": "Este emoji não pertence a este servidor!\nPor favor, tente novamente",
+                "emoji_criado": "Emoji `nome_repl` criado com sucesso!",
+                "emoji_removido": "O emoji `nome_repl` foi removido do servidor!",
+                "figurinha_criada": "Figurinha `nome_repl` criada com sucesso!"
             }
         },
         "util": {
@@ -490,9 +502,7 @@
                 "mencao": "Menção",
                 "transmissao": "Transmissão",
                 "sem_limite": "Sem limite",
-                "modo_lento": "Modo lento",
-                "aviso_1": "Informe o ID de um canal!",
-                "error_1": "Não foi possível localizar este canal, tente novamente"
+                "modo_lento": "Modo lento"
             },
             "steam": {
                 "undefined": "Desconhecido",
