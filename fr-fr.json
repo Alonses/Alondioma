@@ -118,7 +118,7 @@
                 "suas_badges": "Vos badges",
                 "ganhou": "gagné en",
                 "cabecalho_menu": "Lequel allez-vous choisir?",
-                "escolha_uma": "Choisissez un insigne !",
+                "escolha_uma": "Choisissez un insigne!",
                 "fixar": "Épingler le badge",
                 "badge_fixada": "épinglé à votre profil!",
                 "badge_removida": "supprimé de votre profil",
@@ -161,11 +161,11 @@
                 "pisoes": "Prime",
                 "concluidos": "Complété",
                 "progresso": "Progrès",
-                "recorde": "🏆 Record de pontos_repl points en un match !\n🏃 distancia_repl km parcourus au total"
+                "recorde": "🏆 Record de pontos_repl points en un match!\n🏃 distancia_repl km parcourus au total"
             },
             "cara": {
                 "acertou": "Tu as raison! Toutes nos félicitations!",
-                "errou": "Faux cette fois !"
+                "errou": "Faux cette fois!"
             },
             "dado": {
                 "error_1": "Il n'est pas possible de prendre plus de 50 dés en même temps.",
@@ -222,7 +222,7 @@
                 "conteudo_2": "Le contenu du message est"
             },
             "help": {
-                "comandos": "Voir les commandes, m'inviter ou accéder à mon serveur via le site web !"
+                "comandos": "Voir les commandes, m'inviter ou accéder à mon serveur via le site web!"
             },
             "apoio": {
                 "apoie": "> Soutenez Alonsal!",
@@ -320,7 +320,7 @@
                 "latencia": "Latence d'Alonsal"
             },
             "wiki": {
-                "wiki_slondo": "Ce clochard n'est pas sur le wiki, cherchez autre chose ! :sunglasses:",
+                "wiki_slondo": "Ce clochard n'est pas sur le wiki, cherchez autre chose! :sunglasses:",
                 "topicos_rel": "Rubriques connexes",
                 "sem_dados": "je n'ai rien trouvé en rapport avec votre recherche",
                 "auto_pesquisa": "Pourquoi faites-vous des recherches sur vous-même ? Il n'y a rien sur toi ici"
@@ -574,7 +574,8 @@
                 "em_scrobble": "Sur Scrobble en ce moment",
                 "obsessao": "Coup de coeur du moment",
                 "error_1": "Ce profil n'existe pas, veuillez réessayer",
-                "sem_link": "L'utilisateur mentionné n'a pas lié Alonsal à LastFM, essayez de rechercher son nom personnalisé !",
+                "error_2": "Une erreur inattendue s'est produite et ce profil n'a pas pu être chargé depuis LastFM, il semble que la plateforme ne fonctionne pas correctement! Veuillez réessayer plus tard",
+                "sem_link": "L'utilisateur mentionné n'a pas lié Alonsal à LastFM, essayez de rechercher son nom personnalisé!",
                 "new_link": "Alonsal a été lié à votre compte `plat_repl`! Désormais, lorsque vous utilisez comando_repl, vous n'aurez plus besoin d'écrire votre nom tout le temps :P"
             },
             "rastreio": {

@@ -552,6 +552,7 @@
                 "em_scrobble": "En Scrobble ahora mismo",
                 "obsessao": "Obsesión del momento",
                 "error_1": "Este perfil no existe, intente nuevamente",
+                "error_2": "Ocurrió un error inesperado y no se pudo cargar este perfil desde LastFM, ¡parece que la plataforma no funciona correctamente! Por favor, inténtelo de nuevo más tarde",
                 "sem_link": "El usuario mencionado no ha vinculado a Alonsal con LastFM, ¡intenta buscar su nombre personalizado!",
                 "new_link": "¡Alonsal ha sido vinculado a tu cuenta `plat_repl`! Ahora cuando uses comando_repl no necesitarás escribir tu nombre todo el tiempo :P"
             },

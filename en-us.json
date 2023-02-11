@@ -574,6 +574,7 @@
                 "em_scrobble": "On Scrobble right now",
                 "obsessao": "Obsession of the moment",
                 "error_1": "This profile does not exist, please try again",
+                "error_2": "An unexpected error occurred and this profile could not be loaded from LastFM, it looks like the platform is not working properly! Please try again later",
                 "sem_link": "The mentioned user has not linked Alonsal with LastFM, try searching for his custom name!",
                 "new_link": "Alonsal has been linked to your `plat_repl` account! Now when using comando_repl you won't need to write your name all the time :P"
             },

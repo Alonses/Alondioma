@@ -58,7 +58,11 @@
                 "apelido": "Seu apelido foi trocado pra `apelido_repl`!\nUsa o comando dnv pra bagunçar ainda mais!"
             },
             "baidu": {
-                "baidu": ["Louvado seja!!", "Amém igroja!!", "Kifflom!"]
+                "baidu": [
+                    "Louvado seja!!",
+                    "Amém igroja!!",
+                    "Kifflom!"
+                ]
             },
             "amor": {
                 "teste": "Deu issaq"
@@ -482,6 +486,7 @@
                 "em_scrobble": "Scrobblando agora",
                 "obsessao": "Favorita da semana",
                 "error_1": "Esse perfil não existe, tenta dnv",
+                "error_2": "Deu um pepino aqui e não deu pra puxar este perfil do LastFM, parece que a plataforma caiu! Tenta dnv depois!",
                 "sem_link": "Esse corno não me linkou com a LastFM, tenta dnv usando o nome personalizado dele",
                 "new_link": "O Alonsal foi vinculado a sua conta `plat_repl`! Agora ao usar comando_repl ocê não precisará screver seu nome toda hora :P"
             }
