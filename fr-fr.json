@@ -291,23 +291,25 @@
             },
             "oculto": {
                 "ativo": "Mode fantôme activé! Désormais, toutes les commandes utilisées ne seront visibles que par vous.\nUtilisez à nouveau la commande pour désactiver.",
-                "desativo": "Mode fantôme désactivé ! Désormais, toutes les commandes utilisées seront visibles par tout le monde.\nUtilisez à nouveau la commande si vous souhaitez activer."
+                "desativo": "Mode fantôme désactivé! Désormais, toutes les commandes utilisées seront visibles par tout le monde.\nUtilisez à nouveau la commande si vous souhaitez activer."
             },
             "emojis": {
                 "permissao": "Je ne suis pas autorisé à gérer les emojis et les autocollants sur ce serveur.",
-                "emoji_reservado": "Cet emoji est utilisé par moi ! Nous ne pouvons pas le supprimer !",
+                "emoji_reservado": "Cet emoji est utilisé par moi! Nous ne pouvons pas le supprimer !",
                 "aviso_1": "Insérez un fichier image et mentionnez un emoji pour utiliser cette commande !",
                 "emoji_custom": "Entrez un emoji personnalisé à ajouter",
                 "emoji_custom_remover": "Entrez un emoji personnalisé à supprimer",
                 "emoji_max": "Le nombre maximum d'emojis pour ce serveur a été atteint",
+                "emoji_size": "Joignez un fichier plus petit à utiliser comme emoji! Celui-ci est très lourd!",
                 "emoji_error": "Impossible de créer des emoji",
                 "emoji_error_remover": "Impossible de supprimer cet emoji",
                 "sticker_max": "Le nombre maximum d'autocollants pour ce serveur a été atteint",
+                "sticker_size": "Joignez un fichier plus petit à utiliser comme autocollant! Celui-ci est très lourd!",
                 "sticker_error": "Impossible de créer la vignette",
                 "emoji_estrangeiro": "Cet emoji n'appartient pas à ce serveur !\nRéessayez",
-                "emoji_criado": "Emoji `nome_repl` créé avec succès !",
-                "emoji_removido": "L'emoji `nome_repl` a été supprimé du serveur !",
-                "figurinha_criada": "L'autocollant `nome_repl` a été créé avec succès !"
+                "emoji_criado": "Emoji `nome_repl` créé avec succès!",
+                "emoji_removido": "L'emoji `nome_repl` a été supprimé du serveur!",
+                "figurinha_criada": "L'autocollant `nome_repl` a été créé avec succès!"
             }
         },
         "util": {
