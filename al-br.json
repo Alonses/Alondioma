@@ -2,13 +2,14 @@
     "data": {
         "inic": {
             "inicio": {
-                "slash_commands": "Os comandos tradicionais foram desativados, continue usando o Alonsal pelos comandos de `/barra` ( </help:1018609879512006787> )! Experimente agora mesmo ;D\n\nNota: Não consegue ver meus comandos? Me convide novamente clicando no botão abaixo! Tbm verifique se meus comandos estão habilitados pra todos nas integrações do server em `Integrações -> Alonsal -> Comandos`",
+                "slash_commands": "Os comandos tradicionais foram apagados! Continue me usando pelos comandos em `/barra` ( </help:1018609879512006787> )! Experimenta agora memo ;D\n\nNota: Não consegue ver meus comandos? Me convida dnv clicando no botão ae! Tbm verifique se meus comandos stão ligados pra todos nas integrações do server em `Integrações -> Alonsal -> Comandos`",
                 "convidar": "Convidar!",
                 "suporte": "Suporte"
             },
             "error": {
-                "epic_embed_fail": "Deu PT aq ao rodar esse comando, acontece toda hora, chora boi, já notifiquei os salafrários que me mantém, tudo numa boa",
-                "comando_dm": "Comandos em DM não estão ativos :spy:"
+                "epic_embed_fail": "Deu PT aq ao rodar esse comando, acontece toda hora, chora boi, já notifiquei os salafrários que me arrumam, tudo numa boa!",
+                "develop": "Uma ceira bem enceirada vem por aí...",
+                "comando_dm": "Comandos em DM não stão ativos :spy:"
             },
             "ping": {
                 "titulo": "> Ó Abre alas que eu queru passsaa :notes:",
@@ -25,7 +26,7 @@
             "color": {
                 "cor_ativa": "Ocê já tá usando essa cor!",
                 "error": "Bota valor entre 0 e 255 pras cores",
-                "titulo": "> Este é um Embed demonstração :tada:",
+                "titulo": "> Esse é um Embed demonstração :tada:",
                 "descricao": "Alguma descrição aleatória por aqui...",
                 "footer": "Seus embeds irão aparecer assim e ao verem seu perfil com o Alonsal",
                 "rand_color": "Suas cores serão aleatórias a cada comando",
@@ -160,7 +161,7 @@
             },
             "info": {
                 "infos": "Patinando entre as linhas bugadas :man_golfing:",
-                "conteudo_1": "Este bóti é patrocinado por Baidu e Renato's lanches, 40 tipos de lanche, hot dog, fastfood em 5 minutos, a maior casa de lanches de extrema, venha comer o renatão de 4, o lanche completo!\n\n:mailbox: Sugira comandos ou reporte bugs usando o **`/mail <sua msg>`**\n:page_facing_up: Utilize **`/git`** pra ver o repositório do Alonsal",
+                "conteudo_1": "Esse bóti é patrocinado por Baidu e Renato's lanches, 40 tipos de lanche, hot dog, fastfood em 5 minutos, a maior casa de lanches de extrema, venha comer o renatão de 4, o lanche completo!\n\n:mailbox: Sugira comandos ou reporte bugs usando o **`/mail <sua msg>`**\n:page_facing_up: Utilize **`/git`** pra ver o repositório do Alonsal",
                 "conteudo_2": "**`/discord`** - Entre no Hub multiconectado do Alonsal",
                 "conteudo_3": "**`/suporte`** - Ajude a manter e desenvolver o Alonsal\n\n-----------------------------\n> OUTROS RECURSOS\nFrases do **`/gado`** são de total direito do @GadoDecider, todos os créditos vão a ele. ( https://twitter.com/GadoDecider )",
                 "invocado_1": "Já fui invocado",
@@ -189,14 +190,14 @@
                 "info": "Entre agora mesmo no meu server, seja pra tirar dúvidas, ou usar os comandos, o server é liberado pra todos!"
             },
             "help_comando": {
-                "traducao_faltando": "Este comando ainda não possui uma tradução pra o seu idioma, aguarde!",
+                "traducao_faltando": "Esse comando ainda não possui uma tradução pra o seu idioma, aguarde!",
                 "usos": "Usos",
                 "nao_encontrado": "Não encontrei nenhum comando com esse nome ou aliase, xora"
             },
             "data": {
                 "ranking_guilds": "Ranking nos seguintes serveres",
                 "dados_conhecidos": "> Seus :game_die: conhecidos",
-                "resumo_dados": "Este é um resumão dos :game_die: que salvei docê",
+                "resumo_dados": "Esse é um resumão dos :game_die: que salvei docê",
                 "dica_rodape": "Ocê pode excluir todos os seus 🎲 com o comando /data excluir",
                 "dados_removidos": "Seus :game_die: foram removidos do",
                 "sem_dados": "Ocê não possui :game_die: salvos por aqui ;)",
@@ -206,7 +207,7 @@
             },
             "telemetria": {
                 "titulo": "> 🎲 de telemetria",
-                "descricao": "Pra um melhor funcionamento do Alonsal utilizamos de vários 🎲 anonimizados pra decidir em quais recursos prover mais atenção e melhorar no futuro.\n\n🎲 esses podem vir de todas as funções do bóti, o mais destacado deles é o de comandos, ao usar um comando, como esse do /telemetria, o bóti registra a interação em seu histórico de comandos e mostra um resuminho de qual server o comando foi invocado, tipo na print abaixo.\n\nOutros 🎲 que tbm coletamos estão disponíveis a seguir:\n`Entrada e saída (do bóti) de servers`, `Total de servers, canéis e usuários que o bóti consegue ver`, `Epic Embed Fails que ocorrerem durante um comando`, `Mensagens de texto pra as experiências/nível`, `Movimentações nas Bufunfas`, `Canais que recebem atts de jogos gratuitos`, e por fim esses últimos que são atualizados todo dia:\n\n`Comandos invocados, erros, xp concedido, mensagens válidas pra xp, bufunfas distribuídas e movimentadas, e servers, canais e usuários \"conhecidos\".`",
+                "descricao": "Pra um melhor funcionamento do Alonsal utilizamos de vários 🎲 anonimizados pra decidir em quais recursos prover mais atenção e melhorar no futuro.\n\n🎲 esses podem vir de todas as funções do bóti, o mais destacado deles é o de comandos, ao usar um comando, como esse do /telemetria, o bóti registra a interação em seu histórico de comandos e mostra um resuminho de qual server o comando foi invocado, tipo na print abaixo.\n\nOutros 🎲 que tbm coletamos stão disponíveis a seguir:\n`Entrada e saída (do bóti) de servers`, `Total de servers, canéis e usuários que o bóti consegue ver`, `Epic Embed Fails que ocorrerem durante um comando`, `Mensagens de texto pra as experiências/nível`, `Movimentações nas Bufunfas`, `Canais que recebem atts de jogos gratuitos`, e por fim esses últimos que são atualizados todo dia:\n\n`Comandos invocados, erros, xp concedido, mensagens válidas pra xp, bufunfas distribuídas e movimentadas, e servers, canais e usuários \"conhecidos\".`",
                 "rodape": "🔰 | Vale ressaltar que entradas de texto são privadas tbm, tornando o conteúdo digitado não visível pra sua privacidade."
             }
         },
@@ -246,7 +247,7 @@
                 "desativo": "Modo fantasma desligado! Agora todos os comandos serão visíveis pra geral.\nUsa o comando dnv caso queira se esconder."
             },
             "emojis": {
-                "permissao": "Não tenho permissão pra gerenciar emojis e figurinhas neste server.",
+                "permissao": "Não tenho permissão pra gerenciar emojis e figurinhas nesse server.",
                 "emoji": "Emoji",
                 "emoji_reservado": "Esse emoji é usado por mim! Não podemos remover ele seu cornu.",
                 "aviso_1": "Insira um arquivo de imagem um mencione um emoji pra usar esse comando!",
@@ -300,8 +301,8 @@
                 "download_avatar": "Clique [aqui](link_repl) pra baixar essa ibagem",
                 "download_banner": "Clique [aqui](link_repl) pra baixar esse banner",
                 "download_icon": "Clique [aqui](link_repl) pra baixar essa ibagem",
-                "sem_avatar": "Este corno não botou um avatar custom!",
-                "sem_banner": "Este corno não botou um banner custom!",
+                "sem_avatar": "Esse corno não botou um avatar custom!",
+                "sem_banner": "Esse corno não botou um banner custom!",
                 "error_1": "Não foi possível buscar esse salafrario no momento, tenta dnv depois"
             },
             "reverso": {
@@ -364,25 +365,25 @@
                 "atributos": "Atributos",
                 "disco_musical": "Disco musical",
                 "livro_encantado": "Livro encantado",
-                "nota_rodape": "Este item ainda não foi oficialmente implementado, seus dados não são oficiais",
+                "nota_rodape": "Esse item ainda não foi oficialmente implementado, seus dados não são oficiais",
                 "sim": "Sim",
                 "nao": "Não",
                 "ate": "Até"
             },
             "history": {
                 "hoje": "hoje",
-                "este_ano": "Este ano",
+                "este_ano": "esse ano",
                 "ha": "Há",
                 "em": "em",
                 "ano_passado": "Ano passado",
                 "numero": "numero",
                 "acontecimentos_1": "Acontecimentos pela história",
-                "acontecimentos_2": "Abaixo estão todos os acontecimentos na data de",
+                "acontecimentos_2": "Abaixo stão todos os acontecimentos na data de",
                 "utilize_1": "Usa o comando",
                 "utilize_2": "pra ver um acontecimento específico",
                 "aviso_1": "Envie como `.acon 31-01` pra poder pesquisar em uma data específica\nOu use apenas `.acon` pra ver acontecimentos na data de hoje pela história",
-                "aviso_2": "Os valores informados estão errados, por favor, insira valores numéricos corretos pra dia e mês",
-                "aviso_3": "Procurando uns eventos...",
+                "aviso_2": "Os valores informados stão errados, por favor, insira valores numéricos corretos pra dia e mês",
+                "aviso_3": "Caçando uns eventos...",
                 "error_1": "Informe um número da lista de acontecimentos pra ver mais detalhes",
                 "sem_entradas": "Não aconteceu nada nesse dia, bota uma data diferente aí `.acon 21-01`"
             },
@@ -443,8 +444,8 @@
             "steam": {
                 "undefined": "Desconhecido",
                 "error_1": "Perfil não encontrado, certifique-se que o perfil pesquisado possui uma url personalizada",
-                "error_2": "Este perfil existe mas houve um erro ao carregar ele",
-                "rodape": "Alguns (ou todos os) dados desse usuário não estão disponíveis no perfil do mesmo",
+                "error_2": "Esse perfil existe mas houve um erro ao carregar ele",
+                "rodape": "Alguns (ou todos os) dados desse usuário não stão disponíveis no perfil do mesmo",
                 "analises": "Analisis",
                 "nivel": "Nível",
                 "jogos": "Joojs",
@@ -455,7 +456,7 @@
                 "criacoes": "Criações",
                 "semanas": "2 Semanas",
                 "artes": "Artes",
-                "suspeito": "Este usuário pode star usando uns hacks pra conseguir conquistas, não considere isso como uma afirmação, mas né ¯\\_(ツ)_/¯ SUSPE1T0",
+                "suspeito": "Esse usuário pode star usando uns hacks pra conseguir conquistas, não considere isso como uma afirmação, mas né ¯\\_(ツ)_/¯ SUSPE1T0",
                 "jogo_favorito": "Jogo favorito",
                 "capturas": "Capturas",
                 "nome": "Nome",
@@ -476,7 +477,7 @@
                 "rodape": "4 senhas com tamanho_repl caracteres, nunca nem vi elas, passar bem :detective:"
             },
             "lastfm": {
-                "sem_scrobbles": "Este perfil existe, só que o dono abandonou",
+                "sem_scrobbles": "Esse perfil existe, mas o dono abandonou",
                 "semanal": "Semanal",
                 "media_dia": "Média no dia",
                 "tempo_tocado": "Tempo ouvido",
@@ -488,7 +489,7 @@
                 "em_scrobble": "Scrobblando agora",
                 "obsessao": "Favorita da semana",
                 "error_1": "Esse perfil não existe, tenta dnv",
-                "error_2": "Deu um pepino aqui e não deu pra puxar este perfil do LastFM, parece que a plataforma caiu! Tenta dnv depois!",
+                "error_2": "Deu um pepino aqui e não deu pra puxar esse perfil do LastFM, parece que a plataforma caiu! Tenta dnv depois!",
                 "sem_link": "Esse corno não me linkou com a LastFM, tenta dnv usando o nome personalizado dele",
                 "new_link": "O Alonsal foi vinculado a sua conta `plat_repl`! Agora ao usar comando_repl ocê não precisará screver seu nome toda hora :P"
             }

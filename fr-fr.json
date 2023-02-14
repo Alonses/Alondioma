@@ -8,6 +8,7 @@
             },
             "error": {
                 "epic_embed_fail": "Une erreur s'est produite lors de l'exécution de cette commande, j'ai prévenu l'équipe d'éliminer ce baidu au plus vite. mes excuses pour le derangement",
+                "develop": "Cette commande n'est pas encore prête! Attendez encore un peu...",
                 "comando_dm": "Les commandes DM ne sont pas actives :spy:"
             },
             "ping": {

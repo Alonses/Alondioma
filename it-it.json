@@ -8,6 +8,7 @@
             },
             "error": {
                 "epic_embed_fail": "Si è verificato un errore durante il tentativo di eseguire questo comando, _non è comune ma succede_, ho chiamato gli enceiradores per eliminare questo baidu il prima possibile!\nScusiamo per l'inconveniente",
+                "develop": "Questo comando non è ancora pronto! aspetta ancora un po'...",
                 "comando_dm": "I comandi DM non sono attivi :spy:"
             },
             "ping": {
