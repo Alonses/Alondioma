@@ -294,6 +294,10 @@
                 "ativo": "Mode fantôme activé! Désormais, toutes les commandes utilisées ne seront visibles que par vous.\nUtilisez à nouveau la commande pour désactiver.",
                 "desativo": "Mode fantôme désactivé! Désormais, toutes les commandes utilisées seront visibles par tout le monde.\nUtilisez à nouveau la commande si vous souhaitez activer."
             },
+            "notify": {
+                "ativo": "Notifications DM activées! Désormais, toutes les notifications envoyées via DM vous seront envoyées.\nUtilisez à nouveau la commande pour désactiver.",
+                "desativo": "Notifications DM désactivées! Désormais, toutes les notifications envoyées par DM ne seront plus envoyées.\nUtilisez à nouveau la commande si vous souhaitez l'activer."
+            },
             "emojis": {
                 "permissao": "Je ne suis pas autorisé à gérer les emojis et les autocollants sur ce serveur.",
                 "emoji_reservado": "Cet emoji est utilisé par moi! Nous ne pouvons pas le supprimer !",

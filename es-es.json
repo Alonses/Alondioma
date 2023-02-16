@@ -294,6 +294,10 @@
                 "ativo": "¡Modo fantasma activo! Ahora todos los comandos usados ​​serán visibles solo para usted.\nUse el comando nuevamente para deshabilitar.",
                 "desativo": "¡Modo fantasma desactivado! Ahora todos los comandos usados ​​serán visibles para todos.\nUse el comando nuevamente si desea activar."
             },
+            "notify": {
+                "ativo": "¡Notificaciones de DM habilitadas! Ahora se le enviarán todas las notificaciones enviadas a través de DM.\nUse el comando nuevamente para desactivar.",
+                "desativo": "¡Notificaciones de DM desactivadas! Ahora ya no se enviarán todas las notificaciones enviadas por DM.\nUtilice el comando nuevamente si desea activarlo."
+            },
             "emojis": {
                 "permissao": "No tengo permitido administrar emojis y stickers en este servidor.",
                 "emoji_reservado": "¡Este emoji es usado por mí! no podemos quitarlo",

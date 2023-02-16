@@ -294,6 +294,10 @@
                 "ativo": "Ghost mode active! Now all used commands will be visible only to you.\nUse the command again to disable.",
                 "desativo": "Ghost mode disabled! Now all used commands will be visible to everyone.\nUse the command again if you want to activate."
             },
+            "notify": {
+                "ativo": "DM notifications enabled! Now all notifications sent via DM will be sent to you.\nUse the command again to disable.",
+                "desativo": "DM notifications turned off! Now all notifications sent via DM will no longer be sent.\nUse the command again if you want to activate it."
+            },
             "emojis": {
                 "permissao": "I don't have the permission to manage the emojis and stickers on this server.",
                 "emoji_reservado": "This emoji is used by me! We cannot remove.",

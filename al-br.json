@@ -246,6 +246,10 @@
                 "ativo": "Modo fantasma ativado! Agora todos os retornos serão visíveis apenas procê.\nUsa o comando dnv pra desligar.",
                 "desativo": "Modo fantasma desligado! Agora todos os comandos serão visíveis pra geral.\nUsa o comando dnv caso queira se esconder."
             },
+            "notify": {
+                "ativo": "Notificações em DM ativas! Agora todas ovo encher sua DM de pings.\nUsa o comando dnv para me interromper.",
+                "desativo": "Notificações em DM desligadas! Pararei de enviar mensangens via DM.\nUse o comando dnv pra liberar a DM."
+            },
             "emojis": {
                 "permissao": "Não tenho permissão pra gerenciar emojis e figurinhas nesse server.",
                 "emoji": "Emoji",
