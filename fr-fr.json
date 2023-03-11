@@ -294,6 +294,11 @@
                 "ativo": "Mode fantôme activé! Désormais, toutes les commandes utilisées ne seront visibles que par vous.\nUtilisez à nouveau la commande pour désactiver.",
                 "desativo": "Mode fantôme désactivé! Désormais, toutes les commandes utilisées seront visibles par tout le monde.\nUtilisez à nouveau la commande si vous souhaitez activer."
             },
+            "ranking" : {
+                "error": "Cet utilisateur a désactivé le classement, il n'est pas possible de modifier ses données!",
+                "ativo": "Vos interactions de texte et de commande vous accorderont désormais de l'XP\nUtilisez à nouveau la commande pour désactiver le gain d'XP.",
+                "desativo": "Vos interactions de texte et de commande ne vous accorderont plus d'XP\nUtilisez à nouveau la commande pour activer le gain d'XP."
+            },
             "notify": {
                 "ativo": "Notifications DM activées! Désormais, toutes les notifications envoyées via DM vous seront envoyées.\nUtilisez à nouveau la commande pour désactiver.",
                 "desativo": "Notifications DM désactivées! Désormais, toutes les notifications envoyées par DM ne seront plus envoyées.\nUtilisez à nouveau la commande si vous souhaitez l'activer."

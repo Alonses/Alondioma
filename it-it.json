@@ -294,6 +294,11 @@
                 "ativo": "Modalità fantasma attiva! Ora tutti i comandi usati saranno visibili solo a te.\nUsa di nuovo il comando per disabilitare.",
                 "desativo": "Modalità fantasma disattivata! Ora tutti i comandi utilizzati saranno visibili a tutti.\nUtilizzare nuovamente il comando se si desidera attivare."
             },
+            "ranking" : {
+                "error": "Questo utente ha disattivato la classifica, non è possibile modificare i suoi dati!",
+                "ativo": "Le tue interazioni di testo e comando ora ti garantiranno XP\nUsa di nuovo il comando per disabilitare il guadagno di XP.",
+                "desativo": "Le tue interazioni di testo e comando non ti garantiranno più XP\nUsa di nuovo il comando per abilitare il guadagno di XP."
+            },
             "notify": {
                 "ativo": "Notifiche DM abilitate! Ora tutte le notifiche inviate tramite DM ti verranno inviate.\nUtilizza nuovamente il comando per disabilitare.",
                 "desativo": "Notifiche DM disattivate! Ora tutte le notifiche inviate tramite DM non verranno più inviate.\nUtilizzare nuovamente il comando se si desidera attivarlo."

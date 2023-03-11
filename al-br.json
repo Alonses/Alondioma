@@ -247,8 +247,13 @@
                 "desativo": "Modo fantasma desligado! Agora todos os comandos serão visíveis pra geral.\nUsa o comando dnv caso queira se esconder."
             },
             "notify": {
-                "ativo": "Notificações em DM ativas! Agora todas ovo encher sua DM de pings.\nUsa o comando dnv para me interromper.",
-                "desativo": "Notificações em DM desligadas! Pararei de enviar mensangens via DM.\nUse o comando dnv pra liberar a DM."
+                "ativo": "Notificações em DM ativas! Agora ovo encher sua DM de pings.\nUsa o comando dnv para me dar blóqui.",
+                "desativo": "Notificações em DM desligadas! Ovo para de te encher o saco.\nUsa o comando dnv pra liberar a DM."
+            },
+            "ranking" : {
+                "error": "Esse cornão desativou o ranking, não dá pra alterar os dados!",
+                "ativo": "Ovo contabilizar seu XP\nUsa o comando dnv para me dar umas férias.",
+                "desativo": "Stou de férias, não vou mais contar seu XP.\nUsa o comando dnv por sua conta e risco. (é vdd esse bilete)"
             },
             "emojis": {
                 "permissao": "Não tenho permissão pra gerenciar emojis e figurinhas nesse server.",
