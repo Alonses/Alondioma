@@ -111,6 +111,7 @@
                 "aliase_faltando": "alias absent",
                 "nome_faltando": "Missing name",
                 "error_1": "Please enter a smaller page number for this",
+                "error_2": "There is not enough data to generate the ranking at this time, please try again later",
                 "error_rc": "Could not load command rating at this time, please try again later"
             },
             "badges": {

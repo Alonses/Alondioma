@@ -111,6 +111,7 @@
                 "aliase_faltando": "alias desaparecido",
                 "nome_faltando": "Nombre desconocido",
                 "error_1": "Introduzca un número de página más pequeño para este",
+                "error_2": "No hay suficientes datos para generar la clasificación en este momento, intente nuevamente más tarde",
                 "error_rc": "No se pudo cargar la clasificación de comandos en este momento, intente nuevamente más tarde"
             },
             "badges": {

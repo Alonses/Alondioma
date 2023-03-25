@@ -111,6 +111,7 @@
                 "aliase_faltando": "pseudo absent",
                 "nome_faltando": "Nom manquant",
                 "error_1": "Veuillez entrer un numéro de page plus petit pour ce",
+                "error_2": "Il n'y a pas assez de données pour générer le classement pour le moment, veuillez réessayer plus tard",
                 "error_rc": "Impossible de charger la commande de ratissage pour le moment, veuillez réessayer plus tard"
             },
             "badges": {

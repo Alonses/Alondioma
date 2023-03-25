@@ -111,6 +111,7 @@
                 "aliase_faltando": "alias assente",
                 "nome_faltando": "nome mancante",
                 "error_1": "Inserisci un numero di pagina più piccolo per questo",
+                "error_2": "Al momento non ci sono dati sufficienti per generare la classifica. Riprovare più tardi",
                 "error_rc": "Impossibile caricare le valutazioni dei comandi al momento, riprova più tardi"
             },
             "badges": {

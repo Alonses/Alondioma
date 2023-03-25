@@ -111,6 +111,7 @@
                 "aliase_faltando": "aliase faltando",
                 "nome_faltando": "Nome faltando",
                 "error_1": "Informe um número da página menor para isto",
+                "error_2": "Não há dados suficientes para gerar o ranking no momento, tente novamente mais tarde",
                 "error_rc": "Não foi possível carregar o ranking de comandos no momento, tente novamente mais tarde"
             },
             "badges": {

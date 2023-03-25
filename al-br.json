@@ -99,6 +99,7 @@
                 "aliase_faltando": "aliase faltando",
                 "nome_faltando": "Nome faltando",
                 "error_1": "Bota um número menor ae meo",
+                "error_2": "Tô sem dados pra criar o rank agora, tenta dnv dps",
                 "error_rc": "Tô com preguiça pra carregar o rank de comandos agr, tenta dnv dps"
             },
             "badges": {
