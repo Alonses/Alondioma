@@ -286,6 +286,16 @@
                 "permissao_1": "Non sei autorizzato a gestire questo canale.",
                 "permissao_2": "Non riesco a bloccare questo canale, ho bisogno delle autorizzazioni `Gestisci canali` e `Gestisci ruoli` per questo"
             },
+            "ticket": {
+                "permissao": "Ho bisogno dei permessi `Gestisci canali` e `Gestisci ruoli` per poter attivare questo comando.",
+                "ativo": "Gli utenti potranno ora utilizzare il comando `/rimostranza` su questo server!",
+                "desativo": "I ticket sono stati disabilitati per questo server.",
+                "tipo_canal": "Devi selezionare una categoria in modo che io possa creare canali al suo interno, riprova"
+            },
+            "denuncia": {
+                "desativado": "I rapporti sulle chat private sono disabilitati per questo server, avvisa un moderatore di questa funzione! :P",
+                "introducao": "La tua chat è stata aperta, chat_repl, usala per segnalare e allegare file se necessario."
+            },
             "xp": {
                 "permissao_1": "Non puoi gestire i membri di questo server",
                 "sucesso": "L'Esperienza di `nick_repl` è stata cambiata a `exp_repl exp`, il suo nuovo livello è `nivel_repl`",

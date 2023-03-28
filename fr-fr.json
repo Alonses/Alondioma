@@ -286,6 +286,16 @@
                 "permissao_1": "Vous n'êtes pas autorisé à gérer cette chaîne.",
                 "permissao_2": "Je ne peux pas bloquer cette chaîne, j'ai besoin des autorisations `Gérer les chaînes` et `Gérer les rôles` pour cela"
             },
+            "ticket": {
+                "permissao": "J'ai besoin des autorisations `Gérer les canaux` et `Gérer les rôles` pour activer cette commande.",
+                "ativo": "Les utilisateurs pourront désormais utiliser la commande `/plainte` sur ce serveur!",
+                "desativo": "Les tickets ont été désactivés pour ce serveur.",
+                "tipo_canal": "Vous devez sélectionner une catégorie pour que je puisse y créer des chaînes, veuillez réessayer"
+            },
+            "denuncia": {
+                "desativado": "Les rapports dans les chats privés sont désactivés pour ce serveur, informez un modérateur de cette fonctionnalité ! :P",
+                "introducao": "Votre chat a été ouvert, chat_repl, utilisez-le pour signaler et joindre des fichiers si nécessaire."
+            },
             "xp": {
                 "permissao_1": "Vous ne pouvez pas gérer les membres de ce serveur",
                 "sucesso": "L'expérience pour `nick_repl` a été changée en `exp_repl exp`, son nouveau niveau est `nivel_repl`",

@@ -286,6 +286,16 @@
                 "permissao_1": "Você não possuí permissões para gerenciar este canal",
                 "permissao_2": "Eu não posso bloquear este canal, eu preciso das permissões `Gerenciar Canais` & `Gerenciar cargos` para isto"
             },
+            "ticket": {
+                "permissao": "Necesito los permisos `Administrar canales` y `Administrar roles` para poder activar este comando.",
+                "ativo": "¡Los usuarios ahora podrán usar el comando `/queja` en este servidor!",
+                "desativo": "Los tickets han sido deshabilitados para este servidor.",
+                "tipo_canal": "Debes seleccionar una categoría para poder crear canales dentro de ella, por favor inténtalo de nuevo"
+            },
+            "denuncia": {
+                "desativado": "Las quejas en canales privados están desactivadas en este servidor, notifique a un moderador sobre esta función. :P",
+                "introducao": "Tu chat ha sido abierto, chat_repl, úsalo para reportar y adjuntar archivos si es necesario."
+            },
             "xp": {
                 "permissao_1": "No puede administrar miembros de este servidor",
                 "sucesso": "La experiencia de `nick_repl` ha sido cambiada a `exp_repl exp`, su nuevo nivel es `nivel_repl`",
