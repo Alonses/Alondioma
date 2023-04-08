@@ -296,6 +296,17 @@
                 "desativado": "As denúncias em chats privados estão desabilitados para esse servidor, avise um moderador sobre essa função! :P",
                 "introducao": "Seu chat foi aberto, chat_repl, use ele para fazer denúncias e anexar arquivos caso necessário."
             },
+            "report": {
+                "reporte": "Reportes",
+                "ativo": "Os reports de outros servidores sobre usuários mau comportados serão enviados em canal_repl apartir de agora",
+                "desativo": "Os reports de outros servidores sobre usuários mau comportados agora estão desativados neste servidor.",
+                "sem_usuario": "Nenhum usuário foi informado!",
+                "usuario_add": "O usuário foi incluido na lista de mau comportados, obrigado!",
+                "usuario_att": "O usuário teve seus dados atualizados, obrigado!",
+                "usuario_nao_encontrado": "O usuário informado não faz parte deste servidor, por favor, tente novamente.",
+                "sem_report": "Este usuário não possui reportes",
+                "com_report": "Este usuário possui alguns reportes de outros servidores"
+            },
             "xp": {
                 "permissao": "Você não pode gerenciar os membros deste servidor",
                 "sucesso": "A Experiência de `nick_repl` foi alterada para `exp_repl exp`, seu novo nível é `nivel_repl`",
@@ -305,7 +316,7 @@
                 "ativo": "Modo fantasma ativo! Agora todos os comandos usados serão visíveis apenas para você.\nUse o comando novamente para desativar.",
                 "desativo": "Modo fantasma desativado! Agora todos os comandos usados serão visíveis para todos.\nUse o comando novamente caso queira ativar."
             },
-            "ranking" : {
+            "ranking": {
                 "error": "Este usuário desativou o ranking, não é possível alterar seus dados!",
                 "ativo": "Suas interações por texto e comandos usados agora lhe concederão XP\nUse o comando novamente para desativar o ganho de XP.",
                 "desativo": "Suas interações por texto e comandos usados não lhe concederão mais XP\nUse o comando novamente para ativar o ganho de XP."
