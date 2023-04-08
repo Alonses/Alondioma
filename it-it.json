@@ -294,7 +294,23 @@
             },
             "denuncia": {
                 "desativado": "I rapporti sulle chat private sono disabilitati per questo server, avvisa un moderatore di questa funzione! :P",
-                "introducao": "La tua chat è stata aperta, chat_repl, usala per segnalare e allegare file se necessario."
+                "introducao": "La tua chat è stata aperta, chat_repl, usala per segnalare e allegare file se necessario.",
+                "canal_aberto": "Hai già un canale di segnalazione aperto!",
+                "canal_fechado": "Non hai un canale di segnalazione aperto!",
+                "fechando_canal": "Questo canale verrà chiuso tempo_repl secondi, grazie!",
+                "erro_1": "Si è verificato un errore e non è stato possibile creare il canale in questo momento, riprova più tardi"
+            },
+            "report": {
+                "reporte": "Reclami",
+                "ativo": "I rapporti da altri server sugli utenti che si comportano male verranno inviati in canal_repl d'ora in poi",
+                "desativo": "I rapporti da altri server sugli utenti che si comportano male sono ora disabilitati su questo server.",
+                "tipo_canal": "Devi specificare un canale di testo da utilizzare, riprova",
+                "sem_usuario": "Nessun utente è stato segnalato!",
+                "usuario_add": "L'utente è stato aggiunto all'elenco dei comportamenti scorretti, grazie!",
+                "usuario_att": "Dati aggiornati, grazie!",
+                "usuario_nao_encontrado": "L'utente inserito non fa parte di questo server, riprova.",
+                "sem_report": "Questo utente non ha ricevuto alcuna segnalazione",
+                "com_report": "Questo utente ha alcuni rapporti da altri server"
             },
             "xp": {
                 "permissao_1": "Non puoi gestire i membri di questo server",
