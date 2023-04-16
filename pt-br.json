@@ -111,6 +111,7 @@
                 "aliase_faltando": "aliase faltando",
                 "nome_faltando": "Nome faltando",
                 "error_1": "Informe um número da página menor para isto",
+                "error_2": "Não há dados suficientes para gerar o ranking no momento, tente novamente mais tarde",
                 "error_rc": "Não foi possível carregar o ranking de comandos no momento, tente novamente mais tarde"
             },
             "badges": {
@@ -285,6 +286,32 @@
                 "permissao_1": "Você não possuí permissões para gerenciar este canal",
                 "permissao_2": "Eu não posso bloquear este canal, eu preciso das permissões `Gerenciar Canais` & `Gerenciar cargos` para isto"
             },
+            "ticket": {
+                "permissao": "Eu preciso das permissoes `Gerenciar Canais` & `Gerenciar cargos` para poder ativar este comando.",
+                "ativo": "Agora os usuários poderão usar o comando `/denuncia` neste servidor!",
+                "desativo": "Os tickets foram desativados para esse servidor.",
+                "tipo_canal": "Você precisa selecionar uma categoria para que eu possa criar canais dentro dela, tente novamente"
+            },
+            "denuncia": {
+                "desativado": "As denúncias em chats privados estão desabilitados para esse servidor, avise um moderador sobre essa função! :P",
+                "introducao": "Seu chat foi aberto, chat_repl, use ele para fazer denúncias e anexar arquivos caso necessário.",
+                "canal_aberto": "Você já possui um canal de denúncia aberto!",
+                "canal_fechado": "Você não possui um canal de denúncia aberto!",
+                "fechando_canal": "Este canal será fechado tempo_repl segundos, obrigado!",
+                "erro_1": "Houve um erro e não foi possível criar o canal no momento, por favor, tente novamente mais tarde"
+            },
+            "report": {
+                "reporte": "Reportes",
+                "ativo": "Os reports de outros servidores sobre usuários mau comportados serão enviados em canal_repl apartir de agora",
+                "desativo": "Os reports de outros servidores sobre usuários mau comportados agora estão desativados neste servidor.",
+                "tipo_canal": "Você precisa especificar um canal de texto para que eu possa usar, tente novamente",
+                "sem_usuario": "Nenhum usuário foi informado!",
+                "usuario_add": "O usuário foi incluido na lista de mau comportados, obrigado!",
+                "usuario_att": "O usuário teve seus dados atualizados, obrigado!",
+                "usuario_nao_encontrado": "O usuário informado não faz parte deste servidor, por favor, tente novamente.",
+                "sem_report": "Este usuário não possui reportes",
+                "com_report": "Este usuário possui alguns reportes de outros servidores"
+            },
             "xp": {
                 "permissao": "Você não pode gerenciar os membros deste servidor",
                 "sucesso": "A Experiência de `nick_repl` foi alterada para `exp_repl exp`, seu novo nível é `nivel_repl`",
@@ -294,7 +321,7 @@
                 "ativo": "Modo fantasma ativo! Agora todos os comandos usados serão visíveis apenas para você.\nUse o comando novamente para desativar.",
                 "desativo": "Modo fantasma desativado! Agora todos os comandos usados serão visíveis para todos.\nUse o comando novamente caso queira ativar."
             },
-            "ranking" : {
+            "ranking": {
                 "error": "Este usuário desativou o ranking, não é possível alterar seus dados!",
                 "ativo": "Suas interações por texto e comandos usados agora lhe concederão XP\nUse o comando novamente para desativar o ganho de XP.",
                 "desativo": "Suas interações por texto e comandos usados não lhe concederão mais XP\nUse o comando novamente para ativar o ganho de XP."

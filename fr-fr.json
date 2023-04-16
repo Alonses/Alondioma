@@ -111,6 +111,7 @@
                 "aliase_faltando": "pseudo absent",
                 "nome_faltando": "Nom manquant",
                 "error_1": "Veuillez entrer un numéro de page plus petit pour ce",
+                "error_2": "Il n'y a pas assez de données pour générer le classement pour le moment, veuillez réessayer plus tard",
                 "error_rc": "Impossible de charger la commande de ratissage pour le moment, veuillez réessayer plus tard"
             },
             "badges": {
@@ -284,6 +285,32 @@
                 "unlock": "déverrouillé\nUtilisez `.alock` pour verrouiller",
                 "permissao_1": "Vous n'êtes pas autorisé à gérer cette chaîne.",
                 "permissao_2": "Je ne peux pas bloquer cette chaîne, j'ai besoin des autorisations `Gérer les chaînes` et `Gérer les rôles` pour cela"
+            },
+            "ticket": {
+                "permissao": "J'ai besoin des autorisations `Gérer les canaux` et `Gérer les rôles` pour activer cette commande.",
+                "ativo": "Les utilisateurs pourront désormais utiliser la commande `/plainte` sur ce serveur!",
+                "desativo": "Les tickets ont été désactivés pour ce serveur.",
+                "tipo_canal": "Vous devez sélectionner une catégorie pour que je puisse y créer des chaînes, veuillez réessayer"
+            },
+            "denuncia": {
+                "desativado": "Les rapports dans les chats privés sont désactivés pour ce serveur, informez un modérateur de cette fonctionnalité ! :P",
+                "introducao": "Votre chat a été ouvert, chat_repl, utilisez-le pour signaler et joindre des fichiers si nécessaire.",
+                "canal_aberto": "Vous disposez déjà d'un canal de signalement ouvert!",
+                "canal_fechado": "Vous n'avez pas de canal de signalement ouvert!",
+                "fechando_canal": "Cette chaîne sera fermée tempo_repl secondes, merci!",
+                "erro_1": "Une erreur s'est produite et la chaîne n'a pas pu être créée pour le moment, veuillez réessayer plus tard"
+            },
+            "report": {
+                "reporte": "Réclamations",
+                "ativo": "Les rapports d'autres serveurs sur les utilisateurs qui se conduisent mal seront désormais envoyés dans canal_repl",
+                "desativo": "Les rapports d'autres serveurs sur les utilisateurs qui se comportent mal sont maintenant désactivés sur ce serveur.",
+                "tipo_canal": "Vous devez spécifier un canal de texte à utiliser, veuillez réessayer",
+                "sem_usuario": "Aucun utilisateur n'a été mentionné!",
+                "usuario_add": "L'utilisateur a été ajouté à la liste des mauvais comportements, merci!",
+                "usuario_att": "L'utilisateur a fait mettre à jour ses données, merci!",
+                "usuario_nao_encontrado": "L'utilisateur saisi ne fait pas partie de ce serveur, veuillez réessayer.",
+                "sem_report": "Cet utilisateur n'a reçu aucun rapport",
+                "com_report": "Cet utilisateur a des rapports d'autres serveurs"
             },
             "xp": {
                 "permissao_1": "Vous ne pouvez pas gérer les membres de ce serveur",

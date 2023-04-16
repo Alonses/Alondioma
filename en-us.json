@@ -111,6 +111,7 @@
                 "aliase_faltando": "alias absent",
                 "nome_faltando": "Missing name",
                 "error_1": "Please enter a smaller page number for this",
+                "error_2": "There is not enough data to generate the ranking at this time, please try again later",
                 "error_rc": "Could not load command rating at this time, please try again later"
             },
             "badges": {
@@ -285,6 +286,32 @@
                 "permissao_1": "You do not have permissions to manage this channel.",
                 "permissao_2": "I can't block this channel, I need `Manage channels` and `Manage roles` permissions for this"
             },
+            "ticket": {
+                "permissao": "I need `Manage Channels` & `Manage Roles` permissions to be able to activate this command.",
+                "ativo": "Users will now be able to use the `/report` command on this server!",
+                "desativo": "Tickets have been disabled for this server.",
+                "tipo_canal": "You need to select a category so I can create channels within it, please try again"
+            },
+            "denuncia": {
+                "desativado": "Reporting on private chats is disabled for this server, notify a moderator about this feature! :P",
+                "introducao": "Your chat has been opened, chat_repl, use it to report and attach files if necessary.",
+                "canal_aberto": "You already have an open reporting channel!",
+                "canal_fechado": "You do not have an open reporting channel!",
+                "fechando_canal": "This channel will be closed tempo_repl seconds, thank you!",
+                "erro_1": "There was an error and the channel could not be created at the moment, please try again later"
+            },
+            "report": {
+                "reporte": "Complaints",
+                "ativo": "Reports from other servers about misbehaving users will be sent in canal_repl from now",
+                "desativo": "Reports from other servers about misbehaving users are now disabled on this server.",
+                "tipo_canal": "You need to specify a text channel for me to use, please try again",
+                "sem_usuario": "No user was mentioned!",
+                "usuario_add": "The user has been added to the naughty list, thank you!",
+                "usuario_att": "The user has had his data updated, thank you!",
+                "usuario_nao_encontrado": "The mentioned user is not part of this server, please try again.",
+                "sem_report": "This user has no complaints",
+                "com_report": "This user has some reports from other servers"
+            },
             "xp": {
                 "permissao_1": "You cannot manage members of this server",
                 "sucesso": "Experience for `nick_repl` has been changed to `exp_repl exp`, its new level is `nivel_repl`",
@@ -294,7 +321,7 @@
                 "ativo": "Ghost mode active! Now all used commands will be visible only to you.\nUse the command again to disable.",
                 "desativo": "Ghost mode disabled! Now all used commands will be visible to everyone.\nUse the command again if you want to activate."
             },
-            "ranking" : {
+            "ranking": {
                 "error": "This user has deactivated the ranking, it is not possible to change his data!",
                 "ativo": "Your text and command interactions will now grant you XP\nUse the command again to disable XP gain.",
                 "desativo": "Your text and command interactions will no longer grant you XP\nUse the command again to enable XP gain."

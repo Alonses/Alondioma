@@ -111,6 +111,7 @@
                 "aliase_faltando": "alias assente",
                 "nome_faltando": "nome mancante",
                 "error_1": "Inserisci un numero di pagina più piccolo per questo",
+                "error_2": "Al momento non ci sono dati sufficienti per generare la classifica. Riprovare più tardi",
                 "error_rc": "Impossibile caricare le valutazioni dei comandi al momento, riprova più tardi"
             },
             "badges": {
@@ -284,6 +285,32 @@
                 "unlock": "sbloccato\nUsa `/lock` per bloccare",
                 "permissao_1": "Non sei autorizzato a gestire questo canale.",
                 "permissao_2": "Non riesco a bloccare questo canale, ho bisogno delle autorizzazioni `Gestisci canali` e `Gestisci ruoli` per questo"
+            },
+            "ticket": {
+                "permissao": "Ho bisogno dei permessi `Gestisci canali` e `Gestisci ruoli` per poter attivare questo comando.",
+                "ativo": "Gli utenti potranno ora utilizzare il comando `/rimostranza` su questo server!",
+                "desativo": "I ticket sono stati disabilitati per questo server.",
+                "tipo_canal": "Devi selezionare una categoria in modo che io possa creare canali al suo interno, riprova"
+            },
+            "denuncia": {
+                "desativado": "I rapporti sulle chat private sono disabilitati per questo server, avvisa un moderatore di questa funzione! :P",
+                "introducao": "La tua chat è stata aperta, chat_repl, usala per segnalare e allegare file se necessario.",
+                "canal_aberto": "Hai già un canale di segnalazione aperto!",
+                "canal_fechado": "Non hai un canale di segnalazione aperto!",
+                "fechando_canal": "Questo canale verrà chiuso tempo_repl secondi, grazie!",
+                "erro_1": "Si è verificato un errore e non è stato possibile creare il canale in questo momento, riprova più tardi"
+            },
+            "report": {
+                "reporte": "Reclami",
+                "ativo": "I rapporti da altri server sugli utenti che si comportano male verranno inviati in canal_repl d'ora in poi",
+                "desativo": "I rapporti da altri server sugli utenti che si comportano male sono ora disabilitati su questo server.",
+                "tipo_canal": "Devi specificare un canale di testo da utilizzare, riprova",
+                "sem_usuario": "Nessun utente è stato segnalato!",
+                "usuario_add": "L'utente è stato aggiunto all'elenco dei comportamenti scorretti, grazie!",
+                "usuario_att": "Dati aggiornati, grazie!",
+                "usuario_nao_encontrado": "L'utente inserito non fa parte di questo server, riprova.",
+                "sem_report": "Questo utente non ha ricevuto alcuna segnalazione",
+                "com_report": "Questo utente ha alcuni rapporti da altri server"
             },
             "xp": {
                 "permissao_1": "Non puoi gestire i membri di questo server",
