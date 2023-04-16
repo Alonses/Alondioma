@@ -605,9 +605,11 @@
             }
         },
         "modu": {
-            "manha": ["Bom dia!!! a vida é uma caixinha de surpresas, hoje tamo na merda, amanhã tamo na bosta", "Bom dia flor do dia", "Bom dia cacete", "Bom dia pra quem acorda, pra mim é só dia", "ACCOOOORDDAAAAAAAAAAAAAAAAAAAAAAAAAaa"],
-            "tarde": ["Boa tarde cacete", "https://images3.memedroid.com/images/UPLOADED119/5d1536a273737.jpeg"],
-            "noite": ["A derrota de hoje foi ruim, mas a de amanhã será bem pior\nBoa noite!", "Boa noite caralho", "Boa noite para todos, menos para alguns", "https://i.pinimg.com/originals/f2/a0/f4/f2a0f41e7836c8f71f18b66ce4c22440.jpg"]
+            "frases": {
+                "manha": ["Bom dia!!! a vida é uma caixinha de surpresas, hoje tamo na merda, amanhã tamo na bosta", "Bom dia flor do dia", "Bom dia cacete", "Bom dia pra quem acorda, pra mim é só dia", "ACCOOOORDDAAAAAAAAAAAAAAAAAAAAAAAAAaa"],
+                "tarde": ["Boa tarde cacete", "https://images3.memedroid.com/images/UPLOADED119/5d1536a273737.jpeg"],
+                "noite": ["A derrota de hoje foi ruim, mas a de amanhã será bem pior\nBoa noite!", "Boa noite caralho", "Boa noite para todos, menos para alguns", "https://i.pinimg.com/originals/f2/a0/f4/f2a0f41e7836c8f71f18b66ce4c22440.jpg"]
+            }
         }
     }
 }
