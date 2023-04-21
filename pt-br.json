@@ -40,7 +40,10 @@
                 "error_3": "Você não pode transferir para si mesmo!",
                 "user_bot": "Você não pode transferir Bufunfas para outros bots além de mim!",
                 "sucesso": "Transferência aprovada! `B$valor_repl` Bufunfas foram depositadas na conta de",
-                "notifica": "Você acabou de receber um depósito! <@!user_repl> depositou `B$valor_repl` Bufunfas em sua conta! Obaa"
+                "notifica": "Você acabou de receber um depósito! <@!user_repl> depositou `B$valor_repl` Bufunfas em sua conta! Obaa",
+                "nova_transferencia": "> Nova transferência",
+                "transferindo": "Transferindo",
+                "destinatario": "Destinatário"
             },
             "banco": {
                 "suas_bufunfas": "> Suas Bufunfas",
@@ -49,6 +52,17 @@
                 "daily": "Próximo </daily:1020794974377353338> disponível",
                 "dica_comando": "Use </daily:1020794974377353338> para coletar Bufunfas!",
                 "dica_rodape": "Você pode usar Bufunfas em customizações, como o /color por exemplo!"
+            },
+            "modulo": {
+                "cabecalho_menu": "> Criando um módulo",
+                "tipo": "Tipo de módulo",
+                "ativacao": "Ativação",
+                "valor": "Valor",
+                "sem_bufunfa": "Você não possui Bufunfas o suficiente para usar módulos, consiga algumas com o comando /daily antes!",
+                "sem_locale": "Para ativar o módulo de clima é necessário definir um local padrão com o comando `/link locale` antes!",
+                "dias_uteis": "Dias úteis",
+                "finais_semana": "Finais de semana",
+                "todos_os_dias": "Todos os dias"
             }
         },
         "dive": {
@@ -310,7 +324,12 @@
                 "usuario_att": "O usuário teve seus dados atualizados, obrigado!",
                 "usuario_nao_encontrado": "O usuário informado não faz parte deste servidor, por favor, tente novamente.",
                 "sem_report": "Este usuário não possui reportes",
-                "com_report": "Este usuário possui alguns reportes de outros servidores"
+                "com_report": "Este usuário possui alguns reportes de outros servidores",
+                "reportado": "> Reportar usuário",
+                "reportador": "Reportador",
+                "descricao_report": "Seu reporte irá adicionar o seguinte usuário a minha lista de mau comportados.\n\nVocê pode decidir se eu irei notificar outros servidores sobre essa inclusão, se irei adicionar ele em silêncio ou se deseja cancelar este reporte.",
+                "automatizado": "> Reporte automatizado",
+                "descricao_automatizado": "Seu reporte irá adicionar todos os usuários que possuem justificativas e que estão banidos neste servidor à minha lista de usuários mau comportados.\n\nUsuários importados de forma automática não são mencionados para outros servidores, mas são exibidos em suas listas com o comando /verify server, caso os mesmos sejam membros de tal."
             },
             "xp": {
                 "permissao": "Você não pode gerenciar os membros deste servidor",
@@ -602,6 +621,39 @@
                 "objeto_invalido": "Objeto não encontrado",
                 "codigo": "Código utilizado",
                 "codigo_invalido": "O código utilizado não foi registrado, ou já expirou e não é mais possível consultar"
+            },
+            "tarefas": {
+                "tarefa_lista": "Escolha uma das listas abaixo para adicionar esta tarefa.",
+                "tarefa_adicionada": "Sua nova tarefa foi adicionada automaticamente na lista",
+                "tarefa_escolher": "Escolha uma das tarefas abaixo para mais detalhes.",
+                "sem_tarefa_a": "Você não possui nenhuma tarefa em aberto! Crie alguma para poder usar este comando.",
+                "sem_tarefa_f": "Você não possui nenhuma tarefa finalizada! Finalize algumas para poder usar este comando.",
+                "lista_e": "Escolha uma das listas abaixo para excluir.",
+                "lista_criada": "Sua lista foi criada, use o comando `/tarefas add tarefa` para adicionar tarefas!",
+                "lista_repetida": "Você já possui uma lista com esse nome! Por favor, insira uma lista com outro nome",
+                "lista_escolher": "Escolha uma das listas abaixo para visualizar anotações.",
+                "sem_tarefa": "Você não possui nenhuma tarefa criada! Crie alguma para poder usar este comando.",
+                "sem_lista": "Você não possui nenhuma lista criada! Crie alguma para poder usar este comando.",
+                "sem_lista_r": "Você não possui nenhuma lista para poder excluir!",
+                "sem_lista_n": "Você não possui nenhuma lista para poder navegar!",
+                "lista_confirmar_exclusao": "Você está prestes a apagar esta lista e confirmar a exclusão de outras `tarefas_repl` tarefas\nSelecione os botões abaixo para cancelar ou prosseguir a operação.",
+                "sua_tarefa": "> Sua tarefa",
+                "lista": "Lista",
+                "selecionar_botoes": "Selecione os botões abaixo para gerenciar esta tarefa"
+            }
+        },
+        "menu": {
+            "botoes": {
+                "confirmar": "Confirmar",
+                "cancelar": "Cancelar",
+                "apagar": "Apagar",
+                "marcar_concluida": "Marcar como concluída",
+                "alterar_de_lista": "Alterar de lista",
+                "abrir_novamente": "Abrir novamente",
+                "confirmar_notificando": "Confirmar e notificar",
+                "confirmar_anunciando": "Adicionar e anunciar",
+                "apenas_confirmar": "Confirmar silenciosamente",
+                "selecionar_operacao": "Selecione a operação desejada nos botões abaixo."
             }
         }
     }
