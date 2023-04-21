@@ -639,7 +639,11 @@
                 "lista_confirmar_exclusao": "Você está prestes a apagar esta lista e confirmar a exclusão de outras `tarefas_repl` tarefas\nSelecione os botões abaixo para cancelar ou prosseguir a operação.",
                 "sua_tarefa": "> Sua tarefa",
                 "lista": "Lista",
-                "selecionar_botoes": "Selecione os botões abaixo para gerenciar esta tarefa"
+                "selecionar_botoes": "Selecione os botões abaixo para gerenciar esta tarefa",
+                "escolher_tarefa_visualizar": "Escolha uma das tarefas para mais detalhes!",
+                "escolher_lista_navegar": "Escolha uma das listas para ver suas tarefas",
+                "escolher_lista_apagar": "Escolha uma das listas para apagar",
+                "escolher_lista_vincular": "Escolha uma das listas para vincular esta!"
             }
         },
         "menu": {
@@ -654,11 +658,15 @@
                 "confirmar_anunciando": "Adicionar e anunciar",
                 "apenas_confirmar": "Confirmar silenciosamente",
                 "selecionar_operacao": "Selecione a operação desejada nos botões abaixo."
+            },
+            "menus": {
+                "criador_menu": "Parado aí seu salafrário! Esse menu só pode ser usado pelo autor do comando!",
+                "criador_botoes": "Parado aí seu salafrário! Esses botões só podem ser usados pelo autor do comando!"
             }
         },
         "modu": {
             "frases": {
-                "manha": ["Bom dia!!! a vida é uma caixinha de surpresas, hoje tamo na merda, amanhã tamo na bosta", "Bom dia flor do dia", "Bom dia cacete", "Bom dia pra quem acorda, pra mim é só dia", "ACCOOOORDDAAAAAAAAAAAAAAAAAAAAAAAAAaa"],
+                "manha": ["Bom dia!!! A vida é uma caixinha de surpresas, hoje tamo na merda, amanhã tamo na bosta", "Bom dia flor do dia", "Bom dia cacete", "ACCOOOORDDAAAAAAAAAAAAAAAAAAAAAAAAAaa"],
                 "tarde": ["Boa tarde cacete", "https://images3.memedroid.com/images/UPLOADED119/5d1536a273737.jpeg"],
                 "noite": ["A derrota de hoje foi ruim, mas a de amanhã será bem pior\nBoa noite!", "Boa noite caralho", "Boa noite para todos, menos para alguns", "https://i.pinimg.com/originals/f2/a0/f4/f2a0f41e7836c8f71f18b66ce4c22440.jpg"]
             }
