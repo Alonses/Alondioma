@@ -31,8 +31,7 @@
                 "footer": "Your embeds will appear like this and when they see your profile with Alonsal",
                 "rand_color": "Your colors will be random with each command",
                 "cor_att": "Updated color! Now your embeds will be in the selected color",
-                "sem_money": "You don't have enough `B$price_repl` Bufunfas for this color!",
-                "att_cancelada": "Color change canceled"
+                "sem_money": "You don't have enough `B$price_repl` Bufunfas for this color!"
             },
             "pay": {
                 "error": "You don't have `B$valor_repl` Bufunfas to transfer!",

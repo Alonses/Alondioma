@@ -31,8 +31,7 @@
                 "footer": "Seus embeds irão aparecer assim e ao verem seu perfil com o Alonsal",
                 "rand_color": "Suas cores serão aleatórias a cada comando",
                 "cor_att": "Cor alterada! Agora seus _epic embed fails_ serão na nova cor",
-                "sem_money": "Ocê n tem `B$preco_repl` Bufunfas pra ter essa cor!",
-                "att_cancelada": "Alteração de cor cancelada"
+                "sem_money": "Ocê n tem `B$preco_repl` Bufunfas pra ter essa cor!"
             },
             "pay": {
                 "error": "Ocê não tem `B$valor_repl` Bufunfas pra transferir!",

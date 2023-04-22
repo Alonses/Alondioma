@@ -31,8 +31,7 @@
                 "footer": "Seus embeds irão aparecer assim e ao verem seu perfil com o Alonsal",
                 "rand_color": "Suas cores serão aleatórias a cada comando",
                 "cor_att": "Cor atualizada! Agora seus embeds serão na cor selecionada",
-                "sem_money": "Você não possui `B$preco_repl` Bufunfas suficientes para essa cor!",
-                "att_cancelada": "Alteração de cor cancelada"
+                "sem_money": "Você não possui `B$preco_repl` Bufunfas suficientes para essa cor!"
             },
             "pay": {
                 "error": "Você não possui `B$valor_repl` Bufunfas para transferir!",
@@ -63,7 +62,11 @@
                 "dias_uteis": "Dias úteis",
                 "finais_semana": "Finais de semana",
                 "todos_os_dias": "Todos os dias",
-                "descricao": "Este módulo irá descontar `B$modulos_price_repl p/ dia`, quanto mais módulos ativar,\nmais bufunfas serão descontadas do seu banco por dia.\n\nAtualmente o valor por operar seus módulos é `B$montante_repl p/dia`.\n----------------------------------------------------------------------------"
+                "dias_uteis_2": "nos dias úteis",
+                "finais_semana_2": "nos finais de semana",
+                "todos_os_dias_2": "todos os dias",
+                "descricao": "Este módulo irá descontar `B$modulos_price_repl p/ dia`, quanto mais módulos ativar,\nmais bufunfas serão descontadas do seu banco por dia.\n\nAtualmente o valor por operar seus módulos é `B$montante_repl p/dia`.\n----------------------------------------------------------------------------",
+                "modulo_ativado": "Módulo ativado! Seu módulo será enviado auto_repl às `auto_repl`"
             }
         },
         "dive": {
@@ -338,7 +341,11 @@
                 "reportador": "Reportador",
                 "descricao_report": "Seu reporte irá adicionar o seguinte usuário a minha lista de mau comportados.\n\nVocê pode decidir se eu irei notificar outros servidores sobre essa inclusão, se irei adicionar ele em silêncio ou se deseja cancelar este reporte.",
                 "automatizado": "> Reporte automatizado",
-                "descricao_automatizado": "Seu reporte irá adicionar todos os usuários que possuem justificativas e que estão banidos neste servidor à minha lista de usuários mau comportados.\n\nUsuários importados de forma automática não são mencionados para outros servidores, mas são exibidos em suas listas com o comando /verify server, caso os mesmos sejam membros de tal."
+                "descricao_automatizado": "Seu reporte irá adicionar todos os usuários que possuem justificativas e que estão banidos neste servidor à minha lista de usuários mau comportados.\n\nUsuários importados de forma automática não são mencionados para outros servidores, mas são exibidos em suas listas com o comando /verify server, caso os mesmos sejam membros de tal.",
+                "adicionado_silenciosamente": "O usuário foi adicionado silenciosamente a lista de mau comportados, obrigado!",
+                "usuarios_reportados": "`qtd_repl` novos usuários banidos foram adicionados aos registros de mau comportados, obrigado!",
+                "usuario_reportado": "`1` novo usuário foi adicionado ao meu registro de mau comportados, obrigado!",
+                "sem_usuarios": "Nenhum usuário foi adicionado, pois não possuem justificativa de banimento ou não há banimentos no servidor."
             },
             "xp": {
                 "permissao": "Você não pode gerenciar os membros deste servidor",
@@ -634,6 +641,7 @@
             "tarefas": {
                 "tarefa_lista": "Escolha uma das listas abaixo para adicionar esta tarefa.",
                 "tarefa_adicionada": "Sua nova tarefa foi adicionada automaticamente na lista",
+                "tarefa_adicionada_2": "Sua tarefa foi adicionada a lista `lista_repl` com sucesso!",
                 "tarefa_escolher": "Escolha uma das tarefas abaixo para mais detalhes.",
                 "sem_tarefa_a": "Você não possui nenhuma tarefa em aberto! Crie alguma para poder usar este comando.",
                 "sem_tarefa_f": "Você não possui nenhuma tarefa finalizada! Finalize algumas para poder usar este comando.",
@@ -657,7 +665,12 @@
                 "finalizada": "Finalizada",
                 "em_aberto": "Em aberto",
                 "criacao": "Criado em",
-                "selecionar_lista": "Selecionar essa lista"
+                "selecionar_lista": "Selecionar essa lista",
+                "tarefa_movida": "Sua tarefa foi movida para as notas concluídas!",
+                "tarefa_movida_2": "Sua tarefa foi movida para as notas em aberto novamente!",
+                "tarefa_excluida": "Sua tarefa foi excluída com sucesso!",
+                "exclusao_lista_cancelada": "Exclusão da lista de tarefas cancelada.",
+                "exclusao_lista": "`Lista` e `tarefas` vinculadas excluídas com sucesso!"
             }
         },
         "menu": {
@@ -672,7 +685,8 @@
                 "confirmar_notificando": "Confirmar e notificar",
                 "confirmar_anunciando": "Adicionar e anunciar",
                 "apenas_confirmar": "Confirmar silenciosamente",
-                "selecionar_operacao": "Selecione a operação desejada nos botões abaixo."
+                "selecionar_operacao": "Selecione a operação desejada nos botões abaixo.",
+                "operacao_cancelada": "Operação cancelada!"
             },
             "menus": {
                 "criador_menu": "Parado aí seu salafrário! Esse menu só pode ser usado pelo autor do comando!",

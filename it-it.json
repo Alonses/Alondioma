@@ -31,8 +31,7 @@
                 "footer": "I tuoi incorporamenti appariranno in questo modo e quando vedranno il tuo profilo con Alonsal",
                 "rand_color": "I tuoi colori saranno casuali su ogni comando",
                 "cor_att": "Colore aggiornato! I tuoi incorporamenti saranno ora nel colore selezionato",
-                "sem_money": "Non hai abbastanza `B$preco_repl` Bufunfas per questo colore!",
-                "att_cancelada": "Cambio colore annullato"
+                "sem_money": "Non hai abbastanza `B$preco_repl` Bufunfas per questo colore!"
             },
             "pay": {
                 "error": "Non hai `B$value_repl` Bufunfas da trasferire!",
