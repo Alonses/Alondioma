@@ -62,7 +62,8 @@
                 "sem_locale": "Para ativar o módulo de clima é necessário definir um local padrão com o comando `/link locale` antes!",
                 "dias_uteis": "Dias úteis",
                 "finais_semana": "Finais de semana",
-                "todos_os_dias": "Todos os dias"
+                "todos_os_dias": "Todos os dias",
+                "descricao": "Este módulo irá descontar `B$modulos_price_repl p/ dia`, quanto mais módulos ativar,\nmais bufunfas serão descontadas do seu banco por dia.\n\nAtualmente o valor por operar seus módulos é `B$montante_repl p/dia`.\n----------------------------------------------------------------------------"
             }
         },
         "dive": {
@@ -190,6 +191,9 @@
             },
             "gta": {
                 "horario": "Agora são exatamente horario_repl no GTA Online"
+            },
+            "jokenpo": {
+                "erro_aposta": "Pague o aluguel!\nVocê não possui Bufunfas suficientes para poder apostar, colete algumas com o </daily:1020794974377353338> antes!"
             },
             "nazar": {
                 "titulo": ":wind_chime: Madame Nazar hoje",
@@ -638,6 +642,7 @@
                 "lista_repetida": "Você já possui uma lista com esse nome! Por favor, insira uma lista com outro nome",
                 "lista_escolher": "Escolha uma das listas abaixo para visualizar anotações.",
                 "sem_tarefa": "Você não possui nenhuma tarefa criada! Crie alguma para poder usar este comando.",
+                "sem_tarefa_l": "Não há nenhuma tarefa anexada à essa lista ainda!",
                 "sem_lista": "Você não possui nenhuma lista criada! Crie alguma para poder usar este comando.",
                 "sem_lista_r": "Você não possui nenhuma lista para poder excluir!",
                 "sem_lista_n": "Você não possui nenhuma lista para poder navegar!",
@@ -648,7 +653,11 @@
                 "escolher_tarefa_visualizar": "Escolha uma das tarefas para mais detalhes!",
                 "escolher_lista_navegar": "Escolha uma das listas para ver suas tarefas",
                 "escolher_lista_apagar": "Escolha uma das listas para apagar",
-                "escolher_lista_vincular": "Escolha uma das listas para vincular esta!"
+                "escolher_lista_vincular": "Escolha uma das listas para vincular esta!",
+                "finalizada": "Finalizada",
+                "em_aberto": "Em aberto",
+                "criacao": "Criado em",
+                "selecionar_lista": "Selecionar essa lista"
             }
         },
         "menu": {
@@ -656,6 +665,7 @@
                 "confirmar": "Confirmar",
                 "cancelar": "Cancelar",
                 "apagar": "Apagar",
+                "retornar": "Retornar",
                 "marcar_concluida": "Marcar como concluída",
                 "alterar_de_lista": "Alterar de lista",
                 "abrir_novamente": "Abrir novamente",
