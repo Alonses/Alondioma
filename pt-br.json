@@ -262,7 +262,12 @@
                 "sem_dados": "Você não possui dados salvos por aqui ;)",
                 "server_desconhecido": "servidor desconhecido",
                 "um_server": "e 1 outro servidor",
-                "outros_servers": "e outros server_repl servidores"
+                "outros_servers": "e outros server_repl servidores",
+                "ghostmode": "Modo fantasma",
+                "notificacoes": "Notificações em DM",
+                "ranking": "Ranking ativo",
+                "links_externos": "Links externos",
+                "nota_servidores": "Servidores desconhecidos são servidores onde você ganhou experiências e eu não faço mais parte! :'("
             },
             "telemetria": {
                 "titulo": "> Dados de telemetria",
@@ -666,9 +671,22 @@
         },
         "modu": {
             "frases": {
-                "manha": ["Bom dia!!! A vida é uma caixinha de surpresas, hoje tamo na merda, amanhã tamo na bosta", "Bom dia flor do dia", "Bom dia cacete", "ACCOOOORDDAAAAAAAAAAAAAAAAAAAAAAAAAaa"],
-                "tarde": ["Boa tarde cacete", "https://images3.memedroid.com/images/UPLOADED119/5d1536a273737.jpeg"],
-                "noite": ["A derrota de hoje foi ruim, mas a de amanhã será bem pior\nBoa noite!", "Boa noite caralho", "Boa noite para todos, menos para alguns", "https://i.pinimg.com/originals/f2/a0/f4/f2a0f41e7836c8f71f18b66ce4c22440.jpg"]
+                "manha": [
+                    "Bom dia!!! A vida é uma caixinha de surpresas, hoje tamo na merda, amanhã tamo na bosta",
+                    "Bom dia flor do dia",
+                    "Bom dia cacete",
+                    "ACCOOOORDDAAAAAAAAAAAAAAAAAAAAAAAAAaa"
+                ],
+                "tarde": [
+                    "Boa tarde cacete",
+                    "https://images3.memedroid.com/images/UPLOADED119/5d1536a273737.jpeg"
+                ],
+                "noite": [
+                    "A derrota de hoje foi ruim, mas a de amanhã será bem pior\nBoa noite!",
+                    "Boa noite caralho",
+                    "Boa noite para todos, menos para alguns",
+                    "https://i.pinimg.com/originals/f2/a0/f4/f2a0f41e7836c8f71f18b66ce4c22440.jpg"
+                ]
             }
         }
     }
