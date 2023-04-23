@@ -653,7 +653,7 @@
                 "lista_e": "Escolha uma das listas abaixo para excluir.",
                 "lista_criada": "Sua lista foi criada, use o comando `/tarefas add tarefa` para adicionar tarefas!",
                 "lista_repetida": "Você já possui uma lista com esse nome! Por favor, insira uma lista com outro nome",
-                "lista_escolher": "Escolha uma das listas abaixo para visualizar anotações.",
+                "lista_escolher": "Escolha uma das listas abaixo para visualizar as tarefas.",
                 "sem_tarefa": "Você não possui nenhuma tarefa criada! Crie alguma para poder usar este comando.",
                 "sem_tarefa_l": "Não há nenhuma tarefa anexada à essa lista ainda!",
                 "sem_lista": "Você não possui nenhuma lista criada! Crie alguma para poder usar este comando.",
@@ -671,7 +671,7 @@
                 "em_aberto": "Em aberto",
                 "criacao": "Criado em",
                 "selecionar_lista": "Selecionar essa lista",
-                "tarefa_movida": "Sua tarefa foi movida para as notas concluídas!",
+                "tarefa_movida_1": "Sua tarefa foi movida para as notas concluídas!",
                 "tarefa_movida_2": "Sua tarefa foi movida para as notas em aberto novamente!",
                 "tarefa_excluida": "Sua tarefa foi excluída com sucesso!",
                 "exclusao_lista_cancelada": "Exclusão da lista de tarefas cancelada.",
@@ -682,20 +682,20 @@
             "botoes": {
                 "confirmar": "Confirmar",
                 "cancelar": "Cancelar",
-                "apagar": "Apagar",
+                "apagar": "Excluir",
                 "retornar": "Retornar",
                 "marcar_concluida": "Marcar como concluída",
                 "alterar_de_lista": "Alterar de lista",
                 "abrir_novamente": "Abrir novamente",
                 "confirmar_notificando": "Confirmar e notificar",
                 "confirmar_anunciando": "Adicionar e anunciar",
-                "apenas_confirmar": "Confirmar silenciosamente",
+                "apenas_confirmar": "Adicionar silenciosamente",
                 "selecionar_operacao": "Selecione a operação desejada nos botões abaixo.",
                 "operacao_cancelada": "Operação cancelada!"
             },
             "menus": {
-                "criador_menu": "Parado aí seu salafrário! Esse menu só pode ser usado pelo autor do comando!",
-                "criador_botoes": "Parado aí seu salafrário! Esses botões só podem ser usados pelo autor do comando!"
+                "criador_menu": "Parado aí! Esse menu só pode ser usado pelo autor do comando!",
+                "criador_botoes": "Parado aí! Esses botões só podem ser usados pelo autor do comando!"
             }
         },
         "modu": {

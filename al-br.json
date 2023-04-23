@@ -528,6 +528,12 @@
                 "sem_link": "Esse corno não me linkou com a LastFM, tenta dnv usando o nome personalizado dele",
                 "new_link": "O Alonsal foi vinculado a sua conta `auto_repl`! Agora ao usar auto_repl ocê não precisará screver seu nome toda hora :P"
             }
+        },
+        "menu": {
+            "menus": {
+                "criador_menu": "Parado aí seu salafrário! Esse menu só pode ser usado pelo autor do comando!",
+                "criador_botoes": "Parado aí seu salafrário! Esses botões só podem ser usados pelo autor do comando!"
+            }
         }
     }
 }

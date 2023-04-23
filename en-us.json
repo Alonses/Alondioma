@@ -623,6 +623,26 @@
                 "codigo": "Code used",
                 "codigo_invalido": "The code used was not registered, or it has expired and it is no longer possible to consult"
             }
+        },
+        "menu": {
+            "botoes": {
+                "confirmar": "Confirm",
+                "cancelar": "Cancel",
+                "apagar": "Delete",
+                "retornar": "Return",
+                "marcar_concluida": "Mark as completed",
+                "alterar_de_lista": "Change list",
+                "abrir_novamente": "Open again",
+                "confirmar_notificando": "Confirm and notify",
+                "confirmar_anunciando": "Add and advertise",
+                "apenas_confirmar": "Add silently",
+                "selecionar_operacao": "Select the desired operation using the buttons below.",
+                "operacao_cancelada": "Operation cancelled!"
+            },
+            "menus": {
+                "criador_menu": "Stop right there! This menu can only be used by the author of the command!",
+                "criador_botoes": "Stop right there! These buttons can only be used by the author of the command!"
+            }
         }
     }
 }

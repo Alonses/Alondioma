@@ -601,6 +601,26 @@
                 "codigo": "Código utilizado",
                 "codigo_invalido": "El código utilizado no fue registrado, o ha caducado y ya no es posible consultar"
             }
+        },
+        "menu": {
+            "botoes": {
+                "confirmar": "Confirmar",
+                "cancelar": "Cancelar",
+                "apagar": "Apagar",
+                "retornar": "Volver",
+                "marcar_concluida": "Marcar como completado",
+                "alterar_de_lista": "Cambiar de grupo",
+                "abrir_novamente": "Abrir de nuevo",
+                "confirmar_notificando": "Confirmar y notificar",
+                "confirmar_anunciando": "Agregar y anunciar",
+                "apenas_confirmar": "Añadir en silencio",
+                "selecionar_operacao": "Seleccione la operación deseada usando los botones de abajo.",
+                "operacao_cancelada": "¡Operación cancelada!"
+            },
+            "menus": {
+                "criador_menu": "¡Alto ahí! ¡Este menú solo puede ser utilizado por el autor del comando!",
+                "criador_botoes": "¡Alto ahí! ¡Estos botones solo pueden ser utilizados por el autor del comando!"
+            }
         }
     }
 }
