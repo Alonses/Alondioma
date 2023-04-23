@@ -193,7 +193,9 @@
                 "error_3": "Não é possível rodar sólidos geométricos com menos de 4 faces."
             },
             "gta": {
-                "horario": "Agora são exatamente auto_repl no GTA Online"
+                "horario": "Agora são exatamente auto_repl no GTA Online",
+                "horario_atual": "Horário atual",
+                "erro_apisal": "Não foi possível conectar a APISAL no momento, por favor, tente novamente mais tarde!"
             },
             "jokenpo": {
                 "erro_aposta": "Pague o aluguel!\nVocê não possui Bufunfas suficientes para poder apostar, colete algumas com o </daily:1020794974377353338> antes!"
@@ -332,6 +334,8 @@
                 "desativo": "Os reports de outros servidores sobre usuários mau comportados agora estão desativados neste servidor.",
                 "tipo_canal": "Você precisa especificar um canal de texto para que eu possa usar, tente novamente",
                 "sem_usuario": "Nenhum usuário foi informado!",
+                "reportar_bot": "Você não pode me reportar!",
+                "auto_reporte": "Você não pode se incluir na lista de mau comportados!",
                 "usuario_add": "O usuário foi incluido na lista de mau comportados, obrigado!",
                 "usuario_att": "O usuário teve seus dados atualizados, obrigado!",
                 "usuario_nao_encontrado": "O usuário informado não faz parte deste servidor, por favor, tente novamente.",
