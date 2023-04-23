@@ -2,7 +2,7 @@
     "data": {
         "inic": {
             "inicio": {
-                "slash_commands": "Les commandes traditionnelles ont été désactivées, continuez à utiliser Alonsal par les commandes `/slash` ( </help:1018609879512006787> )! Essayez-le maintenant ;D\n\nRemarque: Vous ne voyez pas mes commandes? Invitez-moi à nouveau en cliquant sur le bouton ci-dessous! Vérifiez également si mes commandes sont activées pour tout le serveur dans `Integrations -> Alonsal -> Commands`",
+                "slash_commands": "Les commandes traditionnelles ont été désactivées, continuez à utiliser Alonsal par les commandes `/slash` ( </help:1018609879512006787> )! Essayez-le maintenant ;D\n\nRemarque: Vous ne voyez pas mes commandes? Invitez-moi à nouveau en cliquant sur le bouton ci-dessous! Vérifiez également si mes commandes sont activées pour tout le serveur dans `Integrations -> Alonsal -> Commands`",
                 "convidar": "Inviter!",
                 "suporte": "Soutien"
             },
@@ -20,7 +20,7 @@
         },
         "misc": {
             "daily": {
-                "daily": "Quotidiennement collecté! Vous avez reçu `B$valor_repl` Bufunfas, revenez demain pour plus",
+                "daily": "Quotidiennement collecté! Vous avez reçu `B$auto_repl` Bufunfas, revenez demain pour plus",
                 "error": "Vous avez déjà encaissé votre paiement quotidien! Utilisez à nouveau la commande"
             },
             "color": {
@@ -31,19 +31,19 @@
                 "footer": "Vos intégrations apparaîtront comme ceci et quand ils verront votre profil avec Alonsal",
                 "rand_color": "Vos couleurs seront aléatoires à chaque commande",
                 "cor_att": "Couleur mise à jour! Maintenant, vos embeds seront dans la couleur sélectionnée",
-                "sem_money": "Vous n'avez pas `B$price_repl` Bufunfas pour cette couleur!"
+                "sem_money": "Vous n'avez pas `B$auto_repl` Bufunfas pour cette couleur!"
             },
             "pay": {
-                "error": "Vous n'avez pas `B$valor_repl` Bufunfas à transférer!",
+                "error": "Vous n'avez pas `B$auto_repl` Bufunfas à transférer!",
                 "error_2": "Entrez un nombre positif pour déposer",
                 "error_3": "Vous ne pouvez pas transférer à vous-même!",
                 "user_bot": "Vous ne pouvez pas transférer les Bufunfas vers des bots autres que moi!",
-                "sucesso": "Transfert approuvé! `B$valor_repl` Bufunfas ont été déposés sur le compte de",
-                "notifica": "Vous venez de recevoir un acompte! <@!user_repl> a déposé `B$valor_repl` Bufunfas sur votre compte! Yay"
+                "sucesso": "Transfert approuvé! `B$auto_repl` Bufunfas ont été déposés sur le compte de",
+                "notifica": "Vous venez de recevoir un acompte! <@!auto_repl> a déposé `B$auto_repl` Bufunfas sur votre compte! Yay"
             },
             "banco": {
                 "suas_bufunfas": "> Vos Bufunfas",
-                "bufunfas_outros": "Les Bufunfas de nome_repl",
+                "bufunfas_outros": "> Les Bufunfas de auto_repl",
                 "bufunfas": "Bufunfas cirés en stock",
                 "daily": "Suivant </daily:1020794974377353338> disponible",
                 "dica_comando": "Utilisez </daily:1020794974377353338> pour collecter des Bufunfas!",
@@ -55,7 +55,7 @@
                 "permissao_1": "Discord n'autorise pas les robots à attribuer des surnoms aux propriétaires de serveurs",
                 "permissao_2": "Je ne peux pas changer le nom d'utilisateur des autres utilisateurs sur ce serveur :(",
                 "error_1": "Une erreur s'est produite et nous ne sommes pas en mesure de modifier votre pseudonyme pour le moment!\nVeuillez réessayer ultérieurement.",
-                "apelido": "Votre surnom a été changé en `apelido_repl`!\nUtilisez à nouveau la commande pour brouiller encore plus !"
+                "apelido": "Votre surnom a été changé en `auto_repl`!\nUtilisez à nouveau la commande pour brouiller encore plus!"
             },
             "baidu": {
                 "baidu": "Louange à être!!"
@@ -124,19 +124,19 @@
                 "badge_fixada": "épinglé à votre profil!",
                 "badge_removida": "supprimé de votre profil",
                 "rodape": "Utilisez la commande /badge epingler pour épingler un!",
-                "new_badge": "Vous venez de gagner un badge! L'`nome_repl` emoji_repl! Il apparaîtra sur votre profil lorsque vous utiliserez la commande `/user info`\n\nVous pouvez également épingler des badges en vedette avec la commande `/badge epingler`!"
+                "new_badge": "Vous venez de gagner un badge! L'`auto_repl` auto_repl! Il apparaîtra sur votre profil lorsque vous utiliserez la commande `/user info`\n\nVous pouvez également épingler des badges en vedette avec la commande `/badge epingler`!"
             }
         },
         "game": {
             "anuncio": {
-                "link_app": "Ouvrir dans l'application plat_repl",
-                "anuncio_game_1": "Le jeu nomes_repl est gratuit jusqu'à `data_repl` ici\n\nUtilisez-le avant la date pour enregistrer `R$valor_repl` et garantir une copie dans votre compte plat_repl",
-                "anuncio_game_2": "Les jeux nomes_repl sont gratuits jusqu'à `data_repl`\n\nÉchangez-les tous avant la date pour économiser `R$valor_repl` et garantir des copies dans votre compte plat_repl",
-                "anuncio_dlc_1": "Le DLC nomes_repl est gratuit jusqu'à `data_repl` ici\n\nUtilisez-le avant la date pour enregistrer `R$valor_repl` et garantir une copie dans votre compte plat_repl",
-                "anuncio_dlc_2": "Les DLC nomes_repl sont gratuits jusqu'à `data_repl` ici\n\nÉchangez-les tous avant la date pour économiser `R$valor_repl` et garantir des copies dans votre compte plat_repl"
+                "link_app": "Ouvrir dans l'application auto_repl",
+                "anuncio_game_1": "Le jeu auto_repl est gratuit jusqu'à `auto_repl` ici\n\nUtilisez-le avant la date pour enregistrer `R$auto_repl` et garantir une copie dans votre compte auto_repl",
+                "anuncio_game_2": "Les jeux auto_repl sont gratuits jusqu'à `auto_repl`\n\nÉchangez-les tous avant la date pour économiser `R$auto_repl` et garantir des copies dans votre compte auto_repl",
+                "anuncio_dlc_1": "Le DLC auto_repl est gratuit jusqu'à `auto_repl` ici\n\nUtilisez-le avant la date pour enregistrer `R$auto_repl` et garantir une copie dans votre compte auto_repl",
+                "anuncio_dlc_2": "Les DLC auto_repl sont gratuits jusqu'à `auto_repl` ici\n\nÉchangez-les tous avant la date pour économiser `R$auto_repl` et garantir des copies dans votre compte auto_repl"
             },
             "pula": {
-                "conteudo": "Le 1er jeu créé par Slondo!\nJusqu'où pouvez-vous courir? Testez maintenant!",
+                "conteudo": "Le 1er jeu créé par Slondo!\nJusqu'où pouvez-vous courir? Testez maintenant!",
                 "rodape": "Le jeu peut ne pas fonctionner correctement sur les téléphones portables.",
                 "vinculo": "Cet utilisateur n'a pas encore lié son compte Discord à Pula Prédios:tm:!",
                 "error_1": "Il y a eu une erreur avec le jeton, nous vérifions quel était le problème, veuillez réessayer plus tard",
@@ -162,7 +162,7 @@
                 "pisoes": "Prime",
                 "concluidos": "Complété",
                 "progresso": "Progrès",
-                "recorde": "🏆 Record de pontos_repl points en un match!\n🏃 distancia_repl km parcourus au total"
+                "recorde": "🏆 Record de auto_repl points en un match!\n🏃 auto_repl km parcourus au total"
             },
             "cara": {
                 "acertou": "Tu as raison! Toutes nos félicitations!",
@@ -174,11 +174,11 @@
                 "error_3": "Il n'est pas possible de faire pivoter des solides géométriques avec moins de 4 faces."
             },
             "gta": {
-                "horario": "Maintenant sont exactement horario_repl dans GTA Online"
+                "horario": "Maintenant sont exactement auto_repl dans GTA Online"
             },
             "nazar": {
                 "titulo": ":wind_chime: Madame Nazar aujourd'hui",
-                "descricao": "Madame Nazar est aujourd'hui dans la région de \n`regiao_repl`, en `preciso_repl`\n\n:round_pushpin: avec `proximo_repl` et `proximo_2_repl`",
+                "descricao": "Madame Nazar est aujourd'hui dans la région de \n`auto_repl`, en `auto_repl`\n\n:round_pushpin: avec `auto_repl` et `auto_repl`",
                 "error_1": "Impossible de localiser Madame Nazar pour le moment, veuillez réessayer plus tard"
             },
             "forca": {
@@ -215,7 +215,7 @@
             },
             "mail": {
                 "aviso_1": "Il y a une erreur dans votre message, réessayez.",
-                "aviso_2": ":mailbox: Votre message a été livré !",
+                "aviso_2": ":mailbox: Votre message a été livré!",
                 "aviso_5": ":incoming_envelope:\nJ'ai envoyé plus d'informations dans votre dm :mailbox_with_mail:",
                 "error_1": "Impossible d'envoyer un message à cet ID",
                 "sucesso_1": "Message envoyé à Alonsal :incoming_envelope:\nJ'ai envoyé plus d'informations dans votre dm :mailbox_with_mail:",
@@ -247,11 +247,11 @@
                 "sem_dados": "Vous n'avez aucune donnée enregistrée ici ;)",
                 "server_desconhecido": "serveur inconnu",
                 "um_server": "et 1 autre serveur",
-                "outros_servers": "et server_repl autres serveurs"
+                "outros_servers": "et auto_repl autres serveurs"
             },
             "telemetria": {
                 "titulo": "> Données de télémétrie",
-                "descricao": "Pour un meilleur fonctionnement d'Alonsal, nous utilisons diverses données anonymisées pour décider quelles fonctionnalités accorder plus d'attention et améliorer à l'avenir.\n\nCes données peuvent provenir de toutes les fonctions du bot, dont les plus importantes sont les commandes, lors de l'utilisation d'un commande, comme celle-ci de / telemetry, le bot enregistre l'interaction dans son historique des commandes émises et affiche un bref résumé du serveur sur lequel la commande a été utilisée, selon l'impression jointe ci-dessous.\n\nD'autres données que nous recueillons également sont listés ci-dessous :\n`Serveurs (bot) entrants et sortants`, `Nombre total de serveurs, de canaux et d'utilisateurs que le bot peut afficher`, `Des erreurs se sont produites pendant 'une commande`, `Messages texte pour les expériences/niveau` , `Snort mouvements `, `Chaînes qui reçoivent des mises à jour gratuites du jeu`, et enfin celles qui sont mises à jour quotidiennement :\n\n` Commandes déclenchées, erreurs, expérience accordée, messages valables pour xp, bouffons distribués et déplacés et serveurs, chaînes et utilisateurs \"des connaissances\".",
+                "descricao": "Pour un meilleur fonctionnement d'Alonsal, nous utilisons diverses données anonymisées pour décider quelles fonctionnalités accorder plus d'attention et améliorer à l'avenir.\n\nCes données peuvent provenir de toutes les fonctions du bot, dont les plus importantes sont les commandes, lors de l'utilisation d'un commande, comme celle-ci de / telemetry, le bot enregistre l'interaction dans son historique des commandes émises et affiche un bref résumé du serveur sur lequel la commande a été utilisée, selon l'impression jointe ci-dessous.\n\nD'autres données que nous recueillons également sont listés ci-dessous:\n`Serveurs (bot) entrants et sortants`, `Nombre total de serveurs, de canaux et d'utilisateurs que le bot peut afficher`, `Des erreurs se sont produites pendant 'une commande`, `Messages texte pour les expériences/niveau` , `Snort mouvements `, `Chaînes qui reçoivent des mises à jour gratuites du jeu`, et enfin celles qui sont mises à jour quotidiennement:\n\n` Commandes déclenchées, erreurs, expérience accordée, messages valables pour xp, bouffons distribués et déplacés et serveurs, chaînes et utilisateurs \"des connaissances\".",
                 "rodape": "🔰 | Il convient de noter que les entrées de texte sont également masquées, ce qui rend le contenu saisi non visible pour votre vie privée."
             },
             "traduz": {
@@ -270,7 +270,7 @@
                 "error": "Impossible d'exécuter cette commande car il y a des publications épinglées ou obsolètes, veuillez réduire le nombre et réessayer"
             },
             "anuncio": {
-                "permissao": "Vous ne pouvez pas utiliser cette commande car vous ne pouvez pas `gérer les chaînes` depuis le serveur !",
+                "permissao": "Vous ne pouvez pas utiliser cette commande car vous ne pouvez pas `gérer les chaînes` depuis le serveur!",
                 "anuncio_games": "À partir de maintenant, cette repl_canal chaîne recevra des mises à jour lorsque des jeux gratuits seront disponibles\nUtilisez la commande sans paramètres pour supprimer les mises à jour.",
                 "anuncio_off": "Notifications de jeu désactivées pour cette serveur",
                 "ativos": "Actuellement actif",
@@ -292,16 +292,16 @@
                 "tipo_canal": "Vous devez sélectionner une catégorie pour que je puisse y créer des chaînes, veuillez réessayer"
             },
             "denuncia": {
-                "desativado": "Les rapports dans les chats privés sont désactivés pour ce serveur, informez un modérateur de cette fonctionnalité ! :P",
-                "introducao": "Votre chat a été ouvert, chat_repl, utilisez-le pour signaler et joindre des fichiers si nécessaire.",
+                "desativado": "Les rapports dans les chats privés sont désactivés pour ce serveur, informez un modérateur de cette fonctionnalité! :P",
+                "introducao": "Votre chat a été ouvert, auto_repl, utilisez-le pour signaler et joindre des fichiers si nécessaire.",
                 "canal_aberto": "Vous disposez déjà d'un canal de signalement ouvert!",
                 "canal_fechado": "Vous n'avez pas de canal de signalement ouvert!",
-                "fechando_canal": "Cette chaîne sera fermée tempo_repl secondes, merci!",
+                "fechando_canal": "Cette chaîne sera fermée auto_repl secondes, merci!",
                 "erro_1": "Une erreur s'est produite et la chaîne n'a pas pu être créée pour le moment, veuillez réessayer plus tard"
             },
             "report": {
                 "reporte": "Réclamations",
-                "ativo": "Les rapports d'autres serveurs sur les utilisateurs qui se conduisent mal seront désormais envoyés dans canal_repl",
+                "ativo": "Les rapports d'autres serveurs sur les utilisateurs qui se conduisent mal seront désormais envoyés dans auto_repl",
                 "desativo": "Les rapports d'autres serveurs sur les utilisateurs qui se comportent mal sont maintenant désactivés sur ce serveur.",
                 "tipo_canal": "Vous devez spécifier un canal de texte à utiliser, veuillez réessayer",
                 "sem_usuario": "Aucun utilisateur n'a été mentionné!",
@@ -313,7 +313,7 @@
             },
             "xp": {
                 "permissao_1": "Vous ne pouvez pas gérer les membres de ce serveur",
-                "sucesso": "L'expérience pour `nick_repl` a été changée en `exp_repl exp`, son nouveau niveau est `nivel_repl`",
+                "sucesso": "L'expérience pour `auto_repl` a été changée en `auto_repl exp`, son nouveau niveau est `auto_repl`",
                 "error_2": "Une erreur inattendue s'est produite et l'expérience de cet utilisateur n'a pas pu être modifiée pour le moment.\nVeuillez réessayer plus tard"
             },
             "oculto": {
@@ -331,8 +331,8 @@
             },
             "emojis": {
                 "permissao": "Je ne suis pas autorisé à gérer les emojis et les autocollants sur ce serveur.",
-                "emoji_reservado": "Cet emoji est utilisé par moi! Nous ne pouvons pas le supprimer !",
-                "aviso_1": "Insérez un fichier image et mentionnez un emoji pour utiliser cette commande !",
+                "emoji_reservado": "Cet emoji est utilisé par moi! Nous ne pouvons pas le supprimer!",
+                "aviso_1": "Insérez un fichier image et mentionnez un emoji pour utiliser cette commande!",
                 "emoji_custom": "Entrez un emoji personnalisé à ajouter",
                 "emoji_custom_remover": "Entrez un emoji personnalisé à supprimer",
                 "emoji_max": "Le nombre maximum d'emojis pour ce serveur a été atteint",
@@ -342,10 +342,10 @@
                 "sticker_max": "Le nombre maximum d'autocollants pour ce serveur a été atteint",
                 "sticker_size": "Joignez un fichier plus petit à utiliser comme autocollant! Celui-ci est très lourd!",
                 "sticker_error": "Impossible de créer la vignette",
-                "emoji_estrangeiro": "Cet emoji n'appartient pas à ce serveur !\nRéessayez",
-                "emoji_criado": "Emoji `nome_repl` créé avec succès!",
-                "emoji_removido": "L'emoji `nome_repl` a été supprimé du serveur!",
-                "figurinha_criada": "L'autocollant `nome_repl` a été créé avec succès!"
+                "emoji_estrangeiro": "Cet emoji n'appartient pas à ce serveur!\nRéessayez",
+                "emoji_criado": "Emoji `auto_repl` créé avec succès!",
+                "emoji_removido": "L'emoji `auto_repl` a été supprimé du serveur!",
+                "figurinha_criada": "L'autocollant `auto_repl` a été créé avec succès!"
             }
         },
         "util": {
@@ -354,7 +354,7 @@
                 "ping_2": "Tout va bien!",
                 "ping_3": "Vous pouvez même jouer les yeux fermés!",
                 "ping_4": "Vous pouvez jeter votre routeur!",
-                "ping_5": "Ok, qui a installé Baidu ici ? OMS????",
+                "ping_5": "Ok, qui a installé Baidu ici? OMS????",
                 "latencia": "Latence d'Alonsal"
             },
             "wiki": {
@@ -380,9 +380,9 @@
                 "error_1": "Conversion impossible, taille maximale dépassée!"
             },
             "avatar": {
-                "download_avatar": "Cliquez [ici](link_repl) pour télécharger l'avatar",
-                "download_banner": "Cliquez [ici](link_repl) pour télécharger la bannière",
-                "download_icon": "Cliquez [ici](link_repl) pour télécharger l'icône",
+                "download_avatar": "Cliquez [ici](auto_repl) pour télécharger l'avatar",
+                "download_banner": "Cliquez [ici](auto_repl) pour télécharger la bannière",
+                "download_icon": "Cliquez [ici](auto_repl) pour télécharger l'icône",
                 "sem_avatar": "Cet utilisateur n'a pas d'avatar personnalisé!",
                 "sem_banner": "Cet utilisateur n'a pas de bannière personnalisée!",
                 "error_1": "Impossible de récupérer cet avatar pour le moment, veuillez réessayer plus tard"
@@ -432,7 +432,7 @@
                 "comeco": "Commencé en",
                 "termino": ", fini dans",
                 "equador": "Cet emplacement est proche de l'équateur, la saison en cours peut ne pas refléter votre météo actuelle",
-                "new_link": "Maintenant, je vais utiliser votre entrée ( `entrada_repl` ) comme modèle de recherche dans la commande </weather:1018653229128622187> !\nUtilisez à nouveau la commande </link locale:1020561785620803674> si vous souhaitez modifier l'emplacement épinglé",
+                "new_link": "Maintenant, je vais utiliser votre entrée ( `auto_repl` ) comme modèle de recherche dans la commande </weather:1018653229128622187>!\nUtilisez à nouveau la commande </link locale:1020561785620803674> si vous souhaitez modifier l'emplacement épinglé",
                 "error_locale": "Il n'y a pas de paramètres régionaux par défaut définis, utilisez la commande </link locale:1020561785620803674> pour en définir un ou utilisez la commande </weather:1018653229128622187> informant à nouveau une valeur d'entrée"
             },
             "minecraft": {
@@ -576,7 +576,7 @@
                 "capturas": "Impressions",
                 "nome": "Nom",
                 "tempo_jogado": "Temps joué",
-                "sem_link": "L'utilisateur mentionné n'a pas lié Alonsal à Steam, essayez de rechercher son nom personnalisé !"
+                "sem_link": "L'utilisateur mentionné n'a pas lié Alonsal à Steam, essayez de rechercher son nom personnalisé!"
             },
             "calc": {
                 "aviso_1": "Entrez au moins une opération de base pour calculer",
@@ -587,7 +587,7 @@
                 "primaria": "Mot de passe principal",
                 "bonus": "Mots de passe bonus",
                 "titulo": "V0s_M0t5 d3 p4553, cliquez ici pour tester votre mot de passe",
-                "rodape": "4 mots de passe avec des caractères tamanho_repl à choisir, ils ne sont pas enregistrés ici et je ne connais même pas le contenu, seulement vous ;)"
+                "rodape": "4 mots de passe avec des caractères auto_repl à choisir, ils ne sont pas enregistrés ici et je ne connais même pas le contenu, seulement vous ;)"
             },
             "timestamp": {
                 "timestamp_1": "De la date à l'horodatage",
@@ -608,13 +608,13 @@
                 "artistas": "Artistes",
                 "faixas_favoritas": "Pistes préférées",
                 "geral": "Général",
-                "perfil_musical": "Profil musical de nome_repl",
+                "perfil_musical": "Profil musical de auto_repl",
                 "em_scrobble": "Sur Scrobble en ce moment",
                 "obsessao": "Coup de coeur du moment",
                 "error_1": "Ce profil n'existe pas, veuillez réessayer",
                 "error_2": "Une erreur inattendue s'est produite et ce profil n'a pas pu être chargé depuis LastFM, il semble que la plateforme ne fonctionne pas correctement! Veuillez réessayer plus tard",
                 "sem_link": "L'utilisateur mentionné n'a pas lié Alonsal à LastFM, essayez de rechercher son nom personnalisé!",
-                "new_link": "Alonsal a été lié à votre compte `plat_repl`! Désormais, lorsque vous utilisez comando_repl, vous n'aurez plus besoin d'écrire votre nom tout le temps :P"
+                "new_link": "Alonsal a été lié à votre compte `auto_repl`! Désormais, lorsque vous utilisez auto_repl, vous n'aurez plus besoin d'écrire votre nom tout le temps :P"
             },
             "rastreio": {
                 "local": "Place",

@@ -20,7 +20,7 @@
         },
         "misc": {
             "daily": {
-                "daily": "Daily collected! You received `B$valor_repl` Bufunfas, check back tomorrow for more",
+                "daily": "Daily collected! You received `B$auto_repl` Bufunfas, check back tomorrow for more",
                 "error": "You have already collected your daily! Use the command again"
             },
             "color": {
@@ -31,19 +31,19 @@
                 "footer": "Your embeds will appear like this and when they see your profile with Alonsal",
                 "rand_color": "Your colors will be random with each command",
                 "cor_att": "Updated color! Now your embeds will be in the selected color",
-                "sem_money": "You don't have enough `B$price_repl` Bufunfas for this color!"
+                "sem_money": "You don't have enough `B$auto_repl` Bufunfas for this color!"
             },
             "pay": {
-                "error": "You don't have `B$valor_repl` Bufunfas to transfer!",
+                "error": "You don't have `B$auto_repl` Bufunfas to transfer!",
                 "error_2": "Enter a positive number to deposit",
                 "error_3": "You cannot transfer to yourself!",
                 "user_bot": "You cannot transfer Bufunfas to bots other than me!",
-                "sucesso": "Transfer approved! `B$valor_repl` Bufunfas were deposited in the account of",
-                "notifica": "You just received a deposit! <@!user_repl> has deposited `B$valor_repl` Bufunfas into your account! yay"
+                "sucesso": "Transfer approved! `B$auto_repl` Bufunfas were deposited in the account of",
+                "notifica": "You just received a deposit! <@!auto_repl> has deposited `B$auto_repl` Bufunfas into your account! yay"
             },
             "banco": {
                 "suas_bufunfas": "> Your Bufunfas",
-                "bufunfas_outros": "nome_repl's Bufunfas",
+                "bufunfas_outros": "> auto_repl's Bufunfas",
                 "bufunfas": "Waxed Bufunfas in stock",
                 "daily": "Next </daily:1020794974377353338> available",
                 "dica_comando": "Use </daily:1020794974377353338> to collect Bufunfas!",
@@ -55,7 +55,7 @@
                 "permissao_1": "Discord does not allow bots to assign nicknames to server owners",
                 "permissao_2": "I cannot change the nickname of other users on this server :(",
                 "error_1": "An error occurred and we are unable to change your nickname at the moment!\nPlease try again later.",
-                "apelido": "Your nickname has been changed to `apelido_repl`!\nUse the command again to scramble even more!"
+                "apelido": "Your nickname has been changed to `auto_repl`!\nUse the command again to scramble even more!"
             },
             "baidu": {
                 "baidu": "Praise be to!!"
@@ -124,16 +124,16 @@
                 "badge_fixada": "pinned to your profile!",
                 "badge_removida": "removed from your profile",
                 "rodape": "Use the /badge fix command to pin a!",
-                "new_badge": "You just won a badge! The `nome_repl` emoji_repl! It will appear on your profile when you use the `/user info` command\n\nYou can also pin featured badges with the `/badge fix` command!"
+                "new_badge": "You just won a badge! The `auto_repl` auto_repl! It will appear on your profile when you use the `/user info` command\n\nYou can also pin featured badges with the `/badge fix` command!"
             }
         },
         "game": {
             "anuncio": {
-                "link_app": "Open in plat_repl app",
-                "anuncio_game_1": "The Game `nomes_repl`_ it's free until the day `data_repl` over there\n\nRedeem it before date to save `R$valor_repl` and get a copy in your plat_repl account",
-                "anuncio_game_2": "The Games nomes_repl are free until the day `data_repl over there\n\nRedeem all before date to save `R$valor_repl` and get a copy in your plat_repl account",
-                "anuncio_dlc_1": "The DLC `nomes_repl` it's free until the day `data_repl` over there\n\nRedeem it before date to save `R$valor_repl` and get a copy in your plat_repl account",
-                "anuncio_dlc_2": "The DLC's nomes_repl are free until the day `data_repl` over there\n\nRedeem both before date to save `R$valor_repl` and get a copy in your plat_repl account"
+                "link_app": "Open in auto_repl app",
+                "anuncio_game_1": "The Game `auto_repl`_ it's free until the day `auto_repl` over there\n\nRedeem it before date to save `R$auto_repl` and get a copy in your auto_repl account",
+                "anuncio_game_2": "The Games auto_repl are free until the day `auto_repl over there\n\nRedeem all before date to save `R$auto_repl` and get a copy in your auto_repl account",
+                "anuncio_dlc_1": "The DLC `auto_repl` it's free until the day `auto_repl` over there\n\nRedeem it before date to save `R$auto_repl` and get a copy in your auto_repl account",
+                "anuncio_dlc_2": "The DLC's auto_repl are free until the day `auto_repl` over there\n\nRedeem both before date to save `R$auto_repl` and get a copy in your auto_repl account"
             },
             "pula": {
                 "conteudo": "The 1st Game created by SLondo!\nHow far can you run? Test now!",
@@ -162,7 +162,7 @@
                 "pisoes": "Bonus",
                 "concluidos": "Completed",
                 "progresso": "Progress",
-                "recorde": "🏆 Record of pontos_repl points in a match!\n🏃 distancia_repl km's covered in total"
+                "recorde": "🏆 Record of auto_repl points in a match!\n🏃 auto_repl km's covered in total"
             },
             "cara": {
                 "acertou": "You're right! Congratulations!",
@@ -174,11 +174,11 @@
                 "error_3": "It is not possible to rotate geometric solids with less than 4 faces."
             },
             "gta": {
-                "horario": "Are exactly horario_repl in GTA Online"
+                "horario": "Are exactly auto_repl in GTA Online"
             },
             "nazar": {
                 "titulo": ":wind_chime: Madame Nazar today",
-                "descricao": "Madame Nazar is located today in the region of \n`regiao_repl`, in `preciso_repl`\n\n:round_pushpin: Next to `proximo_repl` and `proximo_2_repl`",
+                "descricao": "Madame Nazar is located today in the region of \n`auto_repl`, in `auto_repl`\n\n:round_pushpin: Next to `auto_repl` and `auto_repl`",
                 "error_1": "Unable to locate Madam Nazar at the moment, please try again later"
             },
             "forca": {
@@ -247,7 +247,7 @@
                 "sem_dados": "You don't have any data saved here ;)",
                 "server_desconhecido": "unknown server",
                 "um_server": "and one other server",
-                "outros_servers": "and server_repl other servers"
+                "outros_servers": "and auto_repl other servers"
             },
             "telemetria": {
                 "titulo": "> Telemetry data",
@@ -293,15 +293,15 @@
             },
             "denuncia": {
                 "desativado": "Reporting on private chats is disabled for this server, notify a moderator about this feature! :P",
-                "introducao": "Your chat has been opened, chat_repl, use it to report and attach files if necessary.",
+                "introducao": "Your chat has been opened, auto_repl, use it to report and attach files if necessary.",
                 "canal_aberto": "You already have an open reporting channel!",
                 "canal_fechado": "You do not have an open reporting channel!",
-                "fechando_canal": "This channel will be closed tempo_repl seconds, thank you!",
+                "fechando_canal": "This channel will be closed auto_repl seconds, thank you!",
                 "erro_1": "There was an error and the channel could not be created at the moment, please try again later"
             },
             "report": {
                 "reporte": "Complaints",
-                "ativo": "Reports from other servers about misbehaving users will be sent in canal_repl from now",
+                "ativo": "Reports from other servers about misbehaving users will be sent in auto_repl from now",
                 "desativo": "Reports from other servers about misbehaving users are now disabled on this server.",
                 "tipo_canal": "You need to specify a text channel for me to use, please try again",
                 "sem_usuario": "No user was mentioned!",
@@ -313,7 +313,7 @@
             },
             "xp": {
                 "permissao_1": "You cannot manage members of this server",
-                "sucesso": "Experience for `nick_repl` has been changed to `exp_repl exp`, its new level is `nivel_repl`",
+                "sucesso": "Experience for `auto_repl` has been changed to `auto_repl exp`, its new level is `auto_repl`",
                 "error_2": "An unexpected error occurred and this user's exp could not be changed at this time.\nPlease try again later"
             },
             "oculto": {
@@ -343,9 +343,9 @@
                 "sticker_size": "Send a smaller file to use as a sticker! This one is very heavy!",
                 "sticker_error": "Unable to create this sticker",
                 "emoji_estrangeiro": "This emoji does not belong on this server!\nPlease try again",
-                "emoji_criado": "Emoji `nome_repl` successfully created!",
-                "emoji_removido": "The `nome_repl` emoji has been removed from the server!",
-                "figurinha_criada": "Sticker `nome_repl` successfully created!"
+                "emoji_criado": "Emoji `auto_repl` successfully created!",
+                "emoji_removido": "The `auto_repl` emoji has been removed from the server!",
+                "figurinha_criada": "Sticker `auto_repl` successfully created!"
             }
         },
         "util": {
@@ -380,9 +380,9 @@
                 "error_1": "Unable to convert, maximum size exceeded!"
             },
             "avatar": {
-                "download_avatar": "Click [here](link_repl) to download the avatar",
-                "download_banner": "Click [here](link_repl) to download the banner",
-                "download_icon": "Click [here](link_repl) to download the icon",
+                "download_avatar": "Click [here](auto_repl) to download the avatar",
+                "download_banner": "Click [here](auto_repl) to download the banner",
+                "download_icon": "Click [here](auto_repl) to download the icon",
                 "sem_avatar": "This user does not have a custom avatar!",
                 "sem_banner": "This user does not have a custom banner!",
                 "error_1": "Unable to fetch this avatar at the moment, please try again later"
@@ -432,7 +432,7 @@
                 "comeco": "Started in",
                 "termino": ", ends in",
                 "equador": "This location is close to the equator, the current season may not reflect your current climate",
-                "new_link": "Now I'm going to use your entry ( `entrada_repl` ) as the search pattern in the command </weather:1018653229128622187>!\nUse the command </link locale:1020561785620803674> again if you want to change the pinned location",
+                "new_link": "Now I'm going to use your entry ( `auto_repl` ) as the search pattern in the command </weather:1018653229128622187>!\nUse the command </link locale:1020561785620803674> again if you want to change the pinned location",
                 "error_locale": "There is no default locale defined, use the command </link locale:1020561785620803674> to define one, or use the command </weather:1018653229128622187> again informing an input value"
             },
             "minecraft": {
@@ -587,7 +587,7 @@
                 "primaria": "Primary password",
                 "bonus": "Bonus passwords",
                 "titulo": "Y0uR P4s§w0Rd5, click here to test your password",
-                "rodape": "4 passwords with tamanho_repl characters to choose, they are not saved here and I don't even know the content, only you ;)"
+                "rodape": "4 passwords with auto_repl characters to choose, they are not saved here and I don't even know the content, only you ;)"
             },
             "timestamp": {
                 "timestamp_1": "From date to timestamp",
@@ -608,13 +608,13 @@
                 "artistas": "Artists",
                 "faixas_favoritas": "Favorite tracks",
                 "geral": "General",
-                "perfil_musical": "nome_repl's musical profile",
+                "perfil_musical": "auto_repl's musical profile",
                 "em_scrobble": "On Scrobble right now",
                 "obsessao": "Obsession of the moment",
                 "error_1": "This profile does not exist, please try again",
                 "error_2": "An unexpected error occurred and this profile could not be loaded from LastFM, it looks like the platform is not working properly! Please try again later",
                 "sem_link": "The mentioned user has not linked Alonsal with LastFM, try searching for his custom name!",
-                "new_link": "Alonsal has been linked to your `plat_repl` account! Now when using comando_repl you won't need to write your name all the time :P"
+                "new_link": "Alonsal has been linked to your `auto_repl` account! Now when using auto_repl you won't need to write your name all the time :P"
             },
             "rastreio": {
                 "local": "Place",

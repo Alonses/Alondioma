@@ -20,7 +20,7 @@
         },
         "misc": {
             "daily": {
-                "daily": "Bufunfas raccolti! Hai ricevuto `B$valor_repl` Bufunfas, controlla domani per maggiori informazioni",
+                "daily": "Bufunfas raccolti! Hai ricevuto `B$auto_repl` Bufunfas, controlla domani per maggiori informazioni",
                 "error": "Hai già raccolto oggi! Usa di nuovo il comando"
             },
             "color": {
@@ -31,19 +31,19 @@
                 "footer": "I tuoi incorporamenti appariranno in questo modo e quando vedranno il tuo profilo con Alonsal",
                 "rand_color": "I tuoi colori saranno casuali su ogni comando",
                 "cor_att": "Colore aggiornato! I tuoi incorporamenti saranno ora nel colore selezionato",
-                "sem_money": "Non hai abbastanza `B$preco_repl` Bufunfas per questo colore!"
+                "sem_money": "Non hai abbastanza `B$auto_repl` Bufunfas per questo colore!"
             },
             "pay": {
-                "error": "Non hai `B$value_repl` Bufunfas da trasferire!",
+                "error": "Non hai `B$auto_repl` Bufunfas da trasferire!",
                 "error_2": "Inserisci un numero positivo per depositare",
                 "error_3": "Non puoi trasferirti su te stesso!",
                 "user_bot": "Non puoi trasferire Bufunfas a bot diversi da me!",
-                "sucesso": "Trasferimento approvato! `B$valor_repl` Bufunfas sono stati depositati sul conto di",
-                "notifica": "Hai appena ricevuto un deposito! <@!user_repl> ha depositato `B$valor_repl` Bufunfas nel tuo account! Sìì"
+                "sucesso": "Trasferimento approvato! `B$auto_repl` Bufunfas sono stati depositati sul conto di",
+                "notifica": "Hai appena ricevuto un deposito! <@!auto_repl> ha depositato `B$auto_repl` Bufunfas nel tuo account! Sìì"
             },
             "banco": {
                 "suas_bufunfas": "> Le tue Bufunfas",
-                "bufunfas_outros": "Bufunfas di nome_repl",
+                "bufunfas_outros": "> Bufunfas di auto_repl",
                 "bufunfas": "Bufunfas cerati in stock",
                 "daily": "Successivo </daily:1020794974377353338> disponibile",
                 "dica_comando": "Usa </daily:1020794974377353338> per raccogliere Bufunfas!",
@@ -55,7 +55,7 @@
                 "permissao_1": "Discord non consente ai bot di dare soprannomi ai proprietari dei server",
                 "permissao_2": "Non posso cambiare il nickname di altri utenti su questo server :(",
                 "error_1": "Si è verificato un errore e al momento non siamo in grado di modificare il tuo nickname!\nRiprova più tardi.",
-                "apelido": "Il tuo nickname è stato cambiato in `apelido_repl`!\nUsa di nuovo il comando per rimescolare ancora di più!"
+                "apelido": "Il tuo nickname è stato cambiato in `auto_repl`!\nUsa di nuovo il comando per rimescolare ancora di più!"
             },
             "baidu": {
                 "baidu": "Lode sia!!"
@@ -124,16 +124,16 @@
                 "badge_fixada": "aggiunto ai preferiti sul tuo profilo!",
                 "badge_removida": "rimosso dal tuo profilo",
                 "rodape": "Usa il comando /badge pin per contrassegnarne uno!",
-                "new_badge": "Hai appena vinto un badge! L'`name_repl` emoji_repl! Verrà visualizzato sul tuo profilo quando usi il comando `/user info`\n\nPuoi anche mettere i badge in primo piano con il comando ` /badge pin`!"
+                "new_badge": "Hai appena vinto un badge! L'`auto_repl` auto_repl! Verrà visualizzato sul tuo profilo quando usi il comando `/user info`\n\nPuoi anche mettere i badge in primo piano con il comando ` /badge pin`!"
             }
         },
         "game": {
             "anuncio": {
-                "link_app": "Apri nell'app plat_repl",
-                "anuncio_game_1": "Il gioco nomes_repl è gratuito fino a `data_repl` lì\n\nRiscattalo prima della data per salvare `R$valor_repl` e garantirne una copia nel tuo account plat_repl",
-                "anuncio_game_2": "I giochi nomes_repl sono gratuiti fino a `data_repl` lì\n\nRiscatta tutto prima della data per salvare `R$ valor_repl` e proteggere le copie nel tuo account plat_repl",
-                "anuncio_dlc_1": "Il DLC nomes_repl è gratuito fino a `data_repl` lì\n\nRiscattalo prima della data per salvare `R$valor_repl` e garantirne una copia nel tuo account plat_repl",
-                "anuncio_dlc_2": "I DLC nomes_repl sono gratuiti fino a `data_repl` lì\n\nRiscattali tutti prima della data per salvare `R$valor_repl` e garantirne le copie nel tuo account plat_repl"
+                "link_app": "Apri nell'app auto_repl",
+                "anuncio_game_1": "Il gioco auto_repl è gratuito fino a `auto_repl` lì\n\nRiscattalo prima della data per salvare `R$auto_repl` e garantirne una copia nel tuo account auto_repl",
+                "anuncio_game_2": "I giochi auto_repl sono gratuiti fino a `auto_repl` lì\n\nRiscatta tutto prima della data per salvare `R$ auto_repl` e proteggere le copie nel tuo account auto_repl",
+                "anuncio_dlc_1": "Il DLC auto_repl è gratuito fino a `auto_repl` lì\n\nRiscattalo prima della data per salvare `R$auto_repl` e garantirne una copia nel tuo account auto_repl",
+                "anuncio_dlc_2": "I DLC auto_repl sono gratuiti fino a `auto_repl` lì\n\nRiscattali tutti prima della data per salvare `R$auto_repl` e garantirne le copie nel tuo account auto_repl"
             },
             "pula": {
                 "conteudo": "Il primo gioco creato da Slondo!\nQuanto lontano puoi correre? Prova ora!",
@@ -162,7 +162,7 @@
                 "pisoes": "Bonus",
                 "concluidos": "Completato",
                 "progresso": "Progresso",
-                "recorde": "🏆 Hai ottenuto pontos_repl punti in una partita!\n🏃 distancia_repl km percorsi in totale"
+                "recorde": "🏆 Hai ottenuto auto_repl punti in una partita!\n🏃 auto_repl km percorsi in totale"
             },
             "cara": {
                 "acertou": "Hai ragione! Congratulazioni!",
@@ -174,11 +174,11 @@
                 "error_3": "Non è possibile ruotare solidi geometrici con meno di 4 facce."
             },
             "gta": {
-                "horario": "Ora sono esattamente horario_repl in GTA Online"
+                "horario": "Ora sono esattamente auto_repl in GTA Online"
             },
             "nazar": {
                 "titulo": ":wind_chime: Madam Nazar oggi",
-                "descricao": "Madam Nazar si trova nella regione di \n`regiao_repl`, in `preciso_repl`\n\n:round_pushpin: accanto a `proximo_repl` e `proximo_2_repl`",
+                "descricao": "Madam Nazar si trova nella regione di \n`auto_repl`, in `auto_repl`\n\n:round_pushpin: accanto a `auto_repl` e `auto_repl`",
                 "error_1": "Impossibile localizzare Madam Nazar al momento, riprova più tardi"
             },
             "forca": {
@@ -247,7 +247,7 @@
                 "sem_dados": "Non hai dati salvati qui ;)",
                 "server_desconhecido": "server sconosciuto",
                 "um_server": "e 1 altro server",
-                "outros_servers": "e altri server_repl server"
+                "outros_servers": "e altri auto_repl server"
             },
             "telemetria": {
                 "titulo": "> Dati di telemetria",
@@ -293,15 +293,15 @@
             },
             "denuncia": {
                 "desativado": "I rapporti sulle chat private sono disabilitati per questo server, avvisa un moderatore di questa funzione! :P",
-                "introducao": "La tua chat è stata aperta, chat_repl, usala per segnalare e allegare file se necessario.",
+                "introducao": "La tua chat è stata aperta, auto_repl, usala per segnalare e allegare file se necessario.",
                 "canal_aberto": "Hai già un canale di segnalazione aperto!",
                 "canal_fechado": "Non hai un canale di segnalazione aperto!",
-                "fechando_canal": "Questo canale verrà chiuso tempo_repl secondi, grazie!",
+                "fechando_canal": "Questo canale verrà chiuso auto_repl secondi, grazie!",
                 "erro_1": "Si è verificato un errore e non è stato possibile creare il canale in questo momento, riprova più tardi"
             },
             "report": {
                 "reporte": "Reclami",
-                "ativo": "I rapporti da altri server sugli utenti che si comportano male verranno inviati in canal_repl d'ora in poi",
+                "ativo": "I rapporti da altri server sugli utenti che si comportano male verranno inviati in auto_repl d'ora in poi",
                 "desativo": "I rapporti da altri server sugli utenti che si comportano male sono ora disabilitati su questo server.",
                 "tipo_canal": "Devi specificare un canale di testo da utilizzare, riprova",
                 "sem_usuario": "Nessun utente è stato segnalato!",
@@ -313,7 +313,7 @@
             },
             "xp": {
                 "permissao_1": "Non puoi gestire i membri di questo server",
-                "sucesso": "L'Esperienza di `nick_repl` è stata cambiata a `exp_repl exp`, il suo nuovo livello è `nivel_repl`",
+                "sucesso": "L'Esperienza di `auto_repl` è stata cambiata a `auto_repl exp`, il suo nuovo livello è `auto_repl`",
                 "error_2": "Si è verificato un errore imprevisto e non è stato possibile modificare l'exp di questo utente in questo momento.\nRiprova più tardi"
             },
             "oculto": {
@@ -343,9 +343,9 @@
                 "sticker_size": "Carica un file più piccolo da usare come adesivo! È troppo pesante!",
                 "sticker_error": "Impossibile creare la miniatura",
                 "emoji_estrangeiro": "Questa emoji non appartiene a questo server!\nRiprova",
-                "emoji_criado": "Emoji `nome_repl` creato con successo!",
-                "emoji_removido": "L'emoji `nome_repl` è stata rimossa dal server!",
-                "figurinha_criada": "Sticker `nome_repl` creato con successo!"
+                "emoji_criado": "Emoji `auto_repl` creato con successo!",
+                "emoji_removido": "L'emoji `auto_repl` è stata rimossa dal server!",
+                "figurinha_criada": "Sticker `auto_repl` creato con successo!"
             }
         },
         "util": {
@@ -378,9 +378,9 @@
                 "error_1": "Impossibile convertire, dimensione massima superata!"
             },
             "avatar": {
-                "download_avatar": "Clicca [qui](link_repl) per scaricare l'avatar",
-                "download_banner": "Clicca [qui](link_repl) per scaricare il banner",
-                "download_icon": "Clicca [qui](link_repl) per scaricare l'icona",
+                "download_avatar": "Clicca [qui](auto_repl) per scaricare l'avatar",
+                "download_banner": "Clicca [qui](auto_repl) per scaricare il banner",
+                "download_icon": "Clicca [qui](auto_repl) per scaricare l'icona",
                 "sem_avatar": "Questo utente non ha un avatar personalizzato!",
                 "sem_banner": "Questo utente non ha un banner personalizzato!",
                 "error_1": "Non è stato possibile recuperare questo avatar in questo momento. Riprovare più tardi"
@@ -432,7 +432,7 @@
                 "termino": ", finisce in",
                 "termino_hoje": ", finisce oggi",
                 "equador": "Questa posizione è vicino all'equatore, la stagione in corso potrebbe non riflettere il clima attuale",
-                "new_link": "Ora userò la tua voce ( `entrada_repl` ) come modello di ricerca nel comando </weather:1018653229128622187>!\nUsa di nuovo il comando </link locale:1020561785620803674> se vuoi cambiare la posizione bloccata",
+                "new_link": "Ora userò la tua voce ( `auto_repl` ) come modello di ricerca nel comando </weather:1018653229128622187>!\nUsa di nuovo il comando </link locale:1020561785620803674> se vuoi cambiare la posizione bloccata",
                 "error_locale": "Non esiste una locale predefinita definita, usa il comando </link locale:1020561785620803674> per definirne una o ancora usa il comando </weather:1018653229128622187> per informare un valore di input"
             },
             "minecraft": {
@@ -451,8 +451,8 @@
                 "atributos": "Attributi",
                 "disco_musical": "Registrazione musicale",
                 "livro_encantado": "Libro incantato",
-                "sugestao_pesquisa": "Articolo sbagliato? Prova a cercare usando le virgolette, per esempio </mine:1018609879562334390>\"item_repl\"",
-                "mais_detalhes_wiki": "[Vedi maggiori dettagli sul wiki](link_repl)",
+                "sugestao_pesquisa": "Articolo sbagliato? Prova a cercare usando le virgolette, per esempio </mine:1018609879562334390>\"auto_repl\"",
+                "mais_detalhes_wiki": "[Vedi maggiori dettagli sul wiki](auto_repl)",
                 "nota_rodape": "Questo articolo non è stato ancora implementato ufficialmente, i suoi dati non sono ufficiali",
                 "sim": "Sì",
                 "nao": "No",
@@ -591,7 +591,7 @@
                 "primaria": "Password principale",
                 "bonus": "Password bonus",
                 "titulo": "L3 TU3 P45Sw0rd, clicca qui per testare la tua password",
-                "rodape": "4 password con tamanho_repl caratteri tra cui scegliere, non vengono salvate qui e non conosco nemmeno il contenuto, solo tu ;)"
+                "rodape": "4 password con auto_repl caratteri tra cui scegliere, non vengono salvate qui e non conosco nemmeno il contenuto, solo tu ;)"
             },
             "timestamp": {
                 "timestamp_1": "Dalla data al timestamp",
@@ -612,13 +612,13 @@
                 "artistas": "Artisti",
                 "faixas_favoritas": "Canzoni preferite",
                 "geral": "Geral",
-                "perfil_musical": "Il profilo musicale di nome_repl",
+                "perfil_musical": "Il profilo musicale di auto_repl",
                 "em_scrobble": "Su Scrobble ora",
                 "obsessao": "Ossessione del momento",
                 "error_1": "Questo profilo non esiste, riprova",
                 "error_2": "Si è verificato un errore imprevisto e questo profilo non può essere caricato da LastFM, sembra che la piattaforma non funzioni correttamente! Per favore riprova più tardi",
                 "sem_link": "L'utente menzionato non ha collegato Alonsal a LastFM, prova a cercare il suo nome personalizzato!",
-                "new_link": "Alonsal è stato collegato al tuo account `plat_repl`! Ora quando usi comando_repl non avrai bisogno di digitare il tuo nome tutto il tempo :P"
+                "new_link": "Alonsal è stato collegato al tuo account `auto_repl`! Ora quando usi auto_repl non avrai bisogno di digitare il tuo nome tutto il tempo :P"
             },
             "rastreio": {
                 "local": "Posto",

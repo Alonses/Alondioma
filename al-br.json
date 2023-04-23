@@ -20,7 +20,7 @@
         },
         "misc": {
             "daily": {
-                "daily": "Daily coletado! Ocê recebeu `B$valor_repl` Bufunfas, volta amanhã pra mais",
+                "daily": "Daily coletado! Ocê recebeu `B$auto_repl` Bufunfas, volta amanhã pra mais",
                 "error": "Ocê já coletou seu daily! Usa dnv"
             },
             "color": {
@@ -31,19 +31,19 @@
                 "footer": "Seus embeds irão aparecer assim e ao verem seu perfil com o Alonsal",
                 "rand_color": "Suas cores serão aleatórias a cada comando",
                 "cor_att": "Cor alterada! Agora seus _epic embed fails_ serão na nova cor",
-                "sem_money": "Ocê n tem `B$preco_repl` Bufunfas pra ter essa cor!"
+                "sem_money": "Ocê n tem `B$auto_repl` Bufunfas pra ter essa cor!"
             },
             "pay": {
-                "error": "Ocê não tem `B$valor_repl` Bufunfas pra transferir!",
+                "error": "Ocê não tem `B$auto_repl` Bufunfas pra transferir!",
                 "error_2": "Bota um número positivo pra depositar aí meo!",
                 "error_3": "Cê não pode transferir pra si mesmo!",
                 "user_bot": "Cê não pode transferir Bufunfas pra outros bótis além de mim!",
-                "sucesso": "Transferência aprovada! `B$valor_repl` Bufunfas foram enviadas na conta de",
-                "notifica": "Ocê acabou de receber um depósito! <@!user_repl> mandou `B$valor_repl` Bufunfas procê! STONKS"
+                "sucesso": "Transferência aprovada! `B$auto_repl` Bufunfas foram enviadas na conta de",
+                "notifica": "Ocê acabou de receber um depósito! <@!auto_repl> mandou `B$auto_repl` Bufunfas procê! STONKS"
             },
             "banco": {
                 "suas_bufunfas": "> Suas Bufunfas",
-                "bufunfas_outros": "Bufunfas de nome_repl",
+                "bufunfas_outros": "> Bufunfas de auto_repl",
                 "bufunfas": "Bufunfas enceiradas em stoque",
                 "daily": "Próximo </daily:1020794974377353338> só",
                 "dica_comando": "Usa </daily:1020794974377353338> pra coletar Bufunfas!",
@@ -55,7 +55,7 @@
                 "permissao_1": "O Discord não deixa os bots botarem apelido nos donos do server (tu)",
                 "permissao_2": "Eu não posso mudar o apelido de outros usuários nesse server :(",
                 "error_1": "Deu um xabu aqui e não consegui trocar seu apelido! Tenta dnv dps",
-                "apelido": "Seu apelido foi trocado pra `apelido_repl`!\nUsa o comando dnv pra bagunçar ainda mais!"
+                "apelido": "Seu apelido foi trocado pra `auto_repl`!\nUsa o comando dnv pra bagunçar ainda mais!"
             },
             "baidu": {
                 "baidu": [
@@ -112,7 +112,7 @@
                 "badge_fixada": "colada no seu perfil!",
                 "badge_removida": "tirada do seu perfil",
                 "rodape": "Usa o comando /badge fixar pra colar uma!",
-                "new_badge": "Cê ganhou uma Badge! O `nome_repl` emoji_repl! Ela será exibida em seu perfil se usarem o `/user info`\n\nCê tbm pode fixar Badges em destaque com o `/badge fixar`!"
+                "new_badge": "Cê ganhou uma Badge! O `auto_repl` auto_repl! Ela será exibida em seu perfil se usarem o `/user info`\n\nCê tbm pode fixar Badges em destaque com o `/badge fixar`!"
             }
         },
         "game": {
@@ -133,11 +133,11 @@
                 "error_3": "Não é possível rodar sólidos geométricos com menos de 4 faces."
             },
             "gta": {
-                "horario": "Agora é horario_repl no GTA Online"
+                "horario": "Agora é auto_repl no GTA Online"
             },
             "nazar": {
                 "titulo": ":wind_chime: Madame Nazar oji",
-                "descricao": "A Madame Nazar tá oji na região de \n`regiao_repl`, em `preciso_repl`\n\n:round_pushpin: Próxima de `proximo_repl` e `proximo_2_repl`",
+                "descricao": "A Madame Nazar tá oji na região de \n`auto_repl`, em `auto_repl`\n\n:round_pushpin: Próxima de `auto_repl` e `auto_repl`",
                 "error_1": "Não consegui rastrear a Madame Nazar agora, tente dnv mais tarde"
             },
             "forca": {
@@ -203,7 +203,7 @@
                 "sem_dados": "Ocê não possui :game_die: salvos por aqui ;)",
                 "server_desconhecido": "server desconhecido",
                 "um_server": "e 1 outro server",
-                "outros_servers": "e outros server_repl serveres"
+                "outros_servers": "e outros auto_repl serveres"
             },
             "telemetria": {
                 "titulo": "> 🎲 de telemetria",
@@ -245,15 +245,15 @@
             },
             "denuncia": {
                 "desativado": "As denúncias em chats privados stão desligadas nesse server, avise um ade eme sobre essa função! :P",
-                "introducao": "Seu chat foi criado, chat_repl, use ele para fazer denúncias e anexar arquivos caso necessário.",
+                "introducao": "Seu chat foi criado, auto_repl, use ele para fazer denúncias e anexar arquivos caso necessário.",
                 "canal_aberto": "Ocê já tem um canal de denúncia aberto!",
                 "canal_fechado": "Ocê não tem nenhum canal de denúncia aberto!",
-                "fechando_canal": "Esse canal será fechado tempo_repl segundos",
+                "fechando_canal": "Esse canal será fechado auto_repl segundos",
                 "erro_1": "Deu um erro aq e foi criei o canal agora, chora boi, tenta dnv dps"
             },
             "report": {
                 "reporte": "Denúncias",
-                "ativo": "As denúncias de outros servers de usuários rebeldes vão ser enviados no canal_repl",
+                "ativo": "As denúncias de outros servers de usuários rebeldes vão ser enviados no auto_repl",
                 "desativo": "As denúncias de outros servers de usuários rebeldes foram desligadas.",
                 "tipo_canal": "Ocê precisa mencionar um canal de texto pra mim usar, tenta dnv",
                 "sem_usuario": "Menciona um corno ai!",
@@ -265,7 +265,7 @@
             },
             "xp": {
                 "permissao_1": "Ocê não pode gerenciar os membros desse server",
-                "sucesso": "A Experiência de `nick_repl` foi alterada pra `exp_repl exp`, seu novo nível é `nivel_repl`",
+                "sucesso": "A Experiência de `auto_repl` foi alterada pra `auto_repl exp`, seu novo nível é `auto_repl`",
                 "error_2": "Houve um erro inesperado e não foi possível alterar o exp desse usuário no momento.\nPor Favor, tenta dnv mais tarde"
             },
             "oculto": {
@@ -296,9 +296,9 @@
                 "sticker_size": "Manda um arquivo menor para usar na figurinha! Esse é muito pesado!",
                 "sticker_error": "Não consegui criar a figurinha",
                 "emoji_estrangeiro": "Esse emoji não é desse server!\nTenta dnv",
-                "emoji_criado": "Emoji `nome_repl` criado com sucesso!",
-                "emoji_removido": "O emoji `nome_repl` foi removido do server!",
-                "figurinha_criada": "Figurinha `nome_repl` criado!"
+                "emoji_criado": "Emoji `auto_repl` criado com sucesso!",
+                "emoji_removido": "O emoji `auto_repl` foi removido do server!",
+                "figurinha_criada": "Figurinha `auto_repl` criado!"
             }
         },
         "util": {
@@ -333,9 +333,9 @@
                 "error_1": "Não foi possível converter, epic embed fail!"
             },
             "avatar": {
-                "download_avatar": "Clique [aqui](link_repl) pra baixar essa ibagem",
-                "download_banner": "Clique [aqui](link_repl) pra baixar esse banner",
-                "download_icon": "Clique [aqui](link_repl) pra baixar essa ibagem",
+                "download_avatar": "Clique [aqui](auto_repl) pra baixar essa ibagem",
+                "download_banner": "Clique [aqui](auto_repl) pra baixar esse banner",
+                "download_icon": "Clique [aqui](auto_repl) pra baixar essa ibagem",
                 "sem_avatar": "Esse corno não botou um avatar custom!",
                 "sem_banner": "Esse corno não botou um banner custom!",
                 "error_1": "Não foi possível buscar esse salafrario no momento, tenta dnv depois"
@@ -381,7 +381,7 @@
                 "error_2": "Não consegui puxar os dados desse lugar, tenta depois",
                 "antartida": "Antártida",
                 "equador": "Sa joça ae tá perto do equador, se pá a estação não funfa aqui",
-                "new_link": "Agora ovo usar entrada ( `entrada_repl` ) pra pesquisar com o comando </weather:1018653229128622187>!\nUsa dnv o </link locale:1020561785620803674> pra mudar o local fixado",
+                "new_link": "Agora ovo usar entrada ( `auto_repl` ) pra pesquisar com o comando </weather:1018653229128622187>!\nUsa dnv o </link locale:1020561785620803674> pra mudar o local fixado",
                 "error_locale": "Ocê não setou um lugar ainda, usa o </link locale:1020561785620803674> pra setar um, ou usa o </weather:1018653229128622187> dnv informando algum lugar"
             },
             "minecraft": {
@@ -509,7 +509,7 @@
                 "primaria": "Senha primária",
                 "bonus": "Otras senhas",
                 "titulo": "Su4s §3nH@5, clique aqui pra testar a senha",
-                "rodape": "4 senhas com tamanho_repl caracteres, nunca nem vi elas, passar bem 🕵️"
+                "rodape": "4 senhas com auto_repl caracteres, nunca nem vi elas, passar bem 🕵️"
             },
             "lastfm": {
                 "sem_scrobbles": "Esse perfil existe, mas o dono abandonou",
@@ -520,13 +520,13 @@
                 "artistas": "Artistas",
                 "faixas_favoritas": "Faixas curtidas",
                 "geral": "Geral",
-                "perfil_musical": "Perfil musical de nome_repl",
+                "perfil_musical": "Perfil musical de auto_repl",
                 "em_scrobble": "Scrobblando agora",
                 "obsessao": "Favorita da semana",
                 "error_1": "Esse perfil não existe, tenta dnv",
                 "error_2": "Deu um pepino aqui e não deu pra puxar esse perfil do LastFM, parece que a plataforma caiu! Tenta dnv depois!",
                 "sem_link": "Esse corno não me linkou com a LastFM, tenta dnv usando o nome personalizado dele",
-                "new_link": "O Alonsal foi vinculado a sua conta `plat_repl`! Agora ao usar comando_repl ocê não precisará screver seu nome toda hora :P"
+                "new_link": "O Alonsal foi vinculado a sua conta `auto_repl`! Agora ao usar auto_repl ocê não precisará screver seu nome toda hora :P"
             }
         }
     }
