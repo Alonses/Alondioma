@@ -9,7 +9,8 @@
             "error": {
                 "epic_embed_fail": "Si è verificato un errore durante il tentativo di eseguire questo comando, _non è comune ma succede_, ho chiamato gli enceiradores per eliminare questo baidu il prima possibile!\nScusiamo per l'inconveniente",
                 "develop": "Questo comando non è ancora pronto! aspetta ancora un po'...",
-                "comando_dm": "I comandi DM non sono attivi :spy:"
+                "comando_dm": "I comandi DM non sono attivi :spy:",
+                "comando_restrito": "Fermati lì! Non puoi usare questo comando!"
             },
             "ping": {
                 "titulo": "> Oh, fammi passare! :notes:",
@@ -39,7 +40,10 @@
                 "error_3": "Non puoi trasferirti su te stesso!",
                 "user_bot": "Non puoi trasferire Bufunfas a bot diversi da me!",
                 "sucesso": "Trasferimento approvato! `B$auto_repl` Bufunfas sono stati depositati sul conto di",
-                "notifica": "Hai appena ricevuto un deposito! <@!auto_repl> ha depositato `B$auto_repl` Bufunfas nel tuo account! Sìì"
+                "notifica": "Hai appena ricevuto un deposito! <@!auto_repl> ha depositato `B$auto_repl` Bufunfas nel tuo account! Sìì",
+                "nova_transferencia": "> Nuovo trasferimento",
+                "transferindo": "Trasferimento",
+                "destinatario": "Destinatario"
             },
             "banco": {
                 "suas_bufunfas": "> Le tue Bufunfas",
@@ -48,6 +52,22 @@
                 "daily": "Successivo </daily:1020794974377353338> disponibile",
                 "dica_comando": "Usa </daily:1020794974377353338> per raccogliere Bufunfas!",
                 "dica_rodape": "Puoi usare Bufunfas nelle personalizzazioni, come /color per esempio!"
+            },
+            "modulo": {
+                "cabecalho_menu": "> Creazione di un modulo",
+                "tipo": "Tipo di modulo",
+                "ativacao": "Attivazione",
+                "valor": "Valore",
+                "sem_bufunfa": "Non hai abbastanza Bufunfas per usare i moduli, prendine un po' prima con il comando /daily!",
+                "sem_locale": "Per attivare il modulo meteo, devi prima impostare una posizione predefinita con il comando `/local link`!",
+                "dias_uteis": "Giorni lavorativi",
+                "finais_semana": "Fine settimana",
+                "todos_os_dias": "Quotidiano",
+                "dias_uteis_2": "nei giorni lavorativi",
+                "finais_semana_2": "nei finesettimana",
+                "todos_os_dias_2": "ogni giorno",
+                "descricao": "Questo modulo avrà un costo `B$auto_repl il giorno`, più moduli sono attivi,\npiù Bufunfas verranno detratti dalla tua banca al giorno.\n\nAttualmente il valore per il funzionamento dei tuoi moduli è `B$auto_repl il giorno`.\n----------------------------------------------------------------------------",
+                "modulo_ativado": "Modulo attivato! Il tuo modulo verrà inviato auto_repl alle `auto_repl`"
             }
         },
         "dive": {
@@ -174,7 +194,12 @@
                 "error_3": "Non è possibile ruotare solidi geometrici con meno di 4 facce."
             },
             "gta": {
-                "horario": "Ora sono esattamente auto_repl in GTA Online"
+                "horario": "Ora sono esattamente auto_repl in GTA Online",
+                "horario_atual": "Ora attuale",
+                "erro_apisal": "Impossibile connettersi ad APISAL al momento, riprova più tardi!"
+            },
+            "jokenpo": {
+                "erro_aposta": "Paga l'affitto!\nNon hai abbastanza Bufunfas per scommettere, raccogline un po' con </daily:1020794974377353338> prima!"
             },
             "nazar": {
                 "titulo": ":wind_chime: Madam Nazar oggi",
@@ -247,7 +272,12 @@
                 "sem_dados": "Non hai dati salvati qui ;)",
                 "server_desconhecido": "server sconosciuto",
                 "um_server": "e 1 altro server",
-                "outros_servers": "e altri auto_repl server"
+                "outros_servers": "e altri auto_repl server",
+                "ghostmode": "Modalità fantasma",
+                "notificacoes": "Notifiche DM",
+                "ranking": "Classifica attiva",
+                "links_externos": "Link esterno",
+                "nota_servidores": "I server sconosciuti sono server in cui hai acquisito esperienza e io non ne faccio più parte! :'("
             },
             "telemetria": {
                 "titulo": "> Dati di telemetria",
@@ -305,11 +335,22 @@
                 "desativo": "I rapporti da altri server sugli utenti che si comportano male sono ora disabilitati su questo server.",
                 "tipo_canal": "Devi specificare un canale di testo da utilizzare, riprova",
                 "sem_usuario": "Nessun utente è stato segnalato!",
+                "reportar_bot": "Non puoi denunciarmi!",
+                "auto_reporte": "Non puoi aggiungerti alla lista dei cattivi!",
                 "usuario_add": "L'utente è stato aggiunto all'elenco dei comportamenti scorretti, grazie!",
                 "usuario_att": "Dati aggiornati, grazie!",
                 "usuario_nao_encontrado": "L'utente inserito non fa parte di questo server, riprova.",
                 "sem_report": "Questo utente non ha ricevuto alcuna segnalazione",
-                "com_report": "Questo utente ha alcuni rapporti da altri server"
+                "com_report": "Questo utente ha alcuni rapporti da altri server",
+                "reportado": "> Segnala utente",
+                "reportador": "Reporter",
+                "descricao_report": "La tua segnalazione aggiungerà il seguente utente al mio elenco di comportamenti anomali.\n\nPuoi decidere se notificare ad altri server questa aggiunta, semplicemente aggiungerlo silenziosamente o se vuoi annullare questa aggiunta.",
+                "automatizado": "> Rapporto automatizzato",
+                "descricao_automatizado": "La tua segnalazione aggiungerà tutti gli utenti giustificati che sono stati bannati da questo server al mio elenco di utenti che si comportano male.\n\nGli utenti importati automaticamente non sono menzionati su altri server, ma appaiono nei loro elenchi con il comando server /verify, se sono membri di come .",
+                "adicionado_silenciosamente": "L'utente è stato aggiunto silenziosamente alla lista dei cattivi, grazie!",
+                "usuarios_reportados": "`auto_repl` nuovi utenti bannati sono stati aggiunti ai registri cattivi, grazie!",
+                "usuario_reportado": "`1` nuovo utente è stato aggiunto al mio registro dei comportamenti anomali, grazie!",
+                "sem_usuarios": "Nessun utente è stato aggiunto in quanto non vi è alcuna giustificazione per il ban o non ci sono ban sul server."
             },
             "xp": {
                 "permissao_1": "Non puoi gestire i membri di questo server",
@@ -320,7 +361,7 @@
                 "ativo": "Modalità fantasma attiva! Ora tutti i comandi usati saranno visibili solo a te.\nUsa di nuovo il comando per disabilitare.",
                 "desativo": "Modalità fantasma disattivata! Ora tutti i comandi utilizzati saranno visibili a tutti.\nUtilizzare nuovamente il comando se si desidera attivare."
             },
-            "ranking" : {
+            "ranking": {
                 "error": "Questo utente ha disattivato la classifica, non è possibile modificare i suoi dati!",
                 "ativo": "Le tue interazioni di testo e comando ora ti garantiranno XP\nUsa di nuovo il comando per disabilitare il guadagno di XP.",
                 "desativo": "Le tue interazioni di testo e comando non ti garantiranno più XP\nUsa di nuovo il comando per abilitare il guadagno di XP."
@@ -626,6 +667,40 @@
                 "objeto_invalido": "Oggetto non trovato",
                 "codigo": "Codice utilizzato",
                 "codigo_invalido": "Il codice utilizzato non è stato registrato, oppure è scaduto e non è più consultabile"
+            },
+            "tarefas": {
+                "tarefa_lista": "Scegli una delle liste sottostanti per aggiungere questa attività.",
+                "tarefa_adicionada": "La tua nuova attività è stata aggiunta automaticamente all'elenco",
+                "tarefa_adicionada_2": "La tua attività è stata aggiunta con successo all'elenco `auto_repl`!",
+                "tarefa_escolher": "Scegli una delle attività seguenti per maggiori dettagli.",
+                "sem_tarefa_a": "Non hai attività aperte! Creane alcuni per poter utilizzare questo comando.",
+                "sem_tarefa_f": "Non hai attività chiuse! Finalizzane alcuni per poter utilizzare questo comando.",
+                "lista_e": "Scegli uno degli elenchi sottostanti per eliminare.",
+                "lista_criada": "La tua lista è stata creata, usa il comando `/tasks add task` per aggiungere attività!",
+                "lista_repetida": "Hai già una lista con quel nome! Inserisci un elenco con un altro nome",
+                "lista_escolher": "Scegli una delle liste sottostanti per visualizzare le attività.",
+                "sem_tarefa": "Non hai nessuna attività creata! Creane alcuni per poter utilizzare questo comando.",
+                "sem_tarefa_l": "Non ci sono ancora compiti allegati a questo elenco!",
+                "sem_lista": "Non hai creato nessuna lista! Creane alcuni per poter utilizzare questo comando.",
+                "sem_lista_r": "Non hai elenchi da eliminare!",
+                "sem_lista_n": "Non hai nessuna lista da sfogliare!",
+                "lista_confirmar_exclusao": "Stai per cancellare questa lista e confermare la cancellazione di altre `auto_repl` attività\nSeleziona i pulsanti sottostanti per annullare o continuare l'operazione.",
+                "sua_tarefa": "> Il tuo compito",
+                "lista": "Elenco",
+                "selecionar_botoes": "Seleziona i pulsanti sottostanti per gestire questa attività",
+                "escolher_tarefa_visualizar": "Scegli una delle attività per maggiori dettagli!",
+                "escolher_lista_navegar": "Scegli una delle liste per vedere la tua attività",
+                "escolher_lista_apagar": "Scegli uno degli elenchi da eliminare",
+                "escolher_lista_vincular": "Scegli una delle liste da collegare a questa!",
+                "finalizada": "Finito",
+                "em_aberto": "Ha aperto",
+                "criacao": "Creato in",
+                "selecionar_lista": "Seleziona questo elenco",
+                "tarefa_movida_1": "Il tuo compito è stato spostato nei voti completati!",
+                "tarefa_movida_2": "Il tuo compito è stato riportato alle note aperte!",
+                "tarefa_excluida": "La tua attività è stata eliminata con successo!",
+                "exclusao_lista_cancelada": "Cancellazione dall'elenco delle attività annullate.",
+                "exclusao_lista": "`Elenco` e `attività` collegate sono stati eliminati con successo!"
             }
         },
         "menu": {
