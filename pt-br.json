@@ -55,19 +55,24 @@
             },
             "modulo": {
                 "cabecalho_menu": "> Criando um módulo",
+                "visualizar_modulo": "> Seu módulo",
                 "tipo": "Tipo de módulo",
                 "ativacao": "Ativação",
                 "valor": "Valor",
                 "sem_bufunfa": "Você não possui Bufunfas o suficiente para usar módulos, consiga algumas com o comando /daily antes!",
                 "sem_locale": "Para ativar o módulo de clima é necessário definir um local padrão com o comando `/link locale` antes!",
-                "dias_uteis": "Dias úteis",
-                "finais_semana": "Finais de semana",
-                "todos_os_dias": "Todos os dias",
-                "dias_uteis_2": "nos dias úteis",
-                "finais_semana_2": "nos finais de semana",
-                "todos_os_dias_2": "todos os dias",
+                "ativacao_0": "Dias úteis",
+                "ativacao_1": "Finais de semana",
+                "ativacao_2": "Todos os dias",
+                "ativacao_min_0": "nos dias úteis",
+                "ativacao_min_1": "nos finais de semana",
+                "ativacao_min_2": "todos os dias",
                 "descricao": "Este módulo irá descontar `B$auto_repl p/ dia`, quanto mais módulos ativar,\nmais bufunfas serão descontadas do seu banco por dia.\n\nAtualmente o valor por operar seus módulos é `B$auto_repl p/dia`.\n----------------------------------------------------------------------------",
-                "modulo_ativado": "Módulo ativado! Seu módulo será enviado auto_repl às `auto_repl`"
+                "modulo_ativado": "Módulo ativado! Seu módulo será enviado auto_repl às `auto_repl`",
+                "modulo_0": "🌩️ Clima",
+                "modulo_1": "🖊️ Frases",
+                "modulo_2": "🏯 Eventos históricos",
+                "modulo_3": "🃏 Charadas"
             }
         },
         "dive": {
@@ -344,13 +349,17 @@
                 "com_report": "Este usuário possui alguns reportes de outros servidores",
                 "reportado": "> Reportar usuário",
                 "reportador": "Reportador",
+                "reportados": "Reportados",
                 "descricao_report": "Seu reporte irá adicionar o seguinte usuário a minha lista de mau comportados.\n\nVocê pode decidir se eu irei notificar outros servidores sobre essa inclusão, se irei adicionar ele em silêncio ou se deseja cancelar este reporte.",
                 "automatizado": "> Reporte automatizado",
                 "descricao_automatizado": "Seu reporte irá adicionar todos os usuários que possuem justificativas e que estão banidos neste servidor à minha lista de usuários mau comportados.\n\nUsuários importados de forma automática não são mencionados para outros servidores, mas são exibidos em suas listas com o comando /verify server, caso os mesmos sejam membros de tal.",
                 "adicionado_silenciosamente": "O usuário foi adicionado silenciosamente a lista de mau comportados, obrigado!",
                 "usuarios_reportados": "`auto_repl` novos usuários banidos foram adicionados aos registros de mau comportados, obrigado!",
                 "usuario_reportado": "`1` novo usuário foi adicionado ao meu registro de mau comportados, obrigado!",
-                "sem_usuarios": "Nenhum usuário foi adicionado, pois não possuem justificativa de banimento ou não há banimentos no servidor."
+                "sem_usuarios": "Nenhum usuário foi adicionado, pois não possuem justificativa de banimento ou não há banimentos no servidor.",
+                "sem_reportes_guild": "Não há usuários que foram denúnciados externamente neste servidor!",
+                "identificador": "Identificador",
+                "rodape": "páginas, use /verify guild pagina:<num> para ver outras páginas"
             },
             "xp": {
                 "permissao": "Você não pode gerenciar os membros deste servidor",
