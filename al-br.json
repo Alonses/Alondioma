@@ -83,10 +83,12 @@
                 "nsfw_jaja": "Devido ao excesso de delícia esse comando só pode ser usado num knel NSFW"
             },
             "rank": {
-                "rank_sv": "Rank de",
-                "rank_rc": "Ranking de comandos",
+                "rank_sv": "> Rank de",
+                "rank_rc": "> Ranking de comandos",
+                "rank_global": "> Ranking Global",
                 "rodape": "páginas, escreva /rank pagina:<num> ai pra navegar entre elas",
                 "rodape_rc": "páginas, escreve /rank comandos pagina:<num> pra navegar entre elas",
+                "rodape_global": "páginas, use /rank global pagina:<num> para ver outras páginas",
                 "paginas": "Não tem tudo isso de páginas",
                 "nivel_descricao": "nível = experiência / 1000",
                 "enceirados": "Enceirados",
