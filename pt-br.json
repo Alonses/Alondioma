@@ -15,7 +15,7 @@
             "ping": {
                 "titulo": "> Ó Abre alas que eu queru passsaa :notes:",
                 "boas_vindas": "Olá! Obrigado por me adicionar ao servidor!\n\nDeixo em anexo abaixo o meu site, com todos os comandos caso necessário ;D",
-                "idioma_dica": "Do not speak Portuguese? No problems! Change my language right now with the /idioma command!",
+                "idioma_dica": "Do not speak Portuguese? No problems! Change my language right now with the </language:1018632996787589284> command!",
                 "site": "Site Alonsal"
             }
         },
@@ -59,8 +59,8 @@
                 "tipo": "Tipo de módulo",
                 "ativacao": "Ativação",
                 "valor": "Valor",
-                "sem_bufunfa": "Você não possui Bufunfas o suficiente para usar módulos, consiga algumas com o comando /daily antes!",
-                "sem_locale": "Para ativar o módulo de clima é necessário definir um local padrão com o comando `/link locale` antes!",
+                "sem_bufunfa": "Você não possui Bufunfas o suficiente para usar módulos, consiga algumas com o comando </daily:1020794974377353338> antes!",
+                "sem_locale": "Para ativar o módulo de clima é necessário definir um local padrão com o comando </link locale:1020561785620803674> antes!",
                 "limite_modulos": "É possivel ativar apenas 3 módulos de cada tipo!",
                 "excluido": "Seu módulo foi apagado",
                 "desativado": "Seu módulo foi desativado",
@@ -227,6 +227,15 @@
                 "tentativas": "Tentativas restantes:",
                 "acertou": "Você acertou! Parabéns!\nA palavra era",
                 "errou": "Você errou!\nA palava era"
+            },
+            "portal": {
+                "titulo": "> Coordenadas de portais",
+                "descricao": "auto_repl Seu portal principal precisa ser montado nas seguintes coordenadas auto_repl```fix\nX: auto_repl; Z: auto_repl```\nauto_repl Um novo portal será criado nas seguintes coordenadas ao atravessar para auto_repl```fix\nX: auto_repl; Z: auto_repl```\n:mag: | Habilite as coordenadas apertando F3 (na Edição Java) ou nas configurações de mundo pela Edição Bedrock.\n\n:warning: | Note que os portais precisam ter um distânciamento mínimo entre as coordenadas para que sejam vinculados corretamente, caso existam portais muito próximos, a linkagem entre eles não irá funcionar.",
+                "superficie": "Superfície",
+                "no_nether": "no Nether",
+                "na_superficie": "na Superfície",
+                "o_nether": "no Nether",
+                "a_superficie": "a Superfície"
             }
         },
         "manu": {
@@ -244,9 +253,9 @@
             },
             "info": {
                 "infos": "Patinando entre as linhas bugadas :man_golfing:",
-                "conteudo_1": "Este bot é patrocinado por Baidu e Renato's lanches, 40 tipos de lanches, hot dog, fastfood em 5 minutos, a maior casa de lanches de extrema, venha comer o renatão de 4, o lanche completo!\n\n:mailbox: Sugira comandos ou reporte bugs usando o **`/mail <sua msg>`**\n:page_facing_up: Utilize **`/git`** para visualizar o repositório do Alonsal",
-                "conteudo_2": "**`/discord`** - Entre no Hub multiconectado do Alonsal",
-                "conteudo_3": "**`/suporte`** - Ajude a manter e desenvolver o Alonsal\n\n-----------------------------\n> OUTROS RECURSOS\nFrases do **`/gado`** são de total direito do @GadoDecider, todos os créditos vão a ele. ( https://twitter.com/GadoDecider )",
+                "conteudo_1": "Este bot é patrocinado por Baidu e Renato's lanches, 40 tipos de lanches, hot dog, fastfood em 5 minutos, a maior casa de lanches de extrema, venha comer o renatão de 4, o lanche completo!\n\n:mailbox: Sugira comandos ou reporte bugs usando o </mail:1018609879512006788>\n:page_facing_up: Utilize </git:1018609879470047261> para visualizar o repositório do Alonsal",
+                "conteudo_2": "</discord:1018609879512006789> - Entre no Hub multiconectado do Alonsal",
+                "conteudo_3": "</support:1018632996787589282> - Ajude a manter e desenvolver o Alonsal\n\n-----------------------------\n> OUTROS RECURSOS\nFrases do </cattle:1018653229128622184> são de total direito do @GadoDecider, todos os créditos vão a ele. ( https://twitter.com/GadoDecider )",
                 "invocado_1": "Já fui invocado",
                 "invocado_2": "vezes",
                 "versao": "Versão",
@@ -433,10 +442,8 @@
             "binario": {
                 "codificado": ":one: Sua mensagem codificada em binário",
                 "decodificado": ":zero: Sua mensagem decodificada do binário",
-                "aviso_1": "Escreva algo para utilizar este comando",
-                "aviso_2": "Informe como `/binario <seu_texto>` ou `/binario <seu_texto_codificado>`",
                 "resul_vazio": "O resultado final era vazio, tente novamente",
-                "titulo_vazio": ":octagonal_sign: A decodificação resultou em vazio",
+                "titulo_vazio": ":warning:  A decodificação resultou em vazio",
                 "error_1": "Não foi possível converter, o tamanho máximo foi excedido!"
             },
             "avatar": {
@@ -527,16 +534,8 @@
                 "ha": "Há",
                 "em": "em",
                 "ano_passado": "Ano passado",
-                "numero": "numero",
                 "acontecimentos_1": "Acontecimentos pela história",
                 "acontecimentos_2": "Abaixo estão todos os acontecimentos na data de",
-                "utilize_1": "Utilize o comando",
-                "utilize_2": "para visualizar um acontecimento específico",
-                "aviso_1": "Envie como `/history 31-01` para poder pesquisar em uma data específica\nOu use apenas `/history` para ver acontecimentos na data de hoje pela história",
-                "aviso_2": "Os valores informados estão errados, por favor, insira valores numéricos corretos para dia e mês",
-                "aviso_3": "Procurando um acontecimento...",
-                "error_1": "Informe um número da lista de acontecimentos para visualizar mais detalhes",
-                "sem_entradas": "Não há acontecimentos para esta data, insira uma data diferente `/history 21-01`",
                 "sem_entradas_valor": "Não há acontecimentos para esses valores especificados, tente novamente",
                 "sem_evento": "Não há acontecimentos para hoje!",
                 "erro_eventos": "Houve um erro ao buscar um acontecimento pela história!"

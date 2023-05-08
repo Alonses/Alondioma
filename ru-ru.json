@@ -14,7 +14,7 @@
             "ping": {
                 "titulo": "> О, уступи мне дорогу :notes:",
                 "boas_vindas": "Привет! Спасибо, что добавили меня на сервер!\n\n Ниже я прикрепляю свой веб-сайт со всеми командами, если это необходимо. ;D",
-                "idioma_dica": "Do not speak Portuguese? No problems! Change my language right now with the /idioma command!",
+                "idioma_dica": "Do not speak Portuguese? No problems! Change my language right now with the </language:1018632996787589284> command!",
                 "site": "сайт"
             }
         },
@@ -376,10 +376,8 @@
             "binario": {
                 "codificado": ":one: Ваше двоичное закодированное сообщение",
                 "decodificado": ":zero: Ваше сообщение было расшифровано из двоичного кода",
-                "aviso_1": "Напишите что-нибудь, чтобы использовать эту команду",
-                "aviso_2": "Informe como `/binario <seu_texto>` ou `/binario <seu_texto_codificado>`",
                 "resul_vazio": "Конечный результат пуст, попробуйте еще раз",
-                "titulo_vazio": ":octagonal_sign: Декодирование привело к пустому",
+                "titulo_vazio": ":warning: Декодирование привело к пустому",
                 "error_1": "Невозможно конвертировать, превышен максимальный размер!"
             },
             "avatar": {
@@ -470,16 +468,11 @@
                 "ha": "Там есть",
                 "em": "в",
                 "ano_passado": "Прошлый год",
-                "numero": "количество",
                 "acontecimentos_1": "события в истории",
                 "acontecimentos_2": "Ниже все события на дату в",
-                "utilize_1": "используйте команду",
-                "utilize_2": "увидеть конкретное событие",
-                "aviso_1": "введите как `/history 31-01` para poder pesquisar em uma data específica\nOu use apenas `/history` для просмотра событий на сегодняшнюю дату через историю",
-                "aviso_2": "Введенные значения неверны, пожалуйста, введите правильные числовые значения для дня и месяца",
-                "aviso_3": "ищу событие...",
-                "error_1": "Введите номер списка событий, чтобы увидеть более подробную информацию",
-                "sem_entradas": "На эту дату нет мероприятий, укажите другую дату `/history 21-01`"
+                "sem_entradas_valor": "Для указанных значений нет событий. Повторите попытку.",
+                "sem_evento": "На сегодня нет событий!",
+                "erro_eventos": "Произошла ошибка при поиске события в истории!"
             },
             "server": {
                 "id_server": "Идентификатор сервера",

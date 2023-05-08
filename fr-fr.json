@@ -14,7 +14,7 @@
             "ping": {
                 "titulo": "> Oh emmène-moi à traaveeers :notes:",
                 "boas_vindas": "Salut! Merci de m'avoir ajouté au serveur!\n\nJe laisse mon site ci-joint, avec toutes les commandes si besoin ;D",
-                "idioma_dica": "Do not speak Français? No problems! Change my language right now with the /idioma command!",
+                "idioma_dica": "Do not speak Français? No problems! Change my language right now with the </language:1018632996787589284> command!",
                 "site": "Alonsal Website"
             }
         },
@@ -207,9 +207,9 @@
             },
             "info": {
                 "infos": "Patiner entre les lignes de fartage :man_golfing:",
-                "conteudo_1": "Ce bot est sponsorisé par le snack de Baidu et Renato, 40 sortes de snacks, hot dog, restauration rapide en 5 minutes, le plus grand snack d'Extrema, venez manger le renatão de 4, le snack complet!\n\n:mailbox: Suggérez des commandes ou signalez des bogues en utilisant le **`/mail <votre message>`**\n:page_facing_up: Utiliser **`/git`** pour voir le référentiel Alonsal",
-                "conteudo_2": "**`/discord`** - Entrez dans le hub multiconnecté d'Alonsal",
-                "conteudo_3": "**`/git`** - Aider à maintenir et à développer Alonsal\n\n-----------------------------\n> AUTRES RESSOURCES\nExpressions de **`/betail`** les commandes sont entièrement détenues par @GadoDecider, tous les crédits lui reviennent. ( https://twitter.com/GadoDecider )",
+                "conteudo_1": "Ce bot est sponsorisé par le snack de Baidu et Renato, 40 sortes de snacks, hot dog, restauration rapide en 5 minutes, le plus grand snack d'Extrema, venez manger le renatão de 4, le snack complet!\n\n:mailbox: Suggérez des commandes ou signalez des bogues en utilisant le </mail:1018609879512006788>\n:page_facing_up: Utiliser </git:1018609879470047261> pour voir le référentiel Alonsal",
+                "conteudo_2": "</discord:1018609879512006789> - Entrez dans le hub multiconnecté d'Alonsal",
+                "conteudo_3": "</git:1018609879470047261> - Aider à maintenir et à développer Alonsal\n\n-----------------------------\n> AUTRES RESSOURCES\nExpressions de **`/betail`** les commandes sont entièrement détenues par @GadoDecider, tous les crédits lui reviennent. ( https://twitter.com/GadoDecider )",
                 "invocado_1": "J'ai déjà été invoqué",
                 "invocado_2": "fois",
                 "versao": "Version",
@@ -375,10 +375,8 @@
             "binario": {
                 "codificado": ":one: Votre message codé en binaire",
                 "decodificado": ":zero: Votre message décodé du binaire",
-                "aviso_1": "Tapez quelque chose pour utiliser cette commande",
-                "aviso_2": "Entrez comme `.abn encode <votre_texte>` ou `.abn décode <votre_texte_encodé>`",
                 "resul_vazio": "Le résultat final était vide, réessayez",
-                "titulo_vazio": ":octagonal_sign: Le décodage a abouti à un vide",
+                "titulo_vazio": ":warning:  Le décodage a abouti à un vide",
                 "error_1": "Conversion impossible, taille maximale dépassée!"
             },
             "avatar": {
@@ -493,16 +491,11 @@
                 "ha": "il y a",
                 "em": "dans",
                 "ano_passado": "L'année dernière",
-                "numero": "numéro",
                 "acontecimentos_1": "Événements à travers l'histoire",
                 "acontecimentos_2": "Vous trouverez ci-dessous tous les événements à la date de",
-                "utilize_1": "Utilisez la commande",
-                "utilize_2": "pour voir un événement spécifique",
-                "aviso_1": "Soumettez en tant que `.ahs 01-31` pour pouvoir effectuer une recherche à une date spécifique\nOu utilisez simplement `.ahs` pour voir les événements à la date d'aujourd'hui dans l'historique",
-                "aviso_2": "Les valeurs saisies sont erronées, veuillez saisir des valeurs numériques correctes pour le jour et le mois",
-                "aviso_3": "A la recherche d'un événement...",
-                "error_1": "Entrez un numéro contenu dans la liste des événements pour voir plus de détails",
-                "sem_entradas": "Il n'y a pas d'événements pour cette date, veuillez entrer une date différente `.acon 01-21`"
+                "sem_entradas_valor": "Il n'y a aucun événement pour ces valeurs spécifiées, veuillez réessayer",
+                "sem_evento": "Il n'y a pas d'événements pour aujourd'hui!",
+                "erro_eventos": "Une erreur s'est produite lors de la recherche d'un événement dans l'historique!"
             },
             "server": {
                 "id_server": "Identifiant du serveur",

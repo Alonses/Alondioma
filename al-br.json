@@ -14,7 +14,7 @@
             "ping": {
                 "titulo": "> Ó Abre alas que eu queru passsaa :notes:",
                 "boas_vindas": "Olá! Obrigado por me adicionar ao server!\n\nDeixo em anexo abaixo o meu site, com todos os comandos caso necessário ;D",
-                "idioma_dica": "Do not speak Portuguese? No problems! Change my language right now with the /idioma command!",
+                "idioma_dica": "Do not speak Portuguese? No problems! Change my language right now with the </language:1018632996787589284> command!",
                 "site": "Site Alonsal"
             }
         },
@@ -163,9 +163,9 @@
             },
             "info": {
                 "infos": "Patinando entre as linhas bugadas :man_golfing:",
-                "conteudo_1": "Esse bóti é patrocinado por Baidu e Renato's lanches, 40 tipos de lanche, hot dog, fastfood em 5 minutos, a maior casa de lanches de extrema, venha comer o renatão de 4, o lanche completo!\n\n:mailbox: Sugira comandos ou reporte bugs usando o **`/mail <sua msg>`**\n:page_facing_up: Utilize **`/git`** pra ver o repositório do Alonsal",
-                "conteudo_2": "**`/discord`** - Entre no Hub multiconectado do Alonsal",
-                "conteudo_3": "**`/suporte`** - Ajude a manter e desenvolver o Alonsal\n\n-----------------------------\n> OUTROS RECURSOS\nFrases do **`/gado`** são de total direito do @GadoDecider, todos os créditos vão a ele. ( https://twitter.com/GadoDecider )",
+                "conteudo_1": "Esse bóti é patrocinado por Baidu e Renato's lanches, 40 tipos de lanche, hot dog, fastfood em 5 minutos, a maior casa de lanches de extrema, venha comer o renatão de 4, o lanche completo!\n\n:mailbox: Sugira comandos ou reporte bugs usando o </mail:1018609879512006788>\n:page_facing_up: Utilize </git:1018609879470047261> pra ver o repositório do Alonsal",
+                "conteudo_2": "</discord:1018609879512006789> - Entre no Hub multiconectado do Alonsal",
+                "conteudo_3": "</support:1018632996787589282> - Ajude a manter e desenvolver o Alonsal\n\n-----------------------------\n> OUTROS RECURSOS\nFrases do </cattle:1018653229128622184> são de total direito do @GadoDecider, todos os créditos vão a ele. ( https://twitter.com/GadoDecider )",
                 "invocado_1": "Já fui invocado",
                 "invocado_2": "vezes",
                 "versao": "Versão",
@@ -323,15 +323,13 @@
                 "codificado": ":symbols: Sua mensagem codificada em morse",
                 "decodificado": ":symbols: Sua mensagem decodificada do morse",
                 "carac_invalidos": "Caracteres inválidos",
-                "error": ":warning: Houve um problema ao codificar"
+                "error": "Houve um problema ao codificar"
             },
             "binario": {
                 "codificado": ":one: Sua mensagem codificada em binário",
                 "decodificado": ":zero: Sua mensagem decodificada do binário",
-                "aviso_1": "Escreva algo pra utilizar esse comando",
-                "aviso_2": "Informe como `.abn encode <seu_texto>` ou `.abn decode <seu_texto_codificado>`",
                 "resul_vazio": "O resultado final tava bugado, tente dnv",
-                "titulo_vazio": ":octagonal_sign: A decodificação deu um bug",
+                "titulo_vazio": ":warning: A decodificação deu um bug",
                 "error_1": "Não foi possível converter, epic embed fail!"
             },
             "avatar": {
@@ -413,16 +411,11 @@
                 "ha": "Há",
                 "em": "em",
                 "ano_passado": "Ano passado",
-                "numero": "numero",
                 "acontecimentos_1": "Acontecimentos pela história",
                 "acontecimentos_2": "Abaixo stão todos os acontecimentos na data de",
-                "utilize_1": "Usa o comando",
-                "utilize_2": "pra ver um acontecimento específico",
-                "aviso_1": "Envie como `.acon 31-01` pra poder pesquisar em uma data específica\nOu use apenas `.acon` pra ver acontecimentos na data de hoje pela história",
-                "aviso_2": "Os valores informados stão errados, por favor, insira valores numéricos corretos pra dia e mês",
-                "aviso_3": "Caçando uns eventos...",
-                "error_1": "Informe um número da lista de acontecimentos pra ver mais detalhes",
-                "sem_entradas": "Não aconteceu nada nesse dia, bota uma data diferente aí `.acon 21-01`"
+                "sem_entradas_valor": "Não tem acontecimentos pra esses valores, tenta dnv",
+                "sem_evento": "Não há acontecimentos hj!",
+                "erro_eventos": "Deu um xabu aqui ao procurar um evento pela história!"
             },
             "server": {
                 "id_server": "ID do server",

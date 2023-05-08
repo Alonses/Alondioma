@@ -15,7 +15,7 @@
             "ping": {
                 "titulo": "> Oh, fammi passare! :notes:",
                 "boas_vindas": "Ehi! Grazie per avermi aggiunto al server!\n\nLascio il mio sito Web allegato di seguito, con tutti i comandi se necessario ;D",
-                "idioma_dica": "Non parli italiano? Nessun problema! Cambia subito la mia lingua con il comando /language!",
+                "idioma_dica": "Non parli italiano? Nessun problema! Cambia subito la mia lingua con il comando </language:1018632996787589284>!",
                 "site": "Il sito web di Alonsal"
             }
         },
@@ -58,7 +58,7 @@
                 "tipo": "Tipo di modulo",
                 "ativacao": "Attivazione",
                 "valor": "Valore",
-                "sem_bufunfa": "Non hai abbastanza Bufunfas per usare i moduli, prendine un po' prima con il comando /daily!",
+                "sem_bufunfa": "Non hai abbastanza Bufunfas per usare i moduli, prendine un po' prima con il comando </daily:1020794974377353338>!",
                 "sem_locale": "Per attivare il modulo meteo, devi prima impostare una posizione predefinita con il comando `/local link`!",
                 "dias_uteis": "Giorni lavorativi",
                 "finais_semana": "Fine settimana",
@@ -232,9 +232,9 @@
             },
             "info": {
                 "infos": "Pattinare tra le linee del buggy :man_golfing:",
-                "conteudo_1": "Questo bot è sponsorizzato da Baidu e Renato Snacks, 40 tipi di snack, hot dog, fast food in 5 minuti, il più grande snack house estremo, vieni a mangiare il renatao da 4 pollici, lo spuntino completo!\n\n:mailbox: Suggerisci comandi o segnala bug utilizzando il comando **`/mail <il tuo messaggio>`**\n:page_facing_up: Usa **`/git`** per visualizzare il repository Alonsal",
-                "conteudo_2": "**`/discord`** - Unisciti all'hub multiconnesso di Alonsal",
-                "conteudo_3": "**`/suportto`** - Aiuta a mantenere e sviluppare Alonsal\n\n-----------------------------\n> ALTRE RISORSE\nLe frasi di **`/gado`** sono tutti copyright di @GadoDecider, tutti i crediti vanno a lui. ( https://twitter.com/GadoDecider )",
+                "conteudo_1": "Questo bot è sponsorizzato da Baidu e Renato Snacks, 40 tipi di snack, hot dog, fast food in 5 minuti, il più grande snack house estremo, vieni a mangiare il renatao da 4 pollici, lo spuntino completo!\n\n:mailbox: Suggerisci comandi o segnala bug utilizzando il comando </mail:1018609879512006788>\n:page_facing_up: Usa </git:1018609879470047261> per visualizzare il repository Alonsal",
+                "conteudo_2": "</discord:1018609879512006789> - Unisciti all'hub multiconnesso di Alonsal",
+                "conteudo_3": "</support:1018632996787589282> - Aiuta a mantenere e sviluppare Alonsal\n\n-----------------------------\n> ALTRE RISORSE\nLe frasi di </cattle:1018653229128622184> sono tutti copyright di @GadoDecider, tutti i crediti vanno a lui. ( https://twitter.com/GadoDecider )",
                 "invocado_1": "Ero già stato convocato",
                 "invocado_2": "volte",
                 "versao": "Versione",
@@ -417,7 +417,7 @@
                 "codificado": ":one: Il tuo messaggio codificato in binario",
                 "decodificado": ":zero: Il tuo messaggio decodificato da binario",
                 "resul_vazio": "Il risultato finale era vuoto, riprova",
-                "titulo_vazio": ":octagonal_sign: La decrittazione è stata trovata vuota",
+                "titulo_vazio": ":warning:  La decrittazione è stata trovata vuota",
                 "error_1": "Impossibile convertire, dimensione massima superata!"
             },
             "avatar": {
@@ -536,16 +536,11 @@
                 "ha": "C'è",
                 "em": "in",
                 "ano_passado": "L'anno scorso",
-                "numero": "numero",
                 "acontecimentos_1": "Eventi nel corso della storia",
                 "acontecimentos_2": "Di seguito tutti gli eventi in",
-                "utilize_1": "Usa il comando",
-                "utilize_2": "per visualizzare un evento specifico",
-                "aviso_1": "Invia come `/history 31-01` in modo da poter cercare in una data specifica\nOppure usa semplicemente `/history` per vedere gli eventi nella data odierna in base alla cronologia",
-                "aviso_2": "I valori inseriti non sono corretti, si prega di inserire valori numerici corretti per giorno e mese",
-                "aviso_3": "Alla ricerca di un evento...",
-                "error_1": "Immettere un numero di elenco eventi per visualizzare maggiori dettagli",
-                "sem_entradas": "Non ci sono eventi per questa data, inserisci una data diversa `/history 21-01`"
+                "sem_entradas_valor": "Non ci sono eventi per questi valori specificati, riprova",
+                "sem_evento": "Non ci sono eventi per oggi!",
+                "erro_eventos": "Si è verificato un errore durante la ricerca di un evento nella cronologia!"
             },
             "server": {
                 "id_server": "ID server",

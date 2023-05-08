@@ -14,7 +14,7 @@
             "ping": {
                 "titulo": "> Oh, make way for me to go through :notes:",
                 "boas_vindas": "Hi! Thanks for adding me to the server!\n\nI leave my website attached below, with all the commands if necessary ;D",
-                "idioma_dica": "Não fala inglês? Sem problemas! Mude meu idioma agora mesmo com o comando /idioma!",
+                "idioma_dica": "Não fala inglês? Sem problemas! Mude meu idioma agora mesmo com o comando </language:1018632996787589284>!",
                 "site": "Alonsal Website"
             }
         },
@@ -190,6 +190,15 @@
                 "tentativas": "Attempts remaining:",
                 "acertou": "You're right! Congratulations!\nThe word was",
                 "errou": "You made a mistake!\nThe word was"
+            },
+            "portal": {
+                "titulo": "> Portal coordinates",
+                "descricao": "auto_repl Your main portal needs to be mounted at the following nether coordinates```fix\nX: auto_repl; Z: auto_repl```\nauto_repl A new portal will be created at the following coordinates when traversing to auto_repl```fix\nX: auto_repl; Z: auto_repl```\n:mag: | Enable coordinates by pressing F3 (in Java Edition) or in the world settings in Bedrock Edition.\n\n:warning: | Note that the portals need to have a minimum distance between the coordinates to be linked correctly, if there are portals very close, the link between them will not work.",
+                "superficie": "Overworld",
+                "no_nether": "in the Nether",
+                "na_superficie": "in the Overworld",
+                "o_nether": "in the Nether",
+                "a_superficie": "the Overworld"
             }
         },
         "manu": {
@@ -207,9 +216,9 @@
             },
             "info": {
                 "infos": "Skating between the wax lines :man_golfing:",
-                "conteudo_1": "This bot is sponsored by Baidu and Renato's snack, 40 kinds of snacks, hot dog, fast food in 5 minutes, the biggest snack bar in Extrema, come eat the renatão of 4, the complete snack!\n\n:mailbox: Suggest commands or report bugs using the **`/mail <your msg>`**\n:page_facing_up: Use **`/git`** to view the Alonsal repository",
-                "conteudo_2": "**`/discord`** - Enter Alonsal's Multiconnected Hub",
-                "conteudo_3": "**`/support`** - Help maintain and develop Alonsal\n\n-----------------------------\n> OTHER RESOURCES\nPhrases of **`/cattle`** commands are fully owned by @GadoDecider, all credits go to him. ( https://twitter.com/GadoDecider )",
+                "conteudo_1": "This bot is sponsored by Baidu and Renato's snack, 40 kinds of snacks, hot dog, fast food in 5 minutes, the biggest snack bar in Extrema, come eat the renatão of 4, the complete snack!\n\n:mailbox: Suggest commands or report bugs using the </mail:1018609879512006788>\n:page_facing_up: Use </git:1018609879470047261> to view the Alonsal repository",
+                "conteudo_2": "</discord:1018609879512006789> - Enter Alonsal's Multiconnected Hub",
+                "conteudo_3": "</support:1018632996787589282> - Help maintain and develop Alonsal\n\n-----------------------------\n> OTHER RESOURCES\nPhrases of </cattle:1018653229128622184> commands are fully owned by @GadoDecider, all credits go to him. ( https://twitter.com/GadoDecider )",
                 "invocado_1": "I've already been invoked",
                 "invocado_2": "times",
                 "versao": "Version",
@@ -375,10 +384,8 @@
             "binario": {
                 "codificado": ":one: Your binary encoded message",
                 "decodificado": ":zero: Your message decoded from the binary",
-                "aviso_1": "Type something to use this command",
-                "aviso_2": "Enter as `.abn encodes <your_text>` or `.abn decodes <your_encoded_text>`",
                 "resul_vazio": "The final result was empty, try again",
-                "titulo_vazio": ":octagonal_sign: Decoding resulted in an empty",
+                "titulo_vazio": ":warning: Decoding resulted in an empty",
                 "error_1": "Unable to convert, maximum size exceeded!"
             },
             "avatar": {
@@ -493,16 +500,11 @@
                 "ha": "",
                 "em": "in",
                 "ano_passado": "Last year",
-                "numero": "number",
                 "acontecimentos_1": "Events through history",
                 "acontecimentos_2": "Below are all events on the date of",
-                "utilize_1": "Use the command",
-                "utilize_2": "to view a specific event",
-                "aviso_1": "Submit as `.ahs 01-31` to be able to search on a specific date\nOr just use `.ahs` to see events on today's date from history",
-                "aviso_2": "Values entered are wrong, please enter correct numerical values for day and month",
-                "aviso_3": "Looking for an event...",
-                "error_1": "Enter a number contained in the event list to see more details",
-                "sem_entradas": "There are no events for this date, please enter a different date `.acon 01-21`"
+                "sem_entradas_valor": "There are no events for these specified values, please try again",
+                "sem_evento": "There are no events for today!",
+                "erro_eventos": "There was an error searching for an event in history!"
             },
             "server": {
                 "id_server": "Server ID",
