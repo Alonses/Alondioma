@@ -230,7 +230,7 @@
             },
             "portal": {
                 "titulo": "> Portal coordinates",
-                "descricao": "auto_repl Your main portal needs to be mounted at the following auto_repl coordinates```fix\nX: auto_repl; Z: auto_repl```\nauto_repl A new portal will be created at the following coordinates when traversing to auto_repl```fix\nX: auto_repl; Z: auto_repl```\n:mag: | Enable coordinates by pressing F3 (in Java Edition) or in the world settings in Bedrock Edition.\n\n:warning: | Note that the portals need to have a minimum distance between the coordinates to be linked correctly, if there are portals very close, the link between them will not work.",
+                "descricao": "auto_repl Your main portal needs to be mounted at the following coordinates auto_repl```fix\nX: auto_repl; Z: auto_repl```\nauto_repl A new portal will be created at the following coordinates when traversing to auto_repl```fix\nX: auto_repl; Z: auto_repl```\n:mag: | Enable coordinates by pressing F3 (in Java Edition) or in the world settings in Bedrock Edition.\n\n:warning: | Note that the portals need to have a minimum distance between the coordinates to be linked correctly, if there are portals very close, the link between them will not work.",
                 "superficie": "Overworld",
                 "no_nether": "in the Nether",
                 "na_superficie": "in the Overworld",
