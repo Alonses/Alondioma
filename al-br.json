@@ -9,7 +9,8 @@
             "error": {
                 "epic_embed_fail": "Deu PT aq ao rodar esse comando, acontece toda hora, chora boi, já notifiquei os salafrários que me arrumam, tudo numa boa!",
                 "develop": "Uma ceira bem enceirada vem por aí...",
-                "comando_dm": "Comandos em DM não stão ativos :spy:"
+                "comando_dm": "Comandos em DM não stão ativos :spy:",
+                "comando_restrito": "Parado ai! Cê não pode usa esse comando!"
             },
             "ping": {
                 "titulo": "> Ó Abre alas que eu queru passsaa :notes:",
@@ -39,7 +40,10 @@
                 "error_3": "Cê não pode transferir pra si mesmo!",
                 "user_bot": "Cê não pode transferir Bufunfas pra outros bótis além de mim!",
                 "sucesso": "Transferência aprovada! `B$auto_repl` Bufunfas foram enviadas na conta de",
-                "notifica": "Ocê acabou de receber um depósito! <@!auto_repl> mandou `B$auto_repl` Bufunfas procê! STONKS"
+                "notifica": "Ocê acabou de receber um depósito! <@!auto_repl> mandou `B$auto_repl` Bufunfas procê! STONKS",
+                "nova_transferencia": "> Novo depósito",
+                "transferindo": "Enviando",
+                "destinatario": "Recebedor"
             },
             "banco": {
                 "suas_bufunfas": "> Suas Bufunfas",
@@ -87,8 +91,6 @@
                 "rank_rc": "> Ranking de comandos",
                 "rank_global": "> Ranking Global",
                 "rodape": "páginas, escreva /rank pagina:<num> ai pra navegar entre elas",
-                "rodape_rc": "páginas, escreve /rank comandos pagina:<num> pra navegar entre elas",
-                "rodape_global": "páginas, use /rank global pagina:<num> para ver outras páginas",
                 "paginas": "Não tem tudo isso de páginas",
                 "nivel_descricao": "nível = experiência / 1000",
                 "enceirados": "Enceirados",
@@ -240,14 +242,14 @@
                 "permissao_2": "Eu não posso bloquear esse knel, eu preciso das permissões `Gerenciar Canais` & `Gerenciar cargos` pra isto"
             },
             "ticket": {
-                "permissao": "Eu preciso das permissões `Gerenciar Canais` & `Gerenciar cargos` para poder ativar este comando.",
+                "permissao": "Eu preciso das permissões `Gerenciar Canais` & `Gerenciar cargos` pra poder ativar este comando.",
                 "ativo": "Agora os usuários poderão usar o comando `/denuncia` nesse server!",
                 "desativo": "Os tickets foram desligados nesse server.",
-                "tipo_canal": "Ocê precisa informar uma categoria para que eu possa criar canais dentro dela, tenta dnv"
+                "tipo_canal": "Ocê precisa informar uma categoria pra que eu possa criar canais dentro dela, tenta dnv"
             },
             "denuncia": {
                 "desativado": "As denúncias em chats privados stão desligadas nesse server, avise um ade eme sobre essa função! :P",
-                "introducao": "Seu chat foi criado, auto_repl, use ele para fazer denúncias e anexar arquivos caso necessário.",
+                "introducao": "Seu chat foi criado, auto_repl, use ele pra fazer umas denúncias e anexar uns arquivos caso necessário.",
                 "canal_aberto": "Ocê já tem um canal de denúncia aberto!",
                 "canal_fechado": "Ocê não tem nenhum canal de denúncia aberto!",
                 "fechando_canal": "Esse canal será fechado auto_repl segundos",
@@ -259,11 +261,26 @@
                 "desativo": "As denúncias de outros servers de usuários rebeldes foram desligadas.",
                 "tipo_canal": "Ocê precisa mencionar um canal de texto pra mim usar, tenta dnv",
                 "sem_usuario": "Menciona um corno ai!",
+                "reportar_bot": "Ocê não pode me reportar, sai pra lá!",
+                "auto_reporte": "Eu sei que você é corno mas vc n pode se auto reportar",
                 "usuario_add": "O corno foi adicionado na lista de salafrários!",
                 "usuario_att": "O corno teve seus dados atualizados!",
                 "usuario_nao_encontrado": "O salafrário mencionado não tá nesse server, tenta dnv.",
                 "sem_report": "Esse corno n tem denúncia nenhuma",
-                "com_report": "Esse cornão tomou algumas denúncias de outros servidores já"
+                "com_report": "Esse cornão tomou algumas denúncias de outros servidores já",
+                "reportado": "> Reportar corno",
+                "reportador": "Reportador",
+                "reportados": "Reportados",
+                "descricao_report": "Seu reporte vai adicionar o usuário na lista de salafrários.\n\nOcê pode decidir se eu vou gritar pros outro servers sobre essa adição, se vou adicionar na surdina ou se quer arregar.",
+                "automatizado": "> Reporte automaticu",
+                "descricao_automatizado": "Seu reporte vai puxar todos os cornos que foram banidos e possuem justificativa que stão nesse server à minha lista de salafrários.\n\nEu não vou berrar que eles foram adicionados pros outros servers, mas eles vão ser mostrados se os ade-emes de lá usarem o </verify guild:1094346210636214306> (e se esses cornos também estiverem por lá!)",
+                "adicionado_silenciosamente": "O cornão foi incluido aqui, nunca nem vi, vlws!",
+                "usuarios_reportados": "`auto_repl` novos cornos foram descobertos! vlws!",
+                "usuario_reportado": "`1` novo cornão foi incluído, vlws!",
+                "sem_usuarios": "Nenhum corno foi encontrado, faltou o atestado de cornidão junto do banimento.",
+                "sem_reportes_guild": "Fica tranquilo pq ñ tem nenhum corno presente nesse server ruim seu",
+                "identificador": "Identificador",
+                "rodape": "páginas, usa /verify guild pagina:<num> pra ver outras páginas"
             },
             "xp": {
                 "permissao_1": "Ocê não pode gerenciar os membros desse server",
@@ -275,12 +292,12 @@
                 "desativo": "Modo fantasma desligado! Agora todos os comandos serão visíveis pra geral.\nUsa o comando dnv caso queira se esconder."
             },
             "notify": {
-                "ativo": "Notificações em DM ativas! Agora ovo encher sua DM de pings.\nUsa o comando dnv para me dar blóqui.",
+                "ativo": "Notificações em DM ativas! Agora ovo encher sua DM de pings.\nUsa o comando dnv pra me dar blóqui.",
                 "desativo": "Notificações em DM desligadas! Ovo para de te encher o saco.\nUsa o comando dnv pra liberar a DM."
             },
             "ranking": {
                 "error": "Esse cornão desativou o ranking, não dá pra alterar os dados!",
-                "ativo": "Ovo contabilizar seu XP\nUsa o comando dnv para me dar umas férias.",
+                "ativo": "Ovo contabilizar seu XP\nUsa o comando dnv pra me dar umas férias.",
                 "desativo": "Stou de férias, não vou mais contar seu XP.\nUsa o comando dnv por sua conta e risco. (é vdd esse bilete)"
             },
             "emojis": {
@@ -291,11 +308,11 @@
                 "emoji_custom": "Bota um emoji customizado no seu comando alek",
                 "emoji_custom_remover": "Bota um emoji customizado pra remover",
                 "emoji_max": "Já estourou o limite de emojis nesse server, chora",
-                "emoji_size": "Envie um arquivo menor para usar de emoji! Esse é muito pesado!",
+                "emoji_size": "Envia um arquivo menor pra usar de emoji! Esse é muito pesado!",
                 "emoji_error": "Não deu pra criar o emoji, tenta dnv",
                 "emoji_error_remover": "Não deu pra excluir o emoji, tenta dnv",
                 "sticker_max": "Tá lotado de figurinhas nesse server, não tem como adicionar mais",
-                "sticker_size": "Manda um arquivo menor para usar na figurinha! Esse é muito pesado!",
+                "sticker_size": "Manda um arquivo menor pra usar na figurinha! Esse é muito pesado!",
                 "sticker_error": "Não consegui criar a figurinha",
                 "emoji_estrangeiro": "Esse emoji não é desse server!\nTenta dnv",
                 "emoji_criado": "Emoji `auto_repl` criado com sucesso!",

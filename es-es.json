@@ -9,7 +9,8 @@
             "error": {
                 "epic_embed_fail": "Ocurrió un error al intentar ejecutar este comando, _no es común, pero sucede_, ¡he notificado a los desarrolladores que eliminen este baidu lo antes posible!\nDisculpe las molestias",
                 "develop": "¡Este comando aún no está listo! Espera un poco más...",
-                "comando_dm": "Los comandos DM no están activos :spy:"
+                "comando_dm": "Los comandos DM no están activos :spy:",
+                "comando_restrito": "¡Alto ahí! ¡No puedes usar este comando!"
             },
             "ping": {
                 "titulo": "> ¡Oh Abran paso que quiero pasar! :notes:",
@@ -39,7 +40,10 @@
                 "error_3": "¡No puedes transferirte a ti mismo!",
                 "user_bot": "¡No puedes transferir Bufunfas a otros bots que no sean yo!",
                 "sucesso": "Transferencia aprobada! `B$auto_repl` Bufunfas fueron depositadas en la cuenta de",
-                "notifica": "¡Acabas de recibir un depósito! ¡<@!auto_repl> ha depositado `B$auto_repl` Bufunfas en su cuenta! Hurra"
+                "notifica": "¡Acabas de recibir un depósito! ¡<@!auto_repl> ha depositado `B$auto_repl` Bufunfas en su cuenta! Hurra",
+                "nova_transferencia": "> Nueva transferencia",
+                "transferindo": "Transfiriendo",
+                "destinatario": "Receptor"
             },
             "banco": {
                 "suas_bufunfas": "> Tus Bufunfas",
@@ -62,7 +66,7 @@
                 "desativado": "Su módulo ha sido deshabilitado",
                 "ativado": "¡Tu módulo ha sido activado nuevamente!",
                 "definir_tipo": "> Establecer tipo de retorno",
-                "descricao_tipo_history": "¡Elige lo que prefieras!\nPuedes definir si quieres una `vuelta completa`, o algo `simplificado`.\n\n-> En la `vuelta completa` te mostraré la lista completa de eventos del día.\n -> El `retorno resumido` mostraré solo un evento, este elegido como el más importante del día.",
+                "descricao_tipo_history": "¡Elige lo que prefieras!\nPuedes definir si quieres una `vuelta completa`, o algo `simplificado`.\n\n-> En la `vuelta completa` te mostraré la lista completa de eventos del día.\n-> El `retorno resumido` mostraré solo un evento, este elegido como el más importante del día.",
                 "rodape_tipo_modulo": "¿Cuál prefieres? ¡Seleccione un tipo a continuación para comenzar!",
                 "faltando_tipo": "No ha definido si el módulo de historial será resumido o completo\nPor defecto, ¡le enviaré una versión resumida!",
                 "ativacao_0": "Días hábiles",
@@ -129,8 +133,6 @@
                 "rank_rc": "> Clasificación de comandos",
                 "rank_global": "> Clasificación mundial",
                 "rodape": "páginas, use /rank pagina:<num> para ver outras páginas",
-                "rodape_rc": "páginas, use /rank comandos pagina:<num> para ver outras páginas",
-                "rodape_global": "páginas, use /rank global pagina:<num> para ver otras páginas",
                 "paginas": "Informe um número menor para a página",
                 "nivel_descricao": "nivel = experiencia / 1000",
                 "enceirados": "Membros",
@@ -206,7 +208,12 @@
                 "error_3": "No es posible rotar sólidos geométricos con menos de 4 caras."
             },
             "gta": {
-                "horario": "Ahora son exactamente auto_repl en GTA Online"
+                "horario": "Ahora son exactamente auto_repl en GTA Online",
+                "horario_atual": "Tiempo actual",
+                "erro_apisal": "No es posible conectarse a APISAL en este momento, ¡inténtelo de nuevo más tarde!"
+            },
+            "jokenpo": {
+                "erro_aposta": "¡Paga el alquiler!\n¡No tienes suficientes Bufunfas para jugar, reúne algunas con el </daily:1020794974377353338> antes!"
             },
             "nazar": {
                 "titulo": ":wind_chime: Madame Nazar hoy",
@@ -220,6 +227,15 @@
                 "tentativas": "Intentos restantes:",
                 "acertou": "¡Está bien! ¡Felicitaciones!\nLa palabra era",
                 "errou": "¡Cometiste un error!\nLa palabra era"
+            },
+            "portal": {
+                "titulo": "> Coordenadas del portal",
+                "descricao": "auto_repl Su portal principal debe ensamblarse en las siguientes coordenadas auto_repl```fix\nX: auto_repl; Z: auto_repl```\nauto_repl Se creará un nuevo portal en las siguientes coordenadas al cruzar auto_repl```fix\nX: auto_repl; Z: auto_repl```\n:mag: | Habilite las coordenadas presionando F3 (en Java Edition) o en la configuración mundial en Bedrock Edition.\n\n:advertencia: | Tenga en cuenta que los portales deben tener una distancia mínima entre las coordenadas para vincularse correctamente, si hay portales muy cerca, el vínculo entre ellos no funcionará.",
+                "superficie": "Superficie",
+                "no_nether": "en el Nether",
+                "na_superficie": "en la superficie",
+                "o_nether": "en el Nether",
+                "a_superficie": "la superficie"
             }
         },
         "manu": {
@@ -279,7 +295,12 @@
                 "sem_dados": "No tienes ningún dato guardado aquí ;)",
                 "server_desconhecido": "servidor desconocido",
                 "um_server": "y 1 otro servidor",
-                "outros_servers": "u otros auto_repl servidores"
+                "outros_servers": "u otros auto_repl servidores",
+                "ghostmode": "Modo fantasma",
+                "notificacoes": "Notificaciones de DM",
+                "ranking": "Clasificación activa",
+                "links_externos": "Enlaces externos",
+                "nota_servidores": "¡Los servidores desconocidos son servidores en los que ganaste experiencia y ya no soy parte de ellos! :'("
             },
             "telemetria": {
                 "titulo": "> Datos de telemetría",
@@ -337,11 +358,26 @@
                 "desativo": "Los informes de otros servidores sobre el mal comportamiento de los usuarios ahora están deshabilitados en este servidor.",
                 "tipo_canal": "Debes especificar un canal de texto para que lo use, inténtalo de nuevo",
                 "sem_usuario": "¡Ningún usuario fue mencionado!",
+                "reportar_bot": "¡No puedes denunciarme!",
+                "auto_reporte": "¡No puedes incluirte en la lista de traviesos!",
                 "usuario_add": "El usuario ha sido agregado a la lista traviesa, ¡gracias!",
                 "usuario_att": "El usuario ha tenido sus datos actualizados, gracias!",
                 "usuario_nao_encontrado": "El usuario ingresado no es parte de este servidor, intente nuevamente.",
                 "sem_report": "Este usuario no ha recibido ningún informe.",
-                "com_report": "Este usuario tiene algunos informes de otros servidores."
+                "com_report": "Este usuario tiene algunos informes de otros servidores.",
+                "reportado": "> Reportar usuario",
+                "reportador": "Reportero",
+                "reportados": "Reportado",
+                "descricao_report": "Su informe agregará al siguiente usuario a mi lista de mala conducta.\n\nPuede decidir si notificar a otros servidores de esta adición, agregar silenciosamente o cancelar este informe.",
+                "automatizado": "> Informes automatizados",
+                "descricao_automatizado": "Su informe agregará a todos los usuarios con prohibiciones de servidor justificadas a mi lista de usuarios que se portan mal.\n\nLos usuarios importados automáticamente no se mencionan en otros servidores, pero se muestran en sus listas con el comando </verify guild:1094346210636214306>, si son miembros de how.",
+                "adicionado_silenciosamente": "El usuario ha sido agregado silenciosamente a la lista traviesa, ¡gracias!",
+                "usuarios_reportados": "Se han agregado `auto_repl` nuevos usuarios prohibidos a los registros traviesos, ¡gracias!",
+                "usuario_reportado": "Se ha agregado `1` nuevo usuario a mi registro de mal comportamiento, ¡gracias!",
+                "sem_usuarios": "No se agregaron usuarios, ya que no tienen justificación para banear o no hay baneos en el servidor.",
+                "sem_reportes_guild": "¡No hay usuarios informados externamente en este servidor!",
+                "identificador": "Identificador",
+                "rodape": "páginas, use /verify guild page:<num> para ver otras páginas"
             },
             "xp": {
                 "permissao_1": "No puede administrar miembros de este servidor",
@@ -421,7 +457,6 @@
                 "reverso": "Tu mensaje al revés"
             },
             "tempo": {
-                "aviso_1": "Ingrese el nombre de una ciudad para buscar\nPor ejemplo, como `/tiempo madrid`",
                 "aviso_2": "Não encontrei nenhum local chamado",
                 "aviso_3": "Hubo un error con la API del clima y no es posible buscar el clima en este momento",
                 "aviso_continente": "Estos datos son un promedio de todos los valores para el continente encuestado.",
@@ -489,7 +524,36 @@
                 "nota_rodape": "Este artículo aún no se ha implementado oficialmente, sus datos no son oficiales.",
                 "sim": "Sí",
                 "nao": "No",
-                "ate": "hasta"
+                "ate": "hasta",
+                "detalhes": {
+                    "na_cabeca": "Cuando en la cabeza",
+                    "no_corpo": "Cuando en el cuerpo",
+                    "nas_pernas": "Cuando en las piernas",
+                    "nos_pes": "Cuando en los pies",
+                    "pontos_de_armadura": "Armadura",
+                    "resistencia_da_armadura": "Dureza de la armadura",
+                    "resistencia_a_repulsao": "Resistencia al retroceso",
+                    "dano_por_golpe": "Daño de ataque",
+                    "na_mao_principal": "Cuando en la mano principal",
+                    "velocidade_de_ataque": "Velocidad de ataque",
+                    "nenhum_efeito": "Sin efecto",
+                    "velocidade": "Velocidad",
+                    "lentidao": "Lentitud",
+                    "resistencia": "La resistencia",
+                    "respiracao": "Respiración acuática",
+                    "visao": "Visión nocturna",
+                    "forca": "Fortaleza",
+                    "dano": "Daño instantáneo",
+                    "vida": "Salud instantánea",
+                    "veneno": "Veneno",
+                    "supersalto": "Impulso de salto",
+                    "cegueira": "Ceguera",
+                    "levitação": "Levitación",
+                    "queda": "Caída lenta",
+                    "fraqueza": "Debilidad",
+                    "sorte": "Suerte",
+                    "invisibilidade": "Invisibilidad"
+                }
             },
             "history": {
                 "hoje": "hoy",

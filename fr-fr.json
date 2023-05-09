@@ -9,7 +9,8 @@
             "error": {
                 "epic_embed_fail": "Une erreur s'est produite lors de l'exécution de cette commande, j'ai prévenu l'équipe d'éliminer ce baidu au plus vite. mes excuses pour le derangement",
                 "develop": "Cette commande n'est pas encore prête! Attendez encore un peu...",
-                "comando_dm": "Les commandes DM ne sont pas actives :spy:"
+                "comando_dm": "Les commandes DM ne sont pas actives :spy:",
+                "comando_restrito": "Arrête toi là! Vous ne pouvez pas utiliser cette commande !"
             },
             "ping": {
                 "titulo": "> Oh emmène-moi à traaveeers :notes:",
@@ -39,7 +40,10 @@
                 "error_3": "Vous ne pouvez pas transférer à vous-même!",
                 "user_bot": "Vous ne pouvez pas transférer les Bufunfas vers des bots autres que moi!",
                 "sucesso": "Transfert approuvé! `B$auto_repl` Bufunfas ont été déposés sur le compte de",
-                "notifica": "Vous venez de recevoir un acompte! <@!auto_repl> a déposé `B$auto_repl` Bufunfas sur votre compte! Yay"
+                "notifica": "Vous venez de recevoir un acompte! <@!auto_repl> a déposé `B$auto_repl` Bufunfas sur votre compte! Yay",
+                "nova_transferencia": "> Nouveau transfert",
+                "transferindo": "Transfert",
+                "destinatario": "Destinataire"
             },
             "banco": {
                 "suas_bufunfas": "> Vos Bufunfas",
@@ -48,6 +52,36 @@
                 "daily": "Suivant </daily:1020794974377353338> disponible",
                 "dica_comando": "Utilisez </daily:1020794974377353338> pour collecter des Bufunfas!",
                 "dica_rodape": "Vous pouvez utiliser Bufunfas dans les personnalisations, comme /couleur par exemple!"
+            },
+            "modulo": {
+                "cabecalho_menu": "> Création d'un module",
+                "visualizar_modulo": "> Votre module",
+                "tipo": "Type de module",
+                "ativacao": "Activation",
+                "valor": "Prix",
+                "sem_bufunfa": "Vous n'avez pas assez de Bufunfas pour utiliser les modules, obtenez-en avec la commande </daily:1020794974377353338> avant!",
+                "sem_locale": "Pour activer le module météo il faut définir un emplacement par défaut avec la commande </link locale:1020561785620803674> avant!",
+                "limite_modulos": "Il est possible d'activer seulement 3 modules de chaque type!",
+                "excluido": "Votre module a été supprimé",
+                "desativado": "Votre module a été désactivé",
+                "ativado": "Votre module est de nouveau activé!",
+                "definir_tipo": "> Définir le type de retour",
+                "descricao_tipo_history": "Choisissez ce que vous préférez!\nVous pouvez choisir si vous voulez un `rapport complet` ou quelque chose de `simplifié`.\n\n-> Dans le `rapport complet`, je montrerai la liste complète des événements de la journée.\n-> Le 'rapport résumé' Je ne montrerai qu'un seul événement, celui-ci choisi comme le plus important de la journée.",
+                "rodape_tipo_modulo": "Lequel préfères-tu? Sélectionnez un type ci-dessous pour commencer!",
+                "faltando_tipo": "Vous n'avez pas défini si le module historique sera résumé ou complet\nPar défaut, je vous enverrai une version résumée!",
+                "ativacao_0": "Jours de travail",
+                "ativacao_1": "Fins de semaine",
+                "ativacao_2": "Tous les jours",
+                "ativacao_min_0": "en semaine",
+                "ativacao_min_1": "les weekends",
+                "ativacao_min_2": "tous les jours",
+                "descricao": "Ce module coûtera `B$auto_repl par jour`, plus vous activez de modules,\nplus de Bufunfas seront déduits de votre banque par jour.\n\nActuellement, la valeur de fonctionnement de ses modules est `B$auto_repl par jour`.\n----------------------------------------------------------------------------",
+                "modulo_ativado": "Module activé! Votre module sera envoyé auto_repl à `auto_repl`",
+                "modulo_0": "🌩️ Climat",
+                "modulo_1": "🖊️ Phrases",
+                "modulo_2": "🏯 Événements historiques",
+                "modulo_3": "🃏 Blagues",
+                "modulo_4": "〽️ Curiosités"
             }
         },
         "dive": {
@@ -99,8 +133,6 @@
                 "rank_rc": "> Classement des commandes",
                 "rank_global": "> Classement mondial",
                 "rodape": "pages, utilisez /rank pagina:<num> pour voir d'autres pages",
-                "rodape_rc": "pages, utilisez /rank comandes pagina:<num> pour voir d'autres pages",
-                "rodape_global": "pages, utilisez /rank global page:<num> pour voir les autres pages",
                 "paginas": "Enter a lower number for the page",
                 "nivel_descricao": "niveau = expérience / 1000",
                 "enceirados": "Users",
@@ -176,7 +208,12 @@
                 "error_3": "Il n'est pas possible de faire pivoter des solides géométriques avec moins de 4 faces."
             },
             "gta": {
-                "horario": "Maintenant sont exactement auto_repl dans GTA Online"
+                "horario": "Maintenant sont exactement auto_repl dans GTA Online",
+                "horario_atual": "Heure actuelle",
+                "erro_apisal": "Impossible de se connecter à APISAL pour le moment, veuillez réessayer plus tard !"
+            },
+            "jokenpo": {
+                "erro_aposta": "Payez le loyer !\nVous n'avez pas assez de Bufunfas pour jouer, collectez-en avec le </daily:1020794974377353338> avant!"
             },
             "nazar": {
                 "titulo": ":wind_chime: Madame Nazar aujourd'hui",
@@ -190,6 +227,15 @@
                 "tentativas": "Tentatives restantes:",
                 "acertou": "Vous avez raison! Félicitations!\nLe mot était",
                 "errou": "Vous avez fait une erreur!\nLe mot était"
+            },
+            "portal": {
+                "titulo": "> Coordonnées du portail",
+                "descricao": "auto_repl Votre portail principal doit être assemblé aux coordonnées suivantes auto_repl```fix\nX: auto_repl; Z: auto_repl```\nauto_repl Un nouveau portail sera créé aux coordonnées suivantes lors de la traversée vers auto_repl```fix\nX: auto_repl; Z: auto_repl```\n:mag: | Activez les coordonnées en appuyant sur F3 (dans Java Edition) ou dans les paramètres du monde dans Bedrock Edition.\n\n:warning: | Notez que les portails doivent avoir une distance minimale entre les coordonnées pour être liés correctement, s'il y a des portails très proches, le lien entre eux ne fonctionnera pas.",
+                "superficie": "Surface",
+                "no_nether": "au Nether",
+                "na_superficie": "à la Surface",
+                "o_nether": "au Nether",
+                "a_superficie": "la Surface"
             }
         },
         "manu": {
@@ -249,11 +295,16 @@
                 "sem_dados": "Vous n'avez aucune donnée enregistrée ici ;)",
                 "server_desconhecido": "serveur inconnu",
                 "um_server": "et 1 autre serveur",
-                "outros_servers": "et auto_repl autres serveurs"
+                "outros_servers": "et auto_repl autres serveurs",
+                "ghostmode": "Mode fantôme",
+                "notificacoes": "Notifications MP",
+                "ranking": "Classement actif",
+                "links_externos": "Liens externes",
+                "nota_servidores": "Les serveurs inconnus sont des serveurs sur lesquels vous avez acquis de l'expérience et je ne suis plus dessus! :'("
             },
             "telemetria": {
                 "titulo": "> Données de télémétrie",
-                "descricao": "Pour un meilleur fonctionnement d'Alonsal, nous utilisons diverses données anonymisées pour décider quelles fonctionnalités accorder plus d'attention et améliorer à l'avenir.\n\nCes données peuvent provenir de toutes les fonctions du bot, dont les plus importantes sont les commandes, lors de l'utilisation d'un commande, comme celle-ci de / telemetry, le bot enregistre l'interaction dans son historique des commandes émises et affiche un bref résumé du serveur sur lequel la commande a été utilisée, selon l'impression jointe ci-dessous.\n\nD'autres données que nous recueillons également sont listés ci-dessous:\n`Serveurs (bot) entrants et sortants`, `Nombre total de serveurs, de canaux et d'utilisateurs que le bot peut afficher`, `Des erreurs se sont produites pendant 'une commande`, `Messages texte pour les expériences/niveau` , `Snort mouvements `, `Chaînes qui reçoivent des mises à jour gratuites du jeu`, et enfin celles qui sont mises à jour quotidiennement:\n\n` Commandes déclenchées, erreurs, expérience accordée, messages valables pour xp, bouffons distribués et déplacés et serveurs, chaînes et utilisateurs \"des connaissances\".",
+                "descricao": "Pour un meilleur fonctionnement d'Alonsal, nous utilisons diverses données anonymisées pour décider quelles fonctionnalités accorder plus d'attention et améliorer à l'avenir.\n\nCes données peuvent provenir de toutes les fonctions du bot, dont les plus importantes sont les commandes, lors de l'utilisation d'un commande, comme celle-ci de / telemetry, le bot enregistre l'interaction dans son historique des commandes émises et affiche un bref résumé du serveur sur lequel la commande a été utilisée, selon l'impression jointe ci-dessous.\n\nD'autres données que nous recueillons également sont listés ci-dessous:\n`Serveurs (bot) entrants et sortants`, `Nombre total de serveurs, de canaux et d'utilisateurs que le bot peut afficher`, `Des erreurs se sont produites pendant 'une commande`, `Messages texte pour les expériences/niveau`, `Snort mouvements `, `Chaînes qui reçoivent des mises à jour gratuites du jeu`, et enfin celles qui sont mises à jour quotidiennement:\n\n` Commandes déclenchées, erreurs, expérience accordée, messages valables pour xp, bouffons distribués et déplacés et serveurs, chaînes et utilisateurs \"des connaissances\".",
                 "rodape": "🔰 | Il convient de noter que les entrées de texte sont également masquées, ce qui rend le contenu saisi non visible pour votre vie privée."
             },
             "traduz": {
@@ -307,11 +358,26 @@
                 "desativo": "Les rapports d'autres serveurs sur les utilisateurs qui se comportent mal sont maintenant désactivés sur ce serveur.",
                 "tipo_canal": "Vous devez spécifier un canal de texte à utiliser, veuillez réessayer",
                 "sem_usuario": "Aucun utilisateur n'a été mentionné!",
+                "reportar_bot": "Vous ne pouvez pas me signaler!",
+                "auto_reporte": "Vous ne pouvez pas vous inclure sur la liste des vilains!",
                 "usuario_add": "L'utilisateur a été ajouté à la liste des mauvais comportements, merci!",
                 "usuario_att": "L'utilisateur a fait mettre à jour ses données, merci!",
                 "usuario_nao_encontrado": "L'utilisateur saisi ne fait pas partie de ce serveur, veuillez réessayer.",
                 "sem_report": "Cet utilisateur n'a reçu aucun rapport",
-                "com_report": "Cet utilisateur a des rapports d'autres serveurs"
+                "com_report": "Cet utilisateur a des rapports d'autres serveurs",
+                "reportado": "> Dénoncer un utilisateur",
+                "reportador": "Journaliste",
+                "reportados": "Signalé",
+                "descricao_report": "Votre rapport ajoutera l'utilisateur suivant à ma liste d'erreurs.\n\nVous pouvez choisir d'informer les autres serveurs de cet ajout, de les ajouter en mode silencieux ou d'annuler le rapport.",
+                "automatizado": "> Plaintes automatiques",
+                "descricao_automatizado": "Votre rapport ajoutera tous les utilisateurs bannis et justifiés de ce serveur à ma liste d'utilisateurs malveillants.\n\nLes utilisateurs importés automatiquement ne sont pas mentionnés sur les autres serveurs, mais sont affichés dans leurs listes avec la commande </verify guild:1094346210636214306>, s'ils sont membres.",
+                "adicionado_silenciosamente": "L'utilisateur a été ajouté silencieusement à la liste des coquins, merci!",
+                "usuarios_reportados": "`auto_repl` nouveaux utilisateurs bannis ont été ajoutés aux logs coquins, merci!",
+                "usuario_reportado": "`1` nouvel utilisateur a été ajouté à mon dossier d'inconduite, merci!",
+                "sem_usuarios": "Aucun utilisateur n'a été ajouté, car ils n'ont aucune justification pour l'interdiction ou il n'y a pas d'interdiction sur le serveur.",
+                "sem_reportes_guild": "Il n'y a aucun utilisateur signalé en externe sur ce serveur!",
+                "identificador": "Identifiant",
+                "rodape": "pages, utilisez /verify guild page:<num> pour voir d'autres pages"
             },
             "xp": {
                 "permissao_1": "Vous ne pouvez pas gérer les membres de ce serveur",
@@ -322,7 +388,7 @@
                 "ativo": "Mode fantôme activé! Désormais, toutes les commandes utilisées ne seront visibles que par vous.\nUtilisez à nouveau la commande pour désactiver.",
                 "desativo": "Mode fantôme désactivé! Désormais, toutes les commandes utilisées seront visibles par tout le monde.\nUtilisez à nouveau la commande si vous souhaitez activer."
             },
-            "ranking" : {
+            "ranking": {
                 "error": "Cet utilisateur a désactivé le classement, il n'est pas possible de modifier ses données!",
                 "ativo": "Vos interactions de texte et de commande vous accorderont désormais de l'XP\nUtilisez à nouveau la commande pour désactiver le gain d'XP.",
                 "desativo": "Vos interactions de texte et de commande ne vous accorderont plus d'XP\nUtilisez à nouveau la commande pour activer le gain d'XP."
@@ -391,7 +457,6 @@
                 "reverso": "Votre message inversé"
             },
             "tempo": {
-                "aviso_1": "Entrez le nom d'une ville à rechercher\nPar exemple, comme `.awe paris`",
                 "aviso_2": "Je n'ai pas trouvé d'endroit appelé",
                 "aviso_3": "Il y a eu une erreur avec l'API météo et il n'est pas possible de rechercher la météo pour le moment",
                 "aviso_continente": "Ces données sont une moyenne de toutes les valeurs pour le continent étudié",
@@ -420,6 +485,8 @@
                 "chovendo": "🌧️ Il pleut maintenant",
                 "nevando": "❄️ Il neige maintenant",
                 "rajadas_vento": "🌪️ Rafales de vent",
+                "chuva_troll": "Talvez não esteja chovendo de verdade, ou será que está?",
+                "neve_troll": "Talvez não esteja nevando de verdade, ou será que está?",
                 "dados_atts": "Données mises à jour dans",
                 "sugestao": "Essayez une recherche brute par exemple, ",
                 "error_1": "Entrez simplement des caractères normaux pour votre recherche, les recherches avec des nombres sont ignorées",
@@ -431,6 +498,7 @@
                 "inverno": "L'hiver",
                 "comeco": "Commencé en",
                 "termino": ", fini dans",
+                "termino_hoje": ", finisce oggi",
                 "equador": "Cet emplacement est proche de l'équateur, la saison en cours peut ne pas refléter votre météo actuelle",
                 "new_link": "Maintenant, je vais utiliser votre entrée ( `auto_repl` ) comme modèle de recherche dans la commande </weather:1018653229128622187>!\nUtilisez à nouveau la commande </link locale:1020561785620803674> si vous souhaitez modifier l'emplacement épinglé",
                 "error_locale": "Il n'y a pas de paramètres régionaux par défaut définis, utilisez la commande </link locale:1020561785620803674> pour en définir un ou utilisez la commande </weather:1018653229128622187> informant à nouveau une valeur d'entrée"
@@ -451,6 +519,8 @@
                 "atributos": "Les attributs",
                 "disco_musical": "Disque de musique",
                 "livro_encantado": "Livre enchanté",
+                "sugestao_pesquisa": "Élément erroné? Essayez de rechercher en utilisant des guillemets, par exemple </mine:1018609879562334390> \"auto_repl\"",
+                "mais_detalhes_wiki": "[Voir plus de détails sur le wiki](auto_repl)",
                 "nota_rodape": "Cet élément n'a pas encore été officiellement implémenté, vos données ne sont pas officielles",
                 "sim": "Oui",
                 "nao": "Non",
@@ -571,6 +641,8 @@
                 "capturas": "Impressions",
                 "nome": "Nom",
                 "tempo_jogado": "Temps joué",
+                "hours": "heures",
+                "minutes": "minutes",
                 "sem_link": "L'utilisateur mentionné n'a pas lié Alonsal à Steam, essayez de rechercher son nom personnalisé!"
             },
             "calc": {

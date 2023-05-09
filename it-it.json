@@ -55,19 +55,33 @@
             },
             "modulo": {
                 "cabecalho_menu": "> Creazione di un modulo",
+                "visualizar_modulo": "> Il tuo modulo",
                 "tipo": "Tipo di modulo",
                 "ativacao": "Attivazione",
-                "valor": "Valore",
+                "valor": "Prezzo",
                 "sem_bufunfa": "Non hai abbastanza Bufunfas per usare i moduli, prendine un po' prima con il comando </daily:1020794974377353338>!",
                 "sem_locale": "Per attivare il modulo meteo, devi prima impostare una posizione predefinita con il comando `/local link`!",
-                "dias_uteis": "Giorni lavorativi",
-                "finais_semana": "Fine settimana",
-                "todos_os_dias": "Quotidiano",
-                "dias_uteis_2": "nei giorni lavorativi",
-                "finais_semana_2": "nei finesettimana",
-                "todos_os_dias_2": "ogni giorno",
+                "limite_modulos": "E' possibile attivare solo 3 moduli di ogni tipologia!",
+                "excluido": "Il tuo modulo è stato eliminato",
+                "desativado": "Il tuo modulo è stato disabilitato",
+                "ativado": "Il tuo modulo è stato nuovamente attivato!",
+                "definir_tipo": "> Imposta il tipo di ritorno",
+                "descricao_tipo_history": "Scegli quello che preferisci!\nPuoi scegliere se vuoi un `feedback completo` o qualcosa di `semplificato`.\n\n-> Nel `feedback completo` mostrerò l'elenco completo degli eventi della giornata.\n -> O `ritorno riepilogativo` mostrerà un solo evento, questo scelto come il più importante della giornata.",
+                "rodape_tipo_modulo": "Quale preferisci? Seleziona un tipo qui sotto per iniziare!",
+                "faltando_tipo": "Non hai definito se il modulo della cronologia sarà riassunto o completo\nPer impostazione predefinita, ti invierò una versione riassuntiva!",
+                "ativacao_0": "Giorni lavorativi",
+                "ativacao_1": "Fine settimana",
+                "ativacao_2": "Quotidiano",
+                "ativacao_min_0": "nei giorni lavorativi",
+                "ativacao_min_1": "nei finesettimana",
+                "ativacao_min_2": "ogni giorno",
                 "descricao": "Questo modulo avrà un costo `B$auto_repl il giorno`, più moduli sono attivi,\npiù Bufunfas verranno detratti dalla tua banca al giorno.\n\nAttualmente il valore per il funzionamento dei tuoi moduli è `B$auto_repl il giorno`.\n----------------------------------------------------------------------------",
-                "modulo_ativado": "Modulo attivato! Il tuo modulo verrà inviato auto_repl alle `auto_repl`"
+                "modulo_ativado": "Modulo attivato! Il tuo modulo verrà inviato auto_repl alle `auto_repl`",
+                "modulo_0": "🌩️ Clima",
+                "modulo_1": "🖊️ Frasi",
+                "modulo_2": "🏯 Eventi storici",
+                "modulo_3": "🃏 Scherzi",
+                "modulo_4": "〽️ Curiosità"
             }
         },
         "dive": {
@@ -119,8 +133,6 @@
                 "rank_rc": "> Classificazione dei comandi",
                 "rank_global": "> Classifica globale",
                 "rodape": "pagine, utilizzare il comando /rank page:<numero> per vedere altre pagine",
-                "rodape_rc": "pagine, usa il comando /rank comandi page:<numero> per vedere altre pagine",
-                "rodape_global": "pagine, usa il comando /rank global page:<num> per vedere altre pagine",
                 "paginas": "Informe um número menor para a página",
                 "nivel_descricao": "livello = esperienza / 1000",
                 "enceirados": "Ceratos",
@@ -215,6 +227,15 @@
                 "tentativas": "Tentativi rimasti:",
                 "acertou": "Hai ragione! Congratulazioni!\nLa parola era",
                 "errou": "Hai commesso un errore!\nLa parola era"
+            },
+            "portal": {
+                "titulo": "> Coordinate del portale",
+                "descricao": "auto_repl Il tuo portale principale deve essere impostato alle seguenti coordinate auto_repl```fix\nX: auto_repl; Z: auto_repl```\nauto_repl Verrà creato un nuovo portale alle seguenti coordinate durante l'attraversamento auto_repl```fix\nX: auto_repl; Z: auto_repl```\n:mag: | Abilita le coordinate premendo F3 (in Java Edition) o nelle impostazioni del mondo in Bedrock Edition.\n\n:warning: | Si noti che i portali devono avere una distanza minima tra le coordinate per essere collegati correttamente, se ci sono portali molto vicini, il collegamento tra loro non funzionerà.",
+                "superficie": "Superficie",
+                "no_nether": "nel Nether",
+                "na_superficie": "sulla superficie",
+                "o_nether": "nel Nether",
+                "a_superficie": "la superficie"
             }
         },
         "manu": {
@@ -346,13 +367,17 @@
                 "com_report": "Questo utente ha alcuni rapporti da altri server",
                 "reportado": "> Segnala utente",
                 "reportador": "Reporter",
+                "reportados": "Denunciato",
                 "descricao_report": "La tua segnalazione aggiungerà il seguente utente al mio elenco di comportamenti anomali.\n\nPuoi decidere se notificare ad altri server questa aggiunta, semplicemente aggiungerlo silenziosamente o se vuoi annullare questa aggiunta.",
                 "automatizado": "> Rapporto automatizzato",
-                "descricao_automatizado": "La tua segnalazione aggiungerà tutti gli utenti giustificati che sono stati bannati da questo server al mio elenco di utenti che si comportano male.\n\nGli utenti importati automaticamente non sono menzionati su altri server, ma appaiono nei loro elenchi con il comando server /verify, se sono membri di come .",
+                "descricao_automatizado": "La tua segnalazione aggiungerà tutti gli utenti giustificati che sono stati bannati da questo server al mio elenco di utenti che si comportano male.\n\nGli utenti importati automaticamente non sono menzionati su altri server, ma appaiono nei loro elenchi con il comando </verify guild:1094346210636214306>, se sono membri di come.",
                 "adicionado_silenciosamente": "L'utente è stato aggiunto silenziosamente alla lista dei cattivi, grazie!",
                 "usuarios_reportados": "`auto_repl` nuovi utenti bannati sono stati aggiunti ai registri cattivi, grazie!",
                 "usuario_reportado": "`1` nuovo utente è stato aggiunto al mio registro dei comportamenti anomali, grazie!",
-                "sem_usuarios": "Nessun utente è stato aggiunto in quanto non vi è alcuna giustificazione per il ban o non ci sono ban sul server."
+                "sem_usuarios": "Nessun utente è stato aggiunto in quanto non vi è alcuna giustificazione per il ban o non ci sono ban sul server.",
+                "sem_reportes_guild": "Non ci sono utenti segnalati esternamente presenti su questo server!",
+                "identificador": "Identificatore",
+                "rodape": "pagine, usa /verify guild pagina:<num> per vedere altre pagine"
             },
             "xp": {
                 "permissao_1": "Non puoi gestire i membri di questo server",

@@ -9,7 +9,8 @@
             "error": {
                 "epic_embed_fail": "An error occurred while trying to execute this command, I warned the team to eliminate this baidu as soon as possible. apologies for the inconvenience",
                 "develop": "This command is not ready yet! Wait a little bit more...",
-                "comando_dm": "DM commands are not active :spy:"
+                "comando_dm": "DM commands are not active :spy:",
+                "comando_restrito": "Stop right there! You cannot use this command!"
             },
             "ping": {
                 "titulo": "> Oh, make way for me to go through :notes:",
@@ -39,7 +40,10 @@
                 "error_3": "You cannot transfer to yourself!",
                 "user_bot": "You cannot transfer Bufunfas to bots other than me!",
                 "sucesso": "Transfer approved! `B$auto_repl` Bufunfas were deposited in the account of",
-                "notifica": "You just received a deposit! <@!auto_repl> has deposited `B$auto_repl` Bufunfas into your account! yay"
+                "notifica": "You just received a deposit! <@!auto_repl> has deposited `B$auto_repl` Bufunfas into your account! yay",
+                "nova_transferencia": "> New transfer",
+                "transferindo": "Transferring",
+                "destinatario": "Receiver"
             },
             "banco": {
                 "suas_bufunfas": "> Your Bufunfas",
@@ -48,6 +52,36 @@
                 "daily": "Next </daily:1020794974377353338> available",
                 "dica_comando": "Use </daily:1020794974377353338> to collect Bufunfas!",
                 "dica_rodape": "You can use Bufunfas in customizations, like /color for example!"
+            },
+            "modulo": {
+                "cabecalho_menu": "> Creating a module",
+                "visualizar_modulo": "> Your module",
+                "tipo": "Module type",
+                "ativacao": "Activation",
+                "valor": "Price",
+                "sem_bufunfa": "You don't have enough Bufunfas to use modules, get some with the command </daily:1020794974377353338> before!",
+                "sem_locale": "To activate the weather module it is necessary to define a default location with the command </link locale:1020561785620803674> before!",
+                "limite_modulos": "It is possible to activate only 3 modules of each type!",
+                "excluido": "Your module has been deleted",
+                "desativado": "Your module has been disabled",
+                "ativado": "Your module has been activated again!",
+                "definir_tipo": "> Set return type",
+                "descricao_tipo_history": "Choose what you prefer!\nYou can define if you want a `complete return`, or something `simplified`.\n\n-> In the `complete return` I will show you the complete list of the day's events.\n-> The `summarized return` I will show only one event, this one chosen as the most important of the day.",
+                "rodape_tipo_modulo": "Which one do you prefer? Select a type below to get started!",
+                "faltando_tipo": "You have not defined whether the history module will be summarized or complete\nBy default, I will send you a summarized version!",
+                "ativacao_0": "Working days",
+                "ativacao_1": "Weekends",
+                "ativacao_2": "Every day",
+                "ativacao_min_0": "on weekdays",
+                "ativacao_min_1": "on weekends",
+                "ativacao_min_2": "every day",
+                "descricao": "This module will discount `B$auto_repl per day`, the more modules you activate,\nthe more Bufunfas will be deducted from your bank per day.\n\nCurrently the value for operating your modules is `B$auto_repl per day`.\n----------------------------------------------------------------------------",
+                "modulo_ativado": "Module activated! Your module will be sent auto_repl at `auto_repl`",
+                "modulo_0": "🌩️ Weather",
+                "modulo_1": "🖊️ Phrases",
+                "modulo_2": "🏯 Historical events",
+                "modulo_3": "🃏 Jokes",
+                "modulo_4": "〽️ Curiosities"
             }
         },
         "dive": {
@@ -99,8 +133,6 @@
                 "rank_rc": "> Command classification",
                 "rank_global": "> Global Ranking",
                 "rodape": "pages, use /rank pagina:<num> to see other pages",
-                "rodape_rc": "pages, use /rank commands page:<num> to see other pages",
-                "rodape_global": "pages, use /rank global page:<num> to see other pages",
                 "paginas": "Enter a lower number for the page",
                 "nivel_descricao": "level = experience / 1000",
                 "enceirados": "Users",
@@ -176,7 +208,12 @@
                 "error_3": "It is not possible to rotate geometric solids with less than 4 faces."
             },
             "gta": {
-                "horario": "Are exactly auto_repl in GTA Online"
+                "horario": "Are exactly auto_repl in GTA Online",
+                "horario_atual": "Current time",
+                "erro_apisal": "Unable to connect to APISAL at the moment, please try again later!"
+            },
+            "jokenpo": {
+                "erro_aposta": "Pay the rent!\nYou don't have enough Bufunfas to bet, collect some with the </daily:1020794974377353338> first!"
             },
             "nazar": {
                 "titulo": ":wind_chime: Madame Nazar today",
@@ -193,7 +230,7 @@
             },
             "portal": {
                 "titulo": "> Portal coordinates",
-                "descricao": "auto_repl Your main portal needs to be mounted at the following nether coordinates```fix\nX: auto_repl; Z: auto_repl```\nauto_repl A new portal will be created at the following coordinates when traversing to auto_repl```fix\nX: auto_repl; Z: auto_repl```\n:mag: | Enable coordinates by pressing F3 (in Java Edition) or in the world settings in Bedrock Edition.\n\n:warning: | Note that the portals need to have a minimum distance between the coordinates to be linked correctly, if there are portals very close, the link between them will not work.",
+                "descricao": "auto_repl Your main portal needs to be mounted at the following coordinates auto_repl```fix\nX: auto_repl; Z: auto_repl```\nauto_repl A new portal will be created at the following coordinates when traversing to auto_repl```fix\nX: auto_repl; Z: auto_repl```\n:mag: | Enable coordinates by pressing F3 (in Java Edition) or in the world settings in Bedrock Edition.\n\n:warning: | Note that the portals need to have a minimum distance between the coordinates to be linked correctly, if there are portals very close, the link between them will not work.",
                 "superficie": "Overworld",
                 "no_nether": "in the Nether",
                 "na_superficie": "in the Overworld",
@@ -258,7 +295,12 @@
                 "sem_dados": "You don't have any data saved here ;)",
                 "server_desconhecido": "unknown server",
                 "um_server": "and one other server",
-                "outros_servers": "and auto_repl other servers"
+                "outros_servers": "and auto_repl other servers",
+                "ghostmode": "Ghost mode",
+                "notificacoes": "DM notifications",
+                "ranking": "Active ranking",
+                "links_externos": "External Links",
+                "nota_servidores": "Unknown servers are servers where you gained experiences and I am no longer a part of it! :'("
             },
             "telemetria": {
                 "titulo": "> Telemetry data",
@@ -316,11 +358,26 @@
                 "desativo": "Reports from other servers about misbehaving users are now disabled on this server.",
                 "tipo_canal": "You need to specify a text channel for me to use, please try again",
                 "sem_usuario": "No user was mentioned!",
+                "reportar_bot": "You can't report me!",
+                "auto_reporte": "You can't include yourself on the naughty list!",
                 "usuario_add": "The user has been added to the naughty list, thank you!",
                 "usuario_att": "The user has had his data updated, thank you!",
                 "usuario_nao_encontrado": "The mentioned user is not part of this server, please try again.",
                 "sem_report": "This user has no complaints",
-                "com_report": "This user has some reports from other servers"
+                "com_report": "This user has some reports from other servers",
+                "reportado": "> Report user",
+                "reportador": "Reporter",
+                "reportados": "Reported",
+                "descricao_report": "Your report will add the following user to my misbehaved list.\n\nYou can decide whether I will notify other servers of this inclusion, whether I will silently add him or whether you wish to cancel this report.",
+                "automatizado": "> Automated report",
+                "descricao_automatizado": "Your report will add all justified users who are banned on this server to my naughty users list.\n\nAuto-imported users are not mentioned to other servers, but are displayed in their lists with the command </verify guild:1094346210636214306>, if they are members of such.",
+                "adicionado_silenciosamente": "The user has been silently added to the naughty list, thank you!",
+                "usuarios_reportados": "`auto_repl` new banned users have been added to the naughty logs, thank you!",
+                "usuario_reportado": "`1` new user has been added to my misbehaved registry, thank you!",
+                "sem_usuarios": "No users were added, as they have no justification for banning or there are no bans on the server.",
+                "sem_reportes_guild": "There are no externally reported users on this server!",
+                "identificador": "Identifier",
+                "rodape": "pages, use /verify guild page:<num> to see other pages"
             },
             "xp": {
                 "permissao_1": "You cannot manage members of this server",
@@ -400,7 +457,6 @@
                 "reverso": "Your message in reverse"
             },
             "tempo": {
-                "aviso_1": "Enter the name of some city to search\nFor example, as `.awe los angeles`",
                 "aviso_2": "I didn't find any place called",
                 "aviso_3": "There was an error with the weather API and it is not possible to search for weather at the moment",
                 "aviso_continente": "These data are an average of all values for the continent surveyed",
@@ -429,6 +485,8 @@
                 "chovendo": "🌧️ Raining now",
                 "nevando": "❄️ Snowing now",
                 "rajadas_vento": "🌪️ Wind gusts",
+                "chuva_troll": "Maybe it's not really raining, or is it?",
+                "neve_troll": "Maybe it's not really snowing, or is it?",
                 "dados_atts": "Data updated in",
                 "sugestao": "Try a raw search for example, ",
                 "error_1": "Just enter normal characters for your search, searches with numbers are ignored",
@@ -440,6 +498,7 @@
                 "inverno": "Winter",
                 "comeco": "Started in",
                 "termino": ", ends in",
+                "termino_hoje": ", ends today",
                 "equador": "This location is close to the equator, the current season may not reflect your current climate",
                 "new_link": "Now I'm going to use your entry ( `auto_repl` ) as the search pattern in the command </weather:1018653229128622187>!\nUse the command </link locale:1020561785620803674> again if you want to change the pinned location",
                 "error_locale": "There is no default locale defined, use the command </link locale:1020561785620803674> to define one, or use the command </weather:1018653229128622187> again informing an input value"
@@ -460,6 +519,8 @@
                 "atributos": "Attributes",
                 "disco_musical": "Musical disc",
                 "livro_encantado": "Enchanted bool",
+                "sugestao_pesquisa": "Item errado? Tente pesquisar utilizando aspas, por exemplo </mine:1018609879562334390> \"auto_repl\"",
+                "mais_detalhes_wiki": "[Veja mais detalhes na wiki](auto_repl)",
                 "nota_rodape": "This item has not been officially implemented yet, your data is unofficial",
                 "sim": "Yes",
                 "nao": "No",
