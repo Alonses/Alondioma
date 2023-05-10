@@ -397,6 +397,14 @@
                 "ativo": "DM notifications enabled! Now all notifications sent via DM will be sent to you.\nUse the command again to disable.",
                 "desativo": "DM notifications turned off! Now all notifications sent via DM will no longer be sent.\nUse the command again if you want to activate it."
             },
+            "weather": {
+                "ativo": "I will show all the information about the weather in the next interactions.",
+                "desativo": "I will only show the basic weather information in the next interactions."
+            },
+            "tasks": {
+                "ativo": "Tasks will now be shown globally.\nYou'll be able to see all your lists and tasks on any server I'm on too!",
+                "desativo": "Tasks will now be shown by server, separately.\nYou can create lists with the same name for different servers."
+            },
             "emojis": {
                 "permissao": "I don't have the permission to manage the emojis and stickers on this server.",
                 "emoji_reservado": "This emoji is used by me! We cannot remove.",

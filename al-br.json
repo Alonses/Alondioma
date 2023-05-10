@@ -295,6 +295,14 @@
                 "ativo": "Notificações em DM ativas! Agora ovo encher sua DM de pings.\nUsa o comando dnv pra me dar blóqui.",
                 "desativo": "Notificações em DM desligadas! Ovo para de te encher o saco.\nUsa o comando dnv pra liberar a DM."
             },
+            "weather": {
+                "ativo": "Ovo mostrar todas as informações do clima nos próximos comandos.",
+                "desativo": "Ovo mostrar só as informações básicas do clima nos próximos comandos."
+            },
+            "tasks": {
+                "ativo": "Agora as tarefas vão ser exibidas globalmente.\nOcê vai poder ver as suas listas e tarefas em qualquer server que eu tbm tiver!",
+                "desativo": "Agora as tarefas vão ser mostradas por servidor.\nOcê vai poder criar listas com o mesmo nome para servidores diferentes."
+            },
             "ranking": {
                 "error": "Esse cornão desativou o ranking, não dá pra alterar os dados!",
                 "ativo": "Ovo contabilizar seu XP\nUsa o comando dnv pra me dar umas férias.",

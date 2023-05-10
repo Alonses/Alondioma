@@ -397,6 +397,14 @@
                 "ativo": "¡Notificaciones de DM habilitadas! Ahora se le enviarán todas las notificaciones enviadas a través de DM.\nUse el comando nuevamente para desactivar.",
                 "desativo": "¡Notificaciones de DM desactivadas! Ahora ya no se enviarán todas las notificaciones enviadas por DM.\nUtilice el comando nuevamente si desea activarlo."
             },
+            "weather": {
+                "ativo": "Mostraré toda la información sobre el clima en las próximas interacciones.",
+                "desativo": "Solo mostraré la información básica para el clima en las próximas iteraciones."
+            },
+            "tasks": {
+                "ativo": "Las tareas ahora se mostrarán globalmente.\n¡También podrás ver todas tus listas y tareas en cualquier servidor en el que esté!",
+                "desativo": "Las tareas ahora se mostrarán por servidor, por separado.\nPuede crear listas con el mismo nombre para diferentes servidores."
+            },
             "emojis": {
                 "permissao": "No tengo permitido administrar emojis y stickers en este servidor.",
                 "emoji_reservado": "¡Este emoji es usado por mí! no podemos quitarlo",
