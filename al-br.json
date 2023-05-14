@@ -207,7 +207,21 @@
                 "sem_dados": "Ocê não possui :game_die: salvos por aqui ;)",
                 "server_desconhecido": "server desconhecido",
                 "um_server": "e 1 outro server",
-                "outros_servers": "e outros auto_repl serveres"
+                "outros_servers": "e outros auto_repl serveres",
+                "ghostmode": "Modo gasparzinho 👻",
+                "nota_servidores": "Serveres desconhecidos são serveres q vc ganhou xp e eu fui expulso! 😡",
+                "tipo_dado": "Selecione um tipo de 🎲",
+                "exclusao_dados": "> Exclusão de 🎲",
+                "rodape": "Usa os botões abaixo por sua conta e risco, não vai dar pra desfazer caso prossiga o uso do comando.",
+                "descricao_embed": "Seus 🎲 vão ser apagados utilizando este comando.\n\nPra sua segurança, eu não crio backups dos 🎲, isso quer dizer que os 🎲 uma vez excluídos não poderão ser recuperados.\n\nVc escolheu: auto_repl```fix\nO que vai ser apagado:\nauto_repl```",
+                "operacao_cancelada": "A operação foi cancelada, pois você clicou em um botão com código errado ou optou por cancelar!",
+                "ultima_confirmacao": "Seus 🎲 serão excluídos definitivamente ao clicar no botão correto abaixo.\n\nEscolha a opção correta ( `auto_repl` ) ou cancele a operação, este é o último aviso sobre a exclusão, 🎲 excluídos não podem ser recuperados.",
+                "dados_excluidos": "Seus 🎲 foram excluídos com sucesso.",
+                "selects": {
+                    "combo": {
+                        "6": "Todos os 🎲"
+                    }
+                }
             },
             "telemetria": {
                 "titulo": "> 🎲 de telemetria",

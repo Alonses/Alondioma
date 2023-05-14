@@ -300,7 +300,49 @@
                 "notificacoes": "Notifications MP",
                 "ranking": "Classement actif",
                 "links_externos": "Liens externes",
-                "nota_servidores": "Les serveurs inconnus sont des serveurs sur lesquels vous avez acquis de l'expérience et je ne suis plus dessus! :'("
+                "nota_servidores": "Les serveurs inconnus sont des serveurs sur lesquels vous avez acquis de l'expérience et je ne suis plus dessus! 😢",
+                "tipo_dado": "Sélectionnez un type de données",
+                "exclusao_dados": "> Suppression de données",
+                "rodape": "Utilisez les boutons ci-dessous à vos propres risques, il ne sera pas possible d'annuler si vous continuez à utiliser la commande.",
+                "descricao_embed": "Vos données seront définitivement supprimées à l'aide de cette commande.\n\nPour votre sécurité et un contrôle total de votre part, je ne crée pas de sauvegardes des données, cela signifie que les données une fois supprimées ne peuvent pas être récupérées.\n\nVous avez choisi: auto_repl```fix\nCe qui sera supprimé:\nauto_repl```",
+                "escolher_opcoes": "Choisissez l'une des options ci-dessous pour voir plus de détails sur la suppression",
+                "operacao_cancelada": "L'opération a été annulée car vous avez cliqué sur un mauvais bouton ou choisi d'annuler!",
+                "ultima_confirmacao": "Vos données seront définitivement supprimées en cliquant sur le bon bouton ci-dessous.\n\nVeuillez choisir la bonne option (`auto_repl`) ou annuler l'opération, ceci est le dernier avertissement concernant la suppression, les données supprimées ne peuvent pas être récupérées.",
+                "dados_excluidos": "Vos données ont été supprimées avec succès.",
+                "selects": {
+                    "uni": {
+                        "1": "Locale",
+                        "2": "Liens externes",
+                        "3": "Couleurs de Embeds",
+                        "4": "Insigne épinglé",
+                        "5": "Évaluation sur des serveurs inconnus",
+                        "6": "Classement actuel du serveur",
+                        "7": "Classement mondial",
+                        "8": "Tâches",
+                        "9": "Modules",
+                        "10": "Bufunfas"
+                    },
+                    "combo": {
+                        "1": "Liens externes et emplacements",
+                        "2": "Intégrations et badges",
+                        "3": "Classements",
+                        "4": "Tâches et modules",
+                        "5": "Bufunfas",
+                        "6": "Toutes les données"
+                    }
+                },
+                "causes": {
+                    "1": "Vos informations locales (utilisées dans la commande /climat) seront supprimées",
+                    "2": "Vos liens de réseau externe seront supprimés",
+                    "3": "Vos intégrations ont perdu leurs couleurs personnalisées",
+                    "4": "Votre badge épinglé sera supprimé",
+                    "5": "Votre classement sur les serveurs inconnus sera effacé",
+                    "6": "Votre rang sur le serveur actuel sera effacé",
+                    "7": "Votre classement mondial sera effacé",
+                    "8": "Vos tâches seront supprimées",
+                    "9": "Vos modules seront supprimés",
+                    "10": "Vos Bufunfas seront effacés"
+                }
             },
             "telemetria": {
                 "titulo": "> Données de télémétrie",
@@ -310,6 +352,11 @@
             "traduz": {
                 "titulo": "> Banque de traduction en alonsien",
                 "descricao": "Aidez-moi à traduire et à améliorer les traductions, ou ajoutez de nouvelles langues via le référentiel Alondioma!\n\nLes nouvelles langues sont toujours les bienvenues, et corriger certains termes est indispensable pour une bonne compréhension et une utilisation conviviale d'Alonses"
+            },
+            "painel": {
+                "cabecalho_menu": "> Panneau de commande",
+                "descricao": "Contrôlez mes fonctions à l'aide des boutons ci-dessous\n\nLes boutons verts sont des fonctionnalités activées.\nLes boutons gris sont des fonctionnalités désactivées.",
+                "rodape": "Activez ou désactivez mes fonctions ci-dessous."
             }
         },
         "mode": {
@@ -754,8 +801,10 @@
                 "operacao_cancelada": "Opération annulée!"
             },
             "menus": {
+                "selecionar_operacao": "Sélectionnez l'opération souhaitée ci-dessous",
                 "criador_menu": "Arrêtez là! Ce menu ne peut être utilisé que par l'auteur de la commande!",
-                "criador_botoes": "Arrête toi là! Ces boutons ne peuvent être utilisés que par l'auteur de la commande!"
+                "criador_botoes": "Arrête toi là! Ces boutons ne peuvent être utilisés que par l'auteur de la commande!",
+                "escolha_mais_detalhes": "Choisissez pour voir plus d'informations"
             }
         }
     }

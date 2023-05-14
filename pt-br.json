@@ -300,7 +300,49 @@
                 "notificacoes": "Notificações em DM",
                 "ranking": "Ranking ativo",
                 "links_externos": "Links externos",
-                "nota_servidores": "Servidores desconhecidos são servidores onde você ganhou experiências e eu não faço mais parte! :'("
+                "nota_servidores": "Servidores desconhecidos são servidores onde você ganhou experiências e eu não faço mais parte! 😢",
+                "tipo_dado": "Selecione um tipo de dado",
+                "exclusao_dados": "> Exclusão de dados",
+                "rodape": "Use os botões abaixo por sua conta e risco, não será possível desfazer caso prossiga o uso do comando.",
+                "descricao_embed": "Seus dados serão excluídos definitivamente utilizando este comando.\n\nPor sua segurança e total controle de sua parte, eu não crio backups dos dados, isso significa que os dados uma vez excluídos não podem ser recuperados.\n\nVocê escolheu: auto_repl```fix\nO que será excluído:\nauto_repl```",
+                "escolher_opcoes": "Escolha uma das opções abaixo para ver mais detalhes sobre exclusão",
+                "operacao_cancelada": "A operação foi cancelada, pois você clicou em um botão com código errado ou optou por cancelar!",
+                "ultima_confirmacao": "Seus dados serão excluídos definitivamente ao clicar no botão correto abaixo.\n\nEscolha a opção correta ( `auto_repl` ) ou cancele a operação, este é o último aviso sobre a exclusão, dados excluídos não podem ser recuperados.",
+                "dados_excluidos": "Seus dados foram excluídos com sucesso.",
+                "selects": {
+                    "uni": {
+                        "1": "Locale",
+                        "2": "Links externos",
+                        "3": "Cores de embeds",
+                        "4": "Badge fixada",
+                        "5": "Ranking de servidores desconhecidos",
+                        "6": "Ranking do servidor atual",
+                        "7": "Ranking global",
+                        "8": "Tarefas",
+                        "9": "Módulos",
+                        "10": "Bufunfas"
+                    },
+                    "combo": {
+                        "1": "Links externos e Locale",
+                        "2": "Embeds e Badges",
+                        "3": "Rankings",
+                        "4": "Tarefas e módulos",
+                        "5": "Bufunfas",
+                        "6": "Todos os dados"
+                    }
+                },
+                "causes": {
+                    "1": "Sua informação do locale ( usado no comando /tempo ) será removida",
+                    "2": "Seus Links de redes externas serão removidos",
+                    "3": "Seus embeds perderam as cores customizadas",
+                    "4": "Sua Badge fixada será removida",
+                    "5": "Seu ranking em servidores desconhecidos será apagado",
+                    "6": "Seu ranking do servidor atual será apagado",
+                    "7": "Seu ranking global será apagado",
+                    "8": "Suas tarefas serão apagadas",
+                    "9": "Seus módulos serão apagados",
+                    "10": "Suas Bufunfas serão zeradas"
+                }
             },
             "telemetria": {
                 "titulo": "> Dados de telemetria",
@@ -310,6 +352,11 @@
             "traduz": {
                 "titulo": "> Banco de traduções Alonsianas",
                 "descricao": "Me ajude a traduzir e melhorar traduções, ou adicionar novos idiomas pelo repositório do Alondioma!\n\nNovos idiomas são sempre bem vindos, e a correção de alguns termos é essencial para a boa compreensão e uso amigável alonsês"
+            },
+            "painel": {
+                "cabecalho_menu": "> Painel de controle",
+                "descricao": "Controle as minhas funções usando os botões abaixo\n\nBotões verdes são de recursos ativados.\nBotões cinzas são de recursos desligados.",
+                "rodape": "Ative ou desative as minhas funções abaixo."
             }
         },
         "mode": {
@@ -727,8 +774,10 @@
                 "operacao_cancelada": "Operação cancelada!"
             },
             "menus": {
+                "selecionar_operacao": "Selecione a operação desejada abaixo",
                 "criador_menu": "Parado aí! Esse menu só pode ser usado pelo autor do comando!",
-                "criador_botoes": "Parado aí! Esses botões só podem ser usados pelo autor do comando!"
+                "criador_botoes": "Parado aí! Esses botões só podem ser usados pelo autor do comando!",
+                "escolha_mais_detalhes": "Escolha para ver mais informações"
             }
         },
         "modu": {

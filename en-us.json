@@ -300,7 +300,49 @@
                 "notificacoes": "DM notifications",
                 "ranking": "Active ranking",
                 "links_externos": "External Links",
-                "nota_servidores": "Unknown servers are servers where you gained experiences and I am no longer a part of it! :'("
+                "nota_servidores": "Unknown servers are servers where you gained experiences and I am no longer a part of it! 😢",
+                "tipo_dado": "Select a data type",
+                "exclusao_dados": "> Data deletion",
+                "rodape": "Use the buttons below at your own risk, it will not be possible to undo if you continue to use the command.",
+                "descricao_embed": "Your data will be permanently deleted using this command.\n\nFor your security and full control on your part, I do not create backups of the data, this means that the data once deleted cannot be recovered.\n\nYou have chosen: auto_repl```fix\nWhat will be deleted:\nauto_repl```",
+                "escolher_opcoes": "Choose one of the options below to see more details about deletion",
+                "operacao_cancelada": "The operation was canceled because you clicked a wrongly coded button or chose to cancel!",
+                "ultima_confirmacao": "Your data will be permanently deleted by clicking the correct button below.\n\nChoose the correct option ( `auto_repl` ) or cancel the operation, this is the last warning about deletion, deleted data cannot be recovered.",
+                "dados_excluidos": "Your data has been successfully deleted.",
+                "selects": {
+                    "uni": {
+                        "1": "Locale",
+                        "2": "External Links",
+                        "3": "Embed colors",
+                        "4": "Pinned badge",
+                        "5": "Ranking on unknown servers",
+                        "6": "Current server ranking",
+                        "7": "Global ranking",
+                        "8": "Tasks",
+                        "9": "Modules",
+                        "10": "Bufunfas"
+                    },
+                    "combo": {
+                        "1": "External Links and Locale",
+                        "2": "Embeds e Badges",
+                        "3": "Rankings",
+                        "4": "Tasks and modules",
+                        "5": "Bufunfas",
+                        "6": "All data"
+                    }
+                },
+                "causes": {
+                    "1": "Your locale information (used in the /weather command) will be removed",
+                    "2": "Your External Network Links will be removed",
+                    "3": "Your embeds lost their custom colors",
+                    "4": "Your Pinned Badge will be removed",
+                    "5": "Your ranking on unknown servers will be erased",
+                    "6": "Your current server ranking will be cleared",
+                    "7": "Your global ranking will be cleared",
+                    "8": "Your tasks will be deleted",
+                    "9": "Your modules will be deleted",
+                    "10": "Your Bufunfas will be reset"
+                }
             },
             "telemetria": {
                 "titulo": "> Telemetry data",
@@ -310,6 +352,11 @@
             "traduz": {
                 "titulo": "> Alonsal translation database",
                 "descricao": "Help me translate and improve translations, or add new languages via the Alondioma repository!\n\nNew languages are always welcome, and the correction of some terms is essential for a good understanding and friendly use of Alonses"
+            },
+            "painel": {
+                "cabecalho_menu": "> Control Panel",
+                "descricao": "Control my functions using the buttons below\n\nGreen buttons are features on.\nGray buttons are features off.",
+                "rodape": "Enable or disable my functions below."
             }
         },
         "mode": {
@@ -752,8 +799,10 @@
                 "operacao_cancelada": "Operation cancelled!"
             },
             "menus": {
+                "selecionar_operacao": "Select the desired operation below",
                 "criador_menu": "Stop right there! This menu can only be used by the author of the command!",
-                "criador_botoes": "Stop right there! These buttons can only be used by the author of the command!"
+                "criador_botoes": "Stop right there! These buttons can only be used by the author of the command!",
+                "escolha_mais_detalhes": "Choose to see more information"
             }
         }
     }

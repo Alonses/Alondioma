@@ -296,11 +296,51 @@
                 "server_desconhecido": "servidor desconocido",
                 "um_server": "y 1 otro servidor",
                 "outros_servers": "u otros auto_repl servidores",
-                "ghostmode": "Modo fantasma",
                 "notificacoes": "Notificaciones de DM",
                 "ranking": "Clasificación activa",
                 "links_externos": "Enlaces externos",
-                "nota_servidores": "¡Los servidores desconocidos son servidores en los que ganaste experiencia y ya no soy parte de ellos! :'("
+                "nota_servidores": "¡Los servidores desconocidos son servidores en los que ganaste experiencia y ya no soy parte de ellos! 😢",
+                "tipo_dado": "Seleccione un tipo de datos",
+                "exclusao_dados": "> Borrado de datos",
+                "rodape": "Use los botones a continuación bajo su propio riesgo, no será posible deshacer si continúa usando el comando.",
+                "descricao_embed": "Sus datos se eliminarán permanentemente con este comando.\n\nPara su seguridad y control total de su parte, no creo copias de seguridad de los datos, esto significa que los datos una vez eliminados no se pueden recuperar.\n\nHa elegido: auto_repl```fix\nLo que se eliminará:\nauto_repl```",
+                "escolher_opcoes": "Elija una de las opciones a continuación para ver más detalles sobre la eliminación",
+                "operacao_cancelada": "¡La operación se canceló porque hizo clic en un botón con el código incorrecto o eligió cancelar!",
+                "ultima_confirmacao": "Sus datos se eliminarán de forma permanente haciendo clic en el botón correcto a continuación.\n\nElija la opción correcta (`auto_repl`) o cancele la operación, esta es la última advertencia sobre la eliminación, los datos eliminados no se pueden recuperar.",
+                "dados_excluidos": "Tus datos han sido eliminados con éxito.",
+                "selects": {
+                    "uni": {
+                        "1": "Locale",
+                        "2": "Enlaces externos",
+                        "3": "Colores en incrustaciones",
+                        "4": "Insignia anclada",
+                        "5": "Clasificación en servidores desconocidos",
+                        "6": "Clasificación actual del servidor",
+                        "7": "Clasificación mundial",
+                        "8": "Tareas",
+                        "10": "Bufunfas"
+                    },
+                    "combo": {
+                        "1": "Enlaces externos y locales",
+                        "2": "Incrustaciones y distintivos",
+                        "3": "Clasificaciones",
+                        "4": "Tareas y modulos",
+                        "5": "Bufunfas",
+                        "6": "Toda la información"
+                    }
+                },
+                "causes": {
+                    "1": "Se eliminará la información de su configuración regional (utilizada en el comando /tempo)",
+                    "2": "Sus enlaces de red externa serán eliminados",
+                    "3": "Tus incrustaciones perdieron sus colores personalizados",
+                    "4": "Se eliminará su insignia fijada",
+                    "5": "Su clasificación en servidores desconocidos será borrada",
+                    "6": "Su clasificación de servidor actual se borrará",
+                    "7": "Su clasificación global se borrará",
+                    "8": "Tus tareas serán eliminadas",
+                    "9": "Tus módulos serán eliminados.",
+                    "10": "Tus Bufunfas serán borrados"
+                }
             },
             "telemetria": {
                 "titulo": "> Datos de telemetría",
@@ -310,6 +350,11 @@
             "traduz": {
                 "titulo": "> Banco de traducción alonsiano",
                 "descricao": "¡Ayúdame a traducir y mejorar las traducciones, o agrega nuevos idiomas a través del repositorio de Alondioma!\n\nLos nuevos idiomas siempre son bienvenidos, y la corrección de algunos términos es esencial para una buena comprensión y un uso fácil de Alonses"
+            },
+            "painel": {
+                "cabecalho_menu": "> Panel de control",
+                "descricao": "Controla mis funciones usando los botones a continuación\n\nLos botones verdes son funciones activadas.\nLos botones grises son funciones desactivadas.",
+                "rodape": "Habilitar o deshabilitar mis funciones a continuación."
             }
         },
         "mode": {
@@ -754,8 +799,10 @@
                 "operacao_cancelada": "¡Operación cancelada!"
             },
             "menus": {
+                "selecionar_operacao": "Seleccione la operación deseada a continuación",
                 "criador_menu": "¡Alto ahí! ¡Este menú solo puede ser utilizado por el autor del comando!",
-                "criador_botoes": "¡Alto ahí! ¡Estos botones solo pueden ser utilizados por el autor del comando!"
+                "criador_botoes": "¡Alto ahí! ¡Estos botones solo pueden ser utilizados por el autor del comando!",
+                "escolha_mais_detalhes": "Elige ver más información"
             }
         }
     }

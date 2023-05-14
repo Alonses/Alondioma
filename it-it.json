@@ -300,7 +300,49 @@
                 "notificacoes": "Notifiche DM",
                 "ranking": "Classifica attiva",
                 "links_externos": "Link esterno",
-                "nota_servidores": "I server sconosciuti sono server in cui hai acquisito esperienza e io non ne faccio più parte! :'("
+                "nota_servidores": "I server sconosciuti sono server in cui hai acquisito esperienza e io non ne faccio più parte! 😢",
+                "tipo_dado": "Seleziona un tipo di dati",
+                "exclusao_dados": "> Cancellazione dei dati",
+                "rodape": "Utilizza i pulsanti sottostanti a tuo rischio e pericolo, non potrai annullare se continui a utilizzare il comando.",
+                "descricao_embed": "I tuoi dati verranno eliminati definitivamente utilizzando questo comando.\n\nPer la tua sicurezza e il pieno controllo da parte tua, non creo backup dei dati, ciò significa che i dati una volta eliminati non possono essere recuperati.\n\nHai scelto: auto_repl```fix\nCosa verrà eliminato:\n$auto_repl```",
+                "escolher_opcoes": "Scegli una delle opzioni di seguito per visualizzare ulteriori dettagli sull'eliminazione",
+                "operacao_cancelada": "L'operazione è stata annullata perché hai fatto clic su un pulsante con il codice sbagliato o hai scelto di annullare!",
+                "ultima_confirmacao": "I tuoi dati verranno eliminati definitivamente facendo clic sul pulsante corretto in basso.\n\nScegli l'opzione corretta ( `auto_repl` ) o annulla l'operazione, questo è l'ultimo avviso relativo all'eliminazione, i dati eliminati non possono essere recuperati.",
+                "dados_excluidos": "I tuoi dati sono stati cancellati con successo.",
+                "selects": {
+                    "uni": {
+                        "1": "Locale",
+                        "2": "Link esterno",
+                        "3": "Embed colori",
+                        "4": "Distintivo appuntato",
+                        "5": "Classifica su server sconosciuti",
+                        "6": "Classifica attuale del server",
+                        "7": "Classifica mondiale",
+                        "8": "Compiti",
+                        "9": "Moduli",
+                        "10": "Bufunfas"
+                    },
+                    "combo": {
+                        "1": "Link esterni e Locale",
+                        "2": "Embeds e Distintivi",
+                        "3": "Classifiche",
+                        "4": "Compiti e moduli",
+                        "5": "Bufunfas",
+                        "6": "Tutti i dati"
+                    }
+                },
+                "causes": {
+                    "1": "Le informazioni sulle impostazioni locali (utilizzate nel comando /clima) verranno rimosse",
+                    "2": "I tuoi collegamenti di rete esterni verranno rimossi",
+                    "3": "I tuoi incorporamenti hanno perso i loro colori personalizzati",
+                    "4": "Il tuo badge appuntato verrà rimosso",
+                    "5": "La tua posizione su server sconosciuti verrà eliminata",
+                    "6": "Il tuo grado sul server attuale verrà cancellato",
+                    "7": "La tua classifica globale verrà eliminata",
+                    "8": "Le tue attività verranno eliminate",
+                    "9": "I tuoi moduli verranno eliminati",
+                    "10": "I tuoi Bufunfa verranno rimossi"
+                }
             },
             "telemetria": {
                 "titulo": "> Dati di telemetria",
@@ -310,6 +352,11 @@
             "traduz": {
                 "titulo": "> Banca di traduzione Alonsianas",
                 "descricao": "Aiutami a tradurre e migliorare le traduzioni o aggiungere nuove lingue tramite il repository Alondioma!\n\nLe nuove lingue sono sempre benvenute e la correzione di alcuni termini è essenziale per una buona comprensione e un uso amichevole di alonses"
+            },
+            "painel": {
+                "cabecalho_menu": "> Pannello di controllo",
+                "descricao": "Controlla le mie funzioni utilizzando i pulsanti qui sotto\n\nI pulsanti verdi sono funzioni attive.\nI pulsanti grigi sono funzioni disattivate.",
+                "rodape": "Abilita o disabilita le mie funzioni di seguito."
             }
         },
         "mode": {
@@ -754,8 +801,10 @@
                 "operacao_cancelada": "Operazione annullata!"
             },
             "menus": {
+                "selecionar_operacao": "Selezionare l'operazione desiderata di seguito",
                 "criador_menu": "Fermati lì! Questo menu può essere utilizzato solo dall'autore del comando!",
-                "criador_botoes": "Fermati lì! Questi pulsanti possono essere utilizzati solo dall'autore del comando!"
+                "criador_botoes": "Fermati lì! Questi pulsanti possono essere utilizzati solo dall'autore del comando!",
+                "escolha_mais_detalhes": "Scegli di vedere più informazioni"
             }
         }
     }
