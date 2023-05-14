@@ -159,6 +159,15 @@
                 "badge_removida": "rimosso dal tuo profilo",
                 "rodape": "Usa il comando /badge pin per contrassegnarne uno!",
                 "new_badge": "Hai appena vinto un badge! L'`auto_repl` auto_repl! Verrà visualizzato sul tuo profilo quando usi il comando `/user info`\n\nPuoi anche mettere i badge in primo piano con il comando ` /badge pin`!"
+            },
+            "counter": {
+                "titulo": "> Contatore caratteri",
+                "caracteres": "Caratteri",
+                "com_espaco": "Con spazio:",
+                "sem_espaco": "Nessuno spazio:",
+                "palavras": "Parole",
+                "quantidade": "Quantità:",
+                "entrada": "Il tuo ingresso:"
             }
         },
         "game": {

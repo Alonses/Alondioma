@@ -159,6 +159,13 @@
                 "badge_removida": "eliminado de tu perfil",
                 "rodape": "¡Use el comando /badge etiquetar para fijar uno!",
                 "new_badge": "¡Acabas de ganar una insignia! El `auto_repl` auto_repl! Se mostrará en su perfil cuando use el comando `/información de usuario`\n\n¡También puede anclar insignias destacadas con el comando `/badge etiquetar`!"
+            },
+            "counter": {
+                "com_espaco": "Con espacio:",
+                "sem_espaco": "Sin espacio:",
+                "palavras": "Palabras",
+                "quantidade": "Cantidad:",
+                "entrada": "Tu entrada:"
             }
         },
         "game": {

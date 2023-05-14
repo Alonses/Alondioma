@@ -159,6 +159,15 @@
                 "badge_removida": "supprimé de votre profil",
                 "rodape": "Utilisez la commande /badge epingler pour épingler un!",
                 "new_badge": "Vous venez de gagner un badge! L'`auto_repl` auto_repl! Il apparaîtra sur votre profil lorsque vous utiliserez la commande `/user info`\n\nVous pouvez également épingler des badges en vedette avec la commande `/badge epingler`!"
+            },
+            "counter": {
+                "titulo": "> Compteur de caractères",
+                "caracteres": "Caractères",
+                "com_espaco": "Avec espace:",
+                "sem_espaco": "Pas d'espace:",
+                "palavras": "Mots",
+                "quantidade": "Montant:",
+                "entrada": "Votre entrée:"
             }
         },
         "game": {

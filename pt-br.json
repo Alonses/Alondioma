@@ -159,6 +159,15 @@
                 "badge_removida": "removida do seu perfil",
                 "rodape": "Use o comando /badge fixar para fixar uma!",
                 "new_badge": "Você acabou de ganhar uma Badge! O `auto_repl` auto_repl! Ele será exibido em seu perfil ao usarem o comando `/user info`\n\nVocê também pode fixar Badges em destaque com o comando `/badge fixar`!"
+            },
+            "counter": {
+                "titulo": "> Contador de caracteres",
+                "caracteres": "Caracteres",
+                "com_espaco": "Com espaço:",
+                "sem_espaco": "Sem espaço:",
+                "palavras": "Palavras",
+                "quantidade": "Quantidade:",
+                "entrada": "Sua entrada:"
             }
         },
         "game": {

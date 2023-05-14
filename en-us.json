@@ -159,6 +159,15 @@
                 "badge_removida": "removed from your profile",
                 "rodape": "Use the /badge fix command to pin a!",
                 "new_badge": "You just won a badge! The `auto_repl` auto_repl! It will appear on your profile when you use the `/user info` command\n\nYou can also pin featured badges with the `/badge fix` command!"
+            },
+            "counter": {
+                "titulo": "> Character counter",
+                "caracteres": "Characters",
+                "com_espaco": "With space:",
+                "sem_espaco": "Without space:",
+                "palavras": "Words",
+                "quantidade": "Amount:",
+                "entrada": "Your input:"
             }
         },
         "game": {
