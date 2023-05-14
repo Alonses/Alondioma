@@ -308,6 +308,8 @@
                 "escolher_opcoes": "Choose one of the options below to see more details about deletion",
                 "operacao_cancelada": "The operation was canceled because you clicked a wrongly coded button or chose to cancel!",
                 "ultima_confirmacao": "Your data will be permanently deleted by clicking the correct button below.\n\nChoose the correct option ( `auto_repl` ) or cancel the operation, this is the last warning about deletion, deleted data cannot be recovered.",
+                "exclusao_personalizada": "Custom deletion",
+                "exclusao_niveis": "Exclusion by levels",
                 "dados_excluidos": "Your data has been successfully deleted.",
                 "selects": {
                     "uni": {

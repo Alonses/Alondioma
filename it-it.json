@@ -308,6 +308,8 @@
                 "escolher_opcoes": "Scegli una delle opzioni di seguito per visualizzare ulteriori dettagli sull'eliminazione",
                 "operacao_cancelada": "L'operazione è stata annullata perché hai fatto clic su un pulsante con il codice sbagliato o hai scelto di annullare!",
                 "ultima_confirmacao": "I tuoi dati verranno eliminati definitivamente facendo clic sul pulsante corretto in basso.\n\nScegli l'opzione corretta ( `auto_repl` ) o annulla l'operazione, questo è l'ultimo avviso relativo all'eliminazione, i dati eliminati non possono essere recuperati.",
+                "exclusao_personalizada": "Cancellazione personalizzata",
+                "exclusao_niveis": "Esclusione per livelli",
                 "dados_excluidos": "I tuoi dati sono stati cancellati con successo.",
                 "selects": {
                     "uni": {

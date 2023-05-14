@@ -308,6 +308,8 @@
                 "escolher_opcoes": "Escolha uma das opções abaixo para ver mais detalhes sobre exclusão",
                 "operacao_cancelada": "A operação foi cancelada, pois você clicou em um botão com código errado ou optou por cancelar!",
                 "ultima_confirmacao": "Seus dados serão excluídos definitivamente ao clicar no botão correto abaixo.\n\nEscolha a opção correta ( `auto_repl` ) ou cancele a operação, este é o último aviso sobre a exclusão, dados excluídos não podem ser recuperados.",
+                "exclusao_personalizada": "Exclusão personalizada",
+                "exclusao_niveis": "Exclusão por níveis",
                 "dados_excluidos": "Seus dados foram excluídos com sucesso.",
                 "selects": {
                     "uni": {

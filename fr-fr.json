@@ -308,6 +308,8 @@
                 "escolher_opcoes": "Choisissez l'une des options ci-dessous pour voir plus de détails sur la suppression",
                 "operacao_cancelada": "L'opération a été annulée car vous avez cliqué sur un mauvais bouton ou choisi d'annuler!",
                 "ultima_confirmacao": "Vos données seront définitivement supprimées en cliquant sur le bon bouton ci-dessous.\n\nVeuillez choisir la bonne option (`auto_repl`) ou annuler l'opération, ceci est le dernier avertissement concernant la suppression, les données supprimées ne peuvent pas être récupérées.",
+                "exclusao_personalizada": "Suppression personnalisée",
+                "exclusao_niveis": "Exclusion par niveaux",
                 "dados_excluidos": "Vos données ont été supprimées avec succès.",
                 "selects": {
                     "uni": {

@@ -307,6 +307,8 @@
                 "escolher_opcoes": "Elija una de las opciones a continuación para ver más detalles sobre la eliminación",
                 "operacao_cancelada": "¡La operación se canceló porque hizo clic en un botón con el código incorrecto o eligió cancelar!",
                 "ultima_confirmacao": "Sus datos se eliminarán de forma permanente haciendo clic en el botón correcto a continuación.\n\nElija la opción correcta (`auto_repl`) o cancele la operación, esta es la última advertencia sobre la eliminación, los datos eliminados no se pueden recuperar.",
+                "exclusao_personalizada": "Eliminación personalizada",
+                "exclusao_niveis": "Exclusión por niveles",
                 "dados_excluidos": "Tus datos han sido eliminados con éxito.",
                 "selects": {
                     "uni": {
