@@ -330,7 +330,7 @@
                     }
                 },
                 "causes": {
-                    "1": "Se eliminará la información de su configuración regional (utilizada en el comando /tempo)",
+                    "1": "Se eliminará la información de su configuración regional (utilizada en el comando /tiempo)",
                     "2": "Sus enlaces de red externa serán eliminados",
                     "3": "Tus incrustaciones perdieron sus colores personalizados",
                     "4": "Se eliminará su insignia fijada",
