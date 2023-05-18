@@ -70,12 +70,13 @@
                 "rodape_tipo_modulo": "Which one do you prefer? Select a type below to get started!",
                 "faltando_tipo": "You have not defined whether the history module will be summarized or complete\nBy default, I will send you a summarized version!",
                 "selecionar_modulo": "Choose one of the modules below",
+                "modulo_escolher": "Choose one of the modules below to see more details.",
                 "ativacao_0": "Working days",
                 "ativacao_1": "Weekends",
                 "ativacao_2": "Every day",
-                "ativacao_min_0": "on weekdays",
-                "ativacao_min_1": "on weekends",
-                "ativacao_min_2": "every day",
+                "ativacao_min_0": "on weekends at",
+                "ativacao_min_1": "on weekends at",
+                "ativacao_min_2": "every day at",
                 "descricao": "This module will discount `B$auto_repl per day`, the more modules you activate,\nthe more Bufunfas will be deducted from your bank per day.\n\nCurrently the value for operating your modules is `B$auto_repl per day`.\n----------------------------------------------------------------------------",
                 "modulo_ativado": "Module activated! Your module will be sent auto_repl at `auto_repl`",
                 "modulo_0": "🌩️ Weather",
@@ -168,7 +169,11 @@
                 "sem_espaco": "Without space:",
                 "palavras": "Words",
                 "quantidade": "Amount:",
-                "entrada": "Your input:"
+                "entrada": "Your input:",
+                "curiosidades": "Curiosities",
+                "vogais": "Vowels:",
+                "consoantes": "Consonants:",
+                "numeros": "Numbers:"
             }
         },
         "game": {

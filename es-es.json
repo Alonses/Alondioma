@@ -70,12 +70,13 @@
                 "rodape_tipo_modulo": "¿Cuál prefieres? ¡Seleccione un tipo a continuación para comenzar!",
                 "faltando_tipo": "No ha definido si el módulo de historial será resumido o completo\nPor defecto, ¡le enviaré una versión resumida!",
                 "selecionar_modulo": "Elija uno de los módulos a continuación",
+                "modulo_escolher": "Elija uno de los módulos a continuación para ver más detalles.",
                 "ativacao_0": "Días hábiles",
                 "ativacao_1": "Fines de semana",
                 "ativacao_2": "Todos los días",
-                "ativacao_min_0": "de lunes a viernes",
-                "ativacao_min_1": "en los fines de semana",
-                "ativacao_min_2": "todos los días",
+                "ativacao_min_0": "de lunes a viernes en",
+                "ativacao_min_1": "en los fines de semana en",
+                "ativacao_min_2": "todos los días en",
                 "descricao": "Este módulo descontará `B$auto_repl p/dia`, cuantos más módulos active,\nmás bufones se descontarán de su banco por día.\n\nActualmente, el valor para operar sus módulos es `B$auto_repl p/dia `.\n----------------------------------------------------------------------------",
                 "modulo_ativado": "¡Módulo activado! Su módulo se enviará auto_repl en `auto_repl`",
                 "modulo_0": "🌩️ Clima",
@@ -166,7 +167,9 @@
                 "sem_espaco": "Sin espacio:",
                 "palavras": "Palabras",
                 "quantidade": "Cantidad:",
-                "entrada": "Tu entrada:"
+                "entrada": "Tu entrada:",
+                "vogais": "Vocales:",
+                "consoantes": "Consonantes:"
             }
         },
         "game": {

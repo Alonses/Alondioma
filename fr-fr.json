@@ -70,12 +70,13 @@
                 "rodape_tipo_modulo": "Lequel préfères-tu? Sélectionnez un type ci-dessous pour commencer!",
                 "faltando_tipo": "Vous n'avez pas défini si le module historique sera résumé ou complet\nPar défaut, je vous enverrai une version résumée!",
                 "selecionar_modulo": "Choisissez l'un des modules ci-dessous",
+                "modulo_escolher": "Choisissez l'un des modules ci-dessous pour voir plus de détails.",
                 "ativacao_0": "Jours de travail",
                 "ativacao_1": "Fins de semaine",
                 "ativacao_2": "Tous les jours",
-                "ativacao_min_0": "en semaine",
-                "ativacao_min_1": "les weekends",
-                "ativacao_min_2": "tous les jours",
+                "ativacao_min_0": "en semaine à",
+                "ativacao_min_1": "les weekends à",
+                "ativacao_min_2": "tous les jours à",
                 "descricao": "Ce module coûtera `B$auto_repl par jour`, plus vous activez de modules,\nplus de Bufunfas seront déduits de votre banque par jour.\n\nActuellement, la valeur de fonctionnement de ses modules est `B$auto_repl par jour`.\n----------------------------------------------------------------------------",
                 "modulo_ativado": "Module activé! Votre module sera envoyé auto_repl à `auto_repl`",
                 "modulo_0": "🌩️ Climat",
@@ -168,7 +169,11 @@
                 "sem_espaco": "Pas d'espace:",
                 "palavras": "Mots",
                 "quantidade": "Montant:",
-                "entrada": "Votre entrée:"
+                "entrada": "Votre entrée:",
+                "curiosidades": "Curiosités",
+                "vogais": "Voyelles:",
+                "consoantes": "Les consonnes:",
+                "numeros": "Nombres:"
             }
         },
         "game": {
