@@ -69,6 +69,7 @@
                 "descricao_tipo_history": "Choose what you prefer!\nYou can define if you want a `complete return`, or something `simplified`.\n\n-> In the `complete return` I will show you the complete list of the day's events.\n-> The `summarized return` I will show only one event, this one chosen as the most important of the day.",
                 "rodape_tipo_modulo": "Which one do you prefer? Select a type below to get started!",
                 "faltando_tipo": "You have not defined whether the history module will be summarized or complete\nBy default, I will send you a summarized version!",
+                "selecionar_modulo": "Choose one of the modules below",
                 "ativacao_0": "Working days",
                 "ativacao_1": "Weekends",
                 "ativacao_2": "Every day",

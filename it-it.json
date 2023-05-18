@@ -69,6 +69,7 @@
                 "descricao_tipo_history": "Scegli quello che preferisci!\nPuoi scegliere se vuoi un `feedback completo` o qualcosa di `semplificato`.\n\n-> Nel `feedback completo` mostrerò l'elenco completo degli eventi della giornata.\n -> O `ritorno riepilogativo` mostrerà un solo evento, questo scelto come il più importante della giornata.",
                 "rodape_tipo_modulo": "Quale preferisci? Seleziona un tipo qui sotto per iniziare!",
                 "faltando_tipo": "Non hai definito se il modulo della cronologia sarà riassunto o completo\nPer impostazione predefinita, ti invierò una versione riassuntiva!",
+                "selecionar_modulo": "Scegli uno dei moduli qui sotto",
                 "ativacao_0": "Giorni lavorativi",
                 "ativacao_1": "Fine settimana",
                 "ativacao_2": "Quotidiano",

@@ -69,6 +69,7 @@
                 "descricao_tipo_history": "¡Elige lo que prefieras!\nPuedes definir si quieres una `vuelta completa`, o algo `simplificado`.\n\n-> En la `vuelta completa` te mostraré la lista completa de eventos del día.\n-> El `retorno resumido` mostraré solo un evento, este elegido como el más importante del día.",
                 "rodape_tipo_modulo": "¿Cuál prefieres? ¡Seleccione un tipo a continuación para comenzar!",
                 "faltando_tipo": "No ha definido si el módulo de historial será resumido o completo\nPor defecto, ¡le enviaré una versión resumida!",
+                "selecionar_modulo": "Elija uno de los módulos a continuación",
                 "ativacao_0": "Días hábiles",
                 "ativacao_1": "Fines de semana",
                 "ativacao_2": "Todos los días",
