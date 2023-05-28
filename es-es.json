@@ -26,7 +26,6 @@
             },
             "color": {
                 "cor_ativa": "¡Ya estás usando este color!",
-                "error": "Introduzca valores entre 0 y 255 para los colores",
                 "titulo": "> Esta es una demostración incrustada :tada:",
                 "descricao": "Alguna descripción aleatoria por aquí...",
                 "footer": "Tus incrustaciones aparecerán así y cuando vean tu perfil con Alonsal",
@@ -183,6 +182,7 @@
             "pula": {
                 "conteudo": "El 1er juego creado por Longo!\n¿Hasta dónde puedes correr? ¡Pruébalo ahora mismo!",
                 "rodape": "Es posible que el juego no funcione correctamente en teléfonos móviles.",
+                "jogar_agora": "¡Jugar ahora!",
                 "vinculo": "¡Este usuario no ha vinculado su cuenta de Discord a Pula Prédios:tm: todavía!",
                 "error_1": "Hubo un error con el token, estamos verificando cuál fue el problema, intente nuevamente más tarde",
                 "error_2": "Ocurrió un error con APISAL, esta función no se pudo ejecutar en este momento, intente nuevamente más tarde",
@@ -252,7 +252,8 @@
         "manu": {
             "avalie": {
                 "titulo": "> ¡Califícame en TopGG y ayuda a la causa de Alonsal!",
-                "descricao": "¡Deje sus comentarios sobre mí en TopGG y contribuya a nuestra actualización de funciones!\n\nPara informar errores y problemas, o hacer sugerencias, use el comando </mail:1018609879512006788>"
+                "descricao": "¡Deje sus comentarios sobre mí en TopGG y contribuya a nuestra actualización de funciones!\n\nPara informar errores y problemas, o hacer sugerencias, use el comando </mail:1018609879512006788>",
+                "avaliar": "Evaluar"
             },
             "convite": {
                 "titulo": "> ¡Oh Abran paso que quiero pasar! :notes:",
@@ -290,7 +291,8 @@
             },
             "hub": {
                 "hub_alonsal": "> Centro de Alonsal",
-                "info": "Ingrese a mi servidor ahora mismo, ya sea para hacer preguntas, o usar los comandos, ¡el servidor es gratis para todos!"
+                "info": "Ingrese a mi servidor ahora mismo, ya sea para hacer preguntas, o usar los comandos, ¡el servidor es gratis para todos!",
+                "conectar": "¡Entrar!"
             },
             "help_comando": {
                 "traducao_faltando": "Este comando aún no tiene traducción para tu idioma, ¡espera!",
@@ -495,7 +497,8 @@
                 "wiki_slondo": "Este vagabundo no está en la wiki, ¡busca algo más! :sunglasses:",
                 "topicos_rel": "Temas relacionados",
                 "sem_dados": "No encontré nada relacionado con tu búsqueda.",
-                "auto_pesquisa": "¿Por qué te investigas a ti mismo? no hay nada sobre ti aquí"
+                "auto_pesquisa": "¿Por qué te investigas a ti mismo? no hay nada sobre ti aquí",
+                "artigo_completo": "Articulo completo"
             },
             "morse": {
                 "caracteres": "Algunos caracteres no fueron codificados ya que no existen en morse",
@@ -719,8 +722,9 @@
             "password": {
                 "primaria": "Contraseña principal",
                 "bonus": "Contraseñas de bonificación",
-                "titulo": "Su5 c0Ntr4S3ña5, haga clic aquí para probar su contraseña",
-                "rodape": "4 contraseñas con caracteres auto_repl para elegir, no se guardan aquí y ni siquiera sé el contenido, solo tú ;)"
+                "titulo": "> Su5 c0Ntr4S3ña5",
+                "rodape": "4 contraseñas con caracteres auto_repl para elegir, no se guardan aquí y ni siquiera sé el contenido, solo tú ;)",
+                "testar_senha": "Probar una contraseña"
             },
             "timestamp": {
                 "timestamp_1": "Desde la fecha hasta la marca de tiempo",

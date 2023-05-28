@@ -26,7 +26,6 @@
             },
             "color": {
                 "cor_ativa": "Vous utilisez déjà cette couleur!",
-                "error": "Entrez des valeurs entre 0 et 255 pour les couleurs",
                 "titulo": "> Ceci est une démo Embed :tada:",
                 "descricao": "Une description aléatoire ici...",
                 "footer": "Vos intégrations apparaîtront comme ceci et quand ils verront votre profil avec Alonsal",
@@ -187,6 +186,7 @@
             "pula": {
                 "conteudo": "Le 1er jeu créé par Slondo!\nJusqu'où pouvez-vous courir? Testez maintenant!",
                 "rodape": "Le jeu peut ne pas fonctionner correctement sur les téléphones portables.",
+                "jogar_agora": "Joue maintenant!",
                 "vinculo": "Cet utilisateur n'a pas encore lié son compte Discord à Pula Prédios:tm:!",
                 "error_1": "Il y a eu une erreur avec le jeton, nous vérifions quel était le problème, veuillez réessayer plus tard",
                 "error_2": "Il y a eu une erreur avec APISAL, il n'était pas possible d'exécuter cette fonction pour le moment, veuillez réessayer plus tard",
@@ -256,7 +256,8 @@
         "manu": {
             "avalie": {
                 "titulo": "> Évaluez-moi sur TopGG et aidez la cause d'Alonsal!",
-                "descricao": "Laissez votre avis sur moi sur TopGG et contribuez à notre mise à jour des fonctionnalités!\n\nPour signaler des bugs et des problèmes, ou faire des suggestions, utilisez la commande </mail:1018609879512006788>"
+                "descricao": "Laissez votre avis sur moi sur TopGG et contribuez à notre mise à jour des fonctionnalités!\n\nPour signaler des bugs et des problèmes, ou faire des suggestions, utilisez la commande </mail:1018609879512006788>",
+                "avaliar": "Évaluer"
             },
             "convite": {
                 "titulo": "> Oh ouvre la voie que je veux suivre :notes:",
@@ -295,7 +296,8 @@
             },
             "hub": {
                 "hub_alonsal": "> Hub d'Alonsal",
-                "info": "Entrez sur mon serveur dès maintenant, que ce soit pour poser des questions, ou utiliser les commandes, le serveur est gratuit pour tout le monde!"
+                "info": "Entrez sur mon serveur dès maintenant, que ce soit pour poser des questions, ou utiliser les commandes, le serveur est gratuit pour tout le monde!",
+                "conectar": "Entrer!"
             },
             "help_comando": {
                 "traducao_faltando": "Cette commande n'a pas encore de traduction pour votre langue, attendez!",
@@ -502,7 +504,8 @@
                 "wiki_slondo": "Ce clochard n'est pas sur le wiki, cherchez autre chose! :sunglasses:",
                 "topicos_rel": "Rubriques connexes",
                 "sem_dados": "je n'ai rien trouvé en rapport avec votre recherche",
-                "auto_pesquisa": "Pourquoi faites-vous des recherches sur vous-même ? Il n'y a rien sur toi ici"
+                "auto_pesquisa": "Pourquoi faites-vous des recherches sur vous-même ? Il n'y a rien sur toi ici",
+                "artigo_completo": "Article complet"
             },
             "morse": {
                 "caracteres": "Certains caractères n'ont pas été encodés car ils n'existent pas en morse",
@@ -726,8 +729,9 @@
             "password": {
                 "primaria": "Mot de passe principal",
                 "bonus": "Mots de passe bonus",
-                "titulo": "V0s_M0t5 d3 p4553, cliquez ici pour tester votre mot de passe",
-                "rodape": "4 mots de passe avec des caractères auto_repl à choisir, ils ne sont pas enregistrés ici et je ne connais même pas le contenu, seulement vous ;)"
+                "titulo": "> V0s_M0t5 d3 p4553",
+                "rodape": "4 mots de passe avec des caractères auto_repl à choisir, ils ne sont pas enregistrés ici et je ne connais même pas le contenu, seulement vous ;)",
+                "testar_senha": "Tester un mot de passe"
             },
             "timestamp": {
                 "timestamp_1": "De la date à l'horodatage",

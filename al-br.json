@@ -26,7 +26,6 @@
             },
             "color": {
                 "cor_ativa": "Ocê já tá usando essa cor!",
-                "error": "Bota valor entre 0 e 255 pras cores",
                 "titulo": "> Esse é um Embed demonstração :tada:",
                 "descricao": "Alguma descrição aleatória por aqui...",
                 "footer": "Seus embeds irão aparecer assim e ao verem seu perfil com o Alonsal",
@@ -191,7 +190,8 @@
             },
             "hub": {
                 "hub_alonsal": "> Hub do Alonsal",
-                "info": "Entre agora mesmo no meu server, seja pra tirar dúvidas, ou usar os comandos, o server é liberado pra todos!"
+                "info": "Entre agora mesmo no meu server, seja pra tirar dúvidas, ou usar os comandos, o server é liberado pra todos!",
+                "conectar": "Conecte-se!"
             },
             "help_comando": {
                 "traducao_faltando": "Esse comando ainda não possui uma tradução pra o seu idioma, aguarde!",
@@ -350,12 +350,6 @@
                 "ping_4": "Pode jogar fora esse teu roteador!",
                 "ping_5": "BLZ, quem instalou baidu aqui? EMMM???",
                 "latencia": "Latência do Alonsal"
-            },
-            "wiki": {
-                "wiki_slondo": "Esse vagabundo não tá na wiki, pesquise outra coisa! :sunglasses:",
-                "topicos_rel": "Tópicos relacionados",
-                "sem_dados": "Não encontrei nada relacionado a sua pesquisa",
-                "auto_pesquisa": "Pq vc está se pesquisando? Não tem nada sobre vc aq"
             },
             "morse": {
                 "caracteres": "Alguns caracteres não foram codificados pois não existem no morse",
@@ -540,9 +534,7 @@
                 "error": "Deu pt aq ao processar sa budega"
             },
             "password": {
-                "primaria": "Senha primária",
                 "bonus": "Otras senhas",
-                "titulo": "Su4s §3nH@5, clique aqui pra testar a senha",
                 "rodape": "4 senhas com auto_repl caracteres, nunca nem vi elas, passar bem 🕵️"
             },
             "lastfm": {

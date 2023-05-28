@@ -26,7 +26,6 @@
             },
             "color": {
                 "cor_ativa": "You are already using this color!",
-                "error": "Enter values between 0 and 255 for colors",
                 "titulo": "> This is a Demo Embed :tada:",
                 "descricao": "Some random description around here...",
                 "footer": "Your embeds will appear like this and when they see your profile with Alonsal",
@@ -187,6 +186,7 @@
             "pula": {
                 "conteudo": "The 1st Game created by SLondo!\nHow far can you run? Test now!",
                 "rodape": "The game may not run properly on mobile phones.",
+                "jogar_agora": "Play now!",
                 "vinculo": "This user has not yet linked his Discord account to Pula Prédios:tm:!",
                 "error_1": "There was an error with the Token, we are checking what the problem was, please try again later",
                 "error_2": "There was an error with APISAL, it was not possible to perform this function at the moment, please try again later",
@@ -256,7 +256,8 @@
         "manu": {
             "avalie": {
                 "titulo": "> Rate me on TopGG and help the Alonsal cause!",
-                "descricao": "Leave your opinion about me on Top GG and contribute to our feature update\nTo report bugs and issues, or make suggestions, use the </mail:1018609879512006788> command"
+                "descricao": "Leave your opinion about me on Top GG and contribute to our feature update\nTo report bugs and issues, or make suggestions, use the </mail:1018609879512006788> command",
+                "avaliar": "Evaluate"
             },
             "convite": {
                 "titulo": "> Oh open up the way I want to go :notes:",
@@ -295,7 +296,8 @@
             },
             "hub": {
                 "hub_alonsal": "> Alonsal Hub",
-                "info": "Enter my server right now, whether to ask questions, or use the commands, the server is free for everyone!"
+                "info": "Enter my server right now, whether to ask questions, or use the commands, the server is free for everyone!",
+                "conectar": "To enter!"
             },
             "help_comando": {
                 "traducao_faltando": "This command doesn't have a translation for your language yet, wait!",
@@ -502,7 +504,8 @@
                 "wiki_slondo": "This bum is not on the wiki, look for something else! :sunglasses:",
                 "topicos_rel": "Related Topics",
                 "sem_dados": "I didn't find anything related to your search",
-                "auto_pesquisa": "Why are you researching yourself? There's nothing about you here"
+                "auto_pesquisa": "Why are you researching yourself? There's nothing about you here",
+                "artigo_completo": "Full article"
             },
             "morse": {
                 "caracteres": "Some characters were not encoded as they do not exist in morse",
@@ -724,8 +727,9 @@
             "password": {
                 "primaria": "Primary password",
                 "bonus": "Bonus passwords",
-                "titulo": "Y0uR P4s§w0Rd5, click here to test your password",
-                "rodape": "4 passwords with auto_repl characters to choose, they are not saved here and I don't even know the content, only you ;)"
+                "titulo": "> Y0uR P4s§w0Rd5",
+                "rodape": "4 passwords with auto_repl characters to choose, they are not saved here and I don't even know the content, only you ;)",
+                "testar_senha": "Test a password"
             },
             "timestamp": {
                 "timestamp_1": "From date to timestamp",

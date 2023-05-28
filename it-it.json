@@ -26,7 +26,6 @@
             },
             "color": {
                 "cor_ativa": "Stai già usando questo colore!",
-                "error": "Immettere valori compresi tra 0 e 255 per i colori",
                 "titulo": "> Questa è una dimostrazione di incorporazione :tada:",
                 "descricao": "Qualche descrizione casuale qui intorno...",
                 "footer": "I tuoi incorporamenti appariranno in questo modo e quando vedranno il tuo profilo con Alonsal",
@@ -187,6 +186,7 @@
             "pula": {
                 "conteudo": "Il primo gioco creato da Slondo!\nQuanto lontano puoi correre? Prova ora!",
                 "rodape": "Il gioco potrebbe non funzionare correttamente sui telefoni cellulari.",
+                "jogar_agora": "Riproduci ora!",
                 "vinculo": "Este usuário não vinculou sua conta Discord ao Pula Prédios:tm: ainda!",
                 "error_1": "Houve um erro com o Token, estamos enceirando para descobrir qual foi o problema, por favor, tente novamente mais tarde",
                 "error_2": "Houve um erro com a APISAL, não sendo foi possível realizar essa função no momento, tente novamente mais tarde",
@@ -256,7 +256,8 @@
         "manu": {
             "avalie": {
                 "titulo": "> Valutami su TopGG e aiuta la causa Alonsal!",
-                "descricao": "Lascia la tua opinione su di me su TopGG e contribuisci ad aggiornare le nostre funzionalità!\n\nPer segnalare bug e problemi o dare suggerimenti, usa il comando </mail:1018609879512006788>"
+                "descricao": "Lascia la tua opinione su di me su TopGG e contribuisci ad aggiornare le nostre funzionalità!\n\nPer segnalare bug e problemi o dare suggerimenti, usa il comando </mail:1018609879512006788>",
+                "avaliar": "Valutare"
             },
             "convite": {
                 "titulo": "> Oh, fammi passare! :notes:",
@@ -295,7 +296,8 @@
             },
             "hub": {
                 "hub_alonsal": "> Hub di Alonsal",
-                "info": "Unisciti subito al mio server, sia per fare domande che per usare comandi, il server è gratuito per tutti!"
+                "info": "Unisciti subito al mio server, sia per fare domande che per usare comandi, il server è gratuito per tutti!",
+                "conectar": "Per entrare!"
             },
             "help_comando": {
                 "traducao_faltando": "Este comando ainda não possui uma tradução para o seu idioma, aguarde!",
@@ -502,7 +504,8 @@
                 "wiki_slondo": "Non sul wiki, cerca altrove! :sunglasses:",
                 "topicos_rel": "Argomenti correlati",
                 "sem_dados": "Non ho trovato nulla relativo alla tua ricerca.",
-                "auto_pesquisa": "Perché stai cercando te stesso? non c'è niente su di te qui"
+                "auto_pesquisa": "Perché stai cercando te stesso? non c'è niente su di te qui",
+                "artigo_completo": "Articolo completo"
             },
             "morse": {
                 "caracteres": "Alcuni caratteri non sono stati codificati in quanto non esistono in morse",
@@ -726,8 +729,9 @@
             "password": {
                 "primaria": "Password principale",
                 "bonus": "Password bonus",
-                "titulo": "L3 TU3 P45Sw0rd, clicca qui per testare la tua password",
-                "rodape": "4 password con auto_repl caratteri tra cui scegliere, non vengono salvate qui e non conosco nemmeno il contenuto, solo tu ;)"
+                "titulo": "> L3 TU3 P45Sw0rd",
+                "rodape": "4 password con auto_repl caratteri tra cui scegliere, non vengono salvate qui e non conosco nemmeno il contenuto, solo tu ;)",
+                "testar_senha": "Testare una password"
             },
             "timestamp": {
                 "timestamp_1": "Dalla data al timestamp",

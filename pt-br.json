@@ -26,7 +26,6 @@
             },
             "color": {
                 "cor_ativa": "Você já está usando essa cor!",
-                "error": "Insira valores entre 0 e 255 para as cores",
                 "titulo": "> Este é um Embed demonstração :tada:",
                 "descricao": "Alguma descrição aleatória por aqui...",
                 "footer": "Seus embeds irão aparecer assim e ao verem seu perfil com o Alonsal",
@@ -187,6 +186,7 @@
             "pula": {
                 "conteudo": "O 1° Jogo criado pelo Slondo!\nQuão longe você consegue correr? Teste agora mesmo!",
                 "rodape": "O jogo pode não rodar direito em celulares.",
+                "jogar_agora": "Jogar agora!",
                 "vinculo": "Este usuário não vinculou sua conta Discord ao Pula Prédios:tm: ainda!",
                 "error_1": "Houve um erro com o Token, estamos enceirando para descobrir qual foi o problema, por favor, tente novamente mais tarde",
                 "error_2": "Houve um erro com a APISAL, não sendo foi possível realizar essa função no momento, tente novamente mais tarde",
@@ -256,7 +256,8 @@
         "manu": {
             "avalie": {
                 "titulo": "> Me avalie pelo TopGG e ajude a causa Alonsal!",
-                "descricao": "Deixe sua avaliação sobre mim no TopGG e contribua com nossa atualização de recursos!\n\nPara reportar bugs e problemas, ou dar sugestões, use o comando </mail:1018609879512006788>"
+                "descricao": "Deixe sua avaliação sobre mim no TopGG e contribua com nossa atualização de recursos!\n\nPara reportar bugs e problemas, ou dar sugestões, use o comando </mail:1018609879512006788>",
+                "avaliar": "Avaliar"
             },
             "convite": {
                 "titulo": "> Ó Abre alas que eu queru passsaa :notes:",
@@ -295,7 +296,8 @@
             },
             "hub": {
                 "hub_alonsal": "> Hub do Alonsal",
-                "info": "Entre agora mesmo no meu servidor, seja para tirar dúvidas, ou usar os comandos, o server é liberado para todos!"
+                "info": "Entre agora mesmo no meu servidor, seja para tirar dúvidas, ou usar os comandos, o server é liberado para todos!",
+                "conectar": "Conecte-se!"
             },
             "help_comando": {
                 "traducao_faltando": "Este comando ainda não possui uma tradução para o seu idioma, aguarde!",
@@ -503,7 +505,8 @@
                 "wiki_slondo": "Esse vagabundo não tá na wiki, pesquise outra coisa! :sunglasses:",
                 "topicos_rel": "Tópicos relacionados",
                 "sem_dados": "Não encontrei nada relacionado a sua pesquisa",
-                "auto_pesquisa": "Pq vc está se pesquisando? Não tem nada sobre vc aq"
+                "auto_pesquisa": "Pq vc está se pesquisando? Não tem nada sobre vc aq",
+                "artigo_completo": "Artigo completo"
             },
             "morse": {
                 "caracteres": "Alguns caracteres não foram codificados pois não existem no morse",
@@ -699,8 +702,9 @@
             "password": {
                 "primaria": "Senha primária",
                 "bonus": "Senhas bônus",
-                "titulo": "Su4s §3nH@5, clique aqui para testar sua senha",
-                "rodape": "4 senhas com auto_repl caracteres para escolher, elas não são salvas por aqui e nem sei o conteúdo, apenas você ;)"
+                "titulo": "> Su4s §3nH@5",
+                "rodape": "4 senhas com auto_repl caracteres para escolher, elas não são salvas por aqui e nem sei o conteúdo, apenas você ;)",
+                "testar_senha": "Testar uma senha"
             },
             "timestamp": {
                 "timestamp_1": "De data para timestamp",
