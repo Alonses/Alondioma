@@ -290,7 +290,8 @@
             },
             "apoio": {
                 "apoie": "> Supporta Alonsal!",
-                "escaneie": "Scansiona o fai clic sul titolo sopra per donare\ne aiutare a mantenere e sviluppare Alonsal!\nTutto l'aiuto è estremamente gradito ;D"
+                "contribuir": "Contribuire",
+                "escaneie": "Scansiona il codice QR o fai clic sul pulsante qui sotto per donare\ne aiutare a mantenere e sviluppare Alonsal!\n\nTutto l'aiuto è estremamente gradito ;D"
             },
             "hub": {
                 "hub_alonsal": "> Hub di Alonsal",

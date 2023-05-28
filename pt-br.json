@@ -290,7 +290,8 @@
             },
             "apoio": {
                 "apoie": "> Apoie o Alonsal!",
-                "escaneie": "Escaneie ou clique no Titulo acima para doar\ne ajudar a manter e desenvolver o Alonsal!\nToda ajuda é ultra Bem-Vinda ;D"
+                "contribua": "Contribuir",
+                "escaneie": "Escaneie o código QR ou clique no botão abaixo para doar\ne ajudar a manter e desenvolver o Alonsal!\n\nToda ajuda é ultra Bem-vinda ;D"
             },
             "hub": {
                 "hub_alonsal": "> Hub do Alonsal",
