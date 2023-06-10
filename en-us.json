@@ -391,7 +391,7 @@
             },
             "anuncio": {
                 "permissao": "You cannot use this command as you cannot `manage channels` from the server!",
-                "anuncio_games": "From now on, the repl_canal channel will receive updates when free games are available\nUse the command without parameters to disable these updates.",
+                "anuncio_games": "From now on, the auto_repl channel will receive updates when free games are available\nUse the command without parameters to disable these updates.",
                 "anuncio_off": "Game notifications turned off for this server",
                 "ativos": "Currently active",
                 "tipo_canal": "The defined channel must be a text channel, please try again",

@@ -241,7 +241,7 @@
             },
             "anuncio": {
                 "permissao": "Oce não pode usar esse comando, pq não pode `gerenciar os canais` do servidor!",
-                "anuncio_games": "A partir de agora o knel repl_canal irá receber menções quando houver jogos gratuitos disponíveis\nUsa o comando fartando valores pra desligar as notificações",
+                "anuncio_games": "A partir de agora o knel auto_repl irá receber menções quando houver jogos gratuitos disponíveis\nUsa o comando fartando valores pra desligar as notificações",
                 "anuncio_off": "Anúncios de jogos desligados pra esse server",
                 "ativos": "Ativos no momento",
                 "tipo_canal": "O knel definido precisa ser um knel de texto, tenta dnv",

@@ -391,7 +391,7 @@
             },
             "anuncio": {
                 "permissao": "Vous ne pouvez pas utiliser cette commande car vous ne pouvez pas `gérer les chaînes` depuis le serveur!",
-                "anuncio_games": "À partir de maintenant, cette repl_canal chaîne recevra des mises à jour lorsque des jeux gratuits seront disponibles\nUtilisez la commande sans paramètres pour supprimer les mises à jour.",
+                "anuncio_games": "À partir de maintenant, cette auto_repl chaîne recevra des mises à jour lorsque des jeux gratuits seront disponibles\nUtilisez la commande sans paramètres pour supprimer les mises à jour.",
                 "anuncio_off": "Notifications de jeu désactivées pour cette serveur",
                 "ativos": "Actuellement actif",
                 "tipo_canal": "Le canal défini doit être un canal de texte, veuillez réessayer",

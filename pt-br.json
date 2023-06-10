@@ -391,7 +391,7 @@
             },
             "anuncio": {
                 "permissao": "Você não pode usar este comando, pois não pode `gerenciar os canais` do servidor!",
-                "anuncio_games": "A partir de agora o canal repl_canal irá receber atualizações quando houver jogos gratuitos disponíveis\nUtilize o comando sem parametros para remover as atualizações",
+                "anuncio_games": "A partir de agora o canal auto_repl irá receber atualizações quando houver jogos gratuitos disponíveis\nUtilize o comando sem parametros para remover as atualizações",
                 "anuncio_off": "Anúncios de jogos desligados para este servidor",
                 "ativos": "Ativos no momento",
                 "tipo_canal": "O canal definido precisa ser um canal de texto, tente novamente",
