@@ -366,12 +366,12 @@
                 "error_1": "Não foi possível converter, epic embed fail!"
             },
             "avatar": {
-                "download_avatar": "Clique [aqui](auto_repl) pra baixar essa ibagem",
-                "download_banner": "Clique [aqui](auto_repl) pra baixar esse banner",
-                "download_icon": "Clique [aqui](auto_repl) pra baixar essa ibagem",
-                "sem_avatar": "Esse corno não botou um avatar custom!",
-                "sem_banner": "Esse corno não botou um banner custom!",
-                "error_1": "Não foi possível buscar esse salafrario no momento, tenta dnv depois"
+                "download_avatar": "Clique no butão pra baixar essa ibagem",
+                "download_banner": "Clique no butão pra baixar esse banner",
+                "download_icon": "Clique no butão pra baixar essa ibagem",
+                "sem_avatar": "Esse corno não botou um avatar!",
+                "sem_banner": "Esse corno não botou um banner!",
+                "error_1": "Não foi possível buscar esse salafrário no momento, tenta dnv depois"
             },
             "reverso": {
                 "reverso": "Sua mensagem ao contrário"

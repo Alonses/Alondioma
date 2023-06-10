@@ -522,9 +522,9 @@
                 "error_1": "Unable to convert, maximum size exceeded!"
             },
             "avatar": {
-                "download_avatar": "Click [here](auto_repl) to download the avatar",
-                "download_banner": "Click [here](auto_repl) to download the banner",
-                "download_icon": "Click [here](auto_repl) to download the icon",
+                "download_avatar": "Click the button below to download the avatar",
+                "download_banner": "Click the button below to download the banner",
+                "download_icon": "Click the button below to download the icon",
                 "sem_avatar": "This user does not have a custom avatar!",
                 "sem_banner": "This user does not have a custom banner!",
                 "error_1": "Unable to fetch this avatar at the moment, please try again later"
@@ -818,7 +818,8 @@
                 "confirmar_anunciando": "Add and advertise",
                 "apenas_confirmar": "Add silently",
                 "selecionar_operacao": "Select the desired operation using the buttons below.",
-                "operacao_cancelada": "Operation cancelled!"
+                "operacao_cancelada": "Operation cancelled!",
+                "navegador": "Open in browser"
             },
             "menus": {
                 "selecionar_operacao": "Select the desired operation below",

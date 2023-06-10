@@ -523,9 +523,9 @@
                 "error_1": "Não foi possível converter, o tamanho máximo foi excedido!"
             },
             "avatar": {
-                "download_avatar": "Clique [aqui](auto_repl) para baixar o avatar",
-                "download_banner": "Clique [aqui](auto_repl) para baixar o banner",
-                "download_icon": "Clique [aqui](auto_repl) para baixar o icone",
+                "download_avatar": "Clique no botão abaixo para baixar o avatar",
+                "download_banner": "Clique no botão abaixo para baixar o banner",
+                "download_icon": "Clique no botão abaixo para baixar o icone",
                 "sem_avatar": "Este usuário não possui um avatar customizado!",
                 "sem_banner": "Este usuário não possui um banner customizado!",
                 "error_1": "Não foi possível buscar este avatar no momento, tente novamente mais tarde"
@@ -793,7 +793,8 @@
                 "confirmar_anunciando": "Adicionar e anunciar",
                 "apenas_confirmar": "Adicionar silenciosamente",
                 "selecionar_operacao": "Selecione a operação desejada nos botões abaixo.",
-                "operacao_cancelada": "Operação cancelada!"
+                "operacao_cancelada": "Operação cancelada!",
+                "navegador": "Abrir no navegador"
             },
             "menus": {
                 "selecionar_operacao": "Selecione a operação desejada abaixo",

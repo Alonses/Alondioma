@@ -522,9 +522,9 @@
                 "error_1": "Conversion impossible, taille maximale dépassée!"
             },
             "avatar": {
-                "download_avatar": "Cliquez [ici](auto_repl) pour télécharger l'avatar",
-                "download_banner": "Cliquez [ici](auto_repl) pour télécharger la bannière",
-                "download_icon": "Cliquez [ici](auto_repl) pour télécharger l'icône",
+                "download_avatar": "Cliquez sur le bouton ci-dessous pour télécharger l'avatar",
+                "download_banner": "Cliquez sur le bouton ci-dessous pour télécharger la bannière",
+                "download_icon": "Cliquez sur le bouton ci-dessous pour télécharger l'icône",
                 "sem_avatar": "Cet utilisateur n'a pas d'avatar personnalisé!",
                 "sem_banner": "Cet utilisateur n'a pas de bannière personnalisée!",
                 "error_1": "Impossible de récupérer cet avatar pour le moment, veuillez réessayer plus tard"
@@ -820,7 +820,8 @@
                 "confirmar_anunciando": "Ajouter et notifier",
                 "apenas_confirmar": "Ajouter silencieusement",
                 "selecionar_operacao": "Sélectionnez l'opération souhaitée à l'aide des boutons ci-dessous.",
-                "operacao_cancelada": "Opération annulée!"
+                "operacao_cancelada": "Opération annulée!",
+                "navegador": "Ouvrir dans le navigateur"
             },
             "menus": {
                 "selecionar_operacao": "Sélectionnez l'opération souhaitée ci-dessous",
