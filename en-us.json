@@ -21,7 +21,7 @@
         },
         "misc": {
             "daily": {
-                "daily": "Daily collected! You received `B$auto_repl` Bufunfas, check back tomorrow for more",
+                "daily": "Daily collected! You received `B$ auto_repl` Bufunfas, check back tomorrow for more",
                 "error": "You have already collected your daily! Use the command again"
             },
             "color": {
@@ -31,15 +31,15 @@
                 "footer": "Your embeds will appear like this and when they see your profile with Alonsal",
                 "rand_color": "Your colors will be random with each command",
                 "cor_att": "Updated color! Now your embeds will be in the selected color",
-                "sem_money": "You don't have enough `B$auto_repl` Bufunfas for this color!"
+                "sem_money": "You don't have enough `B$ auto_repl` Bufunfas for this color!"
             },
             "pay": {
-                "error": "You don't have `B$auto_repl` Bufunfas to transfer!",
+                "error": "You don't have `B$ auto_repl` Bufunfas to transfer!",
                 "error_2": "Enter a positive number to deposit",
                 "error_3": "You cannot transfer to yourself!",
                 "user_bot": "You cannot transfer Bufunfas to bots other than me!",
-                "sucesso": "Transfer approved! `B$auto_repl` Bufunfas were deposited in the account of",
-                "notifica": "You just received a deposit! <@!auto_repl> has deposited `B$auto_repl` Bufunfas into your account! yay",
+                "sucesso": "Transfer approved! `B$ auto_repl` Bufunfas were deposited in the account of",
+                "notifica": "You just received a deposit! <@!auto_repl> has deposited `B$ auto_repl` Bufunfas into your account! yay",
                 "nova_transferencia": "> New transfer",
                 "transferindo": "Transferring",
                 "destinatario": "Receiver"
@@ -76,7 +76,7 @@
                 "ativacao_min_0": "on weekends at",
                 "ativacao_min_1": "on weekends at",
                 "ativacao_min_2": "every day at",
-                "descricao": "This module will discount `B$auto_repl per day`, the more modules you activate,\nthe more Bufunfas will be deducted from your bank per day.\n\nCurrently the value for operating your modules is `B$auto_repl per day`.\n----------------------------------------------------------------------------",
+                "descricao": "This module will discount `B$ auto_repl`, the more modules you activate,\nthe more Bufunfas will be deducted from your bank per day.\n\nCurrently the value for operating your modules is `B$ auto_repl`.\n----------------------------------------------------------------------------",
                 "modulo_ativado": "Module activated! Your module will be sent auto_repl at `auto_repl`",
                 "modulo_0": "🌩️ Weather",
                 "modulo_1": "🖊️ Phrases",

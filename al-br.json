@@ -21,7 +21,7 @@
         },
         "misc": {
             "daily": {
-                "daily": "Daily coletado! Ocê recebeu `B$auto_repl` Bufunfas, volta amanhã pra mais",
+                "daily": "Daily coletado! Ocê recebeu `B$ auto_repl` Bufunfas, volta amanhã pra mais",
                 "error": "Ocê já coletou seu daily! Usa dnv"
             },
             "color": {
@@ -31,15 +31,15 @@
                 "footer": "Seus embeds irão aparecer assim e ao verem seu perfil com o Alonsal",
                 "rand_color": "Suas cores serão aleatórias a cada comando",
                 "cor_att": "Cor alterada! Agora seus _epic embed fails_ serão na nova cor",
-                "sem_money": "Ocê n tem `B$auto_repl` Bufunfas pra ter essa cor!"
+                "sem_money": "Ocê n tem `B$ auto_repl` Bufunfas pra ter essa cor!"
             },
             "pay": {
-                "error": "Ocê não tem `B$auto_repl` Bufunfas pra transferir!",
+                "error": "Ocê não tem `B$ auto_repl` Bufunfas pra transferir!",
                 "error_2": "Bota um número positivo pra depositar aí meo!",
                 "error_3": "Cê não pode transferir pra si mesmo!",
                 "user_bot": "Cê não pode transferir Bufunfas pra outros bótis além de mim!",
-                "sucesso": "Transferência aprovada! `B$auto_repl` Bufunfas foram enviadas na conta de",
-                "notifica": "Ocê acabou de receber um depósito! <@!auto_repl> mandou `B$auto_repl` Bufunfas procê! STONKS",
+                "sucesso": "Transferência aprovada! `B$ auto_repl` Bufunfas foram enviadas na conta de",
+                "notifica": "Ocê acabou de receber um depósito! <@!auto_repl> mandou `B$ auto_repl` Bufunfas procê! STONKS",
                 "nova_transferencia": "> Novo depósito",
                 "transferindo": "Enviando",
                 "destinatario": "Recebedor"

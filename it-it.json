@@ -21,7 +21,7 @@
         },
         "misc": {
             "daily": {
-                "daily": "Bufunfas raccolti! Hai ricevuto `B$auto_repl` Bufunfas, controlla domani per maggiori informazioni",
+                "daily": "Bufunfas raccolti! Hai ricevuto `B$ auto_repl` Bufunfas, controlla domani per maggiori informazioni",
                 "error": "Hai già raccolto oggi! Usa di nuovo il comando"
             },
             "color": {
@@ -31,15 +31,15 @@
                 "footer": "I tuoi incorporamenti appariranno in questo modo e quando vedranno il tuo profilo con Alonsal",
                 "rand_color": "I tuoi colori saranno casuali su ogni comando",
                 "cor_att": "Colore aggiornato! I tuoi incorporamenti saranno ora nel colore selezionato",
-                "sem_money": "Non hai abbastanza `B$auto_repl` Bufunfas per questo colore!"
+                "sem_money": "Non hai abbastanza `B$ auto_repl` Bufunfas per questo colore!"
             },
             "pay": {
-                "error": "Non hai `B$auto_repl` Bufunfas da trasferire!",
+                "error": "Non hai `B$ auto_repl` Bufunfas da trasferire!",
                 "error_2": "Inserisci un numero positivo per depositare",
                 "error_3": "Non puoi trasferirti su te stesso!",
                 "user_bot": "Non puoi trasferire Bufunfas a bot diversi da me!",
-                "sucesso": "Trasferimento approvato! `B$auto_repl` Bufunfas sono stati depositati sul conto di",
-                "notifica": "Hai appena ricevuto un deposito! <@!auto_repl> ha depositato `B$auto_repl` Bufunfas nel tuo account! Sìì",
+                "sucesso": "Trasferimento approvato! `B$ auto_repl` Bufunfas sono stati depositati sul conto di",
+                "notifica": "Hai appena ricevuto un deposito! <@!auto_repl> ha depositato `B$ auto_repl` Bufunfas nel tuo account! Sìì",
                 "nova_transferencia": "> Nuovo trasferimento",
                 "transferindo": "Trasferimento",
                 "destinatario": "Destinatario"
@@ -76,7 +76,7 @@
                 "ativacao_min_0": "nei giorni lavorativi alle",
                 "ativacao_min_1": "nei finesettimana alle",
                 "ativacao_min_2": "ogni giorno alle",
-                "descricao": "Questo modulo avrà un costo `B$auto_repl il giorno`, più moduli sono attivi,\npiù Bufunfas verranno detratti dalla tua banca al giorno.\n\nAttualmente il valore per il funzionamento dei tuoi moduli è `B$auto_repl il giorno`.\n----------------------------------------------------------------------------",
+                "descricao": "Questo modulo avrà un costo `B$ auto_repl`, più moduli sono attivi,\npiù Bufunfas verranno detratti dalla tua banca al giorno.\n\nAttualmente il valore per il funzionamento dei tuoi moduli è `B$ auto_repl`.\n----------------------------------------------------------------------------",
                 "modulo_ativado": "Modulo attivato! Il tuo modulo verrà inviato auto_repl alle `auto_repl`",
                 "modulo_0": "🌩️ Clima",
                 "modulo_1": "🖊️ Frasi",

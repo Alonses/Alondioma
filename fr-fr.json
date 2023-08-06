@@ -21,7 +21,7 @@
         },
         "misc": {
             "daily": {
-                "daily": "Quotidiennement collecté! Vous avez reçu `B$auto_repl` Bufunfas, revenez demain pour plus",
+                "daily": "Quotidiennement collecté! Vous avez reçu `B$ auto_repl` Bufunfas, revenez demain pour plus",
                 "error": "Vous avez déjà encaissé votre paiement quotidien! Utilisez à nouveau la commande"
             },
             "color": {
@@ -31,15 +31,15 @@
                 "footer": "Vos intégrations apparaîtront comme ceci et quand ils verront votre profil avec Alonsal",
                 "rand_color": "Vos couleurs seront aléatoires à chaque commande",
                 "cor_att": "Couleur mise à jour! Maintenant, vos embeds seront dans la couleur sélectionnée",
-                "sem_money": "Vous n'avez pas `B$auto_repl` Bufunfas pour cette couleur!"
+                "sem_money": "Vous n'avez pas `B$ auto_repl` Bufunfas pour cette couleur!"
             },
             "pay": {
-                "error": "Vous n'avez pas `B$auto_repl` Bufunfas à transférer!",
+                "error": "Vous n'avez pas `B$ auto_repl` Bufunfas à transférer!",
                 "error_2": "Entrez un nombre positif pour déposer",
                 "error_3": "Vous ne pouvez pas transférer à vous-même!",
                 "user_bot": "Vous ne pouvez pas transférer les Bufunfas vers des bots autres que moi!",
-                "sucesso": "Transfert approuvé! `B$auto_repl` Bufunfas ont été déposés sur le compte de",
-                "notifica": "Vous venez de recevoir un acompte! <@!auto_repl> a déposé `B$auto_repl` Bufunfas sur votre compte! Yay",
+                "sucesso": "Transfert approuvé! `B$ auto_repl` Bufunfas ont été déposés sur le compte de",
+                "notifica": "Vous venez de recevoir un acompte! <@!auto_repl> a déposé `B$ auto_repl` Bufunfas sur votre compte! Yay",
                 "nova_transferencia": "> Nouveau transfert",
                 "transferindo": "Transfert",
                 "destinatario": "Destinataire"
@@ -76,7 +76,7 @@
                 "ativacao_min_0": "en semaine à",
                 "ativacao_min_1": "les weekends à",
                 "ativacao_min_2": "tous les jours à",
-                "descricao": "Ce module coûtera `B$auto_repl par jour`, plus vous activez de modules,\nplus de Bufunfas seront déduits de votre banque par jour.\n\nActuellement, la valeur de fonctionnement de ses modules est `B$auto_repl par jour`.\n----------------------------------------------------------------------------",
+                "descricao": "Ce module coûtera `B$ auto_repl`, plus vous activez de modules,\nplus de Bufunfas seront déduits de votre banque par jour.\n\nActuellement, la valeur de fonctionnement de ses modules est `B$ auto_repl`.\n----------------------------------------------------------------------------",
                 "modulo_ativado": "Module activé! Votre module sera envoyé auto_repl à `auto_repl`",
                 "modulo_0": "🌩️ Climat",
                 "modulo_1": "🖊️ Phrases",

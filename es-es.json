@@ -21,7 +21,7 @@
         },
         "misc": {
             "daily": {
-                "daily": "¡Recolectado diariamente! Recibiste `B$auto_repl` Bufunfas, vuelve mañana para obtener más",
+                "daily": "¡Recolectado diariamente! Recibiste `B$ auto_repl` Bufunfas, vuelve mañana para obtener más",
                 "error": "¡Ya has recogido tu diario! Usa el comando de nuevo"
             },
             "color": {
@@ -31,15 +31,15 @@
                 "footer": "Tus incrustaciones aparecerán así y cuando vean tu perfil con Alonsal",
                 "rand_color": "Tus colores serán aleatorios con cada comando.",
                 "cor_att": "¡Color actualizado! Ahora sus embeds estarán en el color seleccionado",
-                "sem_money": "¡No tienes `B$auto_repl` Bufunfas para ese color!"
+                "sem_money": "¡No tienes `B$ auto_repl` Bufunfas para ese color!"
             },
             "pay": {
-                "error": "¡No tienes `B$auto_repl` Bufunfas para transferir!",
+                "error": "¡No tienes `B$ auto_repl` Bufunfas para transferir!",
                 "error_2": "Ingrese un número positivo para depositar",
                 "error_3": "¡No puedes transferirte a ti mismo!",
                 "user_bot": "¡No puedes transferir Bufunfas a otros bots que no sean yo!",
-                "sucesso": "Transferencia aprobada! `B$auto_repl` Bufunfas fueron depositadas en la cuenta de",
-                "notifica": "¡Acabas de recibir un depósito! ¡<@!auto_repl> ha depositado `B$auto_repl` Bufunfas en su cuenta! Hurra",
+                "sucesso": "Transferencia aprobada! `B$ auto_repl` Bufunfas fueron depositadas en la cuenta de",
+                "notifica": "¡Acabas de recibir un depósito! ¡<@!auto_repl> ha depositado `B$ auto_repl` Bufunfas en su cuenta! Hurra",
                 "nova_transferencia": "> Nueva transferencia",
                 "transferindo": "Transfiriendo",
                 "destinatario": "Receptor"
@@ -76,7 +76,7 @@
                 "ativacao_min_0": "de lunes a viernes en",
                 "ativacao_min_1": "en los fines de semana en",
                 "ativacao_min_2": "todos los días en",
-                "descricao": "Este módulo descontará `B$auto_repl p/dia`, cuantos más módulos active,\nmás bufones se descontarán de su banco por día.\n\nActualmente, el valor para operar sus módulos es `B$auto_repl p/dia `.\n----------------------------------------------------------------------------",
+                "descricao": "Este módulo descontará `B$ auto_repl`, cuantos más módulos active,\nmás bufones se descontarán de su banco por día.\n\nActualmente, el valor para operar sus módulos es `B$ auto_repl`.\n----------------------------------------------------------------------------",
                 "modulo_ativado": "¡Módulo activado! Su módulo se enviará auto_repl en `auto_repl`",
                 "modulo_0": "🌩️ Clima",
                 "modulo_1": "🖊️ Frases",
