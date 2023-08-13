@@ -391,7 +391,7 @@
             },
             "painel": {
                 "cabecalho_menu": "> Painel de controle",
-                "descricao": "Controle as minhas funções usando os botões abaixo\n```✅ Botões verdes são de recursos ativados.\n⛔ Botões cinzas são de recursos desligados.```\n",
+                "descricao": "Controle as minhas funções usando os botões abaixo\n```✅ Botões verdes são de recursos ativados.\n⛔ Botões cinzas são de recursos desligados.```\n\n",
                 "rodape": "Ative ou desative as minhas funções abaixo.",
                 "desc_ghostmode": "Ao ativar, apenas você verá o retorno dos comandos /slash que usar!",
                 "desc_notificacoes": "Controle das notificações que te envio por DM.",
