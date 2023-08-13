@@ -96,7 +96,7 @@
                 "deposito_recebido": "Depósito recebido de auto_repl",
                 "jogos_cara": "Jogos e entretenimento (cara ou coroa)",
                 "jogos_forca": "Jogos e entretenimento (forca)",
-                "jogos_jokenpo": "Jogos e entretenimento (jokenpo)"
+                "jogos_jokenpo": "Jogos e entretenimento (jokenpô)"
             }
         },
         "dive": {
@@ -768,7 +768,8 @@
                 "tempo_jogado": "Tempo jogado",
                 "hours": "horas",
                 "minutes": "minutos",
-                "sem_link": "O usuário mencionado não linkou o Alonsal com a Steam, tente pesquisar pelo nome personalizado do mesmo!"
+                "sem_link": "O usuário mencionado não linkou o Alonsal com a Steam, tente pesquisar pelo nome personalizado do mesmo!",
+                "nome_invalido": "O nome fornecido não é utilizado por nenhum perfil na Steam, por favor, tente novamente."
             },
             "calc": {
                 "aviso_1": "Informe pelo menos uma operação básica para calcular",
