@@ -82,20 +82,25 @@
                 "modulo_1": "🖊️ Phrases",
                 "modulo_2": "🏯 Historical events",
                 "modulo_3": "🃏 Jokes",
-                "modulo_4": "〽️ Curiosities"
+                "modulo_4": "〽️ Curiosities",
+                "auto_desativado": "Your modules have been deactivated!\nMake sure you have Bufunfas in your Alonsal account to be able to activate features like this!\n\nYou can earn Bufunfas with the command </daily:1020794974377353338> or through deposits and games"
             },
             "b_historico": {
                 "movimentacoes": "Your last bank transactions",
                 "daily": "Received from /daily",
                 "nivel": "Bonus for leveling up",
-                "nivel_descricao": "You've leveled up!\nAs a reward, `B$250` Bufunfas has been credited to your account, use the command </bank statement:1020854564657844234> to check your transaction history.",
+                "nivel_descricao": "You've leveled up!\nAs a reward, `B$ 250` Bufunfas has been credited to your account, use the command </bank statement:1020854564657844234> to check your transaction history.",
                 "modulos": "Module maintenance auto_repl",
                 "cor_perfil": "Profile customization (color)",
                 "deposito_enviado": "Deposit sent to auto_repl",
                 "deposito_recebido": "Deposit received from auto_repl",
                 "jogos_cara": "Games and entertainment (heads or tails)",
-                "jogos_forca": "Games and Entertainment (gallows)",
-                "jogos_jokenpo": "Games and Entertainment (jokenpo)"
+                "jogos_forca": "Games and entertainment (gallows)",
+                "jogos_jokenpo": "Games and entertainment (jokenpo)"
+            },
+            "perfil": {
+                "perfil_atualizado": "Your profile has been updated!",
+                "escolha_abaixo_customizar_perfil": "Choose one of the options below to customize your profile"
             }
         },
         "dive": {
@@ -172,6 +177,7 @@
                 "badge_fixada": "pinned to your profile!",
                 "badge_removida": "removed from your profile",
                 "rodape": "Use the /badge fix command to pin a!",
+                "sem_badge": "This user hasn't earned any badges yet!",
                 "new_badge": "You just won a badge! The `auto_repl` auto_repl! It will appear on your profile when you use the `/user info` command\n\nYou can also pin featured badges with the `/badge fix` command!"
             },
             "counter": {
@@ -194,7 +200,8 @@
                 "anuncio_game_1": "The Game `auto_repl`_ it's free until the day `auto_repl` over there\n\nRedeem it before date to save `R$auto_repl` and get a copy in your auto_repl account",
                 "anuncio_game_2": "The Games auto_repl are free until the day `auto_repl over there\n\nRedeem all before date to save `R$auto_repl` and get a copy in your auto_repl account",
                 "anuncio_dlc_1": "The DLC `auto_repl` it's free until the day `auto_repl` over there\n\nRedeem it before date to save `R$auto_repl` and get a copy in your auto_repl account",
-                "anuncio_dlc_2": "The DLC's auto_repl are free until the day `auto_repl` over there\n\nRedeem both before date to save `R$auto_repl` and get a copy in your auto_repl account"
+                "anuncio_dlc_2": "The DLC's auto_repl are free until the day `auto_repl` over there\n\nRedeem both before date to save `R$auto_repl` and get a copy in your auto_repl account",
+                "falta_vinculo": "A channel and role must be configured with the </notify config:1018632996787589283> command before being able to activate via the panel."
             },
             "pula": {
                 "conteudo": "The 1st Game created by SLondo!\nHow far can you run? Test now!",
@@ -254,7 +261,8 @@
                 "comando": "Use </forca:1069762590294687905> with a letter or the whole word to try to get it right!",
                 "tentativas": "Attempts remaining:",
                 "acertou": "You're right! Congratulations!\nThe word was",
-                "errou": "You made a mistake!\nThe word was"
+                "errou": "You made a mistake!\nThe word was",
+                "bufunfas": "You won `B$ 50` Bufunfas for getting it right!"
             },
             "portal": {
                 "titulo": "> Portal coordinates",
@@ -387,9 +395,30 @@
                 "descricao": "Help me translate and improve translations, or add new languages via the Alondioma repository!\n\nNew languages are always welcome, and the correction of some terms is essential for a good understanding and friendly use of Alonses"
             },
             "painel": {
-                "cabecalho_menu": "> Control Panel",
-                "descricao": "Control my functions using the buttons below\n\n```✅ Green buttons are features on.\n⛔ Gray buttons are features off.```",
-                "rodape": "Enable or disable my functions below."
+                "cabecalho_menu_pessoal": "> Personal control panel",
+                "cabecalho_menu_servidor": "> Server control panel",
+                "descricao": "Control my functions using the buttons below\n```✅ Green buttons are features on.\n⛔ Gray buttons are features off.```",
+                "rodape": "Enable or disable my functions below.",
+                "desc_ghostmode": "When activated, only you will see the return of the /slash commands you use!",
+                "desc_notificacoes": "Control the notifications I send you via DM.",
+                "desc_ranking": "Control your XP gain in my ranking.",
+                "alonsal_falador": "Talkative Alonsal",
+                "permitir_broadcast": "Allow Broadcast",
+                "anuncio_games": "Games Announcement",
+                "denuncias_server": "In-server complaints",
+                "reports_externos": "External reports",
+                "log_eventos": "Event Log",
+                "visibilidade_global": "Visible Globally",
+                "misterioso": "Mysterious",
+                "desc_falador": "Alonsal will be able to reply to other users if they include their name in any message",
+                "desc_broadcast": "`Server users can chat with Slondo using Alonsal on this server via the command`\n</broadcast:1114316224663396472>",
+                "desc_games": "Alonsal will send free game advertisements automatically.",
+                "desc_denuncias": "Users can use Alonsal to make complaints within the server itself.",
+                "desc_reports": "Reports of misbehaving users will be sent on the server.",
+                "desc_logger": "Server event log.",
+                "desc_spam": "Messages considered spam will be deleted and the author will be punished.",
+                "desc_global": "`The server name will be displayed in the command`\n</rank global:1018609879562334383>",
+                "desc_misterioso": "A mystery wax will be included here soon"
             }
         },
         "mode": {
@@ -409,7 +438,14 @@
                 "ativos": "Currently active",
                 "tipo_canal": "The defined channel must be a text channel, please try again",
                 "ate_data": "until",
-                "resgate_dica": "These are currently available games\nRedeem them before they expire!"
+                "resgate_dica": "These are currently available games\nRedeem them before they expire!",
+                "config_titulo": "> Game Ad Settings 🎮",
+                "config_descricao": "Activate or cancel the game ads module.\n\nThe Games Module will automatically send ads for games that are free on your server, you can activate this module now in two ways, simply activating, or the best of them, activating and already triggering a notification with all the games that are now free!\n\nSelect one of the options below or cancel to discard the changes.",
+                "configuracao": "You need to configure a channel and role to receive notifications for free games\nUse the command </notify config:1018632996787589283> to configure and activate the free games module.",
+                "anuncio_enviado_duplicatas": "A new ad has been uploaded in auto_repl, games ad is active on this server.\nCheck the channel for duplicate ads",
+                "anuncio_enviado": "A new advertisement has been sent in auto_repl, games advertisement is not currently active on this server.\nUse the server panel to enable the feature, or the command </notify config:1018632996787589283> again.",
+                "cargo": "Role",
+                "idioma": "Language"
             },
             "canal": {
                 "canal": "Channel",
@@ -430,7 +466,8 @@
                 "canal_aberto": "You already have an open reporting channel!",
                 "canal_fechado": "You do not have an open reporting channel!",
                 "fechando_canal": "This channel will be closed auto_repl seconds, thank you!",
-                "erro_1": "There was an error and the channel could not be created at the moment, please try again later"
+                "erro_1": "There was an error and the channel could not be created at the moment, please try again later",
+                "falta_vinculo": "It is necessary to configure a channel with the command </conf ticket:1094346210636214304> before being able to activate it through the panel."
             },
             "report": {
                 "reporte": "Complaints",
@@ -445,6 +482,7 @@
                 "usuario_nao_encontrado": "The mentioned user is not part of this server, please try again.",
                 "sem_report": "This user has no complaints",
                 "com_report": "This user has some reports from other servers",
+                "usuario": "User",
                 "reportado": "> Report user",
                 "reportador": "Reporter",
                 "reportados": "Reported",
@@ -457,7 +495,8 @@
                 "sem_usuarios": "No users were added, as they have no justification for banning or there are no bans on the server.",
                 "sem_reportes_guild": "There are no externally reported users on this server!",
                 "identificador": "Identifier",
-                "rodape": "pages, use /verify guild page:<num> to see other pages"
+                "rodape": "pages, use /verify guild page:<num> to see other pages",
+                "falta_vinculo": "It is necessary to configure a category with the command </conf report:1094346210636214304> before being able to activate it through the panel."
             },
             "xp": {
                 "permissao_1": "You cannot manage members of this server",
@@ -485,6 +524,10 @@
                 "ativo": "Tasks will now be shown globally.\nYou'll be able to see all your lists and tasks on any server I'm on too!",
                 "desativo": "Tasks will now be shown by server, separately.\nYou can create lists with the same name for different servers."
             },
+            "public": {
+                "ativado": "Server name will be shown in global ranking for all servers now!",
+                "desativado": "The server will no longer be shown in the global ranking."
+            },
             "emojis": {
                 "permissao": "I don't have the permission to manage the emojis and stickers on this server.",
                 "emoji_reservado": "This emoji is used by me! We cannot remove.",
@@ -502,6 +545,28 @@
                 "emoji_criado": "Emoji `auto_repl` successfully created!",
                 "emoji_removido": "The `auto_repl` emoji has been removed from the server!",
                 "figurinha_criada": "Sticker `auto_repl` successfully created!"
+            },
+            "broadcast": {
+                "desligado": "Broadcast is turned off on this server.",
+                "canal_invalido": "I can't send messages on this channel, it's not possible to start a Broadcast here!",
+                "solicitando": "> Requesting a Broadcast",
+                "descricao": "Click below to let Solondo know you want to Broadcast.\n\nBy requesting a Broadcast, Solondo will be able to see this chat ID and connect to chat with you remotely through me!\nAll messages that are sent sent in this channel, can be seen by Solondo as well.\n\nIt is possible to attach images and files in the chat too! (there's a lot of technology here)\n\nIf you disable the server's Broadcast, or Solondo is offline for 5 minutes, this link will be automatically turned off.",
+                "solicitacao_aberta": "A new Broadcast request has been opened",
+                "solicitante": "Requester",
+                "nova_solicitacao": "> New Broadcast request!",
+                "pedido_registrado": "Your Broadcast request has been registered!",
+                "ativado_button": "It is now possible to perform Broadcasts on this server.",
+                "desativado_button": "Broadcast between servers has been turned off."
+            },
+            "logger": {
+                "ativado": "Server event log is now active, all events will be sent on auto_repl channel",
+                "desativado": "Server event log is now disabled\nUse </panel guild:1107163338930126869>, or command </conf log:1094346210636214304> mentioning a channel to enable again!",
+                "falta_vinculo": "It is necessary to configure a channel with the command </conf log:1094346210636214304> before being able to activate it through the panel."
+            },
+            "spam": {
+                "titulo": "> Spam Prevention",
+                "ativado": "The anti-spam module has been activated! auto_repl\nChannel mentioned will be used for logger ( </conf log:1094346210636214304> ) also if it is activated.\n\nIf you use logger command mentioning another channel, anti-spam will send all reports on the same logger channel, and vice versa\n(both modules use the same auto_repl channel)",
+                "desativado": "The anti-spam module has been disabled."
             }
         },
         "util": {
@@ -540,6 +605,7 @@
                 "download_icon": "Click the button below to download the icon",
                 "sem_avatar": "This user does not have a custom avatar!",
                 "sem_banner": "This user does not have a custom banner!",
+                "sem_icone": "The server does not have a custom icon!",
                 "error_1": "Unable to fetch this avatar at the moment, please try again later"
             },
             "reverso": {
@@ -590,7 +656,8 @@
                 "termino_hoje": ", ends today",
                 "equador": "This location is close to the equator, the current season may not reflect your current climate",
                 "new_link": "Now I'm going to use your entry ( `auto_repl` ) as the search pattern in the command </weather:1018653229128622187>!\nUse the command </link locale:1020561785620803674> again if you want to change the pinned location",
-                "error_locale": "There is no default locale defined, use the command </link locale:1020561785620803674> to define one, or use the command </weather:1018653229128622187> again informing an input value"
+                "error_locale": "There is no default locale defined, use the command </link locale:1020561785620803674> to define one, or use the command </weather:1018653229128622187> again informing an input value",
+                "sem_local": "I didn't find any location with this name, please try again."
             },
             "minecraft": {
                 "nao_encontrado": "I didn't find any item or block with the name",
@@ -730,12 +797,31 @@
                 "capturas": "Prints",
                 "nome": "Name",
                 "tempo_jogado": "Time played",
-                "sem_link": "The mentioned user has not linked Alonsal with Steam, try searching for his custom name!"
+                "sem_link": "The mentioned user has not linked Alonsal with Steam, try searching for his custom name!",
+                "nome_invalido": "The name provided is not used by any profiles on Steam, please try again."
             },
             "calc": {
                 "aviso_1": "Enter at least one basic operation to calculate",
                 "resultado": "Result",
-                "error": "An error occurred while processing this operation"
+                "error": "An error occurred while processing this operation",
+                "resultados": "> Results",
+                "etapas_entrada": "Steps\n\nEntrance,",
+                "formula_ajustada": "Adjusted formula",
+                "formulas_abaixo": "After finding the radius, apply the formulas below",
+                "formula_diametro": "Diameter formula",
+                "formula_perimetro": "Perimeter formula",
+                "formula_area": "Area formula",
+                "formula": "Formula",
+                "na_conta": "In the account",
+                "tirar_raiz": "Then we take the square root of this value.\nBeing",
+                "ajustar_diametro": "It is necessary to adjust the diameter formula to find the radius.",
+                "ajustar_perimetro": "It is necessary to adjust the perimeter formula to find the radius.",
+                "ajustar_area": "It is necessary to adjust the area formula to find the radius.",
+                "isolase_raio": "isolate the radius",
+                "diametro": "Diameter",
+                "perimetro": "Perimeter",
+                "raio": "Radius",
+                "area": "Area"
             },
             "password": {
                 "primaria": "Primary password",
@@ -792,6 +878,7 @@
                 "sem_tarefa": "You don't have any tasks created! Create some to be able to use this command.",
                 "sem_tarefa_l": "There are no tasks attached to this list yet!",
                 "sem_lista": "You don't have any lists created! Create some to be able to use this command.",
+                "sem_lista_v": "No list",
                 "sem_lista_r": "You don't have any lists to delete!",
                 "sem_lista_n": "You don't have any lists to browse!",
                 "lista_confirmar_exclusao": "You are about to delete this list and confirm the deletion of another `auto_repl` tasks\nSelect the buttons below to cancel or continue the operation.",
@@ -823,6 +910,8 @@
                 "ativar": "Activate",
                 "completo": "Complete",
                 "resumido": "Summed up",
+                "solicitar": "Request",
+                "ativar_anunciando": "Activate and announce",
                 "definir_retorno": "Set return",
                 "marcar_concluida": "Mark as completed",
                 "alterar_de_lista": "Change list",
@@ -832,13 +921,21 @@
                 "apenas_confirmar": "Add silently",
                 "selecionar_operacao": "Select the desired operation using the buttons below.",
                 "operacao_cancelada": "Operation cancelled!",
-                "navegador": "Open in browser"
+                "mais_detalhes": "See more details",
+                "navegador": "Open in browser",
+                "perfil": "Profile",
+                "permissoes": "Permissions",
+                "historico": "Historic",
+                "customizar_informacoes": "Customize information",
+                "remover_sobre": "Remove about",
+                "comando_desatualizado": "This command is out of date! Please use the same again."
             },
             "menus": {
                 "selecionar_operacao": "Select the desired operation below",
                 "criador_menu": "Stop right there! This menu can only be used by the author of the command!",
                 "criador_botoes": "Stop right there! These buttons can only be used by the author of the command!",
-                "escolha_mais_detalhes": "Choose to see more information"
+                "escolha_mais_detalhes": "Choose to see more information",
+                "escolher_frase": "Choose one of the phrases below!"
             }
         }
     }

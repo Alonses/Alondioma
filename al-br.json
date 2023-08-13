@@ -2,9 +2,7 @@
     "data": {
         "inic": {
             "inicio": {
-                "slash_commands": "Os comandos tradicionais foram apagados! Continue me usando pelos comandos em `/barra` ( </help:1018609879512006787> )! Experimenta agora memo ;D\n\nNota: Não consegue ver meus comandos? Me convida dnv clicando no botão ae! Tbm verifique se meus comandos stão ligados pra todos nas integrações do server em `Integrações -> Alonsal -> Comandos`",
-                "convidar": "Convidar!",
-                "suporte": "Suporte"
+                "slash_commands": "Os comandos tradicionais foram apagados! Continue me usando pelos comandos em `/barra` ( </help:1018609879512006787> )! Experimenta agora memo ;D\n\nNota: Não consegue ver meus comandos? Me convida dnv clicando no botão ae! Tbm verifique se meus comandos stão ligados pra todos nas integrações do server em `Integrações -> Alonsal -> Comandos`"
             },
             "error": {
                 "epic_embed_fail": "Deu PT aq ao rodar esse comando, acontece toda hora, chora boi, já notifiquei os salafrários que me arrumam, tudo numa boa!",
@@ -13,10 +11,7 @@
                 "comando_restrito": "Parado ai! Cê não pode usa esse comando!"
             },
             "ping": {
-                "titulo": "> Ó Abre alas que eu queru passsaa :notes:",
-                "boas_vindas": "Olá! Obrigado por me adicionar ao server!\n\nDeixo em anexo abaixo o meu site, com todos os comandos caso necessário ;D",
-                "idioma_dica": "Do not speak Portuguese? No problems! Change my language right now with the </language:1018632996787589284> command!",
-                "site": "Site Alonsal"
+                "boas_vindas": "Olá! Obrigado por me adicionar ao server!\n\nDeixo em anexo abaixo o meu site, com todos os comandos caso necessário ;D"
             }
         },
         "misc": {
@@ -155,56 +150,41 @@
                 "descricao": "Bota tua avaliação de mim no TopGG e ajude com minha att de recursos!\n\nPra denunciar bugs e problemas, ou dar sugestões, use o comando </mail:1018609879512006788>"
             },
             "convite": {
-                "titulo": "> Ó Abre alas que eu queru passsaa :notes:",
                 "convite": "Convide-me clicando aqui!"
             },
             "git": {
-                "repositorio": "> Repositório Alonsal",
                 "link": "Contribua reportando bugs ou roubando códigos do Alonsal :pray_tone2:"
             },
             "info": {
-                "infos": "Patinando entre as linhas bugadas :man_golfing:",
                 "conteudo_1": "Esse bóti é patrocinado por Baidu e Renato's lanches, 40 tipos de lanche, hot dog, fastfood em 5 minutos, a maior casa de lanches de extrema, venha comer o renatão de 4, o lanche completo!\n\n:mailbox: Sugira comandos ou reporte bugs usando o </mail:1018609879512006788>\n:page_facing_up: Utilize </git:1018609879470047261> pra ver o repositório do Alonsal",
-                "conteudo_2": "</discord:1018609879512006789> - Entre no Hub multiconectado do Alonsal",
-                "conteudo_3": "</support:1018632996787589282> - Ajude a manter e desenvolver o Alonsal\n\n-----------------------------\n> OUTROS RECURSOS\nFrases do </cattle:1018653229128622184> são de total direito do [@GadoDecider](https://twitter.com/GadoDecider), todos os créditos vão a ele.",
-                "invocado_1": "Já fui invocado",
-                "invocado_2": "vezes",
-                "versao": "Versão",
                 "spawn_alonsal": "Brotei em "
             },
             "mail": {
                 "aviso_1": "Há um erro em sua mensagem, tenta dnv.",
-                "aviso_2": ":mailbox: Sua mensagem foi entregue!",
-                "aviso_5": ":incoming_envelope:\nDespachei mais informações no seu privado :mailbox_with_mail:",
                 "error_1": "Não foi possível enviar a mensagem pra esse ID",
                 "sucesso_1": "Mensagem enviada pra o Alonsal :incoming_envelope:\nDespachei mais informações no seu privado :mailbox_with_mail:",
-                "conteudo_1": "Sua mensagem foi entregue pro/a",
-                "conteudo_2": "O Conteúdo da mensagem é"
+                "conteudo_1": "Sua mensagem foi entregue pro/a"
             },
             "help": {
                 "comandos": "Veja os comandos, me convide ou acesse meu server pelo site!"
             },
             "apoio": {
-                "apoie": "> Apoie o Alonsal!",
                 "escaneie": "Scaneie ou clique no Titulo acima pra doar\ne ajudar a manter e desenvolver o Alonsal!\nToda ajuda é ultra Bem-Vinda ;D"
             },
             "hub": {
-                "hub_alonsal": "> Hub do Alonsal",
-                "info": "Entre agora mesmo no meu server, seja pra tirar dúvidas, ou usar os comandos, o server é liberado pra todos!",
-                "conectar": "Conecte-se!"
+                "info": "Entre agora mesmo no meu server, seja pra tirar dúvidas, ou usar os comandos, o server é liberado pra todos!"
             },
             "help_comando": {
-                "traducao_faltando": "Esse comando ainda não possui uma tradução pra o seu idioma, aguarde!",
-                "usos": "Usos",
+                "traducao_faltando": "Esse comando ainda não possui uma tradução pra o seu idioma, guentaí!",
                 "nao_encontrado": "Não encontrei nenhum comando com esse nome ou aliase, xora"
             },
             "data": {
                 "ranking_guilds": "Ranking nos seguintes serveres",
-                "dados_conhecidos": "> Seus :game_die: conhecidos",
-                "resumo_dados": "Esse é um resumão dos :game_die: que salvei docê",
+                "dados_conhecidos": "> Seus 🎲 conhecidos",
+                "resumo_dados": "Esse é um resumão dos 🎲 que salvei docê",
                 "dica_rodape": "Ocê pode excluir todos os seus 🎲 com o comando /data excluir",
-                "dados_removidos": "Seus :game_die: foram removidos do",
-                "sem_dados": "Ocê não possui :game_die: salvos por aqui ;)",
+                "dados_removidos": "Seus 🎲 foram removidos do",
+                "sem_dados": "Ocê não possui 🎲 salvos por aqui ;)",
                 "server_desconhecido": "server desconhecido",
                 "um_server": "e 1 outro server",
                 "outros_servers": "e outros auto_repl serveres",
@@ -230,9 +210,6 @@
             }
         },
         "mode": {
-            "idiomas": {
-                "titulo_idioma": "Idiomas disponíveis"
-            },
             "clear": {
                 "permissao": "Eu não consigo fazer isso sem a permissão de `Gerenciar mensagens`",
                 "apagado_1": "mensagens` foram excluídas",
@@ -243,9 +220,7 @@
                 "permissao": "Oce não pode usar esse comando, pq não pode `gerenciar os canais` do servidor!",
                 "anuncio_games": "A partir de agora o knel auto_repl irá receber menções quando houver jogos gratuitos disponíveis\nUsa o comando fartando valores pra desligar as notificações",
                 "anuncio_off": "Anúncios de jogos desligados pra esse server",
-                "ativos": "Ativos no momento",
                 "tipo_canal": "O knel definido precisa ser um knel de texto, tenta dnv",
-                "ate_data": "até",
                 "resgate_dica": "Esses são os joojs free do momento\nResgate antes que expirem!"
             },
             "canal": {
@@ -343,24 +318,7 @@
             }
         },
         "util": {
-            "ping": {
-                "ping_1": "Tá lagado um poko tô renderizando vídeo",
-                "ping_2": "Tudo numa boa!",
-                "ping_3": "Dá até pra jogar de olhos fechados!",
-                "ping_4": "Pode jogar fora esse teu roteador!",
-                "ping_5": "BLZ, quem instalou baidu aqui? EMMM???",
-                "latencia": "Latência do Alonsal"
-            },
-            "morse": {
-                "caracteres": "Alguns caracteres não foram codificados pois não existem no morse",
-                "codificado": ":symbols: Sua mensagem codificada em morse",
-                "decodificado": ":symbols: Sua mensagem decodificada do morse",
-                "carac_invalidos": "Caracteres inválidos",
-                "error": "Houve um problema ao codificar"
-            },
             "binario": {
-                "codificado": ":one: Sua mensagem codificada em binário",
-                "decodificado": ":zero: Sua mensagem decodificada do binário",
                 "resul_vazio": "O resultado final tava bugado, tente dnv",
                 "titulo_vazio": ":warning: A decodificação deu um bug",
                 "error_1": "Não foi possível converter, epic embed fail!"
@@ -371,167 +329,67 @@
                 "download_icon": "Clique no butão pra baixar essa ibagem",
                 "sem_avatar": "Esse corno não botou um avatar!",
                 "sem_banner": "Esse corno não botou um banner!",
+                "sem_icone": "Esse server não tem um icone!",
                 "error_1": "Não foi possível buscar esse salafrário no momento, tenta dnv depois"
             },
-            "reverso": {
-                "reverso": "Sua mensagem ao contrário"
-            },
             "tempo": {
-                "aviso_1": "Bota o nome de um lugar aí\nTipo `.at sao paulo`",
                 "aviso_2": "Não achei nada com esse nome ai",
                 "aviso_3": "Deu um PT aq na API do tempo, vai dar pra pesquisar não",
                 "aviso_continente": "Issae é uma média do continente todo",
                 "aviso_pais": "Issae é uma média do país todo",
                 "aviso_planeta": "Issae é uma média de todos os dados do planeta",
-                "tempo_agora": "Tempo agora",
-                "hora_local": "Hora local",
-                "de": "de",
-                "na": "na",
-                "terra": "na terra",
-                "vento": "Vento",
-                "nuvens": "Nuvens",
-                "chuva": "Chuva",
-                "direcao": "Direção",
-                "velocidade": "Velocidade",
-                "ceu_momento": "Céu no momento",
-                "temperatura": "Temperatura",
-                "por_sol": "Pôr do sol",
-                "nas_sol": "Na. do sol",
-                "sensacao_termica": "Sensação Térm",
-                "umidade_ar": "Umidade do ar",
-                "pressao_ar": "Pressão do ar",
-                "visibilidade": "Visibili.",
-                "nivel_chao": "No chão",
-                "nivel_mar": "No mar",
-                "chovendo": "🌧️Chovendo agora",
-                "nevando": "❄️Nevando agora",
-                "rajadas_vento": "🌪️Rajadas de vento",
                 "chuva_troll": "Sepá n tá chovendo mesmo",
                 "neve_troll": "Sepá n tá nevando mesmo",
                 "dados_atts": "Atualizado às",
                 "sugestao": "Tenta pesquisar inteiro, tipo",
                 "error_1": "Bota apenas texto na sua pesquisa, ovo ignorar esses números aí",
                 "error_2": "Não consegui puxar os dados desse lugar, tenta depois",
-                "antartida": "Antártida",
                 "equador": "Sa joça ae tá perto do equador, se pá a estação não funfa aqui",
                 "new_link": "Agora ovo usar entrada ( `auto_repl` ) pra pesquisar com o comando </weather:1018653229128622187>!\nUsa dnv o </link locale:1020561785620803674> pra mudar o local fixado",
-                "error_locale": "Ocê não setou um lugar ainda, usa o </link locale:1020561785620803674> pra setar um, ou usa o </weather:1018653229128622187> dnv informando algum lugar"
+                "error_locale": "Ocê não setou um lugar ainda, usa o </link locale:1020561785620803674> pra setar um, ou usa o </weather:1018653229128622187> dnv informando algum lugar",
+                "sem_local": "Não achei nenhum local com esse nome, tenta dnv."
             },
             "minecraft": {
-                "nao_encontrado": "Não encontrei nenhum item ou bloco com o nome",
                 "tente_novamente": "tenta dnv",
-                "error_1": "Não deu pra carregar a base de itens no momento, tenta dnv mais tarde",
-                "coletavel": "Coletável",
-                "tipo": "Tipo",
-                "versao_add": "Versão adicionada",
-                "empilhavel": "Empilhável",
-                "renovavel": "Renovável",
-                "nome_interno": "Nome interno",
-                "construcao": "Construção",
-                "pocoes": "Poções",
-                "efeitos_aplicados": "Efeitos Aplicados",
-                "atributos": "Atributos",
-                "disco_musical": "Disco musical",
-                "livro_encantado": "Livro encantado",
-                "nota_rodape": "Esse item ainda não foi oficialmente implementado, seus dados não são oficiais",
-                "sim": "Sim",
-                "nao": "Não",
-                "ate": "Até"
+                "error_1": "Não deu pra carregar a base de itens no momento, tenta dnv mais tarde"
             },
             "history": {
-                "hoje": "hoje",
                 "este_ano": "esse ano",
-                "ha": "Há",
-                "em": "em",
-                "ano_passado": "Ano passado",
-                "acontecimentos_1": "Acontecimentos pela história",
                 "acontecimentos_2": "Abaixo stão todos os acontecimentos na data de",
                 "sem_entradas_valor": "Não tem acontecimentos pra esses valores, tenta dnv",
                 "sem_evento": "Não há acontecimentos hj!",
                 "erro_eventos": "Deu um xabu aqui ao procurar um evento pela história!"
             },
             "server": {
-                "id_server": "ID do server",
                 "membros": "Usuários",
                 "dono": "Patron",
-                "canais": "Canais",
-                "categorias": "Categorias",
-                "texto": "Texto",
-                "voz": "Voz",
-                "atual": "Atual",
-                "entrada": "Entrada alonsal",
-                "criacao": "Criação",
-                "verificacao": "Verificação",
-                "cargos": "Cargos",
-                "figurinhas": "Figurinhas",
+                "canais": "Knels",
                 "NONE": ":white_large_square: Baderna liberada",
-                "LOW": ":blue_square: Baixo",
-                "MEDIUM": ":green_square: Médio",
-                "HIGH": ":orange_square: Alto",
                 "HIGHEST": ":red_square: Maquisimu"
             },
             "user": {
-                "id_user": "ID do usuário",
                 "entrada": "Chegou em",
-                "conta_criada": "Conta criada",
-                "alonsal": "Ó eu ai!",
-                "enceirado": "eternamente enceirado",
                 "moderador": "Esse é o admir do server"
-            },
-            "unidades": {
-                "anos": " anos",
-                "ano": " ano",
-                "meses": " meses",
-                "mes": " mês",
-                "dias": " dias",
-                "dia": " dia",
-                "horas": " horas",
-                "hora": " hora",
-                "minutos": " minutos",
-                "minuto": " minuto",
-                "segundos": " segundos",
-                "segundo": " segundo",
-                "e": "e"
             },
             "canal": {
                 "id_canal": "ID do knel",
                 "server": "Server",
                 "canal_voz": "É um knel de voz",
-                "topico": "Tópico",
                 "sem_topico": "Knel sem tópico",
-                "mencao": "Menção",
-                "transmissao": "Transmissão",
-                "sem_limite": "Sem limites",
                 "modo_lento": "Modo museu"
             },
             "steam": {
-                "undefined": "Desconhecido",
-                "error_1": "Perfil não encontrado, certifique-se que o perfil pesquisado possui uma url personalizada",
-                "error_2": "Esse perfil existe mas houve um erro ao carregar ele",
-                "rodape": "Alguns (ou todos os) dados desse usuário não stão disponíveis no perfil do mesmo",
+                "error_2": "Esse perfil existe mas deu um baidu ao carregar ele",
+                "rodape": "Alguns (ou todos os) dados desse usuário não stão disponíveis no perfil do corno",
                 "analises": "Analisis",
                 "nivel": "Nível",
                 "jogos": "Joojs",
-                "jogos_perfeitos": "J. 100%",
-                "conquistas": "Conquistas",
-                "porcentagem": "Porcent.",
-                "insignias": "Insígnias",
-                "criacoes": "Criações",
-                "semanas": "2 Semanas",
-                "artes": "Artes",
                 "suspeito": "Esse usuário pode star usando uns hacks pra conseguir conquistas, não considere isso como uma afirmação, mas né ¯\\_(ツ)_/¯ SUSPE1T0",
-                "jogo_favorito": "Jogo favorito",
-                "capturas": "Capturas",
-                "nome": "Nome",
-                "tempo_jogado": "Tempo jogado",
-                "hours": "horas",
-                "minutes": "minutos",
-                "sem_link": "Esse corno não me linkou com a Steam, tenta dnv usando o nome personalizado dele"
+                "sem_link": "Esse corno não me linkou com a Steam, tenta dnv usando o nome personalizado dele",
+                "nome_invalido": "O nome que cê passou não é utilizado por nenhum corno na Steam, tenta dnv."
             },
             "calc": {
-                "aviso_1": "Screva pelo menos uma operação básica pra isso",
-                "resultado": "Resultado",
-                "error": "Deu pt aq ao processar sa budega"
+                "aviso_1": "Screva pelo menos uma operação básica pra isso"
             },
             "password": {
                 "bonus": "Otras senhas",
@@ -539,54 +397,15 @@
             },
             "lastfm": {
                 "sem_scrobbles": "Esse perfil existe, mas o dono abandonou",
-                "semanal": "Semanal",
                 "media_dia": "Média no dia",
                 "tempo_tocado": "Tempo ouvido",
-                "albuns": "Álbuns",
-                "artistas": "Artistas",
                 "faixas_favoritas": "Faixas curtidas",
-                "geral": "Geral",
-                "perfil_musical": "Perfil musical de auto_repl",
                 "em_scrobble": "Scrobblando agora",
                 "obsessao": "Favorita da semana",
                 "error_1": "Esse perfil não existe, tenta dnv",
                 "error_2": "Deu um pepino aqui e não deu pra puxar esse perfil do LastFM, parece que a plataforma caiu! Tenta dnv depois!",
                 "sem_link": "Esse corno não me linkou com a LastFM, tenta dnv usando o nome personalizado dele",
                 "new_link": "O Alonsal foi vinculado a sua conta `auto_repl`! Agora ao usar auto_repl ocê não precisará screver seu nome toda hora :P"
-            },
-            "tarefas": {
-                "tarefa_lista": "Escolha uma das listas abaixo para adicionar esta tarefa.",
-                "tarefa_adicionada": "Sua nova tarefa foi adicionada automaticamente na lista",
-                "tarefa_adicionada_2": "Sua tarefa foi adicionada a lista `auto_repl` com sucesso!",
-                "tarefa_escolher": "Escolha uma das tarefas abaixo para mais detalhes.",
-                "sem_tarefa_a": "Você não possui nenhuma tarefa em aberto! Crie alguma para poder usar este comando.",
-                "sem_tarefa_f": "Você não possui nenhuma tarefa finalizada! Finalize algumas para poder usar este comando.",
-                "lista_e": "Escolha uma das listas abaixo para excluir.",
-                "lista_criada": "Sua lista foi criada, use o comando `/tarefas add tarefa` para adicionar tarefas!",
-                "lista_repetida": "Você já possui uma lista com esse nome! Por favor, insira uma lista com outro nome",
-                "lista_escolher": "Escolha uma das listas abaixo para visualizar as tarefas.",
-                "sem_tarefa": "Você não possui nenhuma tarefa criada! Crie alguma para poder usar este comando.",
-                "sem_tarefa_l": "Não há nenhuma tarefa anexada à essa lista ainda!",
-                "sem_lista": "Você não possui nenhuma lista criada! Crie alguma para poder usar este comando.",
-                "sem_lista_r": "Você não possui nenhuma lista para poder excluir!",
-                "sem_lista_n": "Você não possui nenhuma lista para poder navegar!",
-                "lista_confirmar_exclusao": "Você está prestes a apagar esta lista e confirmar a exclusão de outras `auto_repl` tarefas\nSelecione os botões abaixo para cancelar ou prosseguir a operação.",
-                "sua_tarefa": "> Sua tarefa",
-                "lista": "Lista",
-                "selecionar_botoes": "Selecione os botões abaixo para gerenciar esta tarefa",
-                "escolher_tarefa_visualizar": "Escolha uma das tarefas para mais detalhes!",
-                "escolher_lista_navegar": "Escolha uma das listas para ver suas tarefas",
-                "escolher_lista_apagar": "Escolha uma das listas para apagar",
-                "escolher_lista_vincular": "Escolha uma das listas para vincular esta!",
-                "finalizada": "Finalizada",
-                "em_aberto": "Em aberto",
-                "criacao": "Criado em",
-                "selecionar_lista": "Selecionar essa lista",
-                "tarefa_movida_1": "Sua tarefa foi movida para as notas concluídas!",
-                "tarefa_movida_2": "Sua tarefa foi movida para as notas em aberto novamente!",
-                "tarefa_excluida": "Sua tarefa foi excluída com sucesso!",
-                "exclusao_lista_cancelada": "Exclusão da lista de tarefas cancelada.",
-                "exclusao_lista": "`Lista` e `tarefas` vinculadas excluídas com sucesso!"
             }
         },
         "menu": {

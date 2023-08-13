@@ -97,6 +97,10 @@
                 "jogos_cara": "Jogos e entretenimento (cara ou coroa)",
                 "jogos_forca": "Jogos e entretenimento (forca)",
                 "jogos_jokenpo": "Jogos e entretenimento (jokenpô)"
+            },
+            "perfil": {
+                "perfil_atualizado": "Seu perfil foi atualizado!",
+                "escolha_abaixo_customizar_perfil": "Escolha uma das opções abaixo para customizar seu perfil"
             }
         },
         "dive": {
@@ -197,7 +201,7 @@
                 "anuncio_game_2": "Os Games auto_repl estão gratuitos até o dia `auto_repl` por lá\n\nResgate todos antes da data para poupar `R$auto_repl` e garantir as cópias em sua conta auto_repl",
                 "anuncio_dlc_1": "A DLC auto_repl esta gratuita até o dia `auto_repl` por lá\n\nResgate antes da data para poupar `R$auto_repl` e garantir uma cópia em sua conta auto_repl",
                 "anuncio_dlc_2": "As DLC's auto_repl estão gratuitas até o dia `auto_repl` por lá\n\nResgate todas antes da data para poupar `R$auto_repl` e garantir cópias em sua conta auto_repl",
-                "falta_vinculo": "É preciso configurar um canal e um cargo o comando </notify config:1018632996787589283> antes de poder ativar pelo painel."
+                "falta_vinculo": "É preciso configurar um canal e um cargo com o comando </notify config:1018632996787589283> antes de poder ativar pelo painel."
             },
             "pula": {
                 "conteudo": "O 1° Jogo criado pelo Slondo!\nQuão longe você consegue correr? Teste agora mesmo!",
@@ -257,7 +261,8 @@
                 "comando": "Use </forca:1069762590294687905> com uma letra ou a palavra toda para tentar acertar!",
                 "tentativas": "Tentativas restantes:",
                 "acertou": "Você acertou! Parabéns!\nA palavra era",
-                "errou": "Você errou!\nA palava era"
+                "errou": "Você errou!\nA palava era",
+                "bufunfas": "Você ganhou `B$ 50` Bufunfas pelo acerto!"
             },
             "portal": {
                 "titulo": "> Coordenadas de portais",
@@ -478,8 +483,8 @@
                 "usuario_nao_encontrado": "O usuário informado não faz parte deste servidor, por favor, tente novamente.",
                 "sem_report": "Este usuário não possui reportes",
                 "com_report": "Este usuário possui alguns reportes de outros servidores",
-                "reportado": "> Reportar usuário",
                 "usuario": "Usuário",
+                "reportado": "> Reportar usuário",
                 "reportador": "Reportador",
                 "reportados": "Reportados",
                 "descricao_report": "Seu reporte irá adicionar o seguinte usuário a minha lista de mau comportados.\n\nVocê pode decidir se eu irei notificar outros servidores sobre essa inclusão, se irei adicionar ele em silêncio ou se deseja cancelar este reporte.",
@@ -562,7 +567,7 @@
             },
             "spam": {
                 "titulo": "> Prevenção de Spam",
-                "ativado": "O módulo anti-spam foi ativado! auto_repl\nO Canal mencionado será usado para o logger ( </conf log:1094346210636214304> ) também caso ele seja ativado.\n\nSe você usar o comando do logger mencionando um outro canal, o anti-spam enviará todos os relatórios no mesmo canal do logger, e vice-versa\n(ambos os módulos utilizam o mesmo canal auto_repl )",
+                "ativado": "O módulo anti-spam foi ativado! auto_repl\nO Canal mencionado será usado para o logger ( </conf log:1094346210636214304> ) também caso ele seja ativado.\n\nSe você usar o comando do logger mencionando um outro canal, o anti-spam enviará todos os relatórios no mesmo canal do logger, e vice-versa\n(ambos os módulos utilizam o mesmo canal auto_repl)",
                 "desativado": "O módulo anti-spam foi desativado."
             }
         },
@@ -609,7 +614,6 @@
                 "reverso": "Sua mensagem ao contrário"
             },
             "tempo": {
-                "aviso_1": "Informe o nome de alguma cidade para buscar\nPor exemplo, como `/tempo sao paulo`",
                 "aviso_2": "Não encontrei nenhum local chamado",
                 "aviso_3": "Houve algum erro com a API de clima e não é possível pesquisar por climas no momento",
                 "aviso_continente": "Estes dados são uma média de todos os valores do continente pesquisado",
@@ -899,8 +903,6 @@
                 "historico": "Histórico",
                 "customizar_informacoes": "Customizar informações",
                 "remover_sobre": "Remover sobre",
-                "perfil_atualizado": "Seu perfil foi atualizado!",
-                "escolha_abaixo_customizar_perfil": "Escolha uma das opções abaixo para customizar seu perfil",
                 "comando_desatualizado": "Este comando está desatualizado! Por favor, use o mesmo novamente."
             },
             "menus": {
