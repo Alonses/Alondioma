@@ -375,7 +375,7 @@
             },
             "painel": {
                 "cabecalho_menu": "> Pannello di controllo",
-                "descricao": "Controlla le mie funzioni utilizzando i pulsanti qui sotto\n\nI pulsanti verdi sono funzioni attive.\nI pulsanti grigi sono funzioni disattivate.",
+                "descricao": "Controlla le mie funzioni utilizzando i pulsanti qui sotto\n\n```✅ I pulsanti verdi sono funzioni attive.\n⛔ I pulsanti grigi sono funzioni disattivate.```",
                 "rodape": "Abilita o disabilita le mie funzioni di seguito."
             }
         },

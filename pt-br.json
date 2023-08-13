@@ -82,7 +82,21 @@
                 "modulo_1": "🖊️ Frases",
                 "modulo_2": "🏯 Eventos históricos",
                 "modulo_3": "🃏 Charadas",
-                "modulo_4": "〽️ Curiosidades"
+                "modulo_4": "〽️ Curiosidades",
+                "auto_desativado": "Seus módulos foram desativados!\nGaranta que tenha Bufunfas em sua conta do Alonsal para poder ativar recursos como este!\n\nVocê pode ganhar bufunfas com o comando </daily:1020794974377353338> ou através de depósitos e games"
+            },
+            "b_historico": {
+                "movimentacoes": "Suas últimas movimentações",
+                "daily": "Recebido do /daily",
+                "nivel": "Bônus por subir de nível",
+                "nivel_descricao": "Você subiu de nível!\nComo recompensa, foram creditadas `B$ 250` Bufunfas em sua conta, use o comando </bank statement:1020854564657844234> para verificar seu histórico de transações.",
+                "modulos": "Manutenção de módulos auto_repl",
+                "cor_perfil": "Customização do perfil (cor)",
+                "deposito_enviado": "Depósito enviado para auto_repl",
+                "deposito_recebido": "Depósito recebido de auto_repl",
+                "jogos_cara": "Jogos e entretenimento (cara ou coroa)",
+                "jogos_forca": "Jogos e entretenimento (forca)",
+                "jogos_jokenpo": "Jogos e entretenimento (jokenpo)"
             }
         },
         "dive": {
@@ -159,6 +173,7 @@
                 "badge_fixada": "fixada ao seu perfil!",
                 "badge_removida": "removida do seu perfil",
                 "rodape": "Use o comando /badge fixar para fixar uma!",
+                "sem_badge": "Este usuário não ganhou nenhuma badge ainda!",
                 "new_badge": "Você acabou de ganhar uma Badge! O `auto_repl` auto_repl! Ele será exibido em seu perfil ao usarem o comando `/user info`\n\nVocê também pode fixar Badges em destaque com o comando `/badge fixar`!"
             },
             "counter": {
@@ -181,7 +196,8 @@
                 "anuncio_game_1": "O Game auto_repl está gratuito até o dia `auto_repl` por lá\n\nResgate antes da data para poupar `R$auto_repl` e garantir uma cópia em sua conta auto_repl",
                 "anuncio_game_2": "Os Games auto_repl estão gratuitos até o dia `auto_repl` por lá\n\nResgate todos antes da data para poupar `R$auto_repl` e garantir as cópias em sua conta auto_repl",
                 "anuncio_dlc_1": "A DLC auto_repl esta gratuita até o dia `auto_repl` por lá\n\nResgate antes da data para poupar `R$auto_repl` e garantir uma cópia em sua conta auto_repl",
-                "anuncio_dlc_2": "As DLC's auto_repl estão gratuitas até o dia `auto_repl` por lá\n\nResgate todas antes da data para poupar `R$auto_repl` e garantir cópias em sua conta auto_repl"
+                "anuncio_dlc_2": "As DLC's auto_repl estão gratuitas até o dia `auto_repl` por lá\n\nResgate todas antes da data para poupar `R$auto_repl` e garantir cópias em sua conta auto_repl",
+                "falta_vinculo": "É preciso configurar um canal e um cargo o comando </notify config:1018632996787589283> antes de poder ativar pelo painel."
             },
             "pula": {
                 "conteudo": "O 1° Jogo criado pelo Slondo!\nQuão longe você consegue correr? Teste agora mesmo!",
@@ -375,8 +391,29 @@
             },
             "painel": {
                 "cabecalho_menu": "> Painel de controle",
-                "descricao": "Controle as minhas funções usando os botões abaixo\n\nBotões verdes são de recursos ativados.\nBotões cinzas são de recursos desligados.",
-                "rodape": "Ative ou desative as minhas funções abaixo."
+                "descricao": "Controle as minhas funções usando os botões abaixo\n\n```✅ Botões verdes são de recursos ativados.\n⛔ Botões cinzas são de recursos desligados.```",
+                "rodape": "Ative ou desative as minhas funções abaixo.",
+                "desc_ghostmode": "Ao ativar, apenas você verá o retorno dos comandos /slash que usar!",
+                "desc_notificacoes": "Controle das notificações que te envio por DM.",
+                "desc_ranking": "Desligue para desativar o seu ganho de XP no meu ranking.",
+                "alonsal_falador": "Alonsal Falador",
+                "permitir_broadcast": "Permitir Broadcast",
+                "anuncio_games": "Anúncio de Games",
+                "denuncias_server": "Denúncias In-server",
+                "reports_externos": "Reports externos",
+                "log_eventos": "Log de eventos",
+                "anti_spam": "Anti-spam",
+                "visibilidade_global": "Visível Globalmente",
+                "misterioso": "Misterioso",
+                "desc_falador": "O Alonsal poderá responder outros usuários se incluirem seu nome em alguma mensagem",
+                "desc_broadcast": "Usuários do servidor podem conversar com o Slondo usando o Alonsal neste servidor através do comando`\n</broadcast:1114316224663396472>",
+                "desc_games": "O Alonsal enviará anúncios de jogos gratuitos automaticamente.",
+                "desc_denuncias": "Usuários podem usar o Alonsal para fazer denúncias dentro do próprio servidor.",
+                "desc_reports": "Reportes de usuários mau comportados serão enviados no servidor.",
+                "desc_logger": "Log de eventos do servidor.",
+                "desc_spam": "Mensagens que forem consideradas spam serão apagadas e o autor será castigado.",
+                "desc_global": "O Nome do servidor será exibido no comando`\n</rank global:1018609879562334383>",
+                "desc_misterioso": "Uma ceira misteriosa será incluida aqui futuramente"
             }
         },
         "mode": {
@@ -396,7 +433,14 @@
                 "ativos": "Ativos no momento",
                 "tipo_canal": "O canal definido precisa ser um canal de texto, tente novamente",
                 "ate_data": "até",
-                "resgate_dica": "Estes são os jogos disponíveis no momento\nResgate antes que expirem!"
+                "resgate_dica": "Estes são os jogos disponíveis no momento\nResgate antes que expirem!",
+                "config_titulo": "> Configurações de anúncios 🎮",
+                "config_descricao": "Ative ou cancele o módulo de anúncios de games.\n\nO Módulo de games enviará anúncios de jogos que estiverem de graça automaticamente no seu servidor, você pode ativar este módulo agora de duas formas, simplesmente ativando, ou o melhor deles, ativando e já disparando uma notificação com todos os games que estão gratuitos agora!\n\nSelecione uma das opções abaixo ou cancele para descartar as alterações.",
+                "configuracao": "Você precisa configurar um canal e um cargo para receber notificações de games gratuitos\nUtilize o comando </notify config:1018632996787589283> para configurar e ativar o módulo de games gratuitos.",
+                "anuncio_enviado_duplicatas": "Um novo anúncio foi enviado no auto_repl, o anúncio de games está ativo nesse servidor.\nVerifique o canal para confirmar se houve duplicatas de anúncios",
+                "anuncio_enviado": "Um novo anúncio foi enviado no auto_repl, o anúncio de games não está ativo neste servidor no momento.\nUtilize o painel do servidor para ativar o recurso, ou o comando </notify config:1018632996787589283> novamente.",
+                "cargo": "Cargo",
+                "idioma": "Idioma"
             },
             "canal": {
                 "canal": "Canal",
@@ -417,7 +461,8 @@
                 "canal_aberto": "Você já possui um canal de denúncia aberto!",
                 "canal_fechado": "Você não possui um canal de denúncia aberto!",
                 "fechando_canal": "Este canal será fechado auto_repl segundos, obrigado!",
-                "erro_1": "Houve um erro e não foi possível criar o canal no momento, por favor, tente novamente mais tarde"
+                "erro_1": "Houve um erro e não foi possível criar o canal no momento, por favor, tente novamente mais tarde",
+                "falta_vinculo": "É preciso configurar um canal com o comando </conf ticket:1094346210636214304> antes de poder ativar pelo painel."
             },
             "report": {
                 "reporte": "Reportes",
@@ -433,6 +478,7 @@
                 "sem_report": "Este usuário não possui reportes",
                 "com_report": "Este usuário possui alguns reportes de outros servidores",
                 "reportado": "> Reportar usuário",
+                "usuario": "Usuário",
                 "reportador": "Reportador",
                 "reportados": "Reportados",
                 "descricao_report": "Seu reporte irá adicionar o seguinte usuário a minha lista de mau comportados.\n\nVocê pode decidir se eu irei notificar outros servidores sobre essa inclusão, se irei adicionar ele em silêncio ou se deseja cancelar este reporte.",
@@ -444,7 +490,8 @@
                 "sem_usuarios": "Nenhum usuário foi adicionado, pois não possuem justificativa de banimento ou não há banimentos no servidor.",
                 "sem_reportes_guild": "Não há usuários que foram denúnciados externamente neste servidor!",
                 "identificador": "Identificador",
-                "rodape": "páginas, use /verify guild pagina:<num> para ver outras páginas"
+                "rodape": "páginas, use /verify guild pagina:<num> para ver outras páginas",
+                "falta_vinculo": "É preciso configurar uma categoria com o comando </conf report:1094346210636214304> antes de poder ativar pelo painel."
             },
             "xp": {
                 "permissao": "Você não pode gerenciar os membros deste servidor",
@@ -472,6 +519,10 @@
                 "ativo": "Agora as tarefas serão mostradas globalmente.\nVocê conseguirá ver todas as suas listas e tarefas em qualquer servidor em que eu também estiver!",
                 "desativo": "Agora as tarefas serão mostradas por servidor, separadamente.\nVocê poderá criar listas com o mesmo nome para servidores diferentes."
             },
+            "public": {
+                "ativado": "O nome do servidor será mostrado no ranking global para todos os servidores agora!",
+                "desativado": "O servidor não será mais mostrado no ranking global."
+            },
             "emojis": {
                 "permissao": "Não tenho permissão para gerenciar emojis e figurinhas neste servidor.",
                 "emoji": "Emoji",
@@ -490,6 +541,28 @@
                 "emoji_criado": "Emoji `auto_repl` criado com sucesso!",
                 "emoji_removido": "O emoji `auto_repl` foi removido do servidor!",
                 "figurinha_criada": "Figurinha `auto_repl` criada com sucesso!"
+            },
+            "broadcast": {
+                "desligado": "O Broadcast está desligado neste servidor.",
+                "canal_invalido": "Eu não posso enviar mensagens neste canal, não é possível iniciar um Broadcast aqui!",
+                "solicitando": "> Solicitando um Broadcast",
+                "descricao": "Clique abaixo para informar ao Solondo de que você quer fazer um Broadcast.\n\nAo solicitar um Broadcast, o Solondo poderá visualizar o ID deste chat e se conectar para conversar com você de forma remota através de mim!\nTodas as mensagens que forem enviadas neste canal, poderão ser vistas pelo Solondo também.\n\nÉ possível anexar imagens e arquivos no chat também! (aqui tem muita tecnologia)\n\nCaso você desative o Broadcast do servidor, ou o Solondo fique 5 minutos offline, este vinculo será automaticamente desligado.",
+                "solicitacao_aberta": "Uma nova solicitação de Broadcast foi aberta",
+                "solicitante": "Solicitante",
+                "nova_solicitacao": "> Nova solicitação de Broadcast!",
+                "pedido_registrado": "Seu pedido de Broadcast foi registrado!",
+                "ativado_button": "Agora é possível realizar Broadcasts neste servidor.",
+                "desativado_button": "O Broadcast entre servidores foi desligado."
+            },
+            "logger": {
+                "ativado": "O log de eventos do servidor agora está ativo, todos os eventos serão enviados no canal auto_repl",
+                "desativado": "O log de eventos do servidor agora está desativado\nUse o </panel guild:1107163338930126869>, ou o comando </conf log:1094346210636214304> mencionando um canal para ativar novamente!",
+                "falta_vinculo": "É preciso configurar um canal com o comando </conf log:1094346210636214304> antes de poder ativar pelo painel."
+            },
+            "spam": {
+                "titulo": "> Prevenção de Spam",
+                "ativado": "O módulo anti-spam foi ativado! auto_repl\nO Canal mencionado será usado para o logger ( </conf log:1094346210636214304> ) também caso ele seja ativado.\n\nSe você usar o comando do logger mencionando um outro canal, o anti-spam enviará todos os relatórios no mesmo canal do logger, e vice-versa\n(ambos os módulos utilizam o mesmo canal auto_repl )",
+                "desativado": "O módulo anti-spam foi desativado."
             }
         },
         "util": {
@@ -528,6 +601,7 @@
                 "download_icon": "Clique no botão abaixo para baixar o icone",
                 "sem_avatar": "Este usuário não possui um avatar customizado!",
                 "sem_banner": "Este usuário não possui um banner customizado!",
+                "sem_icone": "O servidor não possui um icone customizado!",
                 "error_1": "Não foi possível buscar este avatar no momento, tente novamente mais tarde"
             },
             "reverso": {
@@ -579,7 +653,8 @@
                 "termino_hoje": ", termina hoje",
                 "equador": "Este local esta próximo da linha do equador, a estação atual pode não refletir seu clima atual",
                 "new_link": "Agora usarei sua entrada ( `auto_repl` ) como padrão de pesquisa no comando </weather:1018653229128622187>!\nUse o comando </link locale:1020561785620803674> novamente caso queira mudar de local fixado",
-                "error_locale": "Não há um local padrão definido, use o comando </link locale:1020561785620803674> para definir um, ou use o comando </weather:1018653229128622187> novamente informando um valor de entrada"
+                "error_locale": "Não há um local padrão definido, use o comando </link locale:1020561785620803674> para definir um, ou use o comando </weather:1018653229128622187> novamente informando um valor de entrada",
+                "sem_local": "Não encontrei nenhum local com este nome, por favor, tente novamente."
             },
             "minecraft": {
                 "nao_encontrado": "Não encontrei nenhum item ou bloco com o nome",
@@ -697,7 +772,25 @@
             "calc": {
                 "aviso_1": "Informe pelo menos uma operação básica para calcular",
                 "resultado": "Resultado",
-                "error": "Deu pt aq ao processar essa budega"
+                "error": "Deu pt aq ao processar essa budega",
+                "resultados": "> Resultados",
+                "etapas_entrada": "Etapas\n\nEntrada,",
+                "formula_ajustada": "Fórmula ajustada",
+                "formulas_abaixo": "Após descobrir o raio, aplica-se as fórmulas abaixo",
+                "formula_diametro": "Fórmula do diâmetro",
+                "formula_perimetro": "Fórmula do perímetro",
+                "formula_area": "Fórmula da área",
+                "formula": "Fórmula",
+                "na_conta": "Na conta",
+                "tirar_raiz": "Após, retiramos a raiz quadrada desse valor.\nSendo",
+                "ajustar_diametro": "É necessário ajustar a fórmula do diâmetro para descobrir o raio.",
+                "ajustar_perimetro": "É necessário ajustar a fórmula do perímetro para descobrir o raio.",
+                "ajustar_area": "É necessário ajustar a fórmula da área para descobrir o raio.",
+                "isolase_raio": "isola-se o raio",
+                "diametro": "Diâmetro",
+                "perimetro": "Perímetro",
+                "raio": "Raio",
+                "area": "Área"
             },
             "password": {
                 "primaria": "Senha primária",
@@ -754,6 +847,7 @@
                 "sem_tarefa": "Você não possui nenhuma tarefa criada! Crie alguma para poder usar este comando.",
                 "sem_tarefa_l": "Não há nenhuma tarefa anexada à essa lista ainda!",
                 "sem_lista": "Você não possui nenhuma lista criada! Crie alguma para poder usar este comando.",
+                "sem_lista_v": "Sem lista",
                 "sem_lista_r": "Você não possui nenhuma lista para poder excluir!",
                 "sem_lista_n": "Você não possui nenhuma lista para poder navegar!",
                 "lista_confirmar_exclusao": "Você está prestes a apagar esta lista e confirmar a exclusão de outras `auto_repl` tarefas\nSelecione os botões abaixo para cancelar ou prosseguir a operação.",
@@ -785,6 +879,8 @@
                 "ativar": "Ativar",
                 "completo": "Completo",
                 "resumido": "Resumido",
+                "solicitar": "Solicitar",
+                "ativar_anunciando": "Ativar e anunciar",
                 "definir_retorno": "Definir retorno",
                 "marcar_concluida": "Marcar como concluída",
                 "alterar_de_lista": "Alterar de lista",
@@ -794,13 +890,23 @@
                 "apenas_confirmar": "Adicionar silenciosamente",
                 "selecionar_operacao": "Selecione a operação desejada nos botões abaixo.",
                 "operacao_cancelada": "Operação cancelada!",
-                "navegador": "Abrir no navegador"
+                "mais_detalhes": "Ver mais detalhes",
+                "navegador": "Abrir no navegador",
+                "perfil": "Perfil",
+                "permissoes": "Permissões",
+                "historico": "Histórico",
+                "customizar_informacoes": "Customizar informações",
+                "remover_sobre": "Remover sobre",
+                "perfil_atualizado": "Seu perfil foi atualizado!",
+                "escolha_abaixo_customizar_perfil": "Escolha uma das opções abaixo para customizar seu perfil",
+                "comando_desatualizado": "Este comando está desatualizado! Por favor, use o mesmo novamente."
             },
             "menus": {
                 "selecionar_operacao": "Selecione a operação desejada abaixo",
                 "criador_menu": "Parado aí! Esse menu só pode ser usado pelo autor do comando!",
                 "criador_botoes": "Parado aí! Esses botões só podem ser usados pelo autor do comando!",
-                "escolha_mais_detalhes": "Escolha para ver mais informações"
+                "escolha_mais_detalhes": "Escolha para ver mais informações",
+                "escolher_frase": "Escolha uma das frases abaixo!"
             }
         },
         "modu": {

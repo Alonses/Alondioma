@@ -375,7 +375,7 @@
             },
             "painel": {
                 "cabecalho_menu": "> Panneau de commande",
-                "descricao": "Contrôlez mes fonctions à l'aide des boutons ci-dessous\n\nLes boutons verts sont des fonctionnalités activées.\nLes boutons gris sont des fonctionnalités désactivées.",
+                "descricao": "Contrôlez mes fonctions à l'aide des boutons ci-dessous\n\n```✅ Les boutons verts sont des fonctionnalités activées.\n⛔ Les boutons gris sont des fonctionnalités désactivées.```",
                 "rodape": "Activez ou désactivez mes fonctions ci-dessous."
             }
         },

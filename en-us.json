@@ -375,7 +375,7 @@
             },
             "painel": {
                 "cabecalho_menu": "> Control Panel",
-                "descricao": "Control my functions using the buttons below\n\nGreen buttons are features on.\nGray buttons are features off.",
+                "descricao": "Control my functions using the buttons below\n\n```✅ Green buttons are features on.\n⛔ Gray buttons are features off.```",
                 "rodape": "Enable or disable my functions below."
             }
         },

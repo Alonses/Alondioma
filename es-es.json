@@ -368,7 +368,7 @@
             },
             "painel": {
                 "cabecalho_menu": "> Panel de control",
-                "descricao": "Controla mis funciones usando los botones a continuación\n\nLos botones verdes son funciones activadas.\nLos botones grises son funciones desactivadas.",
+                "descricao": "Controla mis funciones usando los botones a continuación\n\n```✅ Los botones verdes son funciones activadas.\n⛔ Los botones grises son funciones desactivadas.```",
                 "rodape": "Habilitar o deshabilitar mis funciones a continuación."
             }
         },
