@@ -390,8 +390,9 @@
                 "descricao": "Me ajude a traduzir e melhorar traduções, ou adicionar novos idiomas pelo repositório do Alondioma!\n\nNovos idiomas são sempre bem vindos, e a correção de alguns termos é essencial para a boa compreensão e uso amigável alonsês"
             },
             "painel": {
-                "cabecalho_menu": "> Painel de controle",
-                "descricao": "Controle as minhas funções usando os botões abaixo\n```✅ Botões verdes são de recursos ativados.\n⛔ Botões cinzas são de recursos desligados.```\n\n",
+                "cabecalho_menu_pessoal": "> Painel de controle pessoal",
+                "cabecalho_menu_servidor": "> Painel de controle do servidor",
+                "descricao": "Controle as minhas funções usando os botões abaixo\n```✅ Botões verdes são de recursos ativados.\n⛔ Botões cinzas são de recursos desligados.```",
                 "rodape": "Ative ou desative as minhas funções abaixo.",
                 "desc_ghostmode": "Ao ativar, apenas você verá o retorno dos comandos /slash que usar!",
                 "desc_notificacoes": "Controle das notificações que te envio por DM.",
@@ -406,14 +407,14 @@
                 "visibilidade_global": "Visível Globalmente",
                 "misterioso": "Misterioso",
                 "desc_falador": "O Alonsal poderá responder outros usuários se incluirem seu nome em alguma mensagem",
-                "desc_broadcast": "Usuários do servidor podem conversar com o Slondo usando o Alonsal neste servidor através do comando`\n</broadcast:1114316224663396472>",
+                "desc_broadcast": "`Usuários do servidor podem conversar com o Slondo usando o Alonsal neste servidor através do comando`\n</broadcast:1114316224663396472>",
                 "desc_games": "O Alonsal enviará anúncios de jogos gratuitos automaticamente.",
                 "desc_denuncias": "Usuários podem usar o Alonsal para fazer denúncias dentro do próprio servidor.",
                 "desc_reports": "Reportes de usuários mau comportados serão enviados no servidor.",
                 "desc_logger": "Log de eventos do servidor.",
                 "desc_spam": "Mensagens que forem consideradas spam serão apagadas e o autor será castigado.",
-                "desc_global": "O Nome do servidor será exibido no comando`\n</rank global:1018609879562334383>",
-                "desc_misterioso": "Uma ceira misteriosa será incluida aqui futuramente"
+                "desc_global": "`O Nome do servidor será exibido no comando`\n</rank global:1018609879562334383>",
+                "desc_misterioso": "Uma ceira misteriosa será inclusa aqui em breve"
             }
         },
         "mode": {
