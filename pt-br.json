@@ -368,9 +368,9 @@
                     }
                 },
                 "causes": {
-                    "1": "Sua informação do locale ( usado no comando /tempo ) será removida",
+                    "1": "Sua informação de local ( usado no comando /tempo ) será removida",
                     "2": "Seus Links de redes externas serão removidos",
-                    "3": "Seus embeds perderam as cores customizadas",
+                    "3": "Seus embeds perderão as cores customizadas",
                     "4": "Sua Badge fixada será removida",
                     "5": "Seu ranking em servidores desconhecidos será apagado",
                     "6": "Seu ranking do servidor atual será apagado",
@@ -391,7 +391,7 @@
             },
             "painel": {
                 "cabecalho_menu": "> Painel de controle",
-                "descricao": "Controle as minhas funções usando os botões abaixo\n\n```✅ Botões verdes são de recursos ativados.\n⛔ Botões cinzas são de recursos desligados.```",
+                "descricao": "Controle as minhas funções usando os botões abaixo\n```✅ Botões verdes são de recursos ativados.\n⛔ Botões cinzas são de recursos desligados.```\n",
                 "rodape": "Ative ou desative as minhas funções abaixo.",
                 "desc_ghostmode": "Ao ativar, apenas você verá o retorno dos comandos /slash que usar!",
                 "desc_notificacoes": "Controle das notificações que te envio por DM.",
