@@ -15,7 +15,7 @@
             "ping": {
                 "titulo": "> Oh, fammi passare! :notes:",
                 "boas_vindas": "Ehi! Grazie per avermi aggiunto al server!\n\nLascio il mio sito Web allegato di seguito, con tutti i comandi se necessario ;D",
-                "idioma_dica": "Non parli italiano? Nessun problema! Cambia subito la mia lingua con il comando </language:1018632996787589284>!",
+                "idioma_dica": "Do not speak Italian? No problems! Change my language right now with the </language:1018632996787589284> command!",
                 "site": "Il sito web di Alonsal"
             }
         },
@@ -88,7 +88,7 @@
                 "movimentacoes": "Le tue ultime transazioni bancarie",
                 "daily": "Ricevuto da /daily",
                 "nivel": "Bonus per salire di livello",
-                "nivel_descricao": "Você subiu de nível!\nComo recompensa, foram creditadas `B$ 250` Bufunfas em sua conta, use o comando </bank statement:1020854564657844234> para verificar seu histórico de transações.",
+                "nivel_descricao": "Sei salito di livello!\nCome ricompensa, `B$250` Bufunfas sono stati accreditati sul tuo conto, usa il comando </bank statement:1020854564657844234> per controllare la cronologia delle tue transazioni.\n\n||Do not speak Italian? No problems! Change my language right now with the </language:1018632996787589284> command!||",
                 "modulos": "Manutenzione del modulo auto_repl",
                 "cor_perfil": "Personalizzazione del profilo (colore)",
                 "deposito_enviado": "Deposito inviato a auto_repl",

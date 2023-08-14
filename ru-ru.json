@@ -15,7 +15,7 @@
             "ping": {
                 "titulo": "> О, уступи мне дорогу :notes:",
                 "boas_vindas": "Привет! Спасибо, что добавили меня на сервер!\n\n Ниже я прикрепляю свой веб-сайт со всеми командами, если это необходимо. ;D",
-                "idioma_dica": "Не говорите по-португальски? Без проблем! Измените мой язык прямо сейчас с помощью </language:1018632996787589284>!",
+                "idioma_dica": "Do not speak Russian? No problems! Change my language right now with the </language:1018632996787589284> command!",
                 "site": "сайт"
             }
         },
@@ -89,7 +89,7 @@
                 "movimentacoes": "Ваши последние банковские операции",
                 "daily": "Получено от /daily",
                 "nivel": "Бонус за повышение уровня",
-                "nivel_descricao": "Вы повысили уровень!\nВаша учетная запись была зачислена в качестве награды за `B$ 250` Bufunfas. Используйте команду </bank statement:1020854564657844234>, чтобы проверить историю транзакций.",
+                "nivel_descricao": "Вы повысили уровень!\nВаша учетная запись была зачислена в качестве награды за `B$ 250` Bufunfas. Используйте команду </bank statement:1020854564657844234>, чтобы проверить историю транзакций.\n\n||Do not speak Russian? No problems! Change my language right now with the </language:1018632996787589284> command!||",
                 "modulos": "Обслуживание модуля auto_repl",
                 "cor_perfil": "Настройка профиля (цвет)",
                 "deposito_enviado": "депозит отправлен на auto_repl",
