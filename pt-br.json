@@ -17,6 +17,13 @@
                 "boas_vindas": "Olá! Obrigado por me adicionar ao servidor!\n\nDeixo em anexo abaixo o meu site, com todos os comandos caso necessário ;D",
                 "idioma_dica": "Do not speak Portuguese? No problems! Change my language right now with the </language:1018632996787589284> command!",
                 "site": "Site Alonsal"
+            },
+            "vote": {
+                "titulo": "> Vote no próximo idioma do Alonsal!",
+                "descricao": "***O Idioma que receber mais votos será adicionado!***\n\nQual você escolherá? Qual você gostaria de ver por aqui?\n\nAjude ele a ganhar! auto_repl auto_repl\nVote nos botões abaixo antes de",
+                "rodape": "O voto é por usuário, você pode alterar o seu voto no decorrer da votação!",
+                "voto_registrado": "Seu voto foi registrado! :flag_auto_repl: :flag_auto_repl: :flag_auto_repl:\n:mailbox: | Você pode alterar seu voto a qualquer momento clicando novamente!",
+                "badge_concedida": "Você ganhou uma badge nova por ter votado!!! A auto_repl `auto_repl`, você pode fixar ela no seu perfil e nos rankings com o comando"
             }
         },
         "misc": {

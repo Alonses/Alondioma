@@ -17,6 +17,13 @@
                 "boas_vindas": "Hi! Thanks for adding me to the server!\n\nI leave my website attached below, with all the commands if necessary ;D",
                 "idioma_dica": "Não fala Inglês? Sem problemas! Mude meu idioma agora mesmo com o comando </language:1018632996787589284>!",
                 "site": "Alonsal Website"
+            },
+            "vote": {
+                "titulo": "> Vote for Alonsal's next language!",
+                "descricao": "***The language that receives the most votes will be added!***\n\nWhich one will you choose? What would you like to see here?\n\nHelp him win! auto_repl auto_repl\nVote using the buttons below before",
+                "rodape": "The vote is per user, you can change your vote during the voting!",
+                "voto_registrado": "Your vote has been recorded! :flag_auto_repl: :flag_auto_repl: :flag_auto_repl:\n:mailbox: | You can change your vote at any time by clicking again!",
+                "badge_concedida": "You got a new badge for voting!!! The auto_repl `auto_repl`, you can pin it to your profile and rankings with the command"
             }
         },
         "misc": {
