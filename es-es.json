@@ -23,7 +23,9 @@
                 "descricao": "***¡Se agregará el idioma que reciba más votos!***\n\n¿Cuál elegirás? ¿Qué te gustaría ver por aquí?\n\n¡Ayúdalo a ganar! auto_repl auto_repl\nVota por los botones de abajo antes de",
                 "rodape": "¡El voto es por usuario, puede cambiar su voto durante la votación!",
                 "voto_registrado": "¡Tu voto ha sido guardado! :flag_auto_repl: :flag_auto_repl: :flag_auto_repl:\n:buzón: | ¡Puedes cambiar tu voto en cualquier momento haciendo clic de nuevo!",
-                "badge_concedida": "¡Te has ganado una insignia por contribuir! El auto_repl `auto_repl`, puede anclarlo a su perfil y calificaciones con el comando"
+                "badge_concedida": "¡Te has ganado una insignia por contribuir! El auto_repl `auto_repl`, puede anclarlo a su perfil y calificaciones con el comando",
+                "encerrada": "¡La votación ha terminado! Ya no es posible votar...",
+                "encerrada_votador": "¡Gracias por votar!"
             }
         },
         "misc": {

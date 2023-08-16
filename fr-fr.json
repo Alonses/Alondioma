@@ -10,7 +10,7 @@
                 "epic_embed_fail": "Une erreur s'est produite lors de l'exécution de cette commande, j'ai prévenu l'équipe d'éliminer ce baidu au plus vite. mes excuses pour le derangement",
                 "develop": "Cette commande n'est pas encore prête! Attendez encore un peu...",
                 "comando_dm": "Les commandes DM ne sont pas actives :spy:",
-                "comando_restrito": "Arrête toi là! Vous ne pouvez pas utiliser cette commande !"
+                "comando_restrito": "Arrête toi là! Vous ne pouvez pas utiliser cette commande!"
             },
             "ping": {
                 "titulo": "> Oh emmène-moi à traaveeers :notes:",
@@ -23,7 +23,9 @@
                 "descricao": "***La langue qui recevra le plus de votes sera ajoutée!***\n\nLaquelle choisirez-vous? Qu'aimeriez-vous voir par ici?\n\nAidez-le à gagner! auto_repl auto_repl\nVotez pour les boutons ci-dessous avant",
                 "rodape": "Le vote est par utilisateur, vous pouvez modifier votre vote en votant!",
                 "voto_registrado": "Votre vote a été enregistré! :flag_auto_repl: :flag_auto_repl: :flag_auto_repl:\n:mailbox: | Vous pouvez modifier votre vote à tout moment en cliquant à nouveau!",
-                "badge_concedida": "Vous avez un nouveau badge!!! L'auto_repl `auto_repl`, vous pouvez l'épingler à votre profil et à vos classements avec la commande"
+                "badge_concedida": "Vous avez un nouveau badge!!! L'auto_repl `auto_repl`, vous pouvez l'épingler à votre profil et à vos classements avec la commande",
+                "encerrada": "Le vote est terminé! Il n'est plus possible de voter...",
+                "encerrada_votador": "Merci d'avoir voté!"
             }
         },
         "misc": {

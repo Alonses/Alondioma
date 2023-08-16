@@ -23,7 +23,9 @@
                 "descricao": "***The language that receives the most votes will be added!***\n\nWhich one will you choose? What would you like to see here?\n\nHelp him win! auto_repl auto_repl\nVote using the buttons below before",
                 "rodape": "The vote is per user, you can change your vote during the voting!",
                 "voto_registrado": "Your vote has been recorded! :flag_auto_repl: :flag_auto_repl: :flag_auto_repl:\n:mailbox: | You can change your vote at any time by clicking again!",
-                "badge_concedida": "You got a new badge for voting!!! The auto_repl `auto_repl`, you can pin it to your profile and rankings with the command"
+                "badge_concedida": "You got a new badge for voting!!! The auto_repl `auto_repl`, you can pin it to your profile and rankings with the command",
+                "encerrada": "Voting has ended! It is no longer possible to vote...",
+                "encerrada_votador": "Thanks for voting!"
             }
         },
         "misc": {
