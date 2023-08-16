@@ -97,7 +97,7 @@
                 "daily": "Reçu de /daily",
                 "nivel": "Bonus pour monter de niveau",
                 "nivel_descricao": "Vous avez gagné un niveau!\nComme récompense, `B$ 250` Bufunfas ont été crédités sur votre compte, utilisez la commande </bank statement:1020854564657844234> pour vérifier l'historique de vos transactions.\n\n||Do not speak French? No problems! Change my language right now with the </language:1018632996787589284> command!||",
-                "modulos": "Entretien des modules auto_repl",
+                "modulos": "Entretien des modules (auto_repl)",
                 "cor_perfil": "Personnalisation du profil (couleur)",
                 "deposito_enviado": "Dépôt envoyé à auto_repl",
                 "deposito_recebido": "Acompte reçu de auto_repl",

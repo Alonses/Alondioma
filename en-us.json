@@ -97,7 +97,7 @@
                 "daily": "Received from /daily",
                 "nivel": "Bonus for leveling up",
                 "nivel_descricao": "You've leveled up!\nAs a reward, `B$ 250` Bufunfas has been credited to your account, use the command </bank statement:1020854564657844234> to check your transaction history.",
-                "modulos": "Module maintenance auto_repl",
+                "modulos": "Module maintenance (auto_repl)",
                 "cor_perfil": "Profile customization (color)",
                 "deposito_enviado": "Deposit sent to auto_repl",
                 "deposito_recebido": "Deposit received from auto_repl",
