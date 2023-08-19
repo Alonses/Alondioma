@@ -24,8 +24,12 @@
                 "rodape": "O voto é por usuário, você pode alterar o seu voto no decorrer da votação!",
                 "voto_registrado": "Seu voto foi registrado! :flag_auto_repl: :flag_auto_repl: :flag_auto_repl:\n:mailbox: | Você pode alterar seu voto a qualquer momento clicando novamente!",
                 "badge_concedida": "Você ganhou uma badge nova por ter votado!!! A auto_repl `auto_repl`, você pode fixar ela no seu perfil e nos rankings com o comando",
-                "encerrada": "A votação foi encerrada! Não é mais possível voltar...",
-                "encerrada_votador": "Obrigado por ter votado!"
+                "encerrada": "A votação foi encerrada! Não é mais possível votar...",
+                "rodape_encerrado": "Essa votação se encerrou! Obrigado a todos que participaram!!",
+                "encerrada_votador": "Obrigado por ter votado!",
+                "votacao_encerrada_1": "***Essa votação se encontra encerrada!***\n\nUm muito obrigado a todos que participaram!\nRecebemos `auto_repl` votos enquanto a votação estava aberta!\nAos participantes, agora vocês possuem a badge auto_repl `Voter`!",
+                "votacao_encerrada_2": "**Com `auto_repl` votos, o idioma que recebeu mais votos foi o auto_repl!!! auto_repl auto_repl**\nEle será adicionado totalmente ao Alonsal nos próximos dias!\nUse o comando </language:1018632996787589284> a qualquer momento para alterar o seu!",
+                "votacao_encerrada_3": "Às <t:1692462600:f> ( <t:1692462600:R> )\nesse card será atualizado com o vencedor!"
             }
         },
         "misc": {
