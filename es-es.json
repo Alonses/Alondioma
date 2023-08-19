@@ -25,7 +25,10 @@
                 "voto_registrado": "¡Tu voto ha sido guardado! :flag_auto_repl: :flag_auto_repl: :flag_auto_repl:\n:buzón: | ¡Puedes cambiar tu voto en cualquier momento haciendo clic de nuevo!",
                 "badge_concedida": "¡Te has ganado una insignia por contribuir! El auto_repl `auto_repl`, puede anclarlo a su perfil y calificaciones con el comando",
                 "encerrada": "¡La votación ha terminado! Ya no es posible votar...",
-                "encerrada_votador": "¡Gracias por votar!"
+                "encerrada_votador": "¡Gracias por votar!",
+                "rodape_encerrado": "¡Esta encuesta ha terminado! ¡¡Gracias a todos los que participaron!!",
+                "votacao_encerrada_1": "***¡Esta encuesta ya está cerrada! ***\n\n¡Muchas gracias a todos los que participaron!\n¡Recibimos `auto_repl` votos mientras la encuesta estaba abierta!\nPara los participantes, ahora tienen la insignia auto_repl `Voter`!",
+                "votacao_encerrada_2": "**Con `auto_repl` votos, el idioma que recibió más votos fue auto_repl!!! auto_repl auto_repl**\n¡Se agregará por completo a Alonsal en los próximos días!\nUse el comando </language:1018632996787589284> en cualquier momento para cambiar el suyo."
             }
         },
         "misc": {

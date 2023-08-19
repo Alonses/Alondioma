@@ -25,7 +25,11 @@
                 "voto_registrado": "Your vote has been recorded! :flag_auto_repl: :flag_auto_repl: :flag_auto_repl:\n:mailbox: | You can change your vote at any time by clicking again!",
                 "badge_concedida": "You got a new badge for voting!!! The auto_repl `auto_repl`, you can pin it to your profile and rankings with the command",
                 "encerrada": "Voting has ended! It is no longer possible to vote...",
-                "encerrada_votador": "Thanks for voting!"
+                "encerrada_votador": "Thanks for voting!",
+                "rodape_encerrado": "This poll has been closed! Thanks to everyone who participated!!",
+                "votacao_encerrada_1": "***This poll is now closed!***\n\nMany thanks to everyone who participated!\nWe received `auto_repl` votes while the poll was open!\nTo the participants, you now have the auto_repl `Voter` badge!",
+                "votacao_encerrada_2": "**With `auto_repl` votes, the language that received the most votes was auto_repl!!! auto_repl auto_repl**\nIt will be added fully to Alonsal in the coming days!\nUse the command </language:1018632996787589284> anytime to change yours!"
+
             }
         },
         "misc": {

@@ -25,7 +25,10 @@
                 "voto_registrado": "Il tuo voto è stato registrato! :flag_auto_repl: :flag_auto_repl: :flag_auto_repl:\n:cassetta postale: | Puoi cambiare il tuo voto in qualsiasi momento cliccando di nuovo!",
                 "badge_concedida": "Hai vinto un nuovo badge!!! L'auto_repl `auto_repl`, puoi aggiungerlo al tuo profilo e alle tue valutazioni con il comando",
                 "encerrada": "Il voto è finito! Non otteniamo più voti",
-                "encerrada_votador": "Grazie per aver votato!"
+                "encerrada_votador": "Grazie per aver votato!",
+                "rodape_encerrado": "Questo sondaggio è terminato! Grazie a tutti coloro che hanno partecipato!!",
+                "votacao_encerrada_1": "***Questo sondaggio è chiuso!***\n\nGrazie mille a tutti coloro che hanno partecipato!\nAbbiamo ricevuto `auto_repl` voti mentre il sondaggio era aperto!\nPer i partecipanti, ora hai il badge auto_repl `Voter`!",
+                "votacao_encerrada_2": "**Con `auto_repl` voti, la lingua che ha ricevuto il maggior numero di voti è stata auto_repl!!! auto_repl auto_repl**\nSarà aggiunto completamente ad Alonsal nei prossimi giorni!\nUsa il comando </language:1018632996787589284> in qualsiasi momento per cambiare il tuo!!"
             }
         },
         "misc": {
