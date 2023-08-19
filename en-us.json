@@ -206,10 +206,10 @@
         "game": {
             "anuncio": {
                 "link_app": "Open in auto_repl app",
-                "anuncio_game_1": "The Game `auto_repl`_ it's free until the day `auto_repl` over there\n\nRedeem it before date to save `R$auto_repl` and get a copy in your auto_repl account",
-                "anuncio_game_2": "The Games auto_repl are free until the day `auto_repl over there\n\nRedeem all before date to save `R$auto_repl` and get a copy in your auto_repl account",
-                "anuncio_dlc_1": "The DLC `auto_repl` it's free until the day `auto_repl` over there\n\nRedeem it before date to save `R$auto_repl` and get a copy in your auto_repl account",
-                "anuncio_dlc_2": "The DLC's auto_repl are free until the day `auto_repl` over there\n\nRedeem both before date to save `R$auto_repl` and get a copy in your auto_repl account",
+                "anuncio_game_1": "The Game `auto_repl`_ it's free until the day `auto_repl` over there\n\nRedeem it before date to save `R$ auto_repl` and get a copy in your auto_repl account",
+                "anuncio_game_2": "The Games auto_repl are free until the day `auto_repl` over there\n\nRedeem all before date to save `R$ auto_repl` and get a copy in your auto_repl account",
+                "anuncio_dlc_1": "The DLC `auto_repl` it's free until the day `auto_repl` over there\n\nRedeem it before date to save `R$ auto_repl` and get a copy in your auto_repl account",
+                "anuncio_dlc_2": "The DLC's auto_repl are free until the day `auto_repl` over there\n\nRedeem both before date to save `R$ auto_repl` and get a copy in your auto_repl account",
                 "falta_vinculo": "A channel and role must be configured with the </notify config:1018632996787589283> command before being able to activate via the panel."
             },
             "pula": {
@@ -442,6 +442,7 @@
             },
             "anuncio": {
                 "permissao": "You cannot use this command as you cannot `manage channels` from the server!",
+                "permissao_envio": "I don't have permission to post messages on this channel, please check my permissions and try again.",
                 "anuncio_games": "From now on, the auto_repl channel will receive updates when free games are available\nUse the command without parameters to disable these updates.",
                 "anuncio_off": "Game notifications turned off for this server",
                 "ativos": "Currently active",

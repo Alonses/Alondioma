@@ -205,10 +205,10 @@
         "game": {
             "anuncio": {
                 "link_app": "Apri nell'app auto_repl",
-                "anuncio_game_1": "Il gioco auto_repl è gratuito fino a `auto_repl` lì\n\nRiscattalo prima della data per salvare `R$auto_repl` e garantirne una copia nel tuo account auto_repl",
+                "anuncio_game_1": "Il gioco auto_repl è gratuito fino a `auto_repl` lì\n\nRiscattalo prima della data per salvare `R$ auto_repl` e garantirne una copia nel tuo account auto_repl",
                 "anuncio_game_2": "I giochi auto_repl sono gratuiti fino a `auto_repl` lì\n\nRiscatta tutto prima della data per salvare `R$ auto_repl` e proteggere le copie nel tuo account auto_repl",
-                "anuncio_dlc_1": "Il DLC auto_repl è gratuito fino a `auto_repl` lì\n\nRiscattalo prima della data per salvare `R$auto_repl` e garantirne una copia nel tuo account auto_repl",
-                "anuncio_dlc_2": "I DLC auto_repl sono gratuiti fino a `auto_repl` lì\n\nRiscattali tutti prima della data per salvare `R$auto_repl` e garantirne le copie nel tuo account auto_repl",
+                "anuncio_dlc_1": "Il DLC auto_repl è gratuito fino a `auto_repl` lì\n\nRiscattalo prima della data per salvare `R$ auto_repl` e garantirne una copia nel tuo account auto_repl",
+                "anuncio_dlc_2": "I DLC auto_repl sono gratuiti fino a `auto_repl` lì\n\nRiscattali tutti prima della data per salvare `R$ auto_repl` e garantirne le copie nel tuo account auto_repl",
                 "falta_vinculo": "Un canale e un ruolo devono essere configurati con il comando </notify config:1018632996787589283> prima di poterlo attivare tramite il pannello."
             },
             "pula": {
@@ -440,6 +440,7 @@
             },
             "anuncio": {
                 "permissao": "Non puoi usare questo comando in quanto non puoi `gestire i canali` dal server!",
+                "permissao_envio": "Non sono autorizzato a postare su questo canale, controlla i miei permessi e riprova.",
                 "anuncio_games": "D'ora in poi il canale auto_repl riceverà aggiornamenti quando saranno disponibili giochi gratuiti\nUtilizza il comando senza parametri per rimuovere gli aggiornamenti",
                 "anuncio_off": "Annunci di gioco disabilitati per questo server",
                 "ativos": "Attualmente attivo",

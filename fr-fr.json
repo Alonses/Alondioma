@@ -206,10 +206,10 @@
         "game": {
             "anuncio": {
                 "link_app": "Ouvrir dans l'application auto_repl",
-                "anuncio_game_1": "Le jeu auto_repl est gratuit jusqu'à `auto_repl` ici\n\nUtilisez-le avant la date pour enregistrer `R$auto_repl` et garantir une copie dans votre compte auto_repl",
-                "anuncio_game_2": "Les jeux auto_repl sont gratuits jusqu'à `auto_repl`\n\nÉchangez-les tous avant la date pour économiser `R$auto_repl` et garantir des copies dans votre compte auto_repl",
-                "anuncio_dlc_1": "Le DLC auto_repl est gratuit jusqu'à `auto_repl` ici\n\nUtilisez-le avant la date pour enregistrer `R$auto_repl` et garantir une copie dans votre compte auto_repl",
-                "anuncio_dlc_2": "Les DLC auto_repl sont gratuits jusqu'à `auto_repl` ici\n\nÉchangez-les tous avant la date pour économiser `R$auto_repl` et garantir des copies dans votre compte auto_repl",
+                "anuncio_game_1": "Le jeu auto_repl est gratuit jusqu'à `auto_repl` ici\n\nUtilisez-le avant la date pour enregistrer `R$ auto_repl` et garantir une copie dans votre compte auto_repl",
+                "anuncio_game_2": "Les jeux auto_repl sont gratuits jusqu'à `auto_repl`\n\nÉchangez-les tous avant la date pour économiser `R$ auto_repl` et garantir des copies dans votre compte auto_repl",
+                "anuncio_dlc_1": "Le DLC auto_repl est gratuit jusqu'à `auto_repl` ici\n\nUtilisez-le avant la date pour enregistrer `R$ auto_repl` et garantir une copie dans votre compte auto_repl",
+                "anuncio_dlc_2": "Les DLC auto_repl sont gratuits jusqu'à `auto_repl` ici\n\nÉchangez-les tous avant la date pour économiser `R$ auto_repl` et garantir des copies dans votre compte auto_repl",
                 "falta_vinculo": "Un canal et un rôle doivent être configurés avec la commande </notify config:1018632996787589283> avant de pouvoir être activés via le panneau."
             },
             "pula": {
@@ -442,6 +442,7 @@
             },
             "anuncio": {
                 "permissao": "Vous ne pouvez pas utiliser cette commande car vous ne pouvez pas `gérer les chaînes` depuis le serveur!",
+                "permissao_envio": "Je n'ai pas l'autorisation de publier des messages sur cette chaîne, veuillez vérifier mes autorisations et réessayer.",
                 "anuncio_games": "À partir de maintenant, cette auto_repl chaîne recevra des mises à jour lorsque des jeux gratuits seront disponibles\nUtilisez la commande sans paramètres pour supprimer les mises à jour.",
                 "anuncio_off": "Notifications de jeu désactivées pour cette serveur",
                 "ativos": "Actuellement actif",

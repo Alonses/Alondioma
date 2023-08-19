@@ -196,10 +196,10 @@
         "game": {
             "anuncio": {
                 "link_app": "Abrir en la aplicación auto_repl",
-                "anuncio_game_1": "El juego auto_repl es gratuito hasta `auto_repl` allí\n\nCanjear antes de la fecha para guardar `R$auto_repl` y asegurar una copia en su cuenta auto_repl",
-                "anuncio_game_2": "Los juegos auto_repl son gratuitos hasta `auto_repl` allí\n\nCanjéelos todos antes de la fecha para ahorrar `R$auto_repl` y garantizar copias en su cuenta auto_repl",
-                "anuncio_dlc_1": "El DLC auto_repl es gratuito hasta `auto_repl` allí\n\nCanjéelo antes de la fecha para ahorrar `R$auto_repl y garantizar una copia en su cuenta auto_repl",
-                "anuncio_dlc_2": "Los DLC auto_repl son gratuitos hasta `auto_repl` allí\n\nCanjéelos todos antes de la fecha para ahorrar `R$auto_repl y garantizar copias en su cuenta auto_repl",
+                "anuncio_game_1": "El juego auto_repl es gratuito hasta `auto_repl` allí\n\nCanjear antes de la fecha para guardar `R$ auto_repl` y asegurar una copia en su cuenta auto_repl",
+                "anuncio_game_2": "Los juegos auto_repl son gratuitos hasta `auto_repl` allí\n\nCanjéelos todos antes de la fecha para ahorrar `R$ auto_repl` y garantizar copias en su cuenta auto_repl",
+                "anuncio_dlc_1": "El DLC auto_repl es gratuito hasta `auto_repl` allí\n\nCanjéelo antes de la fecha para ahorrar `R$ auto_repl y garantizar una copia en su cuenta auto_repl",
+                "anuncio_dlc_2": "Los DLC auto_repl son gratuitos hasta `auto_repl` allí\n\nCanjéelos todos antes de la fecha para ahorrar `R$ auto_repl y garantizar copias en su cuenta auto_repl",
                 "falta_vinculo": "Se debe configurar un canal y una función con el comando </notify config:1018632996787589283> antes de poder activar a través del panel."
             },
             "pula": {
@@ -420,6 +420,7 @@
             },
             "anuncio": {
                 "permissao": "¡No puede usar este comando ya que no puede `administrar canales` desde el servidor!",
+                "permissao_envio": "No tengo permiso para publicar mensajes en este canal, verifique mis permisos y vuelva a intentarlo.",
                 "anuncio_games": "A partir de ahora, el canal auto_repl recibirá actualizaciones cuando haya juegos gratuitos disponibles\nUtilice el comando sin parámetros para eliminar las actualizaciones",
                 "anuncio_off": "Anuncios de juegos desactivados para este servidor",
                 "ativos": "Actualmente activo",

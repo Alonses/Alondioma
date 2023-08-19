@@ -206,10 +206,10 @@
         "game": {
             "anuncio": {
                 "link_app": "Abrir no app auto_repl",
-                "anuncio_game_1": "O Game auto_repl está gratuito até o dia `auto_repl` por lá\n\nResgate antes da data para poupar `R$auto_repl` e garantir uma cópia em sua conta auto_repl",
-                "anuncio_game_2": "Os Games auto_repl estão gratuitos até o dia `auto_repl` por lá\n\nResgate todos antes da data para poupar `R$auto_repl` e garantir as cópias em sua conta auto_repl",
-                "anuncio_dlc_1": "A DLC auto_repl esta gratuita até o dia `auto_repl` por lá\n\nResgate antes da data para poupar `R$auto_repl` e garantir uma cópia em sua conta auto_repl",
-                "anuncio_dlc_2": "As DLC's auto_repl estão gratuitas até o dia `auto_repl` por lá\n\nResgate todas antes da data para poupar `R$auto_repl` e garantir cópias em sua conta auto_repl",
+                "anuncio_game_1": "O Game auto_repl está gratuito até o dia `auto_repl` por lá\n\nResgate antes da data para poupar `R$ auto_repl` e garantir uma cópia em sua conta auto_repl",
+                "anuncio_game_2": "Os Games auto_repl estão gratuitos até o dia `auto_repl` por lá\n\nResgate todos antes da data para poupar `R$ auto_repl` e garantir as cópias em sua conta auto_repl",
+                "anuncio_dlc_1": "A DLC auto_repl esta gratuita até o dia `auto_repl` por lá\n\nResgate antes da data para poupar `R$ auto_repl` e garantir uma cópia em sua conta auto_repl",
+                "anuncio_dlc_2": "As DLC's auto_repl estão gratuitas até o dia `auto_repl` por lá\n\nResgate todas antes da data para poupar `R$ auto_repl` e garantir cópias em sua conta auto_repl",
                 "falta_vinculo": "É preciso configurar um canal e um cargo com o comando </notify config:1018632996787589283> antes de poder ativar pelo painel."
             },
             "pula": {
@@ -443,6 +443,7 @@
             },
             "anuncio": {
                 "permissao": "Você não pode usar este comando, pois não pode `gerenciar os canais` do servidor!",
+                "permissao_envio": "Eu não tenho permissões para enviar mensagens neste canal, por favor verifique minhas permissões e tente novamente.",
                 "anuncio_games": "A partir de agora o canal auto_repl irá receber atualizações quando houver jogos gratuitos disponíveis\nUtilize o comando sem parametros para remover as atualizações",
                 "anuncio_off": "Anúncios de jogos desligados para este servidor",
                 "ativos": "Ativos no momento",
