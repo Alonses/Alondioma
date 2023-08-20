@@ -71,7 +71,7 @@
                 "ativacao": "Attivazione",
                 "valor": "Prezzo",
                 "sem_bufunfa": "Non hai abbastanza Bufunfas per usare i moduli, prendine un po' prima con il comando </daily:1020794974377353338>!",
-                "sem_locale": "Per attivare il modulo meteo, devi prima impostare una posizione predefinita con il comando `/local link`!",
+                "sem_locale": "Per attivare il modulo meteo, devi prima impostare una posizione predefinita con il comando </link locale:1020561785620803674>!",
                 "limite_modulos": "E' possibile attivare solo 3 moduli di ogni tipologia!",
                 "excluido": "Il tuo modulo è stato eliminato",
                 "desativado": "Il tuo modulo è stato disabilitato",
@@ -189,7 +189,7 @@
                 "badge_removida": "rimosso dal tuo profilo",
                 "rodape": "Usa il comando /badge pin per contrassegnarne uno!",
                 "sem_badge": "Questo utente non ha ancora ottenuto alcun badge!",
-                "new_badge": "Hai appena vinto un badge! L'`auto_repl` auto_repl! Verrà visualizzato sul tuo profilo quando usi il comando `/user info`\n\nPuoi anche mettere i badge in primo piano con il comando ` /badge pin`!"
+                "new_badge": "Hai appena vinto un badge! L'`auto_repl` auto_repl! Verrà visualizzato sul tuo profilo quando usi il comando </user info:1018609879562334385>\n\nPuoi anche mettere i badge in primo piano con il comando </badge fix:1018609879512006794>!"
             },
             "counter": {
                 "titulo": "> Contatore caratteri",
@@ -460,23 +460,23 @@
             },
             "canal": {
                 "canal": "Canale",
-                "lock": "bloccato\nUsa `/unlk` per sbloccare",
-                "unlock": "sbloccato\nUsa `/lock` per bloccare",
+                "lock": "bloccato\nUsa </chat unlock:1142641928190574672> per sbloccare",
+                "unlock": "sbloccato\nUsa </chat lock:1142641928190574672> per bloccare",
                 "permissao_1": "Non sei autorizzato a gestire questo canale.",
                 "permissao_2": "Non riesco a bloccare questo canale, ho bisogno delle autorizzazioni `Gestisci canali` e `Gestisci ruoli` per questo"
             },
             "ticket": {
                 "permissao": "Ho bisogno dei permessi `Gestisci canali` e `Gestisci ruoli` per poter attivare questo comando.",
-                "ativo": "Gli utenti potranno ora utilizzare il comando `/rimostranza` su questo server!",
+                "ativo": "Gli utenti potranno ora utilizzare il comando </complaint start:1094356024091217990> su questo server!",
                 "desativo": "I ticket sono stati disabilitati per questo server.",
                 "tipo_canal": "Devi selezionare una categoria in modo che io possa creare canali al suo interno, riprova"
             },
             "denuncia": {
                 "desativado": "I rapporti sulle chat private sono disabilitati per questo server, avvisa un moderatore di questa funzione! :P",
-                "introducao": "La tua chat è stata aperta, auto_repl, usala per segnalare e allegare file se necessario.",
+                "introducao": "La tua chat è stata aperta, <#auto_repl>, usala per segnalare e allegare file se necessario.",
                 "canal_aberto": "Hai già un canale di segnalazione aperto!",
                 "canal_fechado": "Non hai un canale di segnalazione aperto!",
-                "fechando_canal": "Questo canale verrà chiuso auto_repl secondi, grazie!",
+                "fechando_canal": "Questo canale verrà chiuso auto_repl, grazie!",
                 "erro_1": "Si è verificato un errore e non è stato possibile creare il canale in questo momento, riprova più tardi",
                 "falta_vinculo": "Un canale deve essere configurato con il comando </conf ticket:1094346210636214304> prima di poter essere attivato tramite il pannello."
             },
@@ -884,7 +884,7 @@
                 "sem_tarefa_a": "Non hai attività aperte! Creane alcuni per poter utilizzare questo comando.",
                 "sem_tarefa_f": "Non hai attività chiuse! Finalizzane alcuni per poter utilizzare questo comando.",
                 "lista_e": "Scegli uno degli elenchi sottostanti per eliminare.",
-                "lista_criada": "La tua lista è stata creata, usa il comando `/tasks add task` per aggiungere attività!",
+                "lista_criada": "La tua lista è stata creata, usa il comando </tasks add task:1096621409637244948> per aggiungere attività!",
                 "lista_repetida": "Hai già una lista con quel nome! Inserisci un elenco con un altro nome",
                 "lista_escolher": "Scegli una delle liste sottostanti per visualizzare le attività.",
                 "sem_tarefa": "Non hai nessuna attività creata! Creane alcuni per poter utilizzare questo comando.",

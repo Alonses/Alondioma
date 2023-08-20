@@ -191,7 +191,7 @@
                 "badge_removida": "removida do seu perfil",
                 "rodape": "Use o comando /badge fixar para fixar uma!",
                 "sem_badge": "Este usuário não ganhou nenhuma badge ainda!",
-                "new_badge": "Você acabou de ganhar uma Badge! O `auto_repl` auto_repl! Ele será exibido em seu perfil ao usarem o comando `/user info`\n\nVocê também pode fixar Badges em destaque com o comando `/badge fixar`!"
+                "new_badge": "Você acabou de ganhar uma Badge! O `auto_repl` auto_repl! Ele será exibido em seu perfil ao usarem o comando </user info:1018609879562334385>\n\nVocê também pode fixar Badges em destaque com o comando </badge fix:1018609879512006794>!"
             },
             "counter": {
                 "titulo": "> Contador de caracteres",
@@ -464,23 +464,23 @@
             },
             "canal": {
                 "canal": "Canal",
-                "lock": "bloqueado\nUtilize `.aunlk` para desbloquear",
-                "unlock": "desbloqueado\nUtilize `.alock` para bloquear",
+                "lock": "bloqueado\nUtilize </chat unlock:1142641928190574672> para desbloquear",
+                "unlock": "desbloqueado\nUtilize </chat lock:1142641928190574672> para bloquear",
                 "permissao_1": "Você não possuí permissões para gerenciar este canal",
                 "permissao_2": "Eu não posso bloquear este canal, eu preciso das permissões `Gerenciar Canais` & `Gerenciar cargos` para isto"
             },
             "ticket": {
                 "permissao": "Eu preciso das permissoes `Gerenciar Canais` & `Gerenciar cargos` para poder ativar este comando.",
-                "ativo": "Agora os usuários poderão usar o comando `/denuncia` neste servidor!",
+                "ativo": "Agora os usuários poderão usar o comando </complaint start:1094356024091217990> neste servidor!",
                 "desativo": "Os tickets foram desativados para esse servidor.",
                 "tipo_canal": "Você precisa selecionar uma categoria para que eu possa criar canais dentro dela, tente novamente"
             },
             "denuncia": {
                 "desativado": "As denúncias em chats privados estão desabilitados para esse servidor, avise um moderador sobre essa função! :P",
-                "introducao": "Seu chat foi aberto, auto_repl, use ele para fazer denúncias e anexar arquivos caso necessário.",
+                "introducao": "Seu chat foi aberto, <#auto_repl>, use ele para fazer denúncias e anexar arquivos caso necessário.",
                 "canal_aberto": "Você já possui um canal de denúncia aberto!",
                 "canal_fechado": "Você não possui um canal de denúncia aberto!",
-                "fechando_canal": "Este canal será fechado auto_repl segundos, obrigado!",
+                "fechando_canal": "Este canal será fechado auto_repl, obrigado!",
                 "erro_1": "Houve um erro e não foi possível criar o canal no momento, por favor, tente novamente mais tarde",
                 "falta_vinculo": "É preciso configurar um canal com o comando </conf ticket:1094346210636214304> antes de poder ativar pelo painel."
             },
@@ -861,7 +861,7 @@
                 "sem_tarefa_a": "Você não possui nenhuma tarefa em aberto! Crie alguma para poder usar este comando.",
                 "sem_tarefa_f": "Você não possui nenhuma tarefa finalizada! Finalize algumas para poder usar este comando.",
                 "lista_e": "Escolha uma das listas abaixo para excluir.",
-                "lista_criada": "Sua lista foi criada, use o comando `/tarefas add tarefa` para adicionar tarefas!",
+                "lista_criada": "Sua lista foi criada, use o comando </tasks add task:1096621409637244948> para adicionar tarefas!",
                 "lista_repetida": "Você já possui uma lista com esse nome! Por favor, insira uma lista com outro nome",
                 "lista_escolher": "Escolha uma das listas abaixo para visualizar as tarefas.",
                 "sem_tarefa": "Você não possui nenhuma tarefa criada! Crie alguma para poder usar este comando.",

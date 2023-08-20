@@ -190,7 +190,7 @@
                 "badge_removida": "supprimé de votre profil",
                 "rodape": "Utilisez la commande /badge epingler pour épingler un!",
                 "sem_badge": "Cet utilisateur n'a pas encore gagné de badge!",
-                "new_badge": "Vous venez de gagner un badge! L'`auto_repl` auto_repl! Il apparaîtra sur votre profil lorsque vous utiliserez la commande `/user info`\n\nVous pouvez également épingler des badges en vedette avec la commande `/badge epingler`!"
+                "new_badge": "Vous venez de gagner un badge! L'`auto_repl` auto_repl! Il apparaîtra sur votre profil lorsque vous utiliserez la commande </user info:1018609879562334385>\n\nVous pouvez également épingler des badges en vedette avec la commande </badge fix:1018609879512006794>!"
             },
             "counter": {
                 "titulo": "> Compteur de caractères",
@@ -304,7 +304,7 @@
                 "infos": "Patiner entre les lignes de fartage :man_golfing:",
                 "conteudo_1": "Ce bot est sponsorisé par le snack de Baidu et Renato, 40 sortes de snacks, hot dog, restauration rapide en 5 minutes, le plus grand snack d'Extrema, venez manger le renatão de 4, le snack complet!\n\n:mailbox: Suggérez des commandes ou signalez des bogues en utilisant le </mail:1018609879512006788>\n:page_facing_up: Utiliser </git:1018609879470047261> pour voir le référentiel Alonsal",
                 "conteudo_2": "</discord:1018609879512006789> - Entrez dans le hub multiconnecté d'Alonsal",
-                "conteudo_3": "</git:1018609879470047261> - Aider à maintenir et à développer Alonsal\n\n-----------------------------\n> AUTRES RESSOURCES\nExpressions de **`/betail`** les commandes sont entièrement détenues par [@GadoDecider](https://twitter.com/GadoDecider), tous les crédits lui reviennent.",
+                "conteudo_3": "</git:1018609879470047261> - Aider à maintenir et à développer Alonsal\n\n-----------------------------\n> AUTRES RESSOURCES\nExpressions de </cattle:1018653229128622184> les commandes sont entièrement détenues par [@GadoDecider](https://twitter.com/GadoDecider), tous les crédits lui reviennent.",
                 "invocado_1": "J'ai déjà été invoqué",
                 "invocado_2": "fois",
                 "versao": "Version",
@@ -461,23 +461,23 @@
                 "idioma": "Langue"
             },
             "canal": {
-                "lock": "verrouillé\nUtilisez `.aunlk` pour déverrouiller",
-                "unlock": "déverrouillé\nUtilisez `.alock` pour verrouiller",
+                "lock": "verrouillé\nUtilisez </chat unlock:1142641928190574672> pour déverrouiller",
+                "unlock": "déverrouillé\nUtilisez </chat lock:1142641928190574672> pour verrouiller",
                 "permissao_1": "Vous n'êtes pas autorisé à gérer cette chaîne.",
                 "permissao_2": "Je ne peux pas bloquer cette chaîne, j'ai besoin des autorisations `Gérer les chaînes` et `Gérer les rôles` pour cela"
             },
             "ticket": {
                 "permissao": "J'ai besoin des autorisations `Gérer les canaux` et `Gérer les rôles` pour activer cette commande.",
-                "ativo": "Les utilisateurs pourront désormais utiliser la commande `/plainte` sur ce serveur!",
+                "ativo": "Les utilisateurs pourront désormais utiliser la commande </complaint start:1094356024091217990> sur ce serveur!",
                 "desativo": "Les tickets ont été désactivés pour ce serveur.",
                 "tipo_canal": "Vous devez sélectionner une catégorie pour que je puisse y créer des chaînes, veuillez réessayer"
             },
             "denuncia": {
                 "desativado": "Les rapports dans les chats privés sont désactivés pour ce serveur, informez un modérateur de cette fonctionnalité! :P",
-                "introducao": "Votre chat a été ouvert, auto_repl, utilisez-le pour signaler et joindre des fichiers si nécessaire.",
+                "introducao": "Votre chat a été ouvert, <#auto_repl>, utilisez-le pour signaler et joindre des fichiers si nécessaire.",
                 "canal_aberto": "Vous disposez déjà d'un canal de signalement ouvert!",
                 "canal_fechado": "Vous n'avez pas de canal de signalement ouvert!",
-                "fechando_canal": "Cette chaîne sera fermée auto_repl secondes, merci!",
+                "fechando_canal": "Cette chaîne sera fermée auto_repl, merci!",
                 "erro_1": "Une erreur s'est produite et la chaîne n'a pas pu être créée pour le moment, veuillez réessayer plus tard",
                 "falta_vinculo": "Un canal doit être configuré avec la commande </conf ticket:1094346210636214304> avant de pouvoir être activé via le panneau."
             },
@@ -886,7 +886,7 @@
                 "sem_tarefa_a": "Vous n'avez aucune tâche ouverte! Créez-en un pour pouvoir utiliser cette commande.",
                 "sem_tarefa_f": "Vous n'avez aucune tâche terminée! Finalisez-en quelques-uns pour pouvoir utiliser cette commande.",
                 "lista_e": "Choisissez l'une des listes ci-dessous à supprimer.",
-                "lista_criada": "Votre liste est créée, utilisez la commande `/tasks add task` pour ajouter des tâches!",
+                "lista_criada": "Votre liste est créée, utilisez la commande </tasks add task:1096621409637244948> pour ajouter des tâches!",
                 "lista_repetida": "Vous avez déjà une liste avec ce nom! Entrer une liste avec un autre nom",
                 "lista_escolher": "Choisissez l'une des listes ci-dessous pour afficher les tâches.",
                 "sem_tarefa": "Vous n'avez créé aucune tâche! Créez-en un pour pouvoir utiliser cette commande.",

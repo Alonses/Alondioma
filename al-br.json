@@ -110,7 +110,7 @@
                 "badge_fixada": "colada no seu perfil!",
                 "badge_removida": "tirada do seu perfil",
                 "rodape": "Usa o comando /badge fixar pra colar uma!",
-                "new_badge": "Cê ganhou uma Badge! O `auto_repl` auto_repl! Ela será exibida em seu perfil se usarem o `/user info`\n\nCê tbm pode fixar Badges em destaque com o `/badge fixar`!"
+                "new_badge": "Cê ganhou uma Badge! O `auto_repl` auto_repl! Ela será exibida em seu perfil se usarem o </user info:1018609879562334385>\n\nCê tbm pode fixar Badges em destaque com o </badge fix:1018609879512006794>!"
             }
         },
         "game": {
@@ -225,24 +225,24 @@
             },
             "canal": {
                 "canal": "Knel",
-                "lock": "bloqueado\nUsa o `.aunlk` pra desbloquear",
-                "unlock": "desbloqueado\nUsa o `.alock` pra bloquear",
+                "lock": "bloqueado\nUsa o </chat unlock:1142641928190574672> pra desbloquear",
+                "unlock": "desbloqueado\nUsa o </chat lock:1142641928190574672> pra bloquear",
                 "permissao_1": "Tu não pode gerenciar esse knel",
                 "permissao_2": "Eu não posso bloquear esse knel, eu preciso das permissões `Gerenciar Canais` & `Gerenciar cargos` pra isto"
             },
             "ticket": {
                 "permissao": "Eu preciso das permissões `Gerenciar Canais` & `Gerenciar cargos` pra poder ativar este comando.",
-                "ativo": "Agora os usuários poderão usar o comando `/denuncia` nesse server!",
+                "ativo": "Agora os usuários poderão usar o comando </complaint start:1094356024091217990> nesse server!",
                 "desativo": "Os tickets foram desligados nesse server.",
                 "tipo_canal": "Ocê precisa informar uma categoria pra que eu possa criar canais dentro dela, tenta dnv"
             },
             "denuncia": {
                 "desativado": "As denúncias em chats privados stão desligadas nesse server, avise um ade eme sobre essa função! :P",
-                "introducao": "Seu chat foi criado, auto_repl, use ele pra fazer umas denúncias e anexar uns arquivos caso necessário.",
+                "introducao": "Seu chat foi criado, <#auto_repl>, use ele pra fazer umas denúncias e anexar uns arquivos caso necessário.",
                 "canal_aberto": "Ocê já tem um canal de denúncia aberto!",
                 "canal_fechado": "Ocê não tem nenhum canal de denúncia aberto!",
-                "fechando_canal": "Esse canal será fechado auto_repl segundos",
-                "erro_1": "Deu um erro aq e foi criei o canal agora, chora boi, tenta dnv dps"
+                "fechando_canal": "Esse knel vai ser explodido auto_repl",
+                "erro_1": "Deu um erro aq e não consegui criar o canal agora, chora boi, tenta dnv dps"
             },
             "report": {
                 "reporte": "Denúncias",

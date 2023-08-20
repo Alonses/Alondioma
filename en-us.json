@@ -191,7 +191,7 @@
                 "badge_removida": "removed from your profile",
                 "rodape": "Use the /badge fix command to pin a!",
                 "sem_badge": "This user hasn't earned any badges yet!",
-                "new_badge": "You just won a badge! The `auto_repl` auto_repl! It will appear on your profile when you use the `/user info` command\n\nYou can also pin featured badges with the `/badge fix` command!"
+                "new_badge": "You just won a badge! The `auto_repl` auto_repl! It will appear on your profile when you use the </user info:1018609879562334385> command\n\nYou can also pin featured badges with the </badge fix:1018609879512006794> command!"
             },
             "counter": {
                 "titulo": "> Character counter",
@@ -463,23 +463,23 @@
             },
             "canal": {
                 "canal": "Channel",
-                "lock": "locked\nUse `.aunlk` to unlock",
-                "unlock": "unlocked\nUse `.alock` to lock",
+                "lock": "locked\nUse </chat unlock:1142641928190574672> to unlock",
+                "unlock": "unlocked\nUse </chat lock:1142641928190574672> to lock",
                 "permissao_1": "You do not have permissions to manage this channel.",
                 "permissao_2": "I can't block this channel, I need `Manage channels` and `Manage roles` permissions for this"
             },
             "ticket": {
                 "permissao": "I need `Manage Channels` & `Manage Roles` permissions to be able to activate this command.",
-                "ativo": "Users will now be able to use the `/report` command on this server!",
+                "ativo": "Users will now be able to use the </complaint start:1094356024091217990> command on this server!",
                 "desativo": "Tickets have been disabled for this server.",
                 "tipo_canal": "You need to select a category so I can create channels within it, please try again"
             },
             "denuncia": {
                 "desativado": "Reporting on private chats is disabled for this server, notify a moderator about this feature! :P",
-                "introducao": "Your chat has been opened, auto_repl, use it to report and attach files if necessary.",
+                "introducao": "Your chat has been opened, <#auto_repl>, use it to report and attach files if necessary.",
                 "canal_aberto": "You already have an open reporting channel!",
                 "canal_fechado": "You do not have an open reporting channel!",
-                "fechando_canal": "This channel will be closed auto_repl seconds, thank you!",
+                "fechando_canal": "This channel will be closed auto_repl, thank you!",
                 "erro_1": "There was an error and the channel could not be created at the moment, please try again later",
                 "falta_vinculo": "It is necessary to configure a channel with the command </conf ticket:1094346210636214304> before being able to activate it through the panel."
             },
@@ -886,7 +886,7 @@
                 "sem_tarefa_a": "You don't have any open tasks! Create some to be able to use this command.",
                 "sem_tarefa_f": "You don't have any completed tasks! Finish some to be able to use this command.",
                 "lista_e": "Choose one of the lists below to delete.",
-                "lista_criada": "Your list has been created, use the `/tasks add task` command to add tasks!",
+                "lista_criada": "Your list has been created, use the </tasks add task:1096621409637244948> command to add tasks!",
                 "lista_repetida": "You already have a list with that name! Please enter a list with another name",
                 "lista_escolher": "Choose one of the lists below to view tasks.",
                 "sem_tarefa": "You don't have any tasks created! Create some to be able to use this command.",

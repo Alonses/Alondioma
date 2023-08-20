@@ -184,7 +184,7 @@
                 "badge_removida": "eliminado de tu perfil",
                 "rodape": "¡Use el comando /badge etiquetar para fijar uno!",
                 "sem_badge": "¡Este usuario aún no ha obtenido ninguna insignia!",
-                "new_badge": "¡Acabas de ganar una insignia! El `auto_repl` auto_repl! Se mostrará en su perfil cuando use el comando `/información de usuario`\n\n¡También puede anclar insignias destacadas con el comando `/badge etiquetar`!"
+                "new_badge": "¡Acabas de ganar una insignia! El `auto_repl` auto_repl! Se mostrará en su perfil cuando use el comando </user info:1018609879562334385>\n\n¡También puede anclar insignias destacadas con el comando </badge fix:1018609879512006794>!"
             },
             "counter": {
                 "com_espaco": "Con espacio:",
@@ -438,23 +438,23 @@
             },
             "canal": {
                 "canal": "Canal",
-                "lock": "bloqueado\nUtilize `.aunlk` para desbloquear",
-                "unlock": "desbloqueado\nUtilize `.alock` para bloquear",
+                "lock": "bloqueado\nUtilize </chat unlock:1142641928190574672> para desbloquear",
+                "unlock": "desbloqueado\nUtilize </chat lock:1142641928190574672> para bloquear",
                 "permissao_1": "Você não possuí permissões para gerenciar este canal",
                 "permissao_2": "Eu não posso bloquear este canal, eu preciso das permissões `Gerenciar Canais` & `Gerenciar cargos` para isto"
             },
             "ticket": {
                 "permissao": "Necesito los permisos `Administrar canales` y `Administrar roles` para poder activar este comando.",
-                "ativo": "¡Los usuarios ahora podrán usar el comando `/queja` en este servidor!",
+                "ativo": "¡Los usuarios ahora podrán usar el comando </complaint start:1094356024091217990> en este servidor!",
                 "desativo": "Los tickets han sido deshabilitados para este servidor.",
                 "tipo_canal": "Debes seleccionar una categoría para poder crear canales dentro de ella, por favor inténtalo de nuevo"
             },
             "denuncia": {
                 "desativado": "Las quejas en canales privados están desactivadas en este servidor, notifique a un moderador sobre esta función. :P",
-                "introducao": "Tu chat ha sido abierto, auto_repl, úsalo para reportar y adjuntar archivos si es necesario.",
+                "introducao": "Tu chat ha sido abierto, <#auto_repl>, úsalo para reportar y adjuntar archivos si es necesario.",
                 "canal_aberto": "¡Ya tienes un canal de denuncia abierto!",
                 "canal_fechado": "¡No tienes un canal de denuncia abierto!",
-                "fechando_canal": "Este canal se cerrará auto_repl segundos, ¡gracias!",
+                "fechando_canal": "Este canal se cerrará auto_repl, ¡gracias!",
                 "erro_1": "Ocurrió un error y no se pudo crear el canal en este momento, inténtalo de nuevo más tarde",
                 "falta_vinculo": "Un canal debe configurarse con el comando </conf ticket:1094346210636214304> antes de que pueda activarse a través del panel."
             },
@@ -856,7 +856,7 @@
                 "sem_tarefa_a": "¡No tienes ninguna tarea abierta! Cree algunos para poder usar este comando.",
                 "sem_tarefa_f": "¡No tienes tareas terminadas! Finalice algunos para poder usar este comando.",
                 "lista_e": "Elija una de las listas a continuación para eliminar.",
-                "lista_criada": "Su lista ha sido creada, use el comando `/tasks add task` para agregar tareas.",
+                "lista_criada": "Su lista ha sido creada, use el comando </tasks add task:1096621409637244948> para agregar tareas.",
                 "lista_repetida": "¡Ya tienes una lista con ese nombre! Por favor ingrese una lista con otro nombre",
                 "lista_escolher": "Elija una de las listas a continuación para ver las tareas.",
                 "sem_tarefa": "¡No tienes ninguna tarea creada! Cree algunos para poder usar este comando.",
