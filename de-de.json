@@ -2,24 +2,24 @@
     "data": {
         "inic": {
             "inicio": {
-                "slash_commands": "Traditional commands have been disabled, keep using Alonsal by `/slash` ( </help:1018609879512006787> ) commands! Try it now ;D\n\nNote: Can't see my commands? Invite me again by clicking the button below! Also make sure my commands are enabled for all in server integrations under `Integrations -> Alonsal -> Commands`",
-                "convidar": "To invite!",
-                "suporte": "Support"
+                "slash_commands": "Herkömmliche Befehle wurden deaktiviert. Verwenden Sie weiterhin Alonsal mit /slash-Befehlen (</help:1018609879512006787>). Probieren Sie es jetzt aus ;D\n\nHinweis: Meine Befehle werden nicht angezeigt? Laden Sie mich erneut ein, indem Sie auf die Schaltfläche unten klicken! Stellen Sie außerdem sicher, dass meine Befehle für alle Serverintegrationen unter `„`Integrationen -> Alonsal -> Befehle` aktiviert sind.",
+                "convidar": "Einladen!",
+                "suporte": "Unterstützung"
             },
             "error": {
-                "epic_embed_fail": "An error occurred while trying to execute this command, I warned the team to eliminate this baidu as soon as possible. apologies for the inconvenience",
-                "develop": "This command is not ready yet! Wait a little bit more...",
-                "comando_dm": "DM commands are not active :spy:",
-                "comando_restrito": "Stop right there! You cannot use this command!"
+                "epic_embed_fail": "Beim Versuch, diesen Befehl auszuführen, ist ein Fehler aufgetreten. Ich habe das Team gewarnt, dieses Baidu so schnell wie möglich zu entfernen. Entschuldigen Sie die Unannehmlichkeiten",
+                "develop": "Dieser Befehl ist noch nicht fertig! Warte ein wenig länger...",
+                "comando_dm": "DM-Befehle sind nicht aktiv :spy:",
+                "comando_restrito": "Hören Sie genau dort auf! Sie können diesen Befehl nicht verwenden!"
             },
             "ping": {
-                "titulo": "> Oh, make a way for me to go through :notes:",
-                "boas_vindas": "Hi! Thanks for adding me to the server!\n\nI leave my website attached below, with all the commands if necessary ;D",
+                "titulo": "> Oh, mach mir einen Weg, durch den ich gehen kann :notes:",
+                "boas_vindas": "Hallo! Vielen Dank, dass Sie mich zum Server hinzugefügt haben!\n\nIch lasse meine Website unten angehängt, mit den Befehlen, falls erforderlich ;D",
                 "idioma_dica": "Não fala Inglês? Sem problemas! Mude meu idioma agora mesmo com o comando </language:1018632996787589284>!",
-                "site": "Alonsal Website"
+                "site": "Alonsals Website"
             },
             "vote": {
-                "titulo": "> Vote for Alonsal's next language!",
+                "titulo": "> Stimmen Sie für Alonsals nächste Sprache!",
                 "descricao": "***The language that receives the most votes will be added!***\n\nWhich one will you choose? What would you like to see here?\n\nHelp him win! auto_repl auto_repl\nVote using the buttons below before",
                 "rodape": "The vote is per user, you can change your vote during the voting!",
                 "voto_registrado": "Your vote has been recorded! :flag_auto_repl: :flag_auto_repl: :flag_auto_repl:\n:mailbox: | You can change your vote at any time by clicking again!",
@@ -34,36 +34,36 @@
         },
         "misc": {
             "daily": {
-                "daily": "Daily collected! You received `B$ auto_repl` Bufunfas, check back tomorrow for more",
-                "error": "You have already collected your daily! Use the command again"
+                "daily": "Täglich gesammelt! Sie haben `B$ auto_repl` Bufunfas erhalten. Schauen Sie morgen noch einmal vorbei, um weitere Informationen zu erhalten",
+                "error": "Sie haben Ihr Tagesgeld bereits gesammelt! Verwenden Sie den Befehl erneut"
             },
             "color": {
-                "cor_ativa": "You are already using this color!",
-                "titulo": "> This is a Demo Embed :tada:",
-                "descricao": "Some random description around here...",
-                "footer": "Your embeds will appear like this and when they see your profile with Alonsal",
-                "rand_color": "Your colors will be random with each command",
-                "cor_att": "Updated color! Now your embeds will be in the selected color",
-                "sem_money": "You don't have enough `B$ auto_repl` Bufunfas for this color!"
+                "cor_ativa": "Sie verwenden diese Farbe bereits!",
+                "titulo": "> Dies ist eine Demo-Einbettung :tada:",
+                "descricao": "Eine zufällige Beschreibung hier...",
+                "footer": "So werden Ihre Einbettungen angezeigt, wenn sie Ihr Profil auf Alonsal ansehen",
+                "rand_color": "Ihre Farben werden bei jedem Befehl zufällig ausgewählt",
+                "cor_att": "Aktualisierte Farben! Jetzt erscheinen Ihre Einbettungen in der ausgewählten Farbe",
+                "sem_money": "Sie haben nicht genügend `B$ auto_repl` Bufunfas für diese Farbe!"
             },
             "pay": {
-                "error": "You don't have `B$ auto_repl` Bufunfas to transfer!",
-                "error_2": "Enter a positive number to deposit",
-                "error_3": "You cannot transfer to yourself!",
-                "user_bot": "You cannot transfer Bufunfas to bots other than me!",
-                "sucesso": "Transfer approved! `B$ auto_repl` Bufunfas were deposited in the account of",
-                "notifica": "You just received a deposit! <@!auto_repl> has deposited `B$ auto_repl` Bufunfas into your account! yay",
-                "nova_transferencia": "> New transfer",
-                "transferindo": "Transferring",
-                "destinatario": "Receiver"
+                "error": "Sie haben keine `B$ auto_repl` Bufunfas zum Überweisen!",
+                "error_2": "Geben Sie eine positive Zahl für die Anzahlung ein",
+                "error_3": "Sie können nicht auf sich selbst übertragen!",
+                "user_bot": "Du kannst Possenreißer nicht auf andere Bots als mich übertragen!",
+                "sucesso": "Übertragung genehmigt! Auf dem Konto von wurden `B$ auto_repl` Bufunfas eingezahlt",
+                "notifica": "Sie haben gerade eine Anzahlung erhalten! <@!auto_repl> hat `B$ auto_repl` Bufunfas auf Ihr Konto eingezahlt! Yay",
+                "nova_transferencia": "> Neue Überweisung",
+                "transferindo": "Senden",
+                "destinatario": "Empfänger"
             },
             "banco": {
-                "suas_bufunfas": "> Your Bufunfas",
-                "bufunfas_outros": "> auto_repl's Bufunfas",
-                "bufunfas": "Waxed Bufunfas in stock",
-                "daily": "Next </daily:1020794974377353338> available",
-                "dica_comando": "Use </daily:1020794974377353338> to collect Bufunfas!",
-                "dica_rodape": "You can use Bufunfas in customizations, like /color for example!"
+                "suas_bufunfas": "> Eure Bufunfas",
+                "bufunfas_outros": "> auto_repls Bufunfas",
+                "bufunfas": "Gewachste Bufunfas auf Lager",
+                "daily": "Nächster </daily:1020794974377353338> verfügbar",
+                "dica_comando": "Benutze </daily:1020794974377353338>, um Bufunfas zu sammeln!",
+                "dica_rodape": "Sie können Bufunfas in Anpassungen verwenden, z. z.B. /color!"
             },
             "modulo": {
                 "cabecalho_menu": "> Creating a module",
@@ -321,7 +321,7 @@
                 "conteudo_2": "The content of the message is"
             },
             "help": {
-                "comandos": "See the commands, invite me or access my server through the website!"
+                "comandos": "Schauen Sie sich die Befehle an, laden Sie mich ein oder greifen Sie über die Website auf meinen Server zu!"
             },
             "apoio": {
                 "apoie": "> Support Alonsal!",
@@ -404,25 +404,25 @@
                 "rodape": "🔰 | It is worth noting that the text entries are also hidden, making the typed content not visible for your privacy."
             },
             "traduz": {
-                "titulo": "> Alonsal translation database",
-                "descricao": "Help me translate and improve translations, or add new languages via the Alondioma repository!\n\nNew languages are always welcome, and the correction of some terms is essential for a good understanding and friendly use of Alonses"
+                "titulo": "> Alonsal-Übersetzungsdatenbank",
+                "descricao": "Helfen Sie mir, Übersetzungen zu übersetzen und zu verbessern oder neue Sprachen über das Alondioma-Repository hinzuzufügen!\n\nNeue Sprachen sind immer willkommen und die Korrektur einiger Begriffe ist für ein gutes Verständnis und eine freundliche Nutzung von Alonses unerlässlich"
             },
             "painel": {
-                "cabecalho_menu_pessoal": "> Personal control panel",
-                "cabecalho_menu_servidor": "> Server control panel",
-                "descricao": "Control my functions using the buttons below\n```✅ Green buttons are features on.\n⛔ Gray buttons are features off.```",
-                "rodape": "Enable or disable my functions below.",
-                "desc_ghostmode": "When activated, only you will see the return of the /slash commands you use!",
+                "cabecalho_menu_pessoal": "> Persönliches Bedienfeld",
+                "cabecalho_menu_servidor": "> Server-Kontrollfeld",
+                "descricao": "Steuern Sie meine Funktionen mit den Schaltflächen unten\n```✅ Grüne Schaltflächen sind aktivierte Funktionen.\n⛔ Graue Schaltflächen sind deaktivierte Funktionen.```",
+                "rodape": "Aktivieren oder deaktivieren Sie meine Funktionen unten.",
+                "desc_ghostmode": "Wenn diese Option aktiviert ist, sehen nur Sie die Rückgabe der von Ihnen verwendeten /slash-Befehle!",
                 "desc_notificacoes": "Control the notifications I send you via DM.",
                 "desc_ranking": "Control your XP gain in my ranking.",
-                "alonsal_falador": "Talkative Alonsal",
-                "permitir_broadcast": "Allow Broadcast",
+                "alonsal_falador": "Geschwätziger Alonsal",
+                "permitir_broadcast": "Übertragung zulassen",
                 "anuncio_games": "Games Announcement",
                 "denuncias_server": "In-server complaints",
-                "reports_externos": "External reports",
-                "log_eventos": "Event Log",
+                "reports_externos": "Externe Berichte",
+                "log_eventos": "Ereignisprotokoll",
                 "visibilidade_global": "Visible Globally",
-                "misterioso": "Mysterious",
+                "misterioso": "Geheimnisvoll",
                 "desc_falador": "Alonsal will be able to reply to other users if they include their name in any message",
                 "desc_broadcast": "`Server users can chat with Slondo using Alonsal on this server via the command`\n</broadcast:1114316224663396472>",
                 "desc_games": "Alonsal will send free game advertisements automatically.",
@@ -432,18 +432,18 @@
                 "desc_spam": "Messages considered spam will be deleted and the author will be punished.",
                 "desc_global": "`The server name will be displayed in the command`\n</rank global:1018609879562334383>",
                 "desc_misterioso": "A mystery wax will be included here soon",
-                "desc_autoban": "Automatically ban a reported user and delete their posts."
+                "desc_autoban": "Einen gemeldeten Benutzer automatisch sperren und seine Beiträge löschen."
             }
         },
         "mode": {
             "idiomas": {
-                "titulo_idioma": "Available languages"
+                "titulo_idioma": "Verfügbare Sprachen"
             },
             "clear": {
-                "permissao": "I can't do this without the `Manage messages` permission",
-                "apagado_1": "messages` have been removed",
-                "apagado_2": "message` has been removed",
-                "error": "Unable to run this command because there are pinned or too old messages, decrease the value and try again"
+                "permissao": "Ich kann dies nicht ohne die Berechtigung `Nachrichten verwalten` tun",
+                "apagado_1": "Nachrichten` wurden entfernt",
+                "apagado_2": "Nachricht` wurde entfernt",
+                "error": "Dieser Befehl kann nicht ausgeführt werden, da angeheftete oder zu alte Nachrichten vorhanden sind. Verringern Sie den Wert und versuchen Sie es erneut"
             },
             "anuncio": {
                 "permissao": "You cannot use this command as you cannot `manage channels` from the server!",
@@ -463,11 +463,11 @@
                 "idioma": "Language"
             },
             "canal": {
-                "canal": "Channel",
-                "lock": "Channel locked!\nUse </chat unlock:1142641928190574672> to unlock",
-                "unlock": "Channel unlocked!\nUse </chat lock:1142641928190574672> to lock",
-                "permissao_1": "You do not have permissions to manage this channel.",
-                "permissao_2": "I can't block this channel, I need `Manage channels` and `Manage roles` permissions for this"
+                "canal": "Kanal",
+                "lock": "Kanal gesperrt!\nVerwenden Sie </chat unlock:1142641928190574672> zum Entsperren",
+                "unlock": "Kanal entsperrt!\nVerwenden Sie </chat lock:1142641928190574672> zum Sperren",
+                "permissao_1": "Du hast keine Berechtigung, diesen Kanal zu verwalten.",
+                "permissao_2": "Ich kann diesen Kanal nicht blockieren. Dazu benötige ich die Berechtigungen `Kanäle verwalten` und `Rollen verwalten`."
             },
             "ticket": {
                 "permissao": "I need `Manage Channels` & `Manage Roles` permissions to be able to activate this command.",
@@ -601,11 +601,11 @@
                 "latencia": "Alonsal latency"
             },
             "wiki": {
-                "wiki_slondo": "This bum is not on the wiki, look for something else! :sunglasses:",
-                "topicos_rel": "Related Topics",
-                "sem_dados": "I didn't find anything related to your search",
-                "auto_pesquisa": "Why are you researching yourself? There's nothing about you here",
-                "artigo_completo": "Full article"
+                "wiki_slondo": "Dieser Penner ist nicht im Wiki, suchen Sie nach etwas anderem! :sunglasses:",
+                "topicos_rel": "verwandte Themen",
+                "sem_dados": "Ich habe nichts zu Ihrer Suche gefunden",
+                "auto_pesquisa": "Warum suchst du? Hier ist nichts über dich",
+                "artigo_completo": "ganzer Artikel"
             },
             "morse": {
                 "caracteres": "Some characters were not encoded as they do not exist in morse",
@@ -800,50 +800,50 @@
                 "modo_lento": "Slow mode"
             },
             "steam": {
-                "undefined": "Unknow",
-                "error_1": "Profile not found, make sure the profile searched has a custom url",
-                "error_2": "This profile exists but there was an error loading it",
-                "rodape": "Some (or all) of this user's data is not available in his profile",
-                "analises": "Reviews",
-                "nivel": "Level",
-                "jogos": "Games",
-                "jogos_perfeitos": "G. 100%",
-                "conquistas": "Achievements",
-                "porcentagem": "Percent.",
-                "insignias": "Badges",
-                "criacoes": "Creations",
-                "semanas": "2 Weeks",
-                "artes": "Artworks",
-                "suspeito": "This user may be using illegal means to get achievements, do not consider this as a confirmation",
-                "jogo_favorito": "Favorite game",
-                "capturas": "Prints",
+                "undefined": "Unbekannt",
+                "error_1": "Profil nicht gefunden. Stellen Sie sicher, dass das gesuchte Profil über eine benutzerdefinierte URL verfügt",
+                "error_2": "Dieses Profil existiert, aber beim Laden ist ein Fehler aufgetreten",
+                "rodape": "Einige (oder alle) Daten dieses Benutzers sind in seinem Profil nicht verfügbar",
+                "analises": "Bewertungen",
+                "nivel": "Ebene",
+                "jogos": "Spiele",
+                "jogos_perfeitos": "S. 100%",
+                "conquistas": "Erfolge",
+                "porcentagem": "Prozent.",
+                "insignias": "Abzeichen",
+                "criacoes": "Kreationen",
+                "semanas": "2 Wochen",
+                "artes": "Kunstwerke",
+                "suspeito": "Dieser Benutzer verwendet möglicherweise illegale Mittel, um Erfolge zu erzielen. Betrachten Sie dies nicht als Bestätigung",
+                "jogo_favorito": "Lieblingsspiel",
+                "capturas": "Druckt",
                 "nome": "Name",
-                "tempo_jogado": "Time played",
-                "sem_link": "The mentioned user has not linked Alonsal with Steam, try searching for his custom name!",
-                "nome_invalido": "The name provided is not used by any profiles on Steam, please try again."
+                "tempo_jogado": "gespielte Zeit",
+                "sem_link": "Der erwähnte Benutzer hat Alonsal nicht mit Steam verknüpft. Versuchen Sie, nach seinem individuellen Namen zu suchen!",
+                "nome_invalido": "Der angegebene Name wird von keinem Profil auf Steam verwendet. Bitte versuche es erneut."
             },
             "calc": {
-                "aviso_1": "Enter at least one basic operation to calculate",
-                "resultado": "Result",
-                "error": "An error occurred while processing this operation",
-                "resultados": "> Results",
-                "etapas_entrada": "Steps\n\nEntrance,",
-                "formula_ajustada": "Adjusted formula",
-                "formulas_abaixo": "After finding the radius, apply the formulas below",
-                "formula_diametro": "Diameter formula",
-                "formula_perimetro": "Perimeter formula",
-                "formula_area": "Area formula",
-                "formula": "Formula",
-                "na_conta": "In the account",
-                "tirar_raiz": "Then we take the square root of this value.\nBeing",
-                "ajustar_diametro": "It is necessary to adjust the diameter formula to find the radius.",
-                "ajustar_perimetro": "It is necessary to adjust the perimeter formula to find the radius.",
-                "ajustar_area": "It is necessary to adjust the area formula to find the radius.",
-                "isolase_raio": "isolate the radius",
-                "diametro": "Diameter",
-                "perimetro": "Perimeter",
+                "aviso_1": "Geben Sie mindestens eine Grundoperation für die Berechnung ein",
+                "resultado": "Ergebnis",
+                "error": "Beim Verarbeiten dieses Vorgangs ist ein Fehler aufgetreten",
+                "resultados": "> Ergebnisse",
+                "etapas_entrada": "Stufen\n\nEingang,",
+                "formula_ajustada": "benutzerdefinierte Formel",
+                "formulas_abaixo": "Nachdem Sie den Radius ermittelt haben, wenden Sie die folgenden Formeln an",
+                "formula_diametro": "Durchmesserformel",
+                "formula_perimetro": "Umfangsformel",
+                "formula_area": "Flächenformel",
+                "formula": "Formel",
+                "na_conta": "Auf dem Account",
+                "tirar_raiz": "Dann ziehen wir die Quadratwurzel aus diesem Wert.\nBedingt",
+                "ajustar_diametro": "Um den Radius zu ermitteln, muss die Durchmesserformel angepasst werden.",
+                "ajustar_perimetro": "Um den Radius zu ermitteln, muss die Umfangsformel angepasst werden.",
+                "ajustar_area": "Um den Radius zu ermitteln, muss die Flächenformel angepasst werden.",
+                "isolase_raio": "Isolieren Sie den Radius",
+                "diametro": "Durchmesser",
+                "perimetro": "Umfang",
                 "raio": "Radius",
-                "area": "Area"
+                "area": "Bereich"
             },
             "password": {
                 "primaria": "Primary password",
@@ -863,101 +863,101 @@
                 "aviso_1": "I need more information to be able to convert your date\nFor example `timestamp 2022-06-08 23:03:57` or `/timestamp 385723948238`"
             },
             "lastfm": {
-                "sem_scrobbles": "This profile exists, but it does not have any Scrobble :(",
-                "semanal": "Weekly",
-                "media_dia": "Average per day",
-                "tempo_tocado": "Time played",
-                "albuns": "Albums",
-                "artistas": "Artists",
-                "faixas_favoritas": "Favorite tracks",
-                "geral": "General",
-                "perfil_musical": "auto_repl's musical profile",
-                "em_scrobble": "On Scrobble right now",
-                "obsessao": "Obsession of the moment",
-                "error_1": "This profile does not exist, please try again",
-                "error_2": "An unexpected error occurred and this profile could not be loaded from LastFM, it looks like the platform is not working properly! Please try again later",
-                "sem_link": "The mentioned user has not linked Alonsal with LastFM, try searching for his custom name!",
-                "new_link": "Alonsal has been linked to your `auto_repl` account! Now when using auto_repl you won't need to write your name all the time :P"
+                "sem_scrobbles": "Dieses Profil existiert, enthält aber kein Scrobble :(",
+                "semanal": "Wöchentlich",
+                "media_dia": "Durchschnittlich pro Tag",
+                "tempo_tocado": "Gespielte Zeit",
+                "albuns": "Alben",
+                "artistas": "Künstler",
+                "faixas_favoritas": "Lieblingslieder",
+                "geral": "Allgemein",
+                "perfil_musical": "auto_repls musikalisches Profil",
+                "em_scrobble": "Direkt zum Scrobble",
+                "obsessao": "Lieblingslied des Augenblicks",
+                "error_1": "Dieses Profil existiert nicht. Bitte versuche es erneut",
+                "error_2": "Es ist ein unerwarteter Fehler aufgetreten und LastFM konnte dieses Profil nicht laden. Anscheinend funktioniert die Plattform nicht richtig! Bitte versuchen Sie es später noch einmal",
+                "sem_link": "Der erwähnte Benutzer hat Alonsal nicht mit LastFM verknüpft. Versuchen Sie, nach seinem individuellen Namen zu suchen!",
+                "new_link": "Alonsal wurde mit Ihrem `auto_repl`-Konto verknüpft! Wenn Sie auto_repl nutzen, müssen Sie nicht mehr ständig Ihren Namen eingeben :P"
             },
             "rastreio": {
-                "local": "Place",
-                "objeto_rastreado": "Object tracking",
-                "objeto_invalido": "Object not found",
-                "codigo": "Code used",
-                "codigo_invalido": "The code used was not registered, or it has expired and it is no longer possible to consult"
+                "local": "Standort",
+                "objeto_rastreado": "Objektverfolgung",
+                "objeto_invalido": "Objekt nicht gefunden",
+                "codigo": "Verwendeter Code",
+                "codigo_invalido": "Der verwendete Code ist nicht registriert oder abgelaufen und eine Abfrage ist nicht mehr möglich"
             },
             "tarefas": {
-                "tarefa_lista": "Choose one of the lists below to add this task.",
-                "tarefa_adicionada": "Your new task has been automatically added to the list",
-                "tarefa_adicionada_2": "Your task has been successfully added to the `auto_repl` list!",
-                "tarefa_escolher": "Choose one of the tasks below for more details.",
-                "sem_tarefa_a": "You don't have any open tasks! Create some to be able to use this command.",
-                "sem_tarefa_f": "You don't have any completed tasks! Finish some to be able to use this command.",
-                "lista_e": "Choose one of the lists below to delete.",
-                "lista_criada": "Your list has been created, use the </tasks add task:1096621409637244948> command to add tasks!",
-                "lista_repetida": "You already have a list with that name! Please enter a list with another name",
-                "lista_escolher": "Choose one of the lists below to view tasks.",
-                "sem_tarefa": "You don't have any tasks created! Create some to be able to use this command.",
-                "sem_tarefa_l": "There are no tasks attached to this list yet!",
-                "sem_lista": "You don't have any lists created! Create some to be able to use this command.",
-                "sem_lista_v": "No list",
-                "sem_lista_r": "You don't have any lists to delete!",
-                "sem_lista_n": "You don't have any lists to browse!",
-                "lista_confirmar_exclusao": "You are about to delete this list and confirm the deletion of another `auto_repl` tasks\nSelect the buttons below to cancel or continue the operation.",
-                "sua_tarefa": "> Your task",
-                "lista": "List",
-                "selecionar_botoes": "Select the buttons below to manage this task",
-                "escolher_tarefa_visualizar": "Choose one of the tasks for more details!",
-                "escolher_lista_navegar": "Choose one of the lists to see your tasks",
-                "escolher_lista_apagar": "Choose one of the lists to delete",
-                "escolher_lista_vincular": "Choose one of the lists to link to this one!",
-                "finalizada": "Finished",
-                "em_aberto": "Not completed",
-                "criacao": "Created in",
-                "selecionar_lista": "Select this list",
-                "tarefa_movida_1": "Your task has been moved to the completed grades!",
-                "tarefa_movida_2": "Your task has been moved to open grades again!",
-                "tarefa_excluida": "Your task has been successfully deleted!",
-                "exclusao_lista_cancelada": "Task list deletion has been canceled",
-                "exclusao_lista": "`List` and linked `tasks` successfully deleted!"
+                "tarefa_lista": "Wählen Sie eine der folgenden Listen aus, um diese Aufgabe hinzuzufügen.",
+                "tarefa_adicionada": "Ihre neue Aufgabe wurde automatisch zur Liste hinzugefügt",
+                "tarefa_adicionada_2": "Ihre Aufgabe wurde erfolgreich zur Liste `auto_repl` hinzugefügt!",
+                "tarefa_escolher": "Wählen Sie eine der folgenden Aufgaben aus, um weitere Details zu erhalten.",
+                "sem_tarefa_a": "Sie haben keine offenen Aufgaben! Erstellen Sie einige, um diesen Befehl zu verwenden.",
+                "sem_tarefa_f": "Sie haben keine erledigten Aufgaben! Beenden Sie einige, um diesen Befehl zu verwenden.",
+                "lista_e": "Wählen Sie eine der folgenden Listen zum Löschen aus.",
+                "lista_criada": "Ihre Liste wurde erstellt. Verwenden Sie den Befehl </tasks add task:1096621409637244948>, um Aufgaben hinzuzufügen!",
+                "lista_repetida": "Sie haben bereits eine Liste mit diesem Namen! Bitte geben Sie eine Liste mit einem anderen Namen ein",
+                "lista_escolher": "Wählen Sie aus den folgenden Listen aus, um Aufgaben anzuzeigen.",
+                "sem_tarefa": "Sie haben keine Aufgaben erstellt! Erstellen Sie einige, um diesen Befehl zu verwenden.",
+                "sem_tarefa_l": "Dieser Liste sind noch keine Aufgaben zugeordnet!",
+                "sem_lista": "Sie haben keine Listen erstellt! Erstellen Sie einige, um diesen Befehl zu verwenden.",
+                "sem_lista_v": "keine Liste",
+                "sem_lista_r": "Sie haben keine Listen zum Löschen!",
+                "sem_lista_n": "Sie haben keine Listen zum Durchsuchen!",
+                "lista_confirmar_exclusao": "Sie sind dabei, diese Liste zu löschen und das Löschen weiterer `auto_repl` Aufgaben zu bestätigen.\nWählen Sie die Schaltflächen unten aus, um abzubrechen oder fortzufahren.",
+                "sua_tarefa": "> Deine Aufgabe",
+                "lista": "Aufführen",
+                "selecionar_botoes": "Wählen Sie die Schaltflächen unten aus, um diese Aufgabe zu verwalten",
+                "escolher_tarefa_visualizar": "Wählen Sie eine der Aufgaben aus, um weitere Details zu erfahren!",
+                "escolher_lista_navegar": "Wählen Sie eine der Listen aus, um Ihre Aufgaben anzuzeigen",
+                "escolher_lista_apagar": "Wählen Sie eine der Listen zum Löschen aus",
+                "escolher_lista_vincular": "Wählen Sie eine der Listen aus, um sie zu verlinken!",
+                "finalizada": "Bereit",
+                "em_aberto": "Nicht vollständig",
+                "criacao": "Erstellt in",
+                "selecionar_lista": "Wählen Sie diese Liste aus",
+                "tarefa_movida_1": "Ihre Aufgabe wurde in die abgeschlossenen Noten verschoben!",
+                "tarefa_movida_2": "Ihre Aufgabe wurde erneut auf offene Noten verschoben!",
+                "tarefa_excluida": "Ihre Aufgabe wurde erfolgreich gelöscht!",
+                "exclusao_lista_cancelada": "Das Löschen der Aufgabenliste wurde abgebrochen",
+                "exclusao_lista": "`Liste` und verknüpfte `Aufgaben` erfolgreich gelöscht!"
             }
         },
         "menu": {
             "botoes": {
-                "confirmar": "Confirm",
-                "cancelar": "Cancel",
-                "apagar": "Delete",
-                "retornar": "Return",
-                "desativar": "Disable",
-                "ativar": "Activate",
-                "completo": "Complete",
-                "resumido": "Summed up",
+                "confirmar": "Bestätigen",
+                "cancelar": "Stornieren",
+                "apagar": "Löschen",
+                "retornar": "Zurückkehren",
+                "desativar": "Deaktivieren",
+                "ativar": "Aktivieren Sie",
+                "completo": "Vollständig",
+                "resumido": "Zusammengefasst",
                 "solicitar": "Request",
-                "ativar_anunciando": "Activate and announce",
-                "definir_retorno": "Set return",
-                "marcar_concluida": "Mark as completed",
-                "alterar_de_lista": "Change list",
-                "abrir_novamente": "Open again",
-                "confirmar_notificando": "Confirm and notify",
+                "ativar_anunciando": "Aktivieren und ankündigen",
+                "definir_retorno": "Rückgabe einstellen",
+                "marcar_concluida": "Als abgeschlossen markieren",
+                "alterar_de_lista": "Änderungsliste",
+                "abrir_novamente": "Wieder geöffnet",
+                "confirmar_notificando": "Bestätigen und benachrichtigen",
                 "confirmar_anunciando": "Add and advertise",
-                "apenas_confirmar": "Add silently",
-                "selecionar_operacao": "Select the desired operation using the buttons below.",
-                "operacao_cancelada": "Operation cancelled!",
-                "mais_detalhes": "See more details",
-                "navegador": "Open in browser",
-                "perfil": "Profile",
-                "permissoes": "Permissions",
-                "historico": "Historic",
-                "customizar_informacoes": "Customize information",
-                "remover_sobre": "Remove about",
-                "comando_desatualizado": "This command is out of date! Please use the same again."
+                "apenas_confirmar": "Leise hinzufügen",
+                "selecionar_operacao": "Verwenden Sie die Schaltflächen unten, um den gewünschten Vorgang auszuwählen.",
+                "operacao_cancelada": "Aktion abgebrochen!",
+                "mais_detalhes": "Weitere Details anzeigen",
+                "navegador": "Im Browser öffnen",
+                "perfil": "Profil",
+                "permissoes": "Berechtigungen",
+                "historico": "Historisch",
+                "customizar_informacoes": "Informationen anpassen",
+                "remover_sobre": "Entfernen Sie ungefähr",
+                "comando_desatualizado": "Dieser Befehl ist veraltet! Bitte verwenden Sie dasselbe noch einmal."
             },
             "menus": {
-                "selecionar_operacao": "Select the desired operation below",
-                "criador_menu": "Stop right there! This menu can only be used by the author of the command!",
-                "criador_botoes": "Stop right there! These buttons can only be used by the author of the command!",
-                "escolha_mais_detalhes": "Choose to see more information",
-                "escolher_frase": "Choose one of the phrases below!"
+                "selecionar_operacao": "Wählen Sie unten den gewünschten Vorgang aus",
+                "criador_menu": "Hören Sie genau dort auf! Dieses Menü kann nur vom Autor des Befehls verwendet werden!",
+                "criador_botoes": "Hören Sie genau dort auf! Diese Schaltflächen können nur vom Autor des Befehls verwendet werden!",
+                "escolha_mais_detalhes": "Wählen Sie, um weitere Informationen anzuzeigen",
+                "escolher_frase": "Wählen Sie einen der folgenden Sätze!"
             }
         }
     }

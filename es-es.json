@@ -408,7 +408,8 @@
                 "desc_logger": "Registro de eventos del servidor.",
                 "desc_spam": "Los mensajes que se consideren spam serán eliminados y el autor será sancionado.",
                 "desc_global": "`El nombre del servidor se mostrará en el comando`\n</rank global:1018609879562334383>",
-                "desc_misterioso": "Una cera misteriosa se incluirá aquí pronto."
+                "desc_misterioso": "Una cera misteriosa se incluirá aquí pronto.",
+                "desc_autoban": "Prohibir automáticamente a un usuario denunciado y eliminar sus publicaciones."
             }
         },
         "mode": {
@@ -483,9 +484,15 @@
                 "usuario_reportado": "Se ha agregado `1` nuevo usuario a mi registro de mal comportamiento, ¡gracias!",
                 "sem_usuarios": "No se agregaron usuarios, ya que no tienen justificación para banear o no hay baneos en el servidor.",
                 "sem_reportes_guild": "¡No hay usuarios informados externamente en este servidor!",
-                "identificador": "Identificador",
                 "rodape": "páginas, use /verify guild page:<num> para ver otras páginas",
-                "falta_vinculo": "Es necesario configurar una categoría con el comando </conf report:1094346210636214304> antes de poder activarla a través del panel."
+                "falta_vinculo": "Es necesario configurar una categoría con el comando </conf report:1094346210636214304> antes de poder activarla a través del panel.",
+                "auto_ban_painel": "¡No tengo el permiso `Prohibir miembros` para habilitar esta función!",
+                "auto_ban_descricao": "AutoBan está activo en este servidor, ¡informar a este usuario también lo prohibirá!\n\nDe forma predeterminada, los últimos 3 días de sus mensajes también se eliminarán.",
+                "auto_ban_hierarquia": "AutoBan está activo en este servidor, sin embargo, no está permitido prohibir a un usuario con posiciones más altas que la suya.\nEl usuario no ha sido prohibido.",
+                "auto_ban_hierarquia_bot": "AutoBan está activo en este servidor, sin embargo, no tengo permitido banear a un usuario con calificaciones más altas que la mía.\nEl usuario no ha sido baneado.",
+                "auto_ban_banido": "¡AutoBan ha baneado al usuario denunciado!",
+                "auto_ban_permissao": "AutoBan está activo en este servidor, pero no tengo permisos de `Prohibición de miembros`.\nEl usuario no ha sido prohibido.",
+                "auto_ban_nao_encontrado": "¡El usuario ha sido informado pero no está en el servidor para que lo bloqueemos!"
             },
             "xp": {
                 "permissao_1": "No puede administrar miembros de este servidor",

@@ -428,7 +428,8 @@
                 "desc_logger": "Registro eventi del server.",
                 "desc_spam": "I messaggi considerati spam verranno eliminati e l'autore verrà punito..",
                 "desc_global": "`Il nome del server verrà visualizzato nel comando`\n</rank global:1018609879562334383>",
-                "desc_misterioso": "Una cera misteriosa sarà presto inclusa qui"
+                "desc_misterioso": "Una cera misteriosa sarà presto inclusa qui",
+                "desc_autoban": "Banna automaticamente un utente segnalato ed elimina i suoi post."
             }
         },
         "mode": {
@@ -507,7 +508,14 @@
                 "sem_reportes_guild": "Non ci sono utenti segnalati esternamente presenti su questo server!",
                 "identificador": "Identificatore",
                 "rodape": "pagine, usa /verify guild pagina:<num> per vedere altre pagine",
-                "falta_vinculo": "E' necessario configurare una categoria con il comando </conf report:1094346210636214304> prima di poterla attivare tramite il pannello."
+                "falta_vinculo": "E' necessario configurare una categoria con il comando </conf report:1094346210636214304> prima di poterla attivare tramite il pannello.",
+                "auto_ban_painel": "Non ho l'autorizzazione `Ban membri` per abilitare questa funzione!",
+                "auto_ban_descricao": "AutoBan è attivo su questo server, segnalare questo utente bannerà anche lui!\n\nPer impostazione predefinita, verranno eliminati anche gli ultimi 3 giorni dei tuoi messaggi.",
+                "auto_ban_hierarquia": "AutoBan è attivo su questo server, tuttavia non è consentito bannare un utente con posizioni più alte della tua!\nL'utente non è stato bannato.",
+                "auto_ban_hierarquia_bot": "AutoBan è attivo su questo server, ma non mi è permesso applicare un ban a un utente con posizioni più alte della mia!\nL'utente non è stato bannato.",
+                "auto_ban_banido": "AutoBan ha bannato l'utente segnalato!",
+                "auto_ban_permissao": "AutoBan è attivo su questo server, ma non ho il permesso `Ban Members`.\nL'utente non è stato bannato.",
+                "auto_ban_nao_encontrado": "L'utente è stato segnalato, ma non è sul server per consentirci di bannarlo!"
             },
             "xp": {
                 "permissao_1": "Non puoi gestire i membri di questo server",

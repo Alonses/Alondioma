@@ -430,7 +430,8 @@
                 "desc_logger": "Journal des événements du serveur.",
                 "desc_spam": "Les messages considérés comme spam seront supprimés et l'auteur sera puni..",
                 "desc_global": "`Le nom du serveur sera affiché dans la commande`\n</rank global:1018609879562334383>",
-                "desc_misterioso": "Une cire mystère sera bientôt incluse ici"
+                "desc_misterioso": "Une cire mystère sera bientôt incluse ici",
+                "desc_autoban": "Bannir automatiquement un utilisateur signalé et supprimer ses messages."
             }
         },
         "mode": {
@@ -508,7 +509,14 @@
                 "sem_reportes_guild": "Il n'y a aucun utilisateur signalé en externe sur ce serveur!",
                 "identificador": "Identifiant",
                 "rodape": "pages, utilisez /verify guild page:<num> pour voir d'autres pages",
-                "falta_vinculo": "Il est nécessaire de configurer une catégorie avec la commande </conf report:1094346210636214304> avant de l'activer via le panel."
+                "falta_vinculo": "Il est nécessaire de configurer une catégorie avec la commande </conf report:1094346210636214304> avant de l'activer via le panel.",
+                "auto_ban_painel": "Je n'ai pas l'autorisation `Interdire des membres` pour activer cette fonctionnalité!",
+                "auto_ban_descricao": "AutoBan est actif sur ce serveur, signaler cet utilisateur le bannira également!\n\nPar défaut, les 3 derniers jours de vos messages seront également supprimés.",
+                "auto_ban_hierarquia": "L'AutoBan est actif sur ce serveur, cependant il n'est pas permis de bannir un utilisateur avec des positions supérieures à la vôtre!\nL'utilisateur n'a pas été banni.",
+                "auto_ban_hierarquia_bot": "L'AutoBan est actif sur ce serveur, mais je ne suis pas autorisé à bannir un utilisateur avec des positions supérieures à la mienne!\nL'utilisateur n'a pas été banni.",
+                "auto_ban_banido": "AutoBan a banni l'utilisateur signalé!",
+                "auto_ban_permissao": "AutoBan est actif sur ce serveur, mais je n'ai pas les autorisations `Interdire des membres`.\nL'utilisateur n'a pas été banni.",
+                "auto_ban_nao_encontrado": "L'utilisateur a été signalé, mais n'est pas sur le serveur pour que nous le bannions!"
             },
             "xp": {
                 "permissao_1": "Vous ne pouvez pas gérer les membres de ce serveur",

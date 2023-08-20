@@ -256,7 +256,7 @@
                 "usuario_att": "O corno teve seus dados atualizados!",
                 "usuario_nao_encontrado": "O salafrário mencionado não tá nesse server, tenta dnv.",
                 "sem_report": "Esse corno n tem denúncia nenhuma",
-                "com_report": "Esse cornão tomou algumas denúncias de outros servidores já",
+                "com_report": "Esse cornão tomou algumas denúncias de outros servers já",
                 "reportado": "> Reportar corno",
                 "reportador": "Reportador",
                 "reportados": "Reportados",
@@ -268,8 +268,16 @@
                 "usuario_reportado": "`1` novo cornão foi incluído, vlws!",
                 "sem_usuarios": "Nenhum corno foi encontrado, faltou o atestado de cornidão junto do banimento.",
                 "sem_reportes_guild": "Fica tranquilo pq ñ tem nenhum corno presente nesse server ruim seu",
-                "identificador": "Identificador",
-                "rodape": "páginas, usa /verify guild pagina:<num> pra ver outras páginas"
+                "rodape": "páginas, usa /verify guild pagina:<num> pra ver outras páginas",
+                "falta_vinculo": "Oce tem que configurar uma categoria com o comando </conf report:1094346210636214304> antes de ativar por aqui.",
+                "auto_ban_painel": "Eu não tenho a permissão de `Banir membros` para poder ativar esse recurso!",
+                "auto_ban_descricao": "O AutoBan tá ligado nesse serve, ao reportar esse corno ele também vai banido!\n\nPor padrão, irei apagar os últimos 3 dias de mensagens dele.",
+                "auto_ban_hierarquia": "O AutoBan dos reportes tá ligado aqui, mas eu não posso banir um usuário com cargos maiores que o seu!\nO cornão não foi banido.",
+                "auto_ban_hierarquia_bot": "O AutoBan dos reportes tá ligado aqui, mas eu não posso banir um usuário com cargos maiores que o meu!\nO cornão não foi banido.",
+                "auto_ban_banido": "O AutoBan baniu o cornão reportado!",
+                "auto_ban_permissao": "O AutoBan tá ativo aqui, porém eu não possuo permissões para `Banir membros`.\nO cornão não foi banido.",
+                "auto_ban_nao_encontrado": "O cornão foi reportado só que ele não tá nesse server para banirmos!"
+
             },
             "xp": {
                 "permissao_1": "Ocê não pode gerenciar os membros desse server",
