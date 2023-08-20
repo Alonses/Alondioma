@@ -225,8 +225,8 @@
             },
             "canal": {
                 "canal": "Knel",
-                "lock": "bloqueado\nUsa o </chat unlock:1142641928190574672> pra desbloquear",
-                "unlock": "desbloqueado\nUsa o </chat lock:1142641928190574672> pra bloquear",
+                "lock": "Knel bloqueado!\nUsa o </chat unlock:1142641928190574672> pra desbloquear",
+                "unlock": "Knel desbloqueado!\nUsa o </chat lock:1142641928190574672> pra bloquear",
                 "permissao_1": "Tu não pode gerenciar esse knel",
                 "permissao_2": "Eu não posso bloquear esse knel, eu preciso das permissões `Gerenciar Canais` & `Gerenciar cargos` pra isto"
             },

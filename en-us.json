@@ -463,8 +463,8 @@
             },
             "canal": {
                 "canal": "Channel",
-                "lock": "locked\nUse </chat unlock:1142641928190574672> to unlock",
-                "unlock": "unlocked\nUse </chat lock:1142641928190574672> to lock",
+                "lock": "Channel locked!\nUse </chat unlock:1142641928190574672> to unlock",
+                "unlock": "Channel unlocked!\nUse </chat lock:1142641928190574672> to lock",
                 "permissao_1": "You do not have permissions to manage this channel.",
                 "permissao_2": "I can't block this channel, I need `Manage channels` and `Manage roles` permissions for this"
             },

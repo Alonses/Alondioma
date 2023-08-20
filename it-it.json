@@ -460,8 +460,8 @@
             },
             "canal": {
                 "canal": "Canale",
-                "lock": "bloccato\nUsa </chat unlock:1142641928190574672> per sbloccare",
-                "unlock": "sbloccato\nUsa </chat lock:1142641928190574672> per bloccare",
+                "lock": "Canale bloccato!\nUsa </chat unlock:1142641928190574672> per sbloccare",
+                "unlock": "Canale sbloccato!\nUsa </chat lock:1142641928190574672> per bloccare",
                 "permissao_1": "Non sei autorizzato a gestire questo canale.",
                 "permissao_2": "Non riesco a bloccare questo canale, ho bisogno delle autorizzazioni `Gestisci canali` e `Gestisci ruoli` per questo"
             },

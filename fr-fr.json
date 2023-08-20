@@ -461,8 +461,8 @@
                 "idioma": "Langue"
             },
             "canal": {
-                "lock": "verrouillé\nUtilisez </chat unlock:1142641928190574672> pour déverrouiller",
-                "unlock": "déverrouillé\nUtilisez </chat lock:1142641928190574672> pour verrouiller",
+                "lock": "Canal bloqué!\nUtilisez </chat unlock:1142641928190574672> pour déverrouiller",
+                "unlock": "Canal déverrouillé!\nUtilisez </chat lock:1142641928190574672> pour verrouiller",
                 "permissao_1": "Vous n'êtes pas autorisé à gérer cette chaîne.",
                 "permissao_2": "Je ne peux pas bloquer cette chaîne, j'ai besoin des autorisations `Gérer les chaînes` et `Gérer les rôles` pour cela"
             },
