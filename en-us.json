@@ -91,7 +91,7 @@
                 "ativacao_min_1": "on weekends at",
                 "ativacao_min_2": "every day at",
                 "descricao": "This module will discount `B$ auto_repl`, the more modules you activate,\nthe more Bufunfas will be deducted from your bank per day.\n\nCurrently the value for operating your modules is `B$ auto_repl`.\n----------------------------------------------------------------------------",
-                "modulo_ativado": "Module activated! Your module will be sent auto_repl at `auto_repl`",
+                "modulo_ativado": "Module activated! Your module will be sent auto_repl `auto_repl`",
                 "modulo_0": "🌩️ Weather",
                 "modulo_1": "🖊️ Phrases",
                 "modulo_2": "🏯 Historical events",
