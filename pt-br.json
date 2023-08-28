@@ -475,7 +475,8 @@
                 "permissao": "Eu preciso das permissoes `Gerenciar Canais` & `Gerenciar cargos` para poder ativar este comando.",
                 "ativo": "Agora os usuários poderão usar o comando </complaint start:1094356024091217990> neste servidor!",
                 "desativo": "Os tickets foram desativados para esse servidor.",
-                "tipo_canal": "Você precisa selecionar uma categoria para que eu possa criar canais dentro dela, tente novamente"
+                "tipo_canal": "Você precisa selecionar uma categoria para que eu possa criar canais dentro dela, tente novamente",
+                "sem_categoria": "Você não mencionou nenhuma categoria, e não possui uma categoria salva em cache!\nPor favor, utilize o comando novamente inserindo uma categoria."
             },
             "denuncia": {
                 "desativado": "As denúncias em chats privados estão desabilitados para esse servidor, avise um moderador sobre essa função! :P",
@@ -588,7 +589,8 @@
             "logger": {
                 "ativado": "O log de eventos do servidor agora está ativo, todos os eventos serão enviados no canal auto_repl",
                 "desativado": "O log de eventos do servidor agora está desativado\nUse o </panel guild:1107163338930126869>, ou o comando </conf log:1094346210636214304> mencionando um canal para ativar novamente!",
-                "falta_vinculo": "É preciso configurar um canal com o comando </conf log:1094346210636214304> antes de poder ativar pelo painel."
+                "falta_vinculo": "É preciso configurar um canal com o comando </conf log:1094346210636214304> antes de poder ativar pelo painel.",
+                "mencao_canal": "Você não mencionou nenhum canal, e não possui um canal salvo em cache!\nPor favor, utilize o comando novamente mencionando um canal"
             },
             "spam": {
                 "titulo": "> Prevenção de Spam",

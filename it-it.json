@@ -471,7 +471,8 @@
                 "permissao": "Ho bisogno dei permessi `Gestisci canali` e `Gestisci ruoli` per poter attivare questo comando.",
                 "ativo": "Gli utenti potranno ora utilizzare il comando </complaint start:1094356024091217990> su questo server!",
                 "desativo": "I ticket sono stati disabilitati per questo server.",
-                "tipo_canal": "Devi selezionare una categoria in modo che io possa creare canali al suo interno, riprova"
+                "tipo_canal": "Devi selezionare una categoria in modo che io possa creare canali al suo interno, riprova",
+                "sem_categoria": "Non hai menzionato alcuna categoria e non ho alcuna categoria memorizzata nella cache!\nRiutilizza il comando inserendo una categoria."
             },
             "denuncia": {
                 "desativado": "I rapporti sulle chat private sono disabilitati per questo server, avvisa un moderatore di questa funzione! :P",
@@ -583,7 +584,8 @@
             "logger": {
                 "ativado": "Il registro eventi del server è ora attivo, tutti gli eventi verranno inviati sul canale auto_repl",
                 "desativado": "Il registro eventi del server è ora disabilitato\nUsa </panel guild:1107163338930126869>, o comanda </conf log:1094346210636214304> menzionando un canale per abilitarlo di nuovo!",
-                "falta_vinculo": "Un canale deve essere configurato con il comando </conf log:1094346210636214304> prima di poter essere attivato tramite il pannello."
+                "falta_vinculo": "Un canale deve essere configurato con il comando </conf log:1094346210636214304> prima di poter essere attivato tramite il pannello.",
+                "mencao_canal": "Non hai menzionato alcun canale e non ho un canale memorizzato nella cache!\nUtilizza nuovamente il comando menzionando il canale."
             },
             "spam": {
                 "titulo": "> Prevenzione dello spam",

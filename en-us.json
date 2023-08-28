@@ -474,7 +474,8 @@
                 "permissao": "I need `Manage Channels` & `Manage Roles` permissions to be able to activate this command.",
                 "ativo": "Users will now be able to use the </complaint start:1094356024091217990> command on this server!",
                 "desativo": "Tickets have been disabled for this server.",
-                "tipo_canal": "You need to select a category so I can create channels within it, please try again"
+                "tipo_canal": "You need to select a category so I can create channels within it, please try again",
+                "sem_categoria": "You didn't mention any categories and I don't have any cached categories!\nUse the command again by entering a category."
             },
             "denuncia": {
                 "desativado": "Reporting on private chats is disabled for this server, notify a moderator about this feature! :P",
@@ -586,7 +587,8 @@
             "logger": {
                 "ativado": "Server event log is now active, all events will be sent on auto_repl channel",
                 "desativado": "Server event log is now disabled\nUse </panel guild:1107163338930126869>, or command </conf log:1094346210636214304> mentioning a channel to enable again!",
-                "falta_vinculo": "It is necessary to configure a channel with the command </conf log:1094346210636214304> before being able to activate it through the panel."
+                "falta_vinculo": "It is necessary to configure a channel with the command </conf log:1094346210636214304> before being able to activate it through the panel.",
+                "mencao_canal": "You didn't mention any channel, and I don't have a cached channel!\nPlease use the command again mentioning a channel"
             },
             "spam": {
                 "titulo": "> Spam Prevention",
@@ -699,7 +701,7 @@
                 "efeitos_aplicados": "Applied Effects",
                 "atributos": "Attributes",
                 "disco_musical": "Musical disc",
-                "livro_encantado": "Enchanted bool",
+                "livro_encantado": "Enchanted book",
                 "sugestao_pesquisa": "Wrong item? Try searching using quotes, for example </mine:1018609879562334390> \"auto_repl\"",
                 "mais_detalhes_wiki": "[See more details on the wiki](auto_repl)",
                 "nota_rodape": "This item has not been officially implemented yet, your data is unofficial",

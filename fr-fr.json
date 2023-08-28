@@ -472,7 +472,8 @@
                 "permissao": "J'ai besoin des autorisations `Gérer les canaux` et `Gérer les rôles` pour activer cette commande.",
                 "ativo": "Les utilisateurs pourront désormais utiliser la commande </complaint start:1094356024091217990> sur ce serveur!",
                 "desativo": "Les tickets ont été désactivés pour ce serveur.",
-                "tipo_canal": "Vous devez sélectionner une catégorie pour que je puisse y créer des chaînes, veuillez réessayer"
+                "tipo_canal": "Vous devez sélectionner une catégorie pour que je puisse y créer des chaînes, veuillez réessayer",
+                "sem_categoria": "Vous n'avez mentionné aucune catégorie et je n'ai pas de catégorie en cache !\nRéutilisez la commande en entrant une catégorie."
             },
             "denuncia": {
                 "desativado": "Les rapports dans les chats privés sont désactivés pour ce serveur, informez un modérateur de cette fonctionnalité! :P",
@@ -584,7 +585,8 @@
             "logger": {
                 "ativado": "Le journal des événements du serveur est maintenant actif, tous les événements seront envoyés sur le canal auto_repl",
                 "desativado": "La journalisation des événements du serveur est désormais désactivée\nUtilisez </panel guild:1107163338930126869> ou la commande </conf log:1094346210636214304> en mentionnant un canal à réactiver!",
-                "falta_vinculo": "Un canal doit être configuré avec la commande </conf log:1094346210636214304> avant de pouvoir être activé via le panneau."
+                "falta_vinculo": "Un canal doit être configuré avec la commande </conf log:1094346210636214304> avant de pouvoir être activé via le panneau.",
+                "mencao_canal": "Vous n'avez mentionné aucune chaîne et je n'ai aucun canal en cache!\nVeuillez utiliser à nouveau la commande en mentionnant la chaîne."
             },
             "spam": {
                 "titulo": "> Prévention du spam",
