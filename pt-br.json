@@ -590,12 +590,25 @@
                 "ativado": "O log de eventos do servidor agora está ativo, todos os eventos serão enviados no canal auto_repl",
                 "desativado": "O log de eventos do servidor agora está desativado\nUse o </panel guild:1107163338930126869>, ou o comando </conf log:1094346210636214304> mencionando um canal para ativar novamente!",
                 "falta_vinculo": "É preciso configurar um canal com o comando </conf log:1094346210636214304> antes de poder ativar pelo painel.",
-                "mencao_canal": "Você não mencionou nenhum canal, e não possui um canal salvo em cache!\nPor favor, utilize o comando novamente mencionando um canal"
+                "mencao_canal": "Você não mencionou nenhum canal, e não possui um canal salvo em cache!\nPor favor, utilize o comando novamente mencionando um canal",
+                "titulo_avatar": "> Avatar atualizado",
+                "novo_avatar": "O novo avatar do usuário é este!",
+                "novo_membro": "> Há um novo membro!",
+                "entrada_original": "Entrada original",
+                "membro_saiu": "> Um membro saiu!",
+                "cargo_atualizado": "> Cargos atualizados",
+                "permissoes_apos": "Permissões após a alteração",
+                "cargo_adicionado": "Adicionado",
+                "cargo_removido": "Removido"
             },
             "spam": {
                 "titulo": "> Prevenção de Spam",
                 "ativado": "O módulo anti-spam foi ativado! auto_repl\nO Canal mencionado será usado para o logger ( </conf log:1094346210636214304> ) também caso ele seja ativado.\n\nSe você usar o comando do logger mencionando um outro canal, o anti-spam enviará todos os relatórios no mesmo canal do logger, e vice-versa\n(ambos os módulos utilizam o mesmo canal auto_repl)",
-                "desativado": "O módulo anti-spam foi desativado."
+                "desativado": "O módulo anti-spam foi desativado.",
+                "spam_aplicado": "O usuário auto_repl foi mutado por `auto_repl minutos` devido à repetidas\nmensagens enviadas em tempos aproximados.",
+                "vigencia": "Vigência",
+                "justificativa_mute": "Fazendo spam no servidor",
+                "ping_spam": "@here auto_repl foi colocado em castigo devido a spam"
             }
         },
         "util": {
@@ -726,6 +739,7 @@
             "server": {
                 "id_server": "ID do server",
                 "membros": "Membros",
+                "membro": "Membro",
                 "dono": "Dono",
                 "canais": "Canais",
                 "categorias": "Categorias",
@@ -749,7 +763,8 @@
                 "conta_criada": "Conta criada",
                 "alonsal": "Ó eu ai!",
                 "enceirado": "eternamente enceirado",
-                "moderador": "Este membro é um administrador neste servidor"
+                "moderador": "Este membro é um administrador neste servidor",
+                "bot": "É um Bot!"
             },
             "unidades": {
                 "anos": " anos",
