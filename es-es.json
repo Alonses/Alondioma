@@ -561,12 +561,30 @@
                 "ativado": "El registro de eventos del servidor ahora está activo, todos los eventos se enviarán en el canal auto_repl",
                 "desativado": "El registro de eventos del servidor ahora está deshabilitado\nUse </panel guild:1107163338930126869>, o comando </conf log:1094346210636214304> mencionando un canal para habilitarlo nuevamente.",
                 "falta_vinculo": "Un canal debe configurarse con el comando </conf log:1094346210636214304> antes de que pueda activarse a través del panel.",
-                "mencao_canal": "¡No mencionaste ningún canal y no tengo ningún canal en caché!\nUtiliza el comando nuevamente mencionando el canal."
+                "mencao_canal": "¡No mencionaste ningún canal y no tengo ningún canal en caché!\nUtiliza el comando nuevamente mencionando el canal.",
+                "titulo_avatar": "> Avatar actualizado",
+                "novo_avatar": "¡Este es el nuevo avatar de usuario!",
+                "novo_membro": "> ¡Hay un nuevo miembro!",
+                "membro_saiu": "> ¡Se fue un miembro!",
+                "cargo_atualizado": "> rol función cambiada",
+                "permissoes_apos": "Permisos después del cambio",
+                "cargo_adicionado": "Agregado",
+                "cargo_removido": "Retirado",
+                "alterador": "Cambiado por",
+                "excluido": "Eliminado por",
+                "mensagem_excluida": "> Mensaje eliminado",
+                "mensagem_editada": "> Mensaje editado",
+                "sem_texto": "No incluye texto",
+                "conteudo_excluido": "Contenido eliminado"
             },
             "spam": {
                 "titulo": "> Prevención de correo no deseado",
                 "ativado": "¡El módulo anti-spam ha sido activado! auto_repl\nEl canal mencionado se usará para el registrador (</conf log:1094346210636214304>) también si está activado.\n\nSi usa el comando de registrador mencionando otro canal, el antispam enviará todos los informes en el mismo canal registrador y viceversa\n(ambos módulos usan el mismo canal auto_repl)",
-                "desativado": "El módulo antispam ha sido deshabilitado."
+                "desativado": "El módulo antispam ha sido deshabilitado.",
+                "spam_aplicado": "El usuario auto_repl ha sido silenciado durante `auto_repl minutos` debido a\nmensajes repetidos enviados en tiempos aproximados.",
+                "vigencia": "Validez",
+                "justificativa_mute": "Spam en el servidor",
+                "ping_spam": "@here auto_repl fue castigado por spam"
             }
         },
         "util": {

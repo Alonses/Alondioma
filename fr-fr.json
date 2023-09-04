@@ -586,12 +586,32 @@
                 "ativado": "Le journal des événements du serveur est maintenant actif, tous les événements seront envoyés sur le canal auto_repl",
                 "desativado": "La journalisation des événements du serveur est désormais désactivée\nUtilisez </panel guild:1107163338930126869> ou la commande </conf log:1094346210636214304> en mentionnant un canal à réactiver!",
                 "falta_vinculo": "Un canal doit être configuré avec la commande </conf log:1094346210636214304> avant de pouvoir être activé via le panneau.",
-                "mencao_canal": "Vous n'avez mentionné aucune chaîne et je n'ai aucun canal en cache!\nVeuillez utiliser à nouveau la commande en mentionnant la chaîne."
+                "mencao_canal": "Vous n'avez mentionné aucune chaîne et je n'ai aucun canal en cache!\nVeuillez utiliser à nouveau la commande en mentionnant la chaîne.",
+                "titulo_avatar": "> Avatar mis à jour",
+                "novo_avatar": "C'est le nouvel avatar utilisateur!",
+                "novo_membro": "> Il y a un nouveau membre!",
+                "entrada_original": "Entrée originale",
+                "membro_saiu": "> Un membre est parti!",
+                "cargo_atualizado": "> Rôle mis à jour",
+                "permissoes_apos": "Autorisations après changement",
+                "cargo_adicionado": "Ajoutée",
+                "cargo_removido": "Supprimé",
+                "alterador": "Changé par",
+                "autor": "Auteur",
+                "excluido": "Supprimé par",
+                "mensagem_excluida": "> Message supprimé",
+                "mensagem_editada": "> Message modifié",
+                "sem_texto": "Aucun texte inclus",
+                "conteudo_excluido": "Contenu supprimé"
             },
             "spam": {
                 "titulo": "> Prévention du spam",
                 "ativado": "Le module anti-spam a été activé ! auto_repl\nLe canal mentionné sera utilisé pour l'enregistreur ( </conf log:1094346210636214304> ) également s'il est activé.\n\nSi vous utilisez la commande logger en mentionnant un autre canal, l'anti-spam enverra tous les rapports sur le même canal d'enregistreur, et vice versa\n(les deux modules utilisent le même canal auto_repl)",
-                "desativado": "Le module anti-spam a été désactivé."
+                "desativado": "Le module anti-spam a été désactivé.",
+                "spam_aplicado": "L'utilisateur auto_repl a été mis en sourdine pendant `auto_repl minutes` en raison de messages répétés\nenvoyés à des heures approximatives.",
+                "vigencia": "Validité",
+                "justificativa_mute": "Envoyer du spam au serveur",
+                "ping_spam": "@here auto_repl a été sanctionné pour spam"
             }
         },
         "util": {
@@ -947,6 +967,7 @@
                 "selecionar_operacao": "Sélectionnez l'opération souhaitée à l'aide des boutons ci-dessous.",
                 "operacao_cancelada": "Opération annulée!",
                 "mais_detalhes": "Voir plus de détails",
+                "ver_modulos": "Voir les modules",
                 "navegador": "Ouvrir dans le navigateur",
                 "perfil": "Profil",
                 "permissoes": "Autorisations",

@@ -588,12 +588,32 @@
                 "ativado": "Server event log is now active, all events will be sent on auto_repl channel",
                 "desativado": "Server event log is now disabled\nUse </panel guild:1107163338930126869>, or command </conf log:1094346210636214304> mentioning a channel to enable again!",
                 "falta_vinculo": "It is necessary to configure a channel with the command </conf log:1094346210636214304> before being able to activate it through the panel.",
-                "mencao_canal": "You didn't mention any channel, and I don't have a cached channel!\nPlease use the command again mentioning a channel"
+                "mencao_canal": "You didn't mention any channel, and I don't have a cached channel!\nPlease use the command again mentioning a channel",
+                "titulo_avatar": "> Updated avatar",
+                "novo_avatar": "This is the new user avatar!",
+                "novo_membro": "> There is a new member!",
+                "entrada_original": "Original entry",
+                "membro_saiu": "> A member left!",
+                "cargo_atualizado": "> Updated position",
+                "permissoes_apos": "Permissions after change",
+                "cargo_adicionado": "Added",
+                "cargo_removido": "Removed",
+                "alterador": "Changed by",
+                "autor": "Author",
+                "excluido": "Deleted by",
+                "mensagem_excluida": "> Deleted Message",
+                "mensagem_editada": "> Edited Message",
+                "sem_texto": "No text included",
+                "conteudo_excluido": "Deleted Content"
             },
             "spam": {
                 "titulo": "> Spam Prevention",
                 "ativado": "The anti-spam module has been activated! auto_repl\nChannel mentioned will be used for logger ( </conf log:1094346210636214304> ) also if it is activated.\n\nIf you use logger command mentioning another channel, anti-spam will send all reports on the same logger channel, and vice versa\n(both modules use the same auto_repl channel)",
-                "desativado": "The anti-spam module has been disabled."
+                "desativado": "The anti-spam module has been disabled.",
+                "spam_aplicado": "User auto_repl has been muted for `auto_repl minutes` due to repeated\nmessages sent in approximate times.",
+                "vigencia": "Validity",
+                "justificativa_mute": "Spamming the server",
+                "ping_spam": "@here auto_repl got punished for spam"
             }
         },
         "util": {
@@ -949,6 +969,7 @@
                 "selecionar_operacao": "Select the desired operation using the buttons below.",
                 "operacao_cancelada": "Operation cancelled!",
                 "mais_detalhes": "See more details",
+                "ver_modulos": "View modules",
                 "navegador": "Open in browser",
                 "perfil": "Profile",
                 "permissoes": "Permissions",
