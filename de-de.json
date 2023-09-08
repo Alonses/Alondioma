@@ -2,7 +2,7 @@
     "data": {
         "inic": {
             "inicio": {
-                "slash_commands": "Herkömmliche Befehle wurden deaktiviert. Verwenden Sie weiterhin Alonsal mit /slash-Befehlen (</help:1018609879512006787>). Probieren Sie es jetzt aus ;D\n\nHinweis: Meine Befehle werden nicht angezeigt? Laden Sie mich erneut ein, indem Sie auf die Schaltfläche unten klicken! Stellen Sie außerdem sicher, dass meine Befehle für alle Serverintegrationen unter `„`Integrationen -> Alonsal -> Befehle` aktiviert sind.",
+                "slash_commands": "Herkömmliche Befehle wurden deaktiviert. Verwenden Sie weiterhin Alonsal mit /slash-Befehlen (</help:1018609879512006787>). Probieren Sie es jetzt aus ;D\n\nHinweis: Meine Befehle werden nicht angezeigt? Laden Sie mich erneut ein, indem Sie auf die Schaltfläche unten klicken! Stellen Sie außerdem sicher, dass meine Befehle für alle Serverintegrationen unter `Integrationen -> Alonsal -> Befehle` aktiviert sind.",
                 "convidar": "Einladen!",
                 "suporte": "Unterstützung"
             },
@@ -129,69 +129,57 @@
             "esfiha": {
                 "asf": "Willst du einen Sfiha?"
             },
-            "amor": {
-                "limda": "Beautiful :gift_heart:",
-                "rodape": "Love yourself is what matters :heartpulse:",
-                "100perc": "Practically married :heart_on_fire:",
-                "90perc": "My couple :smiling_face_with_3_hearts:",
-                "80perc": "literally lovers :revolving_hearts:",
-                "60perc": "There's a mood going on :hot_face:",
-                "40perc": "Will be? :eyes:",
-                "20perc": "Friendzone :people_hugging:",
-                "0perc": "Are public enemies :angry:",
-                "teste": "The test returned"
-            },
             "gado": {
-                "gado": "YOUR CATTLE",
-                "error_2": "get out of here your CA :cow: TTLE, test it with another user"
+                "gado": "IHR VIEH",
+                "error_2": "Verschwinde hier mit deinem VI :cow: EH, teste es mit einem anderen User"
             },
             "peao": {
-                "peao": "Rotate the pawn"
+                "peao": "Drehe den Bauern um"
             },
             "anagrama": {
                 "anagrama": "Dein Anagramm",
                 "entrada": "Originaleintrag",
                 "lista_combinacoes": "Mögliche Kombinationen",
-                "sequencia": "Your entered characters produce",
-                "combinacao": "combination",
-                "combinacoes": "combinations!",
+                "sequencia": "Was Sie eingegeben haben, ergibt",
+                "combinacao": "kombination",
+                "combinacoes": "kombinationen!",
                 "sorte": "Es gab eine Wortwiederholung! Glück gehabt?"
             },
             "jaja": {
                 "nsfw_jaja": "Aufgrund übermäßiger Freude kann dieser Befehl nur auf einem NSFW-Kanal verwendet werden."
             },
             "rank": {
-                "rank_sv": "> Rank of",
+                "rank_sv": "> Rang von",
                 "rank_rc": "> Command classification",
-                "rank_global": "> Global Ranking",
-                "rodape": "pages, use /rank pagina:<num> to see other pages",
-                "paginas": "Enter a lower number for the page",
-                "nivel_descricao": "level = experience / 1000",
-                "enceirados": "Users",
-                "experiencia": "Experience",
-                "nivel": "Level",
-                "comandos": "Commands",
-                "ativacoes": "Activations",
-                "historia_alonsal": "These are the commands activated throughout the history of Alonsal",
-                "aliase_faltando": "alias absent",
-                "nome_faltando": "Missing name",
-                "error_1": "Please enter a smaller page number for this",
-                "error_2": "There is not enough data to generate the ranking at this time, please try again later",
-                "error_rc": "Could not load command rating at this time, please try again later"
+                "rank_global": "> Globales Ranking",
+                "rodape": "Seiten, verwenden Sie /rank seiten:<num>, um andere Seiten anzuzeigen",
+                "paginas": "Geben Sie eine niedrigere Zahl für die Seite ein",
+                "nivel_descricao": "Level = Erfahrung / 1000",
+                "enceirados": "Benutzer",
+                "experiencia": "Erfahrung",
+                "nivel": "Ebene",
+                "comandos": "Befehle",
+                "ativacoes": "Aktivierungen",
+                "historia_alonsal": "Dies sind die Befehle, die im Laufe der Geschichte von Alonsal aktiviert wurden",
+                "aliase_faltando": "Alias fehlt",
+                "nome_faltando": "Fehlender Name",
+                "error_1": "Bitte geben Sie hierfür eine geringere Seitenzahl ein",
+                "error_2": "Zur Erstellung des Rankings liegen derzeit nicht genügend Daten vor. Bitte versuchen Sie es später noch einmal",
+                "error_rc": "Die Befehlsauswertung konnte derzeit nicht geladen werden. Bitte versuchen Sie es später noch einmal"
             },
             "badges": {
-                "error_1": "You don't have any badges to view!",
-                "error_2": "You don't have this badge to pin",
-                "suas_badges": "Your Badges",
-                "ganhou": "won in",
-                "cabecalho_menu": "Which one will be chosen?",
-                "escolha_uma": "Choose a badge!",
-                "fixar": "Pin the badge",
-                "badge_fixada": "pinned to your profile!",
-                "badge_removida": "removed from your profile",
+                "error_1": "Sie haben keine Abzeichen zum Anschauen!",
+                "error_2": "Sie haben dieses Abzeichen nicht zum Anpinnen",
+                "suas_badges": "Ihre Abzeichen",
+                "ganhou": "gewonnen",
+                "cabecalho_menu": "Welches wird ausgewählt?",
+                "escolha_uma": "Wählen Sie ein Abzeichen!",
+                "fixar": "Stecken Sie das Abzeichen fest",
+                "badge_fixada": "An Ihr Profil gepinnt!",
+                "badge_removida": "aus Ihrem Profil entfernt",
                 "rodape": "Use the /badge fix command to pin a!",
-                "sem_badge": "This user hasn't earned any badges yet!",
-                "new_badge": "You just won a badge! The `auto_repl` auto_repl! It will appear on your profile when you use the </user info:1018609879562334385> command\n\nYou can also pin featured badges with the </badge fix:1018609879512006794> command!"
+                "sem_badge": "Dieser Benutzer hat noch keine Abzeichen erhalten!",
+                "new_badge": "Du hast gerade ein Abzeichen gewonnen! Das `auto_repl` auto_repl! Es wird in Ihrem Profil angezeigt, wenn Sie den Befehl </user info:1018609879562334385> verwenden.\n\nSie können hervorgehobene Abzeichen auch mit dem Befehl </badge fix:1018609879512006794> anheften!"
             },
             "counter": {
                 "titulo": "> Zeichenzähler",
@@ -210,128 +198,128 @@
         "game": {
             "anuncio": {
                 "link_app": "In der auto_repl-App öffnen",
-                "anuncio_game_1": "The Game `auto_repl`_ it's free until the day `auto_repl` over there\n\nRedeem it before date to save `R$ auto_repl` and get a copy in your auto_repl account",
-                "anuncio_game_2": "The Games auto_repl are free until the day `auto_repl` over there\n\nRedeem all before date to save `R$ auto_repl` and get a copy in your auto_repl account",
-                "anuncio_dlc_1": "The DLC `auto_repl` it's free until the day `auto_repl` over there\n\nRedeem it before date to save `R$ auto_repl` and get a copy in your auto_repl account",
-                "anuncio_dlc_2": "The DLC's auto_repl are free until the day `auto_repl` over there\n\nRedeem both before date to save `R$ auto_repl` and get a copy in your auto_repl account",
-                "falta_vinculo": "A channel and role must be configured with the </notify config:1018632996787589283> command before being able to activate via the panel."
+                "anuncio_game_1": "Das Spiel `auto_repl` ist bis zum Tag `auto_repl` dort drüben kostenlos.\n\nLösen Sie es vor dem Datum ein, um `R$ auto_repl` zu speichern und eine Kopie in Ihrem auto_repl-Konto zu erhalten",
+                "anuncio_game_2": "Die Spiele auto_repl sind bis zum Tag `auto_repl` dort drüben kostenlos.\n\nLösen Sie alle vor dem Datum ein, um `R$ auto_repl` zu sparen und eine Kopie in Ihrem auto_repl-Konto zu erhalten",
+                "anuncio_dlc_1": "Der DLC `auto_repl` ist bis zu dem Tag `auto_repl` dort drüben kostenlos.\n\nLösen Sie ihn vor dem Datum ein, um `R$ auto_repl` zu sparen und eine Kopie in Ihrem auto_repl-Konto zu erhalten",
+                "anuncio_dlc_2": "Die DLCs auto_repl sind bis zum Tag `auto_repl` dort drüben kostenlos.\n\nLösen Sie beide vor dem Datum ein, um `R$ auto_repl` zu sparen und eine Kopie in Ihrem auto_repl-Konto zu erhalten",
+                "falta_vinculo": "Ein Kanal und eine Rolle müssen mit dem Befehl </notify config:1018632996787589283> konfiguriert werden, bevor sie über das Panel aktiviert werden können."
             },
             "pula": {
-                "conteudo": "The 1st Game created by SLondo!\nHow far can you run? Test now!",
-                "rodape": "The game may not run properly on mobile phones.",
-                "jogar_agora": "Play now!",
-                "vinculo": "This user has not yet linked his Discord account to Pula Prédios:tm:!",
-                "error_1": "There was an error with the Token, we are checking what the problem was, please try again later",
-                "error_2": "There was an error with APISAL, it was not possible to perform this function at the moment, please try again later",
-                "estatisticas_pula": "> Your statistics in Pula",
-                "gerais": "General",
-                "pulos": "Jumps",
-                "mods_ativos": "Active Mods",
-                "mortes": "Deaths",
+                "conteudo": "Das erste von Slondo entwickelte Spiel!\nWie weit kannst du laufen? Jetzt prüfen!",
+                "rodape": "Auf Mobiltelefonen läuft das Spiel möglicherweise nicht richtig.",
+                "jogar_agora": "Jetzt spielen!",
+                "vinculo": "Dieser Benutzer hat sein Discord-Konto noch nicht mit Pula Prédios:tm: verknüpft!",
+                "error_1": "Beim Token ist ein Fehler aufgetreten. Wir versuchen, dieses Problem zu lösen. Bitte versuchen Sie es später noch einmal",
+                "error_2": "Bei APISAL ist ein Fehler aufgetreten. Diese Funktion konnte im Moment nicht ausgeführt werden. Bitte versuchen Sie es später noch einmal",
+                "estatisticas_pula": "> Ihre Statistiken in Pula",
+                "gerais": "Allgemein",
+                "pulos": "Springt",
+                "mods_ativos": "Aktive Mods",
+                "mortes": "Todesfälle",
                 "tempos": "Times",
-                "jogado": "Played",
-                "voando": "Flying",
-                "em_eventos": "At events",
-                "moedas": "Coins",
-                "coletadas": "Collected",
-                "gastas": "Spent",
+                "jogado": "Gespielt",
+                "voando": "Fliegend",
+                "em_eventos": "Bei Veranstaltungen",
+                "moedas": "Münzen",
+                "coletadas": "Gesammelt",
+                "gastas": "Ausgegeben",
                 "guardadas": "Bank",
-                "eventos": "Events",
-                "aquatico": "Aquatic",
+                "eventos": "Veranstaltungen",
+                "aquatico": "Wasser",
                 "lava": "Lava",
-                "zona_densa": "Dense zone",
+                "zona_densa": "dichte Zone",
                 "parque": "Park",
                 "pisoes": "Bonus",
-                "concluidos": "Completed",
-                "progresso": "Progress",
-                "recorde": "🏆 Record of auto_repl points in a match!\n🏃 auto_repl km's covered in total"
+                "concluidos": "Vollendet",
+                "progresso": "Fortschritt",
+                "recorde": "🏆 Sammeln Sie auto_repl-Punkte in einem Spiel!\n🏃 Gesamte zurückgelegte auto_repl-km"
             },
             "cara": {
-                "acertou": "You're right! Congratulations!",
-                "errou": "You missed!"
+                "acertou": "Sie haben Recht! Glückwunsch!",
+                "errou": "Du hast verpasst!"
             },
             "dado": {
-                "error_1": "It is not possible to take more than 50 dice at the same time..",
-                "error_2": "It is not possible to draw geometric solids with more than 10,000 faces.",
-                "error_3": "It is not possible to rotate geometric solids with less than 4 faces."
+                "error_1": "Es ist nicht möglich, mehr als 50 Würfel gleichzeitig zu nehmen.",
+                "error_2": "Es ist nicht möglich, geometrische Körper mit mehr als 10.000 Flächen zu zeichnen.",
+                "error_3": "Es ist nicht möglich, geometrische Körper mit weniger als 4 Flächen zu drehen."
             },
             "gta": {
-                "horario": "Are exactly auto_repl in GTA Online",
-                "horario_atual": "Current time",
-                "erro_apisal": "Unable to connect to APISAL at the moment, please try again later!"
+                "horario": "Sind genau auto_repl in GTA Online",
+                "horario_atual": "Aktuelle Uhrzeit",
+                "erro_apisal": "Derzeit kann keine Verbindung zu APISAL hergestellt werden. Bitte versuchen Sie es später noch einmal!"
             },
             "jokenpo": {
-                "erro_aposta": "Pay the rent!\nYou don't have enough Bufunfas to bet, collect some with the </daily:1020794974377353338> first!"
+                "erro_aposta": "Zahle die Miete!\nDu hast nicht genug Bufunfas, auf die du wetten kannst, sammle zuerst welche von </daily:1020794974377353338>!"
             },
             "nazar": {
-                "titulo": ":wind_chime: Madame Nazar today",
-                "descricao": "Madame Nazar is located today in the region of \n`auto_repl`, in `auto_repl`\n\n:round_pushpin: Next to `auto_repl` and `auto_repl`",
-                "error_1": "Unable to locate Madam Nazar at the moment, please try again later"
+                "titulo": ":wind_chime: Frau Nazar heute",
+                "descricao": "Madame Nazar befindet sich heute in der Region \n`auto_repl`, in `auto_repl`\n\n:round_pushpin: Neben `auto_repl` und `auto_repl`",
+                "error_1": "Frau Nazar ist derzeit nicht auffindbar. Bitte versuchen Sie es später noch einmal"
             },
             "forca": {
-                "titulo": "> Hangman game :skull:",
-                "usado": "Lyrics already used",
-                "comando": "Use </forca:1069762590294687905> with a letter or the whole word to try to get it right!",
-                "tentativas": "Attempts remaining:",
-                "acertou": "You're right! Congratulations!\nThe word was",
-                "errou": "You made a mistake!\nThe word was",
-                "bufunfas": "You won `B$ 50` Bufunfas for getting it right!"
+                "titulo": "> Galgenmännchen-Spiel :skull:",
+                "usado": "Liedtext bereits verwendet",
+                "comando": "Verwenden Sie </forca:1069762590294687905> mit einem Buchstaben oder dem ganzen Wort, um zu versuchen, es richtig zu machen!",
+                "tentativas": "Verbleibende Versuche:",
+                "acertou": "Sie haben Recht! Herzlichen Glückwunsch!\nDas Wort war",
+                "errou": "Du hast einen Fehler gemacht!\nDas Wort war",
+                "bufunfas": "Du hast Bufunfas im Wert von `B$ 50` gewonnen, weil du es richtig gemacht hast!"
             },
             "portal": {
-                "titulo": "> Portal coordinates",
-                "descricao": "auto_repl Your main portal needs to be mounted at the following coordinates auto_repl```fix\nX: auto_repl; Z: auto_repl```\nauto_repl A new portal will be created at the following coordinates when traversing to auto_repl```fix\nX: auto_repl; Z: auto_repl```\n:mag: | Enable coordinates by pressing F3 (in Java Edition) or in the world settings in Bedrock Edition.\n\n:warning: | Note that the portals need to have a minimum distance between the coordinates to be linked correctly, if there are portals very close, the link between them will not work.",
-                "superficie": "Overworld",
-                "no_nether": "in the Nether",
-                "na_superficie": "in the Overworld",
-                "o_nether": "in the Nether",
-                "a_superficie": "the Overworld"
+                "titulo": "> Portalkoordinaten",
+                "descricao": "auto_repl Ihr Hauptportal muss an den folgenden Koordinaten gemountet werden: auto_repl```fix\nX: auto_repl; Z: auto_repl```\nauto_repl Ein neues Portal wird an den folgenden Koordinaten erstellt, wenn auto_repl```fix\nX: auto_repl; Z: auto_repl```\n:mag: | Aktivieren Sie Koordinaten, indem Sie F3 (in Java Edition) oder in den Welteinstellungen in Bedrock Edition drücken.\n\n:warning: | Beachten Sie, dass die Portale einen Mindestabstand zwischen den Koordinaten haben müssen, um korrekt verknüpft zu werden. Wenn die Portale sehr nahe beieinander liegen, funktioniert die Verbindung zwischen ihnen nicht.",
+                "superficie": "Überwelt",
+                "no_nether": "im Nether",
+                "na_superficie": "in der Oberwelt",
+                "o_nether": "im Nether",
+                "a_superficie": "die Oberwelt"
             }
         },
         "manu": {
             "avalie": {
-                "titulo": "> Rate me on TopGG and help the Alonsal cause!",
-                "descricao": "Leave your opinion about me on Top GG and contribute to our feature update\nTo report bugs and issues, or make suggestions, use the </mail:1018609879512006788> command",
-                "avaliar": "Evaluate"
+                "titulo": "> Bewerten Sie mich auf TopGG und helfen Sie Alonsal bei seiner Sache!",
+                "descricao": "Hinterlassen Sie Ihre Meinung zu Top GG und tragen Sie zu unserem Feature-Update bei. Um Fehler und Probleme zu melden oder Vorschläge zu machen, verwenden Sie den Befehl </mail:1018609879512006788>",
+                "avaliar": "Rezension"
             },
             "convite": {
-                "titulo": "> Oh open up the way I want to go :notes:",
-                "convite": "Invite me by clicking here!"
+                "titulo": "> Oh, öffne den Weg, den ich gehen möchte :notes:",
+                "convite": "Laden Sie mich ein, indem Sie hier klicken!"
             },
             "git": {
-                "repositorio": "> Alonsal Repository",
-                "link": "Contribute by reporting bugs or stealing codes from Alonsal :pray_tone2:"
+                "repositorio": "> Alonsal-Repository",
+                "link": "Tragen Sie bei, indem Sie Fehler melden oder Codes von Alonsal stehlen :pray_tone2:"
             },
             "info": {
-                "infos": "Skating between the wax lines :man_golfing:",
-                "conteudo_1": "This bot is sponsored by Baidu and Renato's snack, 40 kinds of snacks, hot dog, fast food in 5 minutes, the biggest snack bar in Extrema, come eat the renatão of 4, the complete snack!\n\n:mailbox: Suggest commands or report bugs using the </mail:1018609879512006788>\n:page_facing_up: Use </git:1018609879470047261> to view the Alonsal repository",
-                "conteudo_2": "</discord:1018609879512006789> - Enter Alonsal's Multiconnected Hub",
-                "conteudo_3": "</support:1018632996787589282> - Help maintain and develop Alonsal\n\n-----------------------------\n> OTHER RESOURCES\nPhrases of </cattle:1018653229128622184> commands are fully owned by [@GadoDecider](https://twitter.com/GadoDecider), all credits go to him.",
-                "invocado_1": "I've already been invoked",
-                "invocado_2": "times",
+                "infos": "Skaten zwischen den Wachslinien :man_golfing:",
+                "conteudo_1": "Dieser Bot wird von Baidu und Renato's Snack gesponsert, 40 Arten von Snacks, Hot Dog, Fast Food in 5 Minuten, die größte Snackbar in Extrema, kommen Sie und essen Sie den Renatão von 4, den kompletten Snack!\n\n:mailbox : Schlagen Sie Befehle vor oder melden Sie Fehler mit </mail:1018609879512006788>\n:page_facing_up: Verwenden Sie </git:1018609879470047261>, um das Alonsal-Repository anzuzeigen",
+                "conteudo_2": "</discord:1018609879512006789> - Betreten Sie den Multiconnected Hub von Alonsal",
+                "conteudo_3": "</support:1018632996787589282> - Helfen Sie mit, Alonsal zu erhalten und weiterzuentwickeln\n\n-----------------------------\n> ANDERE RESSOURCEN\nSätze von </cattle:1018653229128622184>-Befehlen sind vollständig Eigentum von [@GadoDecider](https://twitter.com/GadoDecider), alle Credits gehen an ihn.",
+                "invocado_1": "Ich wurde bereits angerufen",
+                "invocado_2": "mal",
                 "versao": "Version",
-                "spawn_alonsal": "Spawned in"
+                "spawn_alonsal": "Ich wurde geboren in"
             },
             "mail": {
-                "aviso_1": "There is an error in your message, try again.",
-                "aviso_2": ":mailbox: Your message has been delivered!",
-                "aviso_5": ":incoming_envelope:\nI sent more information in your dm :mailbox_with_mail:",
-                "error_1": "Could not send a message to this ID",
-                "sucesso_1": "Message sent to Alonsal :incoming_envelope:\nI sent more information in your dm :mailbox_with_mail:",
-                "conteudo_1": "Your message has been delivered to the",
-                "conteudo_2": "The content of the message is"
+                "aviso_1": "Ihre Nachricht enthält einen Fehler. Versuchen Sie es erneut.",
+                "aviso_2": ":mailbox: Ihre Nachricht wurde zugestellt!",
+                "aviso_5": ":incoming_envelope:\nWeitere Informationen habe ich per DM geschickt :mailbox_with_mail:",
+                "error_1": "An diese ID kann keine Nachricht gesendet werden",
+                "sucesso_1": "Nachricht an Alonsal gesendet:Umschlag erhalten:\nIch habe weitere Informationen in Ihrer DM gesendet :mailbox_with_mail:",
+                "conteudo_1": "Ihre Nachricht wurde an gesendet",
+                "conteudo_2": "Der Inhalt der Nachricht ist"
             },
             "help": {
                 "comandos": "Schauen Sie sich die Befehle an, laden Sie mich ein oder greifen Sie über die Website auf meinen Server zu!"
             },
             "apoio": {
-                "apoie": "> Support Alonsal!",
-                "contribua": "Contribute",
-                "escaneie": "Scan the QR code or click the button below to donate\nand help maintain and develop Alonsal!\n\nAll help is ultra Welcome ;D"
+                "apoie": "> Unterstützen Sie Alonsal!",
+                "contribua": "Beitragen",
+                "escaneie": "Scannen Sie den QR-Code oder klicken Sie auf die Schaltfläche unten, um zu spenden\nund dabei zu helfen, Alonsal zu erhalten und weiterzuentwickeln!\n\nJede Hilfe ist äußerst willkommen ;D"
             },
             "hub": {
-                "hub_alonsal": "> Alonsal Hub",
-                "info": "Enter my server right now, whether to ask questions, or use the commands, the server is free for everyone!",
-                "conectar": "To enter!"
+                "hub_alonsal": "> Alonsal Center",
+                "info": "Betreten Sie jetzt meinen Server, ob Sie Fragen stellen oder die Befehle verwenden möchten, der Server steht allen offen!",
+                "conectar": "Verbinden!"
             },
             "help_comando": {
                 "traducao_faltando": "Für diesen Befehl gibt es noch keine Übersetzung für Ihre Sprache. Warten!",
@@ -363,6 +351,7 @@
                 "exclusao_personalizada": "Benutzerdefinierte Löschung",
                 "exclusao_niveis": "Ausschluss nach Ebenen",
                 "dados_excluidos": "Ihre Daten wurden erfolgreich gelöscht.",
+                "selecionar_menus": "Benutzen Sie die Schaltflächen unten, um zu entscheiden, was als nächstes zu tun ist!",
                 "selects": {
                     "uni": {
                         "1": "Lokalität",
@@ -453,7 +442,7 @@
                 "ativos": "Derzeit aktiv",
                 "tipo_canal": "Der definierte Kanal muss ein Textkanal sein. Bitte versuche es erneut",
                 "ate_data": "bis",
-                "resgate_dica": "These are currently available games\nRedeem them before they expire!",
+                "resgate_dica": "Dies sind die derzeit verfügbaren Spiele.\nLösen Sie sie ein, bevor sie ablaufen!",
                 "config_titulo": "> Einstellungen für Spielanzeigen 🎮",
                 "config_descricao": "Aktivieren oder deaktivieren Sie das Spielanzeigenmodul.\n\nDas Spielemodul sendet automatisch Werbung für Spiele, die auf Ihrem Server kostenlos sind. Sie können dieses Modul jetzt auf zwei Arten aktivieren: einfach aktivieren oder, was am besten ist, aktivieren Sie es und lösen Sie bereits eine Benachrichtigung mit allen Spielen aus, die jetzt kostenlos sind!\n\nWählen Sie eine der folgenden Optionen oder brechen Sie ab, um die Verwerfen-Änderungen zu aktivieren.",
                 "configuracao": "Sie müssen einen Kanal und eine Rolle konfigurieren, um Benachrichtigungen für kostenlose Spiele zu erhalten.\nVerwenden Sie den Befehl </notify config:1018632996787589283>, um das Modul für kostenlose Spiele zu konfigurieren und zu aktivieren.",
@@ -574,7 +563,7 @@
             "broadcast": {
                 "desligado": "Broadcast ist auf diesem Server deaktiviert.",
                 "canal_invalido": "Ich kann auf diesem Kanal keine Nachrichten senden, es ist nicht möglich, hier eine Übertragung zu starten!",
-                "solicitando": "> Requesting a Broadcast",
+                "solicitando": "> Anfordern einer Broadcast",
                 "descricao": "Klicken Sie unten, um Solondo mitzuteilen, dass Sie eine Übertragung senden möchten.\n\nWenn Sie eine Übertragung anfordern, kann Solondo diese Chat-ID sehen und über mich eine Verbindung zum Remote-Chat mit Ihnen herstellen!\nAlle in diesem Kanal gesendeten Nachrichten können dies auch von Solondo gesehen werden.\n\nEs ist auch möglich, Bilder und Dateien im Chat anzuhängen! (Hier steckt jede Menge Technologie)\n\nWenn Sie das Server-Broadcasting deaktivieren oder Solondo 5 Minuten lang offline ist, wird dieser Link automatisch deaktiviert.",
                 "solicitacao_aberta": "Eine neue Sendeanfrage wurde eröffnet",
                 "solicitante": "Anforderer",
@@ -717,8 +706,8 @@
                 "construcao": "Konstruktion",
                 "pocoes": "Tränke",
                 "efeitos_aplicados": "Angewandte Effekte",
-                "atributos": "Attribute",
-                "disco_musical": "Musical disc",
+                "atributos": "Attribut",
+                "disco_musical": "Schallplatte",
                 "livro_encantado": "verzaubertes Buch",
                 "sugestao_pesquisa": "Falscher Gegenstand? Versuchen Sie, mit Anführungszeichen zu suchen, zum Beispiel </mine:1018609879562334390> \"auto_repl\"",
                 "mais_detalhes_wiki": "[Weitere Informationen finden Sie im Wiki.](auto_repl)",
@@ -975,7 +964,9 @@
                 "historico": "Historisch",
                 "customizar_informacoes": "Informationen anpassen",
                 "remover_sobre": "Entfernen Sie ungefähr",
-                "comando_desatualizado": "Dieser Befehl ist veraltet! Bitte verwenden Sie dasselbe noch einmal."
+                "comando_desatualizado": "Dieser Befehl ist veraltet! Bitte verwenden Sie dasselbe noch einmal.",
+                "central_exclusao": "Daten löschen",
+                "telemetria": "Telemetrie"
             },
             "menus": {
                 "selecionar_operacao": "Wählen Sie unten den gewünschten Vorgang aus",

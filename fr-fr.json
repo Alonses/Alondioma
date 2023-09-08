@@ -129,18 +129,6 @@
             "esfiha": {
                 "asf": "Voulez-vous un sfiha?"
             },
-            "amor": {
-                "limda": "Magnifique :cadeau coeur:",
-                "rodape": "Si aimer est ce qui compte :heartpulse:",
-                "100perc": "Pratiquement marié :heart_on_fire:",
-                "90perc": "Mon couple :smiling_face_with_3_hearts:",
-                "80perc": "Littéralement amoureux :revolving_hearts:",
-                "60perc": "Il y a de l'ambiance :hot_face:",
-                "40perc": "Sera? :eyes:",
-                "20perc": "Friendzone :people_hugging:",
-                "0perc": "Sont des ennemis publics :angry:",
-                "teste": "Le test est revenu"
-            },
             "gado": {
                 "gado": "VOTRE BÉTAIL",
                 "error_2": "sortez votre BÉ :cow: TAIL, testez ceci avec un autre utilisateur"
@@ -363,6 +351,7 @@
                 "exclusao_personalizada": "Suppression personnalisée",
                 "exclusao_niveis": "Exclusion par niveaux",
                 "dados_excluidos": "Vos données ont été supprimées avec succès.",
+                "selecionar_menus": "Utilisez les boutons ci-dessous pour décider quoi faire ensuite!",
                 "selects": {
                     "uni": {
                         "1": "Locale",
@@ -975,7 +964,9 @@
                 "historico": "Historique",
                 "customizar_informacoes": "Personnaliser les informations",
                 "remover_sobre": "Supprimer à propos",
-                "comando_desatualizado": "Cette commande est obsolète! Veuillez réutiliser le même."
+                "comando_desatualizado": "Cette commande est obsolète! Veuillez réutiliser le même.",
+                "central_exclusao": "Suppression de données",
+                "telemetria": "Télémétrie"
             },
             "menus": {
                 "selecionar_operacao": "Sélectionnez l'opération souhaitée ci-dessous",

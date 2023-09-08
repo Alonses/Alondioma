@@ -128,18 +128,6 @@
             "esfiha": {
                 "asf": "C'è un esfiha lì?"
             },
-            "amor": {
-                "limda": "Bellissimo :gift_heart:",
-                "rodape": "Amare te stesso è ciò che conta :heartpulse:",
-                "100perc": "Praticamente sposato :heart_on_fire:",
-                "90perc": "La mia coppia :smiling_face_with_3_hearts:",
-                "80perc": "Letteralmente amanti :revolving_hearts:",
-                "60perc": "C'è uno stato d'animo in corso :hot_face:",
-                "40perc": "Sarà? :eyes:",
-                "20perc": "Friendzone :people_hugging:",
-                "0perc": "Sono nemici pubblici :angry:",
-                "teste": "Prova restituita"
-            },
             "gado": {
                 "gado": "AH TU BOVINO",
                 "error_2": "Non sono un BOVI :cow: NO, prova con un altro utente"
@@ -362,6 +350,7 @@
                 "exclusao_personalizada": "Cancellazione personalizzata",
                 "exclusao_niveis": "Esclusione per livelli",
                 "dados_excluidos": "I tuoi dati sono stati cancellati con successo.",
+                "selecionar_menus": "Utilizza i pulsanti qui sotto per decidere cosa fare dopo!",
                 "selects": {
                     "uni": {
                         "1": "Locale",
@@ -975,7 +964,8 @@
                 "historico": "Storico",
                 "customizar_informacoes": "Personalizzare le informazioni",
                 "remover_sobre": "Rimuovere il circa",
-                "comando_desatualizado": "Questo comando non è aggiornato! Si prega di utilizzare di nuovo lo stesso."
+                "comando_desatualizado": "Questo comando non è aggiornato! Si prega di utilizzare di nuovo lo stesso.",
+                "central_exclusao": "cancellazione dei dati"
             },
             "menus": {
                 "selecionar_operacao": "Selezionare l'operazione desiderata di seguito",

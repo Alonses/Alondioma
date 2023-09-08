@@ -129,18 +129,6 @@
             "esfiha": {
                 "asf": "Есть ли там эсфиха??"
             },
-            "amor": {
-                "limda": "красивая :gift_heart:",
-                "rodape": "Любовь к себе - вот что важно :heartpulse:",
-                "100perc": "практически женат :heart_on_fire:",
-                "90perc": "моя пара :smiling_face_with_3_hearts:",
-                "80perc": "буквально любовники :revolving_hearts:",
-                "60perc": "отношения продолжаются :hot_face:",
-                "40perc": "Будет? :eyes:",
-                "20perc": "Friendzone :people_hugging:",
-                "0perc": "враги государства :angry:",
-                "teste": "Тест вернулся"
-            },
             "gado": {
                 "gado": "ВАШ СКОТА",
                 "error_2": "убирайся оттуда СК :cow: ОТА, попробуй с другим пользователем"
@@ -363,6 +351,7 @@
                 "exclusao_personalizada": "пользовательское удаление",
                 "exclusao_niveis": "Исключение по уровням",
                 "dados_excluidos": "Ваши данные успешно удалены.",
+                "selecionar_menus": "Используйте кнопки ниже, чтобы решить, что делать дальше!",
                 "selects": {
                     "uni": {
                         "1": "Местный",
@@ -980,7 +969,9 @@
                 "historico": "Исторический",
                 "customizar_informacoes": "настроить информацию",
                 "remover_sobre": "удалить о",
-                "comando_desatualizado": "Эта команда устарела! Пожалуйста, используйте то же самое снова."
+                "comando_desatualizado": "Эта команда устарела! Пожалуйста, используйте то же самое снова.",
+                "central_exclusao": "Центр исключения",
+                "telemetria": "Телеметрия"
             },
             "menus": {
                 "selecionar_operacao": "Выберите нужную операцию ниже",

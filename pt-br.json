@@ -130,18 +130,6 @@
             "esfiha": {
                 "asf": "Vai uma esfiha ae?"
             },
-            "amor": {
-                "limda": "Limda :gift_heart:",
-                "rodape": "Amor a si próprio é oq importa :heartpulse:",
-                "100perc": "Praticamente casados :heart_on_fire:",
-                "90perc": "Meu casal :smiling_face_with_3_hearts:",
-                "80perc": "Literalmente amantes :revolving_hearts:",
-                "60perc": "Tá rolando um clima :hot_face:",
-                "40perc": "Será? :eyes:",
-                "20perc": "Friendzone :people_hugging:",
-                "0perc": "São inimigos públicos :angry:",
-                "teste": "O teste retornou"
-            },
             "gado": {
                 "gado": "Ô SEU GADO",
                 "error_2": "sai pra lá seu GA :cow: DO, teste isso com outro usuário"
@@ -364,6 +352,7 @@
                 "exclusao_personalizada": "Exclusão personalizada",
                 "exclusao_niveis": "Exclusão por níveis",
                 "dados_excluidos": "Seus dados foram excluídos com sucesso.",
+                "selecionar_menus": "Use os botões abaixo para decidir o que fará em seguida!",
                 "selects": {
                     "uni": {
                         "1": "Locale",
@@ -955,7 +944,9 @@
                 "historico": "Histórico",
                 "customizar_informacoes": "Customizar informações",
                 "remover_sobre": "Remover sobre",
-                "comando_desatualizado": "Este comando está desatualizado! Por favor, use o mesmo novamente."
+                "comando_desatualizado": "Este comando está desatualizado! Por favor, use o mesmo novamente.",
+                "central_exclusao": "Central de exclusão",
+                "telemetria": "Telemetria"
             },
             "menus": {
                 "selecionar_operacao": "Selecione a operação desejada abaixo",

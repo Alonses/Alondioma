@@ -130,18 +130,6 @@
             "esfiha": {
                 "asf": "Do you want a sfiha?"
             },
-            "amor": {
-                "limda": "Beautiful :gift_heart:",
-                "rodape": "Love yourself is what matters :heartpulse:",
-                "100perc": "Practically married :heart_on_fire:",
-                "90perc": "My couple :smiling_face_with_3_hearts:",
-                "80perc": "literally lovers :revolving_hearts:",
-                "60perc": "There's a mood going on :hot_face:",
-                "40perc": "Will be? :eyes:",
-                "20perc": "Friendzone :people_hugging:",
-                "0perc": "Are public enemies :angry:",
-                "teste": "The test returned"
-            },
             "gado": {
                 "gado": "YOUR CATTLE",
                 "error_2": "get out of here your CA :cow: TTLE, test it with another user"
@@ -364,6 +352,7 @@
                 "exclusao_personalizada": "Custom deletion",
                 "exclusao_niveis": "Exclusion by levels",
                 "dados_excluidos": "Your data has been successfully deleted.",
+                "selecionar_menus": "Use the buttons below to decide what to do next!",
                 "selects": {
                     "uni": {
                         "1": "Locale",
@@ -977,7 +966,9 @@
                 "historico": "Historic",
                 "customizar_informacoes": "Customize information",
                 "remover_sobre": "Remove about",
-                "comando_desatualizado": "This command is out of date! Please use the same again."
+                "comando_desatualizado": "This command is out of date! Please use the same again.",
+                "central_exclusao": "Exclusion center",
+                "telemetria": "Telemetry"
             },
             "menus": {
                 "selecionar_operacao": "Select the desired operation below",
