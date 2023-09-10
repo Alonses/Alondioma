@@ -599,7 +599,11 @@
                 "spam_aplicado": "L'utente auto_repl è stato penalizzato per `auto_repl minuti` per aver inviato ripetutamente\nmessaggi considerati spam.",
                 "vigencia": "Validità",
                 "justificativa_mute": "Messaggi di spam del server",
-                "ping_spam": "@here auto_repl è stato punito per spam"
+                "ping_spam": "@here auto_repl è stato punito per spam",
+                "silenciado": "Sei stato disattivato sul server `auto_repl` a causa di diversi messaggi considerati spam\nI messaggi considerati spam sono i seguenti:",
+                "aviso_links": "Il tuo account potrebbe essere nelle mani di altre persone, se vedi questo messaggio, controlla le tue impostazioni di sicurezza modificando la password, abilitando le verifiche in due passaggi e disconnettendo il tuo account da dispositivi sconosciuti per non perdere l'accesso al tuo account.",
+                "falta_permissoes_1": "Impossibile bloccare lo spam dall'utente auto_repl a causa della mancanza di autorizzazioni bot.\nI messaggi inviati considerati spam sono i seguenti.",
+                "falta_permissoes_2": "Impossibile disabilitare l'utente auto_repl a causa della mancanza di autorizzazioni @here\nAssicurati di avere l'autorizzazione `Punisci membri` e che il mio ruolo sia sopra gli altri ruoli nell'elenco dei ruoli per evitare spam da utenti di livello inferiore ."
             }
         },
         "util": {

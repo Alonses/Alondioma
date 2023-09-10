@@ -600,7 +600,11 @@
                 "spam_aplicado": "Der Benutzer auto_repl wurde für `auto_repl minuten` stummgeschaltet, weil\ner in ungefährer Zeit wiederholt Nachrichten gesendet hat.",
                 "vigencia": "Gültigkeit",
                 "justificativa_mute": "Spam auf dem Server",
-                "ping_spam": "@here auto_repl wurde aufgrund von Spam mutiert"
+                "ping_spam": "@here auto_repl wurde aufgrund von Spam mutiert",
+                "silenciado": "Wenn Sie den Server `auto_repl` stummgeschaltet haben, werden Ihnen verschiedene Meldungen angezeigt, die als Spam angesehen werden.",
+                "aviso_links": "Ihr Konto befindet sich möglicherweise in den Händen anderer Personen. Wenn Sie diese Meldung sehen, überprüfen Sie Ihre Sicherheitseinstellungen, ändern Sie Ihr Passwort, aktivieren Sie die Bestätigung in zwei Schritten und trennen Sie Ihr Konto von unbekannten Geräten, damit Sie den Zugriff auf Ihr Konto nicht verlieren.",
+                "falta_permissoes_1": "Aufgrund fehlender Bot-Berechtigungen konnte Spam für den Benutzer auto_repl nicht gestoppt werden.\nDie folgenden gesendeten Nachrichten gelten als Spam.",
+                "falta_permissoes_2": "Der Benutzer „auto_repl“ kann aufgrund fehlender Berechtigungen nicht stummgeschaltet werden. @here\nBitte stellen Sie sicher, dass ich über die Berechtigung „Mitglieder“ verfüge und dass meine Rolle über den anderen Rollen in der Rollenliste steht, damit ich Spam von Benutzern unterhalb dieser Ebene vermeiden kann."
             }
         },
         "util": {

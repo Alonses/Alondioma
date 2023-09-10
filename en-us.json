@@ -602,7 +602,11 @@
                 "spam_aplicado": "User auto_repl has been muted for `auto_repl minutes` due to repeated\nmessages sent in approximate times.",
                 "vigencia": "Validity",
                 "justificativa_mute": "Spamming the server",
-                "ping_spam": "@here auto_repl got punished for spam"
+                "ping_spam": "@here auto_repl got punished for spam",
+                "silenciado": "You have been muted on the `auto_repl` server due to several messages considered as spam\nThe messages that were considered as spam are as follows:",
+                "aviso_links": "Your account may be in the hands of other people, if you see this message, check your security settings by changing your password, enabling 2-step verifications and disconnecting your account from unknown devices so you don't lose access to the account.",
+                "falta_permissoes_1": "Unable to stop spam from user auto_repl due to lack of bot permissions.\nThe messages sent considered spam are as follows.",
+                "falta_permissoes_2": "Unable to mute user auto_repl due to lack of permissions @here\nMake sure I have the `Members of Punishment` permission and that my role is above the other roles in the role list so I can avoid user spam below of the level."
             }
         },
         "util": {

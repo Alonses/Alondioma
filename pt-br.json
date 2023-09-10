@@ -605,7 +605,11 @@
                 "spam_aplicado": "O usuário auto_repl foi mutado por `auto_repl minutos` devido à repetidas\nmensagens enviadas em tempos aproximados.",
                 "vigencia": "Vigência",
                 "justificativa_mute": "Fazendo spam no servidor",
-                "ping_spam": "@here auto_repl foi colocado em castigo devido a spam"
+                "ping_spam": "@here auto_repl foi colocado em castigo devido a spam",
+                "silenciado": "Você foi silenciado no servidor `auto_repl` devido a várias mensagens consideradas como spam\nAs mensagens que foram consideradas como spam são as seguintes:",
+                "aviso_links": "Sua conta pode estar nas mãos de outras pessoas, caso veja esta mensagem, verifique suas configurações de segurança, alterando sua senha, ativando verificações em 2 etapas e desconectando sua conta de aparelhos desconhecidos para que não perca o acesso a conta.",
+                "falta_permissoes_1": "Não foi possível interromper um spam do usuário auto_repl por falta de permissões do bot.\nAs mensagens enviadas consideradas spam são as seguintes.",
+                "falta_permissoes_2": "Não foi possível silenciar o usuário auto_repl devido a falta de permissões @here\nGaranta que eu tenha a permissão `Membros de castigo` e que meu cargo esteja acima dos demais cargos na lista de cargos, para que eu possa previnir spam's de usuários abaixo do nível."
             }
         },
         "util": {

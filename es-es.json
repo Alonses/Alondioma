@@ -573,7 +573,11 @@
                 "spam_aplicado": "El usuario auto_repl ha sido silenciado durante `auto_repl minutos` debido a\nmensajes repetidos enviados en tiempos aproximados.",
                 "vigencia": "Validez",
                 "justificativa_mute": "Spam en el servidor",
-                "ping_spam": "@here auto_repl fue castigado por spam"
+                "ping_spam": "@here auto_repl fue castigado por spam",
+                "silenciado": "Has sido silenciado en el servidor `auto_repl` debido a varios mensajes considerados spam\nLos mensajes que fueron considerados spam son los siguientes:",
+                "aviso_links": "Tu cuenta puede estar en manos de otras personas, si ves este mensaje revisa tu configuración de seguridad, cambiando tu contraseña, activando las verificaciones en 2 pasos y desconectando tu cuenta de dispositivos desconocidos para que no pierdas el acceso a la cuenta.",
+                "falta_permissoes_1": "No se puede detener el spam del usuario auto_repl debido a la falta de permisos del bot.\nLos mensajes enviados considerados spam son los siguientes.",
+                "falta_permissoes_2": "No se puede silenciar al usuario auto_repl debido a la falta de permisos @here\nAsegúrese de tener el permiso `Castigar a los miembros` y de que mi función esté por encima de las otras funciones en la lista de funciones para poder evitar el spam para los usuarios de nivel inferior."
             }
         },
         "util": {
