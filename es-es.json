@@ -404,7 +404,17 @@
         },
         "mode": {
             "idiomas": {
-                "titulo_idioma": "Idiomas Disponibles"
+                "titulo_idioma": "Idiomas Disponibles",
+                "idioma_server": "Todos los mensajes automáticos ahora se enviarán en el idioma:",
+                "idiomas": {
+                    "al-br": "Alonsês",
+                    "de-de": "Alemán",
+                    "en-us": "Inglés",
+                    "es-es": "Español",
+                    "fr-fr": "Francés",
+                    "pt-br": "Portugués",
+                    "ru-ru": "Ruso"
+                }
             },
             "clear": {
                 "permissao": "No puedo hacer esto sin el permiso `Administrar mensajes`.",

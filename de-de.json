@@ -426,7 +426,18 @@
         },
         "mode": {
             "idiomas": {
-                "titulo_idioma": "Verfügbare Sprachen"
+                "titulo_idioma": "Verfügbare Sprachen",
+                "idioma_server": "Alle automatischen Nachrichten werden jetzt in der folgenden Sprache gesendet:",
+                "idiomas": {
+                    "al-br": "Alonsês",
+                    "de-de": "Deutsch",
+                    "en-us": "Englisch",
+                    "es-es": "Spanisch",
+                    "fr-fr": "Französisch",
+                    "it-it": "Italienisch",
+                    "pt-br": "Portugiesisch",
+                    "ru-ru": "Russisch"
+                }
             },
             "clear": {
                 "permissao": "Ich kann dies nicht ohne die Berechtigung `Nachrichten verwalten` tun",

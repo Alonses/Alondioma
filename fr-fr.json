@@ -426,7 +426,18 @@
         },
         "mode": {
             "idiomas": {
-                "titulo_idioma": "Langues disponibles"
+                "titulo_idioma": "Langues disponibles",
+                "idioma_server": "Tous les messages automatiques seront désormais envoyés dans la langue:",
+                "idiomas": {
+                    "al-br": "Alonsês",
+                    "de-de": "Allemand",
+                    "en-us": "Anglais",
+                    "es-es": "Espagnol",
+                    "fr-fr": "Français",
+                    "it-it": "Italien",
+                    "pt-br": "Portugais",
+                    "ru-ru": "Russe"
+                }
             },
             "clear": {
                 "permissao": "Je ne peux pas faire cela sans l'autorisation `Gérer les messages`",
