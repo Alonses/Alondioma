@@ -426,8 +426,7 @@
             "idiomas": {
                 "titulo_idioma": "Lingue disponibili",
                 "idioma_server": "Tutti i messaggi automatici verranno ora inviati nella lingua:",
-                "idiomas": {
-                    "al-br": "Alonsês",
+                "siglas": {
                     "de-de": "Tedesco",
                     "en-us": "Inglese",
                     "es-es": "Spagnolo",

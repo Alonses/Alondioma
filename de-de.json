@@ -428,8 +428,7 @@
             "idiomas": {
                 "titulo_idioma": "Verfügbare Sprachen",
                 "idioma_server": "Alle automatischen Nachrichten werden jetzt in der folgenden Sprache gesendet:",
-                "idiomas": {
-                    "al-br": "Alonsês",
+                "siglas": {
                     "de-de": "Deutsch",
                     "en-us": "Englisch",
                     "es-es": "Spanisch",

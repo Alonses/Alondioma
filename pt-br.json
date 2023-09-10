@@ -430,7 +430,7 @@
             "idiomas": {
                 "titulo_idioma": "Idiomas disponíveis",
                 "idioma_server": "Todas as mensagens automáticas agora serão enviadas no idioma:",
-                "idiomas": {
+                "siglas": {
                     "al-br": "Alonsês",
                     "de-de": "Alemão",
                     "en-us": "Inglês",

@@ -406,8 +406,7 @@
             "idiomas": {
                 "titulo_idioma": "Idiomas Disponibles",
                 "idioma_server": "Todos los mensajes automáticos ahora se enviarán en el idioma:",
-                "idiomas": {
-                    "al-br": "Alonsês",
+                "siglas": {
                     "de-de": "Alemán",
                     "en-us": "Inglés",
                     "es-es": "Español",

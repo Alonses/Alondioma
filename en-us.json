@@ -429,8 +429,7 @@
             "idiomas": {
                 "titulo_idioma": "Available languages",
                 "idioma_server": "All automatic messages will now be sent in the language:",
-                "idiomas": {
-                    "al-br": "Alonsês",
+                "siglas": {
                     "de-de": "German",
                     "en-us": "English",
                     "es-es": "Spanish",
