@@ -604,7 +604,7 @@
                 "silenciado": "Vous avez été mis en sourdine sur le serveur `auto_repl` en raison de plusieurs messages considérés comme du spam.\nLes messages considérés comme du spam sont les suivants:",
                 "aviso_links": "Votre compte est peut-être entre les mains d'autres personnes. Si vous voyez ce message, vérifiez vos paramètres de sécurité en modifiant votre mot de passe, en activant les vérifications en deux étapes et en déconnectant votre compte des appareils inconnus afin de ne pas perdre l'accès au compte.",
                 "falta_permissoes_1": "Impossible d'empêcher le spam de l'utilisateur auto_repl en raison du manque d'autorisations du robot.\nLes messages envoyés considérés comme du spam sont les suivants.",
-                "falta_permissoes_2": "Impossible de désactiver l'utilisateur auto_repl en raison du manque d'autorisations @ici\nAssurez-vous que j'ai l'autorisation `Punir les membres` et que mon rôle est supérieur aux autres rôles dans la liste des rôles afin d'éviter le spam des utilisateurs en dessous du niveau."
+                "falta_permissoes_2": "Impossible de désactiver l'utilisateur auto_repl en raison du manque d'autorisations @here\nAssurez-vous que j'ai l'autorisation `Punir les membres` et que mon rôle est supérieur aux autres rôles dans la liste des rôles afin d'éviter le spam des utilisateurs en dessous du niveau."
             }
         },
         "util": {
