@@ -519,7 +519,8 @@
                 "auto_ban_hierarquia_bot": "L'AutoBan est actif sur ce serveur, mais je ne suis pas autorisé à bannir un utilisateur avec des positions supérieures à la mienne!\nL'utilisateur n'a pas été banni.",
                 "auto_ban_banido": "AutoBan a banni l'utilisateur signalé!",
                 "auto_ban_permissao": "AutoBan est actif sur ce serveur, mais je n'ai pas les autorisations `Interdire des membres`.\nL'utilisateur n'a pas été banni.",
-                "auto_ban_nao_encontrado": "L'utilisateur a été signalé, mais n'est pas sur le serveur pour que nous le bannions!"
+                "auto_ban_nao_encontrado": "L'utilisateur a été signalé, mais n'est pas sur le serveur pour que nous le bannions!",
+                "novo_reporte": "Nouveau rapport"
             },
             "xp": {
                 "permissao_1": "Vous ne pouvez pas gérer les membres de ce serveur",
@@ -600,6 +601,11 @@
                 "excluido": "Supprimé par",
                 "mensagem_excluida": "> Message supprimé",
                 "mensagem_editada": "> Message modifié",
+                "mensagem_antiga": "Ancien message:",
+                "mensagem_atualizada": "Message mis à jour:",
+                "resumo_atualizado": "Un [message](auto_repl) a été mis à jour par <@auto_repl>\n\n**Ancien message:** ```auto_repl```\n**Message mis à jour:** ```auto_repl```",
+                "auto_exclusao": "<@auto_repl> supprimé un [message](auto_repl)",
+                "mode_exclusao": "Un [message](auto_repl) de <@auto_repl> a été supprimé",
                 "sem_texto": "Aucun texte inclus",
                 "conteudo_excluido": "Contenu supprimé"
             },

@@ -516,7 +516,8 @@
                 "auto_ban_hierarquia_bot": "AutoBan è attivo su questo server, ma non mi è permesso applicare un ban a un utente con posizioni più alte della mia!\nL'utente non è stato bannato.",
                 "auto_ban_banido": "AutoBan ha bannato l'utente segnalato!",
                 "auto_ban_permissao": "AutoBan è attivo su questo server, ma non ho il permesso `Ban Members`.\nL'utente non è stato bannato.",
-                "auto_ban_nao_encontrado": "L'utente è stato segnalato, ma non è sul server per consentirci di bannarlo!"
+                "auto_ban_nao_encontrado": "L'utente è stato segnalato, ma non è sul server per consentirci di bannarlo!",
+                "novo_reporte": "Nuovo rapporto"
             },
             "xp": {
                 "permissao_1": "Non puoi gestire i membri di questo server",
@@ -597,6 +598,11 @@
                 "excluido": "Cancellato da",
                 "mensagem_excluida": "> Messaggio eliminato",
                 "mensagem_editada": "> Messaggio modificato",
+                "mensagem_antiga": "Vecchio messaggio:",
+                "mensagem_atualizada": "Messaggio aggiornato:",
+                "resumo_atualizado": "Un [messaggio](auto_repl) è stato aggiornato da <@auto_repl>\n\n**Vecchio messaggio:** ```auto_repl```\n**Messaggio aggiornato:** ```auto_repl```",
+                "auto_exclusao": "<@auto_repl> ha eliminato un [messaggio](auto_repl)",
+                "mode_exclusao": "Un [messaggio](auto_repl) da <@auto_repl> è stato eliminato",
                 "sem_texto": "Nessun testo incluso",
                 "conteudo_excluido": "Contenuto eliminato"
             },

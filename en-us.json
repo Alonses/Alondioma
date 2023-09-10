@@ -521,7 +521,8 @@
                 "auto_ban_hierarquia_bot": "The AutoBan of reports is active on this server, however it is not allowed for me to apply a ban on a user with positions higher than mine!\nThe user was not banned.",
                 "auto_ban_banido": "AutoBan has banned the reported user!",
                 "auto_ban_permissao": "AutoBan is active on this server, but I don't have 'ban members' permissions.\nThe user was not banned.",
-                "auto_ban_nao_encontrado": "The user has been reported but is not on the server for us to ban!"
+                "auto_ban_nao_encontrado": "The user has been reported but is not on the server for us to ban!",
+                "novo_reporte": "New report"
             },
             "xp": {
                 "permissao_1": "You cannot manage members of this server",
@@ -602,6 +603,11 @@
                 "excluido": "Deleted by",
                 "mensagem_excluida": "> Deleted Message",
                 "mensagem_editada": "> Edited Message",
+                "mensagem_antiga": "Old message:",
+                "mensagem_atualizada": "Updated message:",
+                "resumo_atualizado": "A [message](auto_repl) was updated by <@auto_repl>\n\n**Old message:** ```auto_repl```\n**Updated message:** ```auto_repl```",
+                "auto_exclusao": "<@auto_repl> deleted a [message](auto_repl)",
+                "mode_exclusao": "A [message](auto_repl) from <@auto_repl> was deleted",
                 "sem_texto": "No text included",
                 "conteudo_excluido": "Deleted Content"
             },

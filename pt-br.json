@@ -523,7 +523,8 @@
                 "auto_ban_hierarquia_bot": "O AutoBan dos reportes está ativo neste servidor, porém não é permitido que eu aplique um ban em um usuário com cargos maiores que o meu!\nO usuário não foi banido.",
                 "auto_ban_banido": "O AutoBan baniu o usuário reportado!",
                 "auto_ban_permissao": "O AutoBan está ativo neste servidor, porém eu não possuo permissões para `Banir membros`.\nO usuário não foi banido.",
-                "auto_ban_nao_encontrado": "O usuário foi reportado porém ele não se encontra no servidor para banirmos!"
+                "auto_ban_nao_encontrado": "O usuário foi reportado porém ele não se encontra no servidor para banirmos!",
+                "novo_reporte": "Novo reporte"
             },
             "xp": {
                 "permissao": "Você não pode gerenciar os membros deste servidor",
@@ -606,6 +607,11 @@
                 "excluido": "Excluído por",
                 "mensagem_excluida": "> Mensagem Excluída",
                 "mensagem_editada": "> Mensagem Editada",
+                "mensagem_antiga": "Mensagem antiga:",
+                "mensagem_atualizada": "Mensagem atualizada:",
+                "resumo_atualizado": "Uma [mensagem](auto_repl) foi atualizada por <@auto_repl>\n\n**Mensagem antiga:** ```auto_repl```\n**Mensagem atualizada:** ```auto_repl```",
+                "auto_exclusao": "<@auto_repl> excluiu uma [mensagem](auto_repl)",
+                "mode_exclusao": "Uma [mensagem](auto_repl) de <@auto_repl> foi excluída",
                 "sem_texto": "Sem texto incluso",
                 "conteudo_excluido": "Conteúdo excluído"
             },

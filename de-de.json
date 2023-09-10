@@ -520,7 +520,8 @@
                 "auto_ban_hierarquia_bot": "Der AutoBan ist auf diesem Server aktiv, aber ich darf einen Benutzer mit einer höheren Position als meiner nicht sperren!\nDer Benutzer wurde nicht gesperrt.",
                 "auto_ban_banido": "AutoBan hat den gemeldeten Benutzer gesperrt!",
                 "auto_ban_permissao": "AutoBan ist auf diesem Server aktiv, aber ich habe keine Berechtigung, Mitglieder zu sperren.\nDer Benutzer wurde nicht gesperrt.",
-                "auto_ban_nao_encontrado": "Der Benutzer wurde gemeldet, ist aber nicht auf dem Server, daher können wir ihn nicht sperren!"
+                "auto_ban_nao_encontrado": "Der Benutzer wurde gemeldet, ist aber nicht auf dem Server, daher können wir ihn nicht sperren!",
+                "novo_reporte": "Neuer Bericht"
             },
             "xp": {
                 "permissao_1": "Sie können keine Mitglieder dieses Servers verwalten",
@@ -600,6 +601,11 @@
                 "excluido": "gelöscht von",
                 "mensagem_excluida": "> gelöschte Nachricht",
                 "mensagem_editada": "> bearbeitete Nachricht",
+                "mensagem_antiga": "Alte Nachricht:",
+                "mensagem_atualizada": "Aktualisierte Nachricht:",
+                "resumo_atualizado": "Eine [Nachricht](auto_repl) wurde von <@auto_repl> aktualisiert\n\n**Alte Nachricht:** ```auto_repl```\n**Aktualisierte Nachricht:** ```auto_repl```",
+                "auto_exclusao": "<@auto_repl> hat eine [Nachricht](auto_repl) gelöscht",
+                "mode_exclusao": "Eine [Nachricht](auto_repl) von <@auto_repl> wurde gelöscht",
                 "sem_texto": "kein Text enthalten",
                 "conteudo_excluido": "gelöschter Inhalt"
             },

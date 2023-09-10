@@ -494,7 +494,8 @@
                 "auto_ban_hierarquia_bot": "AutoBan está activo en este servidor, sin embargo, no tengo permitido banear a un usuario con calificaciones más altas que la mía.\nEl usuario no ha sido baneado.",
                 "auto_ban_banido": "¡AutoBan ha baneado al usuario denunciado!",
                 "auto_ban_permissao": "AutoBan está activo en este servidor, pero no tengo permisos de `Prohibición de miembros`.\nEl usuario no ha sido prohibido.",
-                "auto_ban_nao_encontrado": "¡El usuario ha sido informado pero no está en el servidor para que lo bloqueemos!"
+                "auto_ban_nao_encontrado": "¡El usuario ha sido informado pero no está en el servidor para que lo bloqueemos!",
+                "novo_reporte": "Nuevo reporte"
             },
             "xp": {
                 "permissao_1": "No puede administrar miembros de este servidor",
@@ -572,6 +573,11 @@
                 "excluido": "Eliminado por",
                 "mensagem_excluida": "> Mensaje eliminado",
                 "mensagem_editada": "> Mensaje editado",
+                "mensagem_antiga": "Mensaje antiguo:",
+                "mensagem_atualizada": "Mensaje actualizado:",
+                "resumo_atualizado": "Un [mensaje](auto_repl) fue actualizado por <@auto_repl>\n\n**Mensaje antiguo:** ```auto_repl```\n**Mensaje actualizado:** ```auto_repl```",
+                "auto_exclusao": "<@auto_repl> eliminó un [mensaje](auto_repl)",
+                "mode_exclusao": "Se eliminó un [mensaje](auto_repl) de <@auto_repl>",
                 "sem_texto": "No incluye texto",
                 "conteudo_excluido": "Contenido eliminado"
             },
