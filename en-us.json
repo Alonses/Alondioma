@@ -588,6 +588,7 @@
                 "ativado": "Server event log is now active, all events will be sent on auto_repl channel",
                 "desativado": "Server event log is now disabled\nUse </panel guild:1107163338930126869>, or command </conf log:1094346210636214304> mentioning a channel to enable again!",
                 "falta_vinculo": "It is necessary to configure a channel with the command </conf log:1094346210636214304> before being able to activate it through the panel.",
+                "falta_escrita_visualizacao": "I can't see or send messages on this channel! Please check my permissions so I can enable event logging for this channel.",
                 "mencao_canal": "You didn't mention any channel, and I don't have a cached channel!\nPlease use the command again mentioning a channel",
                 "titulo_avatar": "> Updated avatar",
                 "novo_avatar": "This is the new user avatar!",

@@ -583,6 +583,7 @@
                 "ativado": "Il registro eventi del server è ora attivo, tutti gli eventi verranno inviati sul canale auto_repl",
                 "desativado": "Il registro eventi del server è ora disabilitato\nUsa </panel guild:1107163338930126869>, o comanda </conf log:1094346210636214304> menzionando un canale per abilitarlo di nuovo!",
                 "falta_vinculo": "Un canale deve essere configurato con il comando </conf log:1094346210636214304> prima di poter essere attivato tramite il pannello.",
+                "falta_escrita_visualizacao": "Non riesco a visualizzare o inviare messaggi su questo canale! Controlla le mie autorizzazioni per abilitare la registrazione degli eventi su questo canale.",
                 "mencao_canal": "Non hai menzionato alcun canale e non ho un canale memorizzato nella cache!\nUtilizza nuovamente il comando menzionando il canale.",
                 "titulo_avatar": "> Avatar aggiornato",
                 "novo_avatar": "Questo è il nuovo avatar dell'utente!",

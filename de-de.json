@@ -587,6 +587,7 @@
                 "ativado": "Das Serverereignisprotokoll ist jetzt aktiv. Alle Ereignisse werden über den Kanal auto_repl gesendet",
                 "desativado": "SDas Server-Ereignisprotokoll ist jetzt deaktiviert.\nVerwenden Sie </panel guild:1107163338930126869> oder den Befehl </conf log:1094346210636214304> und erwähnen Sie einen Kanal, um es wieder zu aktivieren!",
                 "falta_vinculo": "Es ist notwendig, einen Kanal mit dem Befehl </conf log:1094346210636214304> zu konfigurieren, bevor Sie ihn über das Panel aktivieren können.",
+                "falta_escrita_visualizacao": "Ich kann auf diesem Kanal keine Nachrichten sehen oder senden! Bitte überprüfen Sie meine Berechtigungen, damit ich die Ereignisprotokollierung für diesen Kanal aktivieren kann.",
                 "mencao_canal": "Du hast keinen Kanal erwähnt und ich habe keinen zwischengespeicherten Kanal!\nVerwende den Befehl erneut und erwähne einen Kanal",
                 "titulo_avatar": "> Aktualisierter Avatar",
                 "novo_avatar": "Dies ist der neue Benutzer-Avatar!",

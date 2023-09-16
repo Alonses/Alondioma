@@ -560,6 +560,7 @@
                 "ativado": "El registro de eventos del servidor ahora está activo, todos los eventos se enviarán en el canal auto_repl",
                 "desativado": "El registro de eventos del servidor ahora está deshabilitado\nUse </panel guild:1107163338930126869>, o comando </conf log:1094346210636214304> mencionando un canal para habilitarlo nuevamente.",
                 "falta_vinculo": "Un canal debe configurarse con el comando </conf log:1094346210636214304> antes de que pueda activarse a través del panel.",
+                "falta_escrita_visualizacao": "¡No puedo ver ni enviar mensajes en este canal! Verifique mis permisos para poder habilitar el registro de eventos para este canal.",
                 "mencao_canal": "¡No mencionaste ningún canal y no tengo ningún canal en caché!\nUtiliza el comando nuevamente mencionando el canal.",
                 "titulo_avatar": "> Avatar actualizado",
                 "novo_avatar": "¡Este es el nuevo avatar de usuario!",

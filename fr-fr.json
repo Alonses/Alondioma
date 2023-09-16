@@ -586,6 +586,7 @@
                 "ativado": "Le journal des événements du serveur est maintenant actif, tous les événements seront envoyés sur le canal auto_repl",
                 "desativado": "La journalisation des événements du serveur est désormais désactivée\nUtilisez </panel guild:1107163338930126869> ou la commande </conf log:1094346210636214304> en mentionnant un canal à réactiver!",
                 "falta_vinculo": "Un canal doit être configuré avec la commande </conf log:1094346210636214304> avant de pouvoir être activé via le panneau.",
+                "falta_escrita_visualizacao": "Je ne peux pas voir ni envoyer de messages sur cette chaîne! Veuillez vérifier mes autorisations afin que je puisse activer la journalisation des événements pour cette chaîne.",
                 "mencao_canal": "Vous n'avez mentionné aucune chaîne et je n'ai aucun canal en cache!\nVeuillez utiliser à nouveau la commande en mentionnant la chaîne.",
                 "titulo_avatar": "> Avatar mis à jour",
                 "novo_avatar": "C'est le nouvel avatar utilisateur!",

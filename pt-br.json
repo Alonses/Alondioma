@@ -592,6 +592,7 @@
                 "desativado": "O log de eventos do servidor agora está desativado\nUse o </panel guild:1107163338930126869>, ou o comando </conf log:1094346210636214304> mencionando um canal para ativar novamente!",
                 "falta_vinculo": "É preciso configurar um canal com o comando </conf log:1094346210636214304> antes de poder ativar pelo painel.",
                 "permissao": "Eu não possuo permissão para `Ver o registro de auditoria`, eu preciso dessa permissão para fornecer detalhes mais refinados dos eventos do log.",
+                "falta_escrita_visualizacao": "Eu não posso ver e nem enviar mensagens nesse canal! Por favor, verifique minhas permissões para poder ativar o log de eventos neste canal.",
                 "mencao_canal": "Você não mencionou nenhum canal, e não possui um canal salvo em cache!\nPor favor, utilize o comando novamente mencionando um canal",
                 "titulo_avatar": "> Avatar atualizado",
                 "novo_avatar": "O novo avatar do usuário é este!",
