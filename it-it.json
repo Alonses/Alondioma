@@ -458,7 +458,8 @@
                 "anuncio_enviado_duplicatas": "Un nuovo annuncio è stato caricato in auto_repl, l'annuncio di giochi è attivo su questo server.\nControlla il canale per annunci duplicati",
                 "anuncio_enviado": "È stato inviato un nuovo annuncio in auto_repl, l'annuncio di giochi non è attualmente attivo su questo server.\nUtilizza il pannello del server per abilitare la funzione o di nuovo il comando </notify config:1018632996787589283>.",
                 "cargo": "Ufficio",
-                "idioma": "Lingua"
+                "idioma": "Lingua",
+                "sem_games": "Al momento non ci sono giochi gratuiti!\nConfigura un modulo pubblicitario con </notify config:1018632996787589283> per ricevere automaticamente annunci pubblicitari quando compaiono giochi gratuiti!"
             },
             "canal": {
                 "canal": "Canale",

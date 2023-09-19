@@ -437,7 +437,8 @@
                 "config_descricao": "Activar o cancelar el módulo de anuncios de juegos.\n\nMódulo de juegos enviará automáticamente anuncios de juegos que son gratuitos en su servidor, puede activar este módulo ahora de dos maneras, simplemente activando, o la mejor, activando y enviando una notificación con todos juegos que ahora son gratis!\n\nSeleccione una de las siguientes opciones o cancele para descartar los cambios.",
                 "configuracao": "Debes configurar un canal y un rol para recibir notificaciones de juegos gratis\nUtiliza el comando </notify config:1018632996787589283> para configurar y activar el módulo de juegos gratis.",
                 "anuncio_enviado_duplicatas": "Se ha subido un nuevo anuncio en auto_repl, el anuncio de juegos está activo en este servidor.\nRevise el canal en busca de anuncios duplicados",
-                "anuncio_enviado": "Se envió un nuevo anuncio en auto_repl, el anuncio de juegos no está actualmente activo en este servidor.\nUse el panel del servidor para habilitar la característica, o el comando </notify config:1018632996787589283> nuevamente."
+                "anuncio_enviado": "Se envió un nuevo anuncio en auto_repl, el anuncio de juegos no está actualmente activo en este servidor.\nUse el panel del servidor para habilitar la característica, o el comando </notify config:1018632996787589283> nuevamente.",
+                "sem_games": "¡Actualmente no hay juegos gratuitos!\nConfigure un módulo de anuncios con </notify config:1018632996787589283> para recibir anuncios automáticamente cuando aparezcan juegos gratuitos."
             },
             "canal": {
                 "canal": "Canal",

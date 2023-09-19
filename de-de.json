@@ -462,7 +462,8 @@
                 "anuncio_enviado_duplicatas": "Eine neue Anzeige wurde auf auto_repl hochgeladen. Die Spielanzeige ist auf diesem Server aktiv.\nÜberprüfen Sie den Kanal auf doppelte Anzeigen",
                 "anuncio_enviado": "Eine neue Anzeige wurde in auto_repl gesendet. Spielewerbung ist derzeit auf diesem Server nicht aktiv.\nVerwenden Sie das Server-Panel, um die Funktion zu aktivieren, oder verwenden Sie den Befehl </notify config:1018632996787589283> erneut.",
                 "cargo": "Rolle",
-                "idioma": "Sprache"
+                "idioma": "Sprache",
+                "sem_games": "Derzeit gibt es keine kostenlosen Spiele!\nRichten Sie ein Anzeigenmodul mit </notify config:1018632996787589283> ein, um automatisch Anzeigen zu erhalten, wenn kostenlose Spiele erscheinen!"
             },
             "canal": {
                 "canal": "Kanal",

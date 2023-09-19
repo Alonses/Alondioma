@@ -464,8 +464,10 @@
                 "configuracao": "Você precisa configurar um canal e um cargo para receber notificações de games gratuitos\nUtilize o comando </notify config:1018632996787589283> para configurar e ativar o módulo de games gratuitos.",
                 "anuncio_enviado_duplicatas": "Um novo anúncio foi enviado no auto_repl, o anúncio de games está ativo nesse servidor.\nVerifique o canal para confirmar se houve duplicatas de anúncios",
                 "anuncio_enviado": "Um novo anúncio foi enviado no auto_repl, o anúncio de games não está ativo neste servidor no momento.\nUtilize o painel do servidor para ativar o recurso, ou o comando </notify config:1018632996787589283> novamente.",
+                "anuncio_nao_enviado": "O módulo de anúncios foi ativo, porém não enviei nada no momento pois não há jogos gratuitos disponpiveis no momento!\nEstarei avisando o cargo mencionado quando houver jogos gratuitos por tempo limitado!",
                 "cargo": "Cargo",
-                "idioma": "Idioma"
+                "idioma": "Idioma",
+                "sem_games": "Não há nenhum game de graça atualmente!\nConfigure um módulo de anúncios com o </notify config:1018632996787589283> para receber anúncio de forma automática quando aparecerem jogos gratuitos!"
             },
             "canal": {
                 "canal": "Canal",

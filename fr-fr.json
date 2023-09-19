@@ -462,7 +462,8 @@
                 "anuncio_enviado_duplicatas": "Une nouvelle annonce a été téléchargée dans auto_repl, l'annonce de jeux est active sur ce serveur.\nVérifiez la chaîne pour les annonces en double",
                 "anuncio_enviado": "Une nouvelle publicité a été envoyée dans auto_repl, la publicité des jeux n'est pas active actuellement sur ce serveur.\nUtilisez le panneau du serveur pour activer la fonctionnalité, ou la commande </notify config:1018632996787589283> à nouveau.",
                 "cargo": "Bureau",
-                "idioma": "Langue"
+                "idioma": "Langue",
+                "sem_games": "Il n'y a actuellement aucun jeu gratuit !\nConfigurez un module de publicités avec </notify config:1018632996787589283> pour recevoir automatiquement des publicités lorsque des jeux gratuits apparaissent !"
             },
             "canal": {
                 "lock": "Canal bloqué!\nUtilisez </chat unlock:1142641928190574672> pour déverrouiller",

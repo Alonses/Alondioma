@@ -463,7 +463,8 @@
                 "anuncio_enviado_duplicatas": "A new ad has been uploaded in auto_repl, games ad is active on this server.\nCheck the channel for duplicate ads",
                 "anuncio_enviado": "A new advertisement has been sent in auto_repl, games advertisement is not currently active on this server.\nUse the server panel to enable the feature, or the command </notify config:1018632996787589283> again.",
                 "cargo": "Role",
-                "idioma": "Language"
+                "idioma": "Language",
+                "sem_games": "There are currently no free games!\nSet up an ads module with </notify config:1018632996787589283> to automatically receive ads when free games appear!"
             },
             "canal": {
                 "canal": "Channel",
