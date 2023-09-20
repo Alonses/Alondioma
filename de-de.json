@@ -198,10 +198,8 @@
         "game": {
             "anuncio": {
                 "link_app": "In der auto_repl-App öffnen",
-                "anuncio_game_1": "Das Spiel `auto_repl` ist bis zum Tag `auto_repl` dort drüben kostenlos.\n\nLösen Sie es vor dem Datum ein, um `R$ auto_repl` zu speichern und eine Kopie in Ihrem auto_repl-Konto zu erhalten",
-                "anuncio_game_2": "Die Spiele auto_repl sind bis zum Tag `auto_repl` dort drüben kostenlos.\n\nLösen Sie alle vor dem Datum ein, um `R$ auto_repl` zu sparen und eine Kopie in Ihrem auto_repl-Konto zu erhalten",
-                "anuncio_dlc_1": "Der DLC `auto_repl` ist bis zu dem Tag `auto_repl` dort drüben kostenlos.\n\nLösen Sie ihn vor dem Datum ein, um `R$ auto_repl` zu sparen und eine Kopie in Ihrem auto_repl-Konto zu erhalten",
-                "anuncio_dlc_2": "Die DLCs auto_repl sind bis zum Tag `auto_repl` dort drüben kostenlos.\n\nLösen Sie beide vor dem Datum ein, um `R$ auto_repl` zu sparen und eine Kopie in Ihrem auto_repl-Konto zu erhalten",
+                "anuncio_game_1": "Das `auto_repl`-Spiel gibt es bis zum auto_repl kostenlos\n\nLösen Sie es vor dem Datum ein, um `R$ auto_repl` zu speichern und eine Kopie in Ihrem auto_repl-Konto zu erhalten",
+                "anuncio_dlc_1": "Der `auto_repl` DLC ist dort bis zum auto_repl kostenlos drüben kostenlos.\n\nLösen Sie ihn vor dem Datum ein, um `R$ auto_repl` zu sparen und eine Kopie in Ihrem auto_repl-Konto zu erhalten",
                 "falta_vinculo": "Ein Kanal und eine Rolle müssen mit dem Befehl </notify config:1018632996787589283> konfiguriert werden, bevor sie über das Panel aktiviert werden können."
             },
             "pula": {
@@ -463,7 +461,9 @@
                 "anuncio_enviado": "Eine neue Anzeige wurde in auto_repl gesendet. Spielewerbung ist derzeit auf diesem Server nicht aktiv.\nVerwenden Sie das Server-Panel, um die Funktion zu aktivieren, oder verwenden Sie den Befehl </notify config:1018632996787589283> erneut.",
                 "cargo": "Rolle",
                 "idioma": "Sprache",
-                "sem_games": "Derzeit gibt es keine kostenlosen Spiele!\nRichten Sie ein Anzeigenmodul mit </notify config:1018632996787589283> ein, um automatisch Anzeigen zu erhalten, wenn kostenlose Spiele erscheinen!"
+                "ficara_pago": "Wird bezahlt",
+                "sem_games": "Derzeit gibt es keine kostenlosen Spiele!\nRichten Sie ein Anzeigenmodul mit </notify config:1018632996787589283> ein, um automatisch Anzeigen zu erhalten, wenn kostenlose Spiele erscheinen!",
+                "games_gratuitos": "Spiele können für eine begrenzte Zeit eingelöst werden! auto_repl\n\nLösen Sie die unten aufgeführten Titel vor dem Datum ein, um **völlig kostenlose** Kopien in Ihrem Konto auf der jeweiligen Plattform zu erhalten."
             },
             "canal": {
                 "canal": "Kanal",

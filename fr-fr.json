@@ -198,10 +198,8 @@
         "game": {
             "anuncio": {
                 "link_app": "Ouvrir dans l'application auto_repl",
-                "anuncio_game_1": "Le jeu auto_repl est gratuit jusqu'à `auto_repl` ici\n\nUtilisez-le avant la date pour enregistrer `R$ auto_repl` et garantir une copie dans votre compte auto_repl",
-                "anuncio_game_2": "Les jeux auto_repl sont gratuits jusqu'à `auto_repl`\n\nÉchangez-les tous avant la date pour économiser `R$ auto_repl` et garantir des copies dans votre compte auto_repl",
-                "anuncio_dlc_1": "Le DLC auto_repl est gratuit jusqu'à `auto_repl` ici\n\nUtilisez-le avant la date pour enregistrer `R$ auto_repl` et garantir une copie dans votre compte auto_repl",
-                "anuncio_dlc_2": "Les DLC auto_repl sont gratuits jusqu'à `auto_repl` ici\n\nÉchangez-les tous avant la date pour économiser `R$ auto_repl` et garantir des copies dans votre compte auto_repl",
+                "anuncio_game_1": "Le jeu `auto_repl` est gratuit jusqu'au auto_repl là-bas\n\nUtilisez-le avant la date pour enregistrer `R$ auto_repl` et garantir une copie dans votre compte auto_repl",
+                "anuncio_dlc_1": "Le DLC `auto_repl` est gratuit jusqu'au auto_repl là-bas\n\nUtilisez-le avant la date pour enregistrer `R$ auto_repl` et garantir une copie dans votre compte auto_repl",
                 "falta_vinculo": "Un canal et un rôle doivent être configurés avec la commande </notify config:1018632996787589283> avant de pouvoir être activés via le panneau."
             },
             "pula": {
@@ -463,7 +461,9 @@
                 "anuncio_enviado": "Une nouvelle publicité a été envoyée dans auto_repl, la publicité des jeux n'est pas active actuellement sur ce serveur.\nUtilisez le panneau du serveur pour activer la fonctionnalité, ou la commande </notify config:1018632996787589283> à nouveau.",
                 "cargo": "Bureau",
                 "idioma": "Langue",
-                "sem_games": "Il n'y a actuellement aucun jeu gratuit !\nConfigurez un module de publicités avec </notify config:1018632996787589283> pour recevoir automatiquement des publicités lorsque des jeux gratuits apparaissent !"
+                "ficara_pago": "Seront payés",
+                "sem_games": "Il n'y a actuellement aucun jeu gratuit!\nConfigurez un module de publicités avec </notify config:1018632996787589283> pour recevoir automatiquement des publicités lorsque des jeux gratuits apparaissent!",
+                "games_gratuitos": "Les jeux sont disponibles pour une durée limitée! auto_repl\n\nÉchangez les titres ci-dessous avant la date pour garantir des copies **entièrement gratuites** sur votre compte sur la plateforme respective."
             },
             "canal": {
                 "lock": "Canal bloqué!\nUtilisez </chat unlock:1142641928190574672> pour déverrouiller",

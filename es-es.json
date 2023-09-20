@@ -188,10 +188,8 @@
         "game": {
             "anuncio": {
                 "link_app": "Abrir en la aplicación auto_repl",
-                "anuncio_game_1": "El juego auto_repl es gratuito hasta `auto_repl` allí\n\nCanjear antes de la fecha para guardar `R$ auto_repl` y asegurar una copia en su cuenta auto_repl",
-                "anuncio_game_2": "Los juegos auto_repl son gratuitos hasta `auto_repl` allí\n\nCanjéelos todos antes de la fecha para ahorrar `R$ auto_repl` y garantizar copias en su cuenta auto_repl",
-                "anuncio_dlc_1": "El DLC auto_repl es gratuito hasta `auto_repl` allí\n\nCanjéelo antes de la fecha para ahorrar `R$ auto_repl y garantizar una copia en su cuenta auto_repl",
-                "anuncio_dlc_2": "Los DLC auto_repl son gratuitos hasta `auto_repl` allí\n\nCanjéelos todos antes de la fecha para ahorrar `R$ auto_repl y garantizar copias en su cuenta auto_repl",
+                "anuncio_game_1": "El juego `auto_repl` es gratuito hasta el auto_repl allí.\n\nCanjear antes de la fecha para guardar `R$ auto_repl` y asegurar una copia en su cuenta auto_repl",
+                "anuncio_dlc_1": "El DLC `auto_repl` es gratuito hasta el auto_repl allí\n\nCanjéelo antes de la fecha para ahorrar `R$ auto_repl y garantizar una copia en su cuenta auto_repl",
                 "falta_vinculo": "Se debe configurar un canal y una función con el comando </notify config:1018632996787589283> antes de poder activar a través del panel."
             },
             "pula": {
@@ -438,7 +436,9 @@
                 "configuracao": "Debes configurar un canal y un rol para recibir notificaciones de juegos gratis\nUtiliza el comando </notify config:1018632996787589283> para configurar y activar el módulo de juegos gratis.",
                 "anuncio_enviado_duplicatas": "Se ha subido un nuevo anuncio en auto_repl, el anuncio de juegos está activo en este servidor.\nRevise el canal en busca de anuncios duplicados",
                 "anuncio_enviado": "Se envió un nuevo anuncio en auto_repl, el anuncio de juegos no está actualmente activo en este servidor.\nUse el panel del servidor para habilitar la característica, o el comando </notify config:1018632996787589283> nuevamente.",
-                "sem_games": "¡Actualmente no hay juegos gratuitos!\nConfigure un módulo de anuncios con </notify config:1018632996787589283> para recibir anuncios automáticamente cuando aparezcan juegos gratuitos."
+                "ficara_pago": "Será pagado",
+                "sem_games": "¡Actualmente no hay juegos gratuitos!\nConfigure un módulo de anuncios con </notify config:1018632996787589283> para recibir anuncios automáticamente cuando aparezcan juegos gratuitos.",
+                "games_gratuitos": "¡Los juegos están disponibles para canjear por tiempo limitado! auto_repl\n\nCanjee los títulos siguientes antes de la fecha para garantizar copias **completamente gratuitas** en su cuenta en la plataforma respectiva."
             },
             "canal": {
                 "canal": "Canal",

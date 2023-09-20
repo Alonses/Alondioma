@@ -199,10 +199,8 @@
         "game": {
             "anuncio": {
                 "link_app": "Open in auto_repl app",
-                "anuncio_game_1": "The Game `auto_repl`_ it's free until the day `auto_repl` over there\n\nRedeem it before date to save `R$ auto_repl` and get a copy in your auto_repl account",
-                "anuncio_game_2": "The Games auto_repl are free until the day `auto_repl` over there\n\nRedeem all before date to save `R$ auto_repl` and get a copy in your auto_repl account",
-                "anuncio_dlc_1": "The DLC `auto_repl` it's free until the day `auto_repl` over there\n\nRedeem it before date to save `R$ auto_repl` and get a copy in your auto_repl account",
-                "anuncio_dlc_2": "The DLC's auto_repl are free until the day `auto_repl` over there\n\nRedeem both before date to save `R$ auto_repl` and get a copy in your auto_repl account",
+                "anuncio_game_1": "The Game `auto_repl` it's free until auto_repl over there\n\nRedeem it before date to save `R$ auto_repl` and get a copy in your auto_repl account",
+                "anuncio_dlc_1": "The DLC `auto_repl` it's free until auto_repl over there\n\nRedeem it before date to save `R$ auto_repl` and get a copy in your auto_repl account",
                 "falta_vinculo": "A channel and role must be configured with the </notify config:1018632996787589283> command before being able to activate via the panel."
             },
             "pula": {
@@ -464,7 +462,9 @@
                 "anuncio_enviado": "A new advertisement has been sent in auto_repl, games advertisement is not currently active on this server.\nUse the server panel to enable the feature, or the command </notify config:1018632996787589283> again.",
                 "cargo": "Role",
                 "idioma": "Language",
-                "sem_games": "There are currently no free games!\nSet up an ads module with </notify config:1018632996787589283> to automatically receive ads when free games appear!"
+                "ficara_pago": "Will become paid",
+                "sem_games": "There are currently no free games!\nSet up an ads module with </notify config:1018632996787589283> to automatically receive ads when free games appear!",
+                "games_gratuitos": "There are games available to redeem for a limited time! auto_repl\n\nRedeem the titles below before the date to guarantee **completely free** copies in your account on the respective platform."
             },
             "canal": {
                 "canal": "Channel",

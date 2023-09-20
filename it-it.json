@@ -197,10 +197,8 @@
         "game": {
             "anuncio": {
                 "link_app": "Apri nell'app auto_repl",
-                "anuncio_game_1": "Il gioco auto_repl è gratuito fino a `auto_repl` lì\n\nRiscattalo prima della data per salvare `R$ auto_repl` e garantirne una copia nel tuo account auto_repl",
-                "anuncio_game_2": "I giochi auto_repl sono gratuiti fino a `auto_repl` lì\n\nRiscatta tutto prima della data per salvare `R$ auto_repl` e proteggere le copie nel tuo account auto_repl",
-                "anuncio_dlc_1": "Il DLC auto_repl è gratuito fino a `auto_repl` lì\n\nRiscattalo prima della data per salvare `R$ auto_repl` e garantirne una copia nel tuo account auto_repl",
-                "anuncio_dlc_2": "I DLC auto_repl sono gratuiti fino a `auto_repl` lì\n\nRiscattali tutti prima della data per salvare `R$ auto_repl` e garantirne le copie nel tuo account auto_repl",
+                "anuncio_game_1": "Il gioco `auto_repl` è gratuito fino al auto_repl lì\n\nRiscattalo prima della data per salvare `R$ auto_repl` e garantirne una copia nel tuo account auto_repl",
+                "anuncio_dlc_1": "Il DLC `auto_repl` è gratuito fino al auto_repl lì\n\nRiscattalo prima della data per salvare `R$ auto_repl` e garantirne una copia nel tuo account auto_repl",
                 "falta_vinculo": "Un canale e un ruolo devono essere configurati con il comando </notify config:1018632996787589283> prima di poterlo attivare tramite il pannello."
             },
             "pula": {
@@ -459,7 +457,9 @@
                 "anuncio_enviado": "È stato inviato un nuovo annuncio in auto_repl, l'annuncio di giochi non è attualmente attivo su questo server.\nUtilizza il pannello del server per abilitare la funzione o di nuovo il comando </notify config:1018632996787589283>.",
                 "cargo": "Ufficio",
                 "idioma": "Lingua",
-                "sem_games": "Al momento non ci sono giochi gratuiti!\nConfigura un modulo pubblicitario con </notify config:1018632996787589283> per ricevere automaticamente annunci pubblicitari quando compaiono giochi gratuiti!"
+                "ficara_pago": "Sara pagato",
+                "sem_games": "Al momento non ci sono giochi gratuiti!\nConfigura un modulo pubblicitario con </notify config:1018632996787589283> per ricevere automaticamente annunci pubblicitari quando compaiono giochi gratuiti!",
+                "games_gratuitos": "Ci sono giochi disponibili da riscattare per un periodo limitato! auto_repl\n\nRiscatta i seguenti titoli prima della data per garantire copie **completamente gratuite** nel tuo account sulla rispettiva piattaforma."
             },
             "canal": {
                 "canal": "Canale",

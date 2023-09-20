@@ -199,10 +199,8 @@
         "game": {
             "anuncio": {
                 "link_app": "Abrir no app auto_repl",
-                "anuncio_game_1": "O Game auto_repl está gratuito até o dia `auto_repl` por lá\n\nResgate antes da data para poupar `R$ auto_repl` e garantir uma cópia em sua conta auto_repl",
-                "anuncio_game_2": "Os Games auto_repl estão gratuitos até o dia `auto_repl` por lá\n\nResgate todos antes da data para poupar `R$ auto_repl` e garantir as cópias em sua conta auto_repl",
-                "anuncio_dlc_1": "A DLC auto_repl esta gratuita até o dia `auto_repl` por lá\n\nResgate antes da data para poupar `R$ auto_repl` e garantir uma cópia em sua conta auto_repl",
-                "anuncio_dlc_2": "As DLC's auto_repl estão gratuitas até o dia `auto_repl` por lá\n\nResgate todas antes da data para poupar `R$ auto_repl` e garantir cópias em sua conta auto_repl",
+                "anuncio_game_1": "O Game `auto_repl` está gratuito até auto_repl por lá\n\nResgate antes da data para poupar `R$ auto_repl` e garantir uma cópia em sua conta auto_repl",
+                "anuncio_dlc_1": "A DLC `auto_repl` esta gratuita até auto_repl por lá\n\nResgate antes da data para poupar `R$ auto_repl` e garantir uma cópia em sua conta auto_repl",
                 "falta_vinculo": "É preciso configurar um canal e um cargo com o comando </notify config:1018632996787589283> antes de poder ativar pelo painel."
             },
             "pula": {
@@ -467,7 +465,9 @@
                 "anuncio_nao_enviado": "O módulo de anúncios foi ativo, porém não enviei nada no momento pois não há jogos gratuitos disponpiveis no momento!\nEstarei avisando o cargo mencionado quando houver jogos gratuitos por tempo limitado!",
                 "cargo": "Cargo",
                 "idioma": "Idioma",
-                "sem_games": "Não há nenhum game de graça atualmente!\nConfigure um módulo de anúncios com o </notify config:1018632996787589283> para receber anúncio de forma automática quando aparecerem jogos gratuitos!"
+                "ficara_pago": "Se tornará pago",
+                "sem_games": "Não há nenhum game de graça atualmente!\nConfigure um módulo de anúncios com o </notify config:1018632996787589283> para receber anúncio de forma automática quando aparecerem jogos gratuitos!",
+                "games_gratuitos": "Há games disponíveis para resgate por tempo limitado! auto_repl\n\nResgate os titulos abaixo antes da data para garantir cópias **totalmente de graça** em sua conta na respectiva plataforma."
             },
             "canal": {
                 "canal": "Canal",
