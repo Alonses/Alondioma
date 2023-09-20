@@ -193,7 +193,8 @@
                 "curiosidades": "Curiosities",
                 "vogais": "Vowels:",
                 "consoantes": "Consonants:",
-                "numeros": "Numbers:"
+                "numeros": "Numbers:",
+                "sem_emoji": "To execute this command you need to add an emoji. Try again."
             }
         },
         "game": {
@@ -659,6 +660,11 @@
                 "resul_vazio": "The final result was empty, try again",
                 "titulo_vazio": ":warning: Decoding resulted in an empty",
                 "error_1": "Unable to convert, maximum size exceeded!"
+            },
+            "hieroglifos": {
+                "caracteres": "Some characters were not encoded because they do not exist in hieroglyphs",
+                "codificado": ":symbols: Your message encoded in hieroglyphs",
+                "decodificado": ":symbols: Your message decoded from the hieroglyphs"
             },
             "avatar": {
                 "download_avatar": "Click the button below to download the avatar",

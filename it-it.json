@@ -191,7 +191,8 @@
                 "curiosidades": "Curiosità",
                 "vogais": "Vocali:",
                 "consoantes": "Consonanti:",
-                "numeros": "Numeri:"
+                "numeros": "Numeri:",
+                "sem_emoji": "Per eseguire questo comando è necessario aggiungere un emoji. Riprova."
             }
         },
         "game": {
@@ -652,8 +653,13 @@
                 "codificado": ":one: Il tuo messaggio codificato in binario",
                 "decodificado": ":zero: Il tuo messaggio decodificato da binario",
                 "resul_vazio": "Il risultato finale era vuoto, riprova",
-                "titulo_vazio": ":warning:  La decrittazione è stata trovata vuota",
+                "titulo_vazio": ":warning: La decrittazione è stata trovata vuota",
                 "error_1": "Impossibile convertire, dimensione massima superata!"
+            },
+            "hieroglifos": {
+                "caracteres": "Alcuni caratteri non sono stati codificati perché non esistono nei geroglifici",
+                "codificado": ":symbols: Il tuo messaggio codificato in geroglifici",
+                "decodificado": ":symbols: Il tuo messaggio decodificato dai geroglifici"
             },
             "avatar": {
                 "download_avatar": "Fare clic sul pulsante in basso per scaricare l'avatar",

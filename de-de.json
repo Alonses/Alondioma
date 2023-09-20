@@ -192,7 +192,8 @@
                 "curiosidades": "Kuriositäten",
                 "vogais": "Vokale:",
                 "consoantes": "Konsonanten:",
-                "numeros": "Zahlen:"
+                "numeros": "Zahlen:",
+                "sem_emoji": "Um diesen Befehl auszuführen, müssen Sie ein Emoji hinzufügen. Versuchen Sie es erneut."
             }
         },
         "game": {
@@ -657,6 +658,11 @@
                 "resul_vazio": "Das Endergebnis war leer. Versuchen Sie es erneut",
                 "titulo_vazio": ":warning: Die Dekodierung hat ein leeres Ergebnis zurückgegeben",
                 "error_1": "Eine Konvertierung ist nicht möglich, die maximale Größe wurde überschritten!"
+            },
+            "hieroglifos": {
+                "caracteres": "Einige Zeichen wurden nicht kodiert, da sie nicht in Hieroglyphen vorkommen",
+                "codificado": ":symbols: Ihre Nachricht in Hieroglyphen kodiert",
+                "decodificado": ":symbols: Ihre Nachricht wurde aus den Hieroglyphen entschlüsselt"
             },
             "avatar": {
                 "download_avatar": "Klicken Sie auf die Schaltfläche unten, um den Avatar herunterzuladen",

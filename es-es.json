@@ -182,7 +182,8 @@
                 "quantidade": "Cantidad:",
                 "entrada": "Tu entrada:",
                 "vogais": "Vocales:",
-                "consoantes": "Consonantes:"
+                "consoantes": "Consonantes:",
+                "sem_emoji": "Para ejecutar este comando necesitas agregar un emoji. Inténtalo de nuevo."
             }
         },
         "game": {
@@ -629,6 +630,11 @@
                 "resul_vazio": "El resultado final estaba vacío, inténtalo de nuevo",
                 "titulo_vazio": ":warning: La decodificación resultó en vacío",
                 "error_1": "No se pudo convertir, ¡se excedió el tamaño máximo!"
+            },
+            "hieroglifos": {
+                "caracteres": "Algunos caracteres no fueron codificados porque no existen en jeroglíficos.",
+                "codificado": ":symbols: Tu mensaje codificado en jeroglíficos",
+                "decodificado": ":symbols: Tu mensaje decodificado de los jeroglíficos."
             },
             "avatar": {
                 "download_avatar": "Haga clic en el botón de abajo para descargar el avatarr",

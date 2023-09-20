@@ -193,7 +193,8 @@
                 "curiosidades": "Curiosidades",
                 "vogais": "Vogais:",
                 "consoantes": "Consoantes:",
-                "numeros": "Números:"
+                "numeros": "Números:",
+                "sem_emoji": "Você precisa incluir um emoji para executar esse comando, por favor, tente novamente"
             }
         },
         "game": {
@@ -662,8 +663,13 @@
                 "codificado": ":one: Sua mensagem codificada em binário",
                 "decodificado": ":zero: Sua mensagem decodificada do binário",
                 "resul_vazio": "O resultado final era vazio, tente novamente",
-                "titulo_vazio": ":warning:  A decodificação resultou em vazio",
+                "titulo_vazio": ":warning: A decodificação resultou em vazio",
                 "error_1": "Não foi possível converter, o tamanho máximo foi excedido!"
+            },
+            "hieroglifos": {
+                "caracteres": "Alguns caracteres não foram codificados pois não existem nos hieróglifos",
+                "codificado": ":symbols: Sua mensagem codificada em hieróglifos",
+                "decodificado": ":symbols: Sua mensagem decodificada dos hieróglifos"
             },
             "avatar": {
                 "download_avatar": "Clique no botão abaixo para baixar o avatar",
