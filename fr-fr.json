@@ -199,8 +199,8 @@
         "game": {
             "anuncio": {
                 "link_app": "Ouvrir dans l'application auto_repl",
-                "anuncio_game_1": "Le jeu `auto_repl` est gratuit jusqu'au auto_repl là-bas\n\nUtilisez-le avant la date pour enregistrer `R$ auto_repl` et garantir une copie dans votre compte auto_repl",
-                "anuncio_dlc_1": "Le DLC `auto_repl` est gratuit jusqu'au auto_repl là-bas\n\nUtilisez-le avant la date pour enregistrer `R$ auto_repl` et garantir une copie dans votre compte auto_repl",
+                "anuncio_game_1": "Le jeu auto_repl est gratuit jusqu'au auto_repl là-bas\n\nUtilisez-le avant la date pour enregistrer `R$ auto_repl` et garantir une copie dans votre compte auto_repl",
+                "anuncio_dlc_1": "Le DLC auto_repl est gratuit jusqu'au auto_repl là-bas\n\nUtilisez-le avant la date pour enregistrer `R$ auto_repl` et garantir une copie dans votre compte auto_repl",
                 "falta_vinculo": "Un canal et un rôle doivent être configurés avec la commande </notify config:1018632996787589283> avant de pouvoir être activés via le panneau."
             },
             "pula": {

@@ -200,8 +200,8 @@
         "game": {
             "anuncio": {
                 "link_app": "Abrir no app auto_repl",
-                "anuncio_game_1": "O Game `auto_repl` está gratuito até auto_repl por lá\n\nResgate antes da data para poupar `R$ auto_repl` e garantir uma cópia em sua conta auto_repl",
-                "anuncio_dlc_1": "A DLC `auto_repl` esta gratuita até auto_repl por lá\n\nResgate antes da data para poupar `R$ auto_repl` e garantir uma cópia em sua conta auto_repl",
+                "anuncio_game_1": "O Game auto_repl está gratuito até auto_repl por lá\n\nResgate antes da data para poupar `R$ auto_repl` e garantir uma cópia em sua conta auto_repl",
+                "anuncio_dlc_1": "A DLC auto_repl esta gratuita até auto_repl por lá\n\nResgate antes da data para poupar `R$ auto_repl` e garantir uma cópia em sua conta auto_repl",
                 "falta_vinculo": "É preciso configurar um canal e um cargo com o comando </notify config:1018632996787589283> antes de poder ativar pelo painel."
             },
             "pula": {

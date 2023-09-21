@@ -189,8 +189,8 @@
         "game": {
             "anuncio": {
                 "link_app": "Abrir en la aplicación auto_repl",
-                "anuncio_game_1": "El juego `auto_repl` es gratuito hasta el auto_repl allí.\n\nCanjear antes de la fecha para guardar `R$ auto_repl` y asegurar una copia en su cuenta auto_repl",
-                "anuncio_dlc_1": "El DLC `auto_repl` es gratuito hasta el auto_repl allí\n\nCanjéelo antes de la fecha para ahorrar `R$ auto_repl y garantizar una copia en su cuenta auto_repl",
+                "anuncio_game_1": "El juego auto_repl es gratuito hasta el auto_repl allí.\n\nCanjear antes de la fecha para guardar `R$ auto_repl` y asegurar una copia en su cuenta auto_repl",
+                "anuncio_dlc_1": "El DLC auto_repl es gratuito hasta el auto_repl allí\n\nCanjéelo antes de la fecha para ahorrar `R$ auto_repl y garantizar una copia en su cuenta auto_repl",
                 "falta_vinculo": "Se debe configurar un canal y una función con el comando </notify config:1018632996787589283> antes de poder activar a través del panel."
             },
             "pula": {

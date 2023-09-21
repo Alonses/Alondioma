@@ -199,8 +199,8 @@
         "game": {
             "anuncio": {
                 "link_app": "In der auto_repl-App öffnen",
-                "anuncio_game_1": "Das `auto_repl`-Spiel gibt es bis zum auto_repl kostenlos\n\nLösen Sie es vor dem Datum ein, um `R$ auto_repl` zu speichern und eine Kopie in Ihrem auto_repl-Konto zu erhalten",
-                "anuncio_dlc_1": "Der `auto_repl` DLC ist dort bis zum auto_repl kostenlos drüben kostenlos.\n\nLösen Sie ihn vor dem Datum ein, um `R$ auto_repl` zu sparen und eine Kopie in Ihrem auto_repl-Konto zu erhalten",
+                "anuncio_game_1": "Das auto_repl-Spiel gibt es bis zum auto_repl kostenlos\n\nLösen Sie es vor dem Datum ein, um `R$ auto_repl` zu speichern und eine Kopie in Ihrem auto_repl-Konto zu erhalten",
+                "anuncio_dlc_1": "Der auto_repl DLC ist dort bis zum auto_repl kostenlos drüben kostenlos.\n\nLösen Sie ihn vor dem Datum ein, um `R$ auto_repl` zu sparen und eine Kopie in Ihrem auto_repl-Konto zu erhalten",
                 "falta_vinculo": "Ein Kanal und eine Rolle müssen mit dem Befehl </notify config:1018632996787589283> konfiguriert werden, bevor sie über das Panel aktiviert werden können."
             },
             "pula": {

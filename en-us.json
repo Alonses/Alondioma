@@ -200,8 +200,8 @@
         "game": {
             "anuncio": {
                 "link_app": "Open in auto_repl app",
-                "anuncio_game_1": "The Game `auto_repl` it's free until auto_repl over there\n\nRedeem it before date to save `R$ auto_repl` and get a copy in your auto_repl account",
-                "anuncio_dlc_1": "The DLC `auto_repl` it's free until auto_repl over there\n\nRedeem it before date to save `R$ auto_repl` and get a copy in your auto_repl account",
+                "anuncio_game_1": "The Game auto_repl it's free until auto_repl over there\n\nRedeem it before date to save `R$ auto_repl` and get a copy in your auto_repl account",
+                "anuncio_dlc_1": "The DLC auto_repl it's free until auto_repl over there\n\nRedeem it before date to save `R$ auto_repl` and get a copy in your auto_repl account",
                 "falta_vinculo": "A channel and role must be configured with the </notify config:1018632996787589283> command before being able to activate via the panel."
             },
             "pula": {

@@ -198,8 +198,8 @@
         "game": {
             "anuncio": {
                 "link_app": "Apri nell'app auto_repl",
-                "anuncio_game_1": "Il gioco `auto_repl` è gratuito fino al auto_repl lì\n\nRiscattalo prima della data per salvare `R$ auto_repl` e garantirne una copia nel tuo account auto_repl",
-                "anuncio_dlc_1": "Il DLC `auto_repl` è gratuito fino al auto_repl lì\n\nRiscattalo prima della data per salvare `R$ auto_repl` e garantirne una copia nel tuo account auto_repl",
+                "anuncio_game_1": "Il gioco auto_repl è gratuito fino al auto_repl lì\n\nRiscattalo prima della data per salvare `R$ auto_repl` e garantirne una copia nel tuo account auto_repl",
+                "anuncio_dlc_1": "Il DLC auto_repl è gratuito fino al auto_repl lì\n\nRiscattalo prima della data per salvare `R$ auto_repl` e garantirne una copia nel tuo account auto_repl",
                 "falta_vinculo": "Un canale e un ruolo devono essere configurati con il comando </notify config:1018632996787589283> prima di poterlo attivare tramite il pannello."
             },
             "pula": {
