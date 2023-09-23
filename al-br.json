@@ -276,7 +276,7 @@
                 "auto_ban_hierarquia": "O AutoBan dos reportes tá ligado aqui, mas eu não posso banir um usuário com cargos maiores que o seu!\nO cornão não foi banido.",
                 "auto_ban_hierarquia_bot": "O AutoBan dos reportes tá ligado aqui, mas eu não posso banir um usuário com cargos maiores que o meu!\nO cornão não foi banido.",
                 "auto_ban_banido": "O AutoBan baniu o cornão reportado!",
-                "auto_ban_permissao": "O AutoBan tá ativo aqui, porém eu não possuo permissões para `Banir membros`.\nO cornão não foi banido.",
+                "auto_ban_permissao": "O AutoBan tá ativo aqui, porém eu não possuo permissões para `Banir membros.`\nO cornão não foi banido.",
                 "auto_ban_nao_encontrado": "O cornão foi reportado só que ele não tá nesse server para banirmos!"
 
             },
