@@ -295,7 +295,8 @@
                 "invocado_1": "Ero già stato convocato",
                 "invocado_2": "volte",
                 "versao": "Versione",
-                "spawn_alonsal": "Sono nato a "
+                "spawn_alonsal": "Sono nato a ",
+                "ouvindo_agora": "Ascolto ora:"
             },
             "mail": {
                 "aviso_1": "C'è un errore nel tuo messaggio, per favore riprova.",
@@ -994,7 +995,8 @@
                 "customizar_informacoes": "Personalizzare le informazioni",
                 "remover_sobre": "Rimuovere il circa",
                 "comando_desatualizado": "Questo comando non è aggiornato! Si prega di utilizzare di nuovo lo stesso.",
-                "central_exclusao": "cancellazione dei dati"
+                "central_exclusao": "cancellazione dei dati",
+                "ouvir_tambem": "Ascolta anche"
             },
             "menus": {
                 "selecionar_operacao": "Selezionare l'operazione desiderata di seguito",

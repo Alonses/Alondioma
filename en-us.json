@@ -297,7 +297,8 @@
                 "invocado_1": "I've already been invoked",
                 "invocado_2": "times",
                 "versao": "Version",
-                "spawn_alonsal": "Spawned in"
+                "spawn_alonsal": "Spawned in ",
+                "ouvindo_agora": "Listening now:"
             },
             "mail": {
                 "aviso_1": "There is an error in your message, try again.",
@@ -999,7 +1000,8 @@
                 "remover_sobre": "Remove about",
                 "comando_desatualizado": "This command is out of date! Please use the same again.",
                 "central_exclusao": "Exclusion center",
-                "telemetria": "Telemetry"
+                "telemetria": "Telemetry",
+                "ouvir_tambem": "Also listen"
             },
             "menus": {
                 "selecionar_operacao": "Select the desired operation below",

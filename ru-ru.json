@@ -296,7 +296,8 @@
                 "invocado_1": "меня уже вызвали",
                 "invocado_2": "раз",
                 "versao": "Версия",
-                "spawn_alonsal": "порожденный в "
+                "spawn_alonsal": "порожденный в ",
+                "ouvindo_agora": "Я слышу сейчас:"
             },
             "mail": {
                 "aviso_1": "В вашем сообщении ошибка, попробуйте еще раз.",
@@ -1002,7 +1003,8 @@
                 "remover_sobre": "удалить о",
                 "comando_desatualizado": "Эта команда устарела! Пожалуйста, используйте то же самое снова.",
                 "central_exclusao": "Центр исключения",
-                "telemetria": "Телеметрия"
+                "telemetria": "Телеметрия",
+                "ouvir_tambem": "Также послушайте"
             },
             "menus": {
                 "selecionar_operacao": "Выберите нужную операцию ниже",

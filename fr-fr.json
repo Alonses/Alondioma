@@ -296,7 +296,8 @@
                 "invocado_1": "J'ai déjà été invoqué",
                 "invocado_2": "fois",
                 "versao": "Version",
-                "spawn_alonsal": "Généré dans "
+                "spawn_alonsal": "Généré dans ",
+                "ouvindo_agora": "J'entends maintenant:"
             },
             "mail": {
                 "aviso_1": "Il y a une erreur dans votre message, réessayez.",
@@ -997,7 +998,8 @@
                 "remover_sobre": "Supprimer à propos",
                 "comando_desatualizado": "Cette commande est obsolète! Veuillez réutiliser le même.",
                 "central_exclusao": "Suppression de données",
-                "telemetria": "Télémétrie"
+                "telemetria": "Télémétrie",
+                "ouvir_tambem": "Ecoutez aussi"
             },
             "menus": {
                 "selecionar_operacao": "Sélectionnez l'opération souhaitée ci-dessous",

@@ -296,7 +296,8 @@
                 "invocado_1": "Ich wurde bereits angerufen",
                 "invocado_2": "mal",
                 "versao": "Version",
-                "spawn_alonsal": "Ich wurde geboren in"
+                "spawn_alonsal": "Ich wurde geboren in ",
+                "ouvindo_agora": "Ich höre jetzt:"
             },
             "mail": {
                 "aviso_1": "Ihre Nachricht enthält einen Fehler. Versuchen Sie es erneut.",
@@ -997,7 +998,8 @@
                 "remover_sobre": "Entfernen Sie ungefähr",
                 "comando_desatualizado": "Dieser Befehl ist veraltet! Bitte verwenden Sie dasselbe noch einmal.",
                 "central_exclusao": "Daten löschen",
-                "telemetria": "Telemetrie"
+                "telemetria": "Telemetrie",
+                "ouvir_tambem": "Hören Sie auch zu"
             },
             "menus": {
                 "selecionar_operacao": "Wählen Sie unten den gewünschten Vorgang aus",

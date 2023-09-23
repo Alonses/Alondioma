@@ -297,7 +297,8 @@
                 "invocado_1": "Já fui invocado",
                 "invocado_2": "vezes",
                 "versao": "Versão",
-                "spawn_alonsal": "Spawnei em "
+                "spawn_alonsal": "Spawnei em ",
+                "ouvindo_agora": "Ouvindo agora:"
             },
             "mail": {
                 "aviso_1": "Há um erro em sua mensagem, tente novamente.",
@@ -979,7 +980,8 @@
                 "remover_sobre": "Remover sobre",
                 "comando_desatualizado": "Este comando está desatualizado! Por favor, use o mesmo novamente.",
                 "central_exclusao": "Central de exclusão",
-                "telemetria": "Telemetria"
+                "telemetria": "Telemetria",
+                "ouvir_tambem": "Ouvir também"
             },
             "menus": {
                 "selecionar_operacao": "Selecione a operação desejada abaixo",

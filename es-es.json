@@ -278,7 +278,8 @@
                 "invocado_1": "Yo ya estaba convocado",
                 "invocado_2": "veces",
                 "versao": "Versión",
-                "spawn_alonsal": "Nací en "
+                "spawn_alonsal": "Nací en ",
+                "ouvindo_agora": "Escuchando ahora:"
             },
             "mail": {
                 "aviso_1": "Hay un error en su mensaje, inténtelo de nuevo.",
@@ -956,7 +957,8 @@
                 "customizar_informacoes": "Personalizar información",
                 "remover_sobre": "Eliminar sobre",
                 "comando_desatualizado": "¡Este comando está desactualizado! Utilice el mismo de nuevo.",
-                "central_exclusao": "Eliminación de datos"
+                "central_exclusao": "Eliminación de datos",
+                "ouvir_tambem": "Escucha también"
             },
             "menus": {
                 "selecionar_operacao": "Seleccione la operación deseada a continuación",
