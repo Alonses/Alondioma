@@ -727,6 +727,7 @@
                 "equador": "Da dieser Ort in der Nähe des Äquators liegt, spiegelt die aktuelle Jahreszeit möglicherweise nicht Ihr aktuelles Klima wider",
                 "new_link": "Jetzt verwende ich Ihren Eintrag ( `auto_repl` ) als Suchmuster im Befehl </weather:1018653229128622187>!\nVerwenden Sie den Befehl </link:1020561785620803674> erneut, wenn Sie den angehefteten Ort ändern möchten",
                 "error_locale": "Es ist kein Standardgebietsschema definiert. Verwenden Sie den Befehl </link:1020561785620803674>, um einen zu definieren, oder verwenden Sie den Befehl </weather:1018653229128622187> erneut, um einen Eingabewert anzugeben",
+                "modulo_sem_locale": "Sie müssen mit dem Befehl </link:1020561785620803674> einen Standardspeicherort festlegen, um dieses Modul zu aktivieren",
                 "sem_local": "Ich habe keinen Ort mit diesem Namen gefunden. Bitte versuche es erneut."
             },
             "minecraft": {

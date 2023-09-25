@@ -356,6 +356,7 @@
                 "equador": "Sa joça ae tá perto do equador, se pá a estação não funfa aqui",
                 "new_link": "Agora ovo usar entrada ( `auto_repl` ) pra pesquisar com o comando </weather:1018653229128622187>!\nUsa dnv o </link:1020561785620803674> pra mudar o local fixado",
                 "error_locale": "Ocê não setou um lugar ainda, usa o </link:1020561785620803674> pra setar um, ou usa o </weather:1018653229128622187> dnv informando algum lugar",
+                "modulo_sem_locale": "Ocê precisa setar um lugar com o </link:1020561785620803674> pra poder ligar este módulo",
                 "sem_local": "Não achei nenhum local com esse nome, tenta dnv."
             },
             "minecraft": {

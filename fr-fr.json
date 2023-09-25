@@ -727,6 +727,7 @@
                 "equador": "Cet emplacement est proche de l'équateur, la saison en cours peut ne pas refléter votre météo actuelle",
                 "new_link": "Maintenant, je vais utiliser votre entrée ( `auto_repl` ) comme modèle de recherche dans la commande </weather:1018653229128622187>!\nUtilisez à nouveau la commande </link:1020561785620803674> si vous souhaitez modifier l'emplacement épinglé",
                 "error_locale": "Il n'y a pas de paramètres régionaux par défaut définis, utilisez la commande </link:1020561785620803674> pour en définir un ou utilisez la commande </weather:1018653229128622187> informant à nouveau une valeur d'entrée",
+                "modulo_sem_locale": "Vous devez définir un emplacement par défaut à l'aide de la commande </link:1020561785620803674> pour activer ce module",
                 "sem_local": "Je n'ai trouvé aucun lieu portant ce nom, veuillez réessayer."
             },
             "minecraft": {
