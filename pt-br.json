@@ -72,7 +72,7 @@
                 "ativacao": "Ativação",
                 "valor": "Valor",
                 "sem_bufunfa": "Você não possui Bufunfas o suficiente para usar módulos, consiga algumas com o comando </daily:1020794974377353338> antes!",
-                "sem_locale": "Para ativar o módulo de clima é necessário definir um local padrão com o comando </link locale:1020561785620803674> antes!",
+                "sem_locale": "Para ativar o módulo de clima é necessário definir um local padrão com o comando </link:1020561785620803674> antes!",
                 "limite_modulos": "É possivel ativar apenas 3 módulos de cada tipo!",
                 "excluido": "Seu módulo foi apagado",
                 "desativado": "Seu módulo foi desativado",
@@ -732,8 +732,9 @@
                 "termino": ", termina em",
                 "termino_hoje": ", termina hoje",
                 "equador": "Este local esta próximo da linha do equador, a estação atual pode não refletir seu clima atual",
-                "new_link": "Agora usarei sua entrada ( `auto_repl` ) como padrão de pesquisa no comando </weather:1018653229128622187>!\nUse o comando </link locale:1020561785620803674> novamente caso queira mudar de local fixado",
-                "error_locale": "Não há um local padrão definido, use o comando </link locale:1020561785620803674> para definir um, ou use o comando </weather:1018653229128622187> novamente informando um valor de entrada",
+                "new_link": "Agora usarei sua entrada ( `auto_repl` ) como padrão de pesquisa no comando </weather:1018653229128622187>!\nUse o comando </link:1020561785620803674> novamente caso queira mudar de local fixado",
+                "error_locale": "Não há um local padrão definido, use o comando </link:1020561785620803674> para definir um, ou use o comando </weather:1018653229128622187> novamente informando um valor de entrada",
+                "modulo_sem_locale": "Você precisa definir um local padrão com o comando </link:1020561785620803674> para poder ativar este módulo",
                 "sem_local": "Não encontrei nenhum local com este nome, por favor, tente novamente."
             },
             "minecraft": {

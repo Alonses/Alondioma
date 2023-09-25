@@ -72,7 +72,7 @@
                 "ativacao": "Activation",
                 "valor": "Price",
                 "sem_bufunfa": "You don't have enough Bufunfas to use modules, get some with the command </daily:1020794974377353338> before!",
-                "sem_locale": "To activate the weather module it is necessary to define a default location with the command </link locale:1020561785620803674> before!",
+                "sem_locale": "To activate the weather module it is necessary to define a default location with the command </link:1020561785620803674> before!",
                 "limite_modulos": "It is possible to activate only 3 modules of each type!",
                 "excluido": "Your module has been deleted",
                 "desativado": "Your module has been disabled",
@@ -727,8 +727,8 @@
                 "termino": ", ends in",
                 "termino_hoje": ", ends today",
                 "equador": "This location is close to the equator, the current season may not reflect your current climate",
-                "new_link": "Now I'm going to use your entry ( `auto_repl` ) as the search pattern in the command </weather:1018653229128622187>!\nUse the command </link locale:1020561785620803674> again if you want to change the pinned location",
-                "error_locale": "There is no default locale defined, use the command </link locale:1020561785620803674> to define one, or use the command </weather:1018653229128622187> again informing an input value",
+                "new_link": "Now I'm going to use your entry ( `auto_repl` ) as the search pattern in the command </weather:1018653229128622187>!\nUse the command </link:1020561785620803674> again if you want to change the pinned location",
+                "error_locale": "There is no default locale defined, use the command </link:1020561785620803674> to define one, or use the command </weather:1018653229128622187> again informing an input value",
                 "sem_local": "I didn't find any location with this name, please try again."
             },
             "minecraft": {

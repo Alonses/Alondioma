@@ -71,7 +71,7 @@
                 "ativacao": "Activación",
                 "valor": "Precio",
                 "sem_bufunfa": "No tiene suficientes Bufunfas para usar módulos, ¡consiga algunos con </daily:1020794974377353338> primero!",
-                "sem_locale": "¡Para activar el módulo meteorológico es necesario definir una ubicación predeterminada con el comando </link locale:1020561785620803674> primero!",
+                "sem_locale": "¡Para activar el módulo meteorológico es necesario definir una ubicación predeterminada con el comando </link:1020561785620803674> primero!",
                 "limite_modulos": "¡Es posible activar solo 3 módulos de cada tipo!",
                 "excluido": "Su módulo ha sido eliminado",
                 "desativado": "Su módulo ha sido deshabilitado",
@@ -697,8 +697,8 @@
                 "termino": ", termina en",
                 "termino_hoje": ", termina hoy",
                 "equador": "Esta ubicación está cerca del ecuador, es posible que la temporada actual no refleje su clima actual",
-                "new_link": "Ahora voy a usar su entrada (`auto_repl`) como patrón de búsqueda en el comando </weather:1018653229128622187>!\nUse el comando </link locale:1020561785620803674> nuevamente si desea cambiar la ubicación fija",
-                "error_locale": "No hay una configuración regional predeterminada definida, use el comando </link locale:1020561785620803674> para definir una o use el comando </weather:1018653229128622187> nuevamente para informar un valor de entrada",
+                "new_link": "Ahora voy a usar su entrada (`auto_repl`) como patrón de búsqueda en el comando </weather:1018653229128622187>!\nUse el comando </link:1020561785620803674> nuevamente si desea cambiar la ubicación fija",
+                "error_locale": "No hay una configuración regional predeterminada definida, use el comando </link:1020561785620803674> para definir una o use el comando </weather:1018653229128622187> nuevamente para informar un valor de entrada",
                 "sem_local": "No pude encontrar ninguna ubicación con ese nombre, inténtalo de nuevo."
             },
             "minecraft": {

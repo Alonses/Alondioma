@@ -71,7 +71,7 @@
                 "ativacao": "Attivazione",
                 "valor": "Prezzo",
                 "sem_bufunfa": "Non hai abbastanza Bufunfas per usare i moduli, prendine un po' prima con il comando </daily:1020794974377353338>!",
-                "sem_locale": "Per attivare il modulo meteo, devi prima impostare una posizione predefinita con il comando </link locale:1020561785620803674>!",
+                "sem_locale": "Per attivare il modulo meteo, devi prima impostare una posizione predefinita con il comando </link:1020561785620803674>!",
                 "limite_modulos": "E' possibile attivare solo 3 moduli di ogni tipologia!",
                 "excluido": "Il tuo modulo è stato eliminato",
                 "desativado": "Il tuo modulo è stato disabilitato",
@@ -722,8 +722,8 @@
                 "termino": ", finisce in",
                 "termino_hoje": ", finisce oggi",
                 "equador": "Questa posizione è vicino all'equatore, la stagione in corso potrebbe non riflettere il clima attuale",
-                "new_link": "Ora userò la tua voce ( `auto_repl` ) come modello di ricerca nel comando </weather:1018653229128622187>!\nUsa di nuovo il comando </link locale:1020561785620803674> se vuoi cambiare la posizione bloccata",
-                "error_locale": "Non esiste una locale predefinita definita, usa il comando </link locale:1020561785620803674> per definirne una o ancora usa il comando </weather:1018653229128622187> per informare un valore di input",
+                "new_link": "Ora userò la tua voce ( `auto_repl` ) come modello di ricerca nel comando </weather:1018653229128622187>!\nUsa di nuovo il comando </link:1020561785620803674> se vuoi cambiare la posizione bloccata",
+                "error_locale": "Non esiste una locale predefinita definita, usa il comando </link:1020561785620803674> per definirne una o ancora usa il comando </weather:1018653229128622187> per informare un valore di input",
                 "sem_local": "Non ho trovato nessuna località con questo nome, riprova."
             },
             "minecraft": {

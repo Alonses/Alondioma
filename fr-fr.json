@@ -71,7 +71,7 @@
                 "ativacao": "Activation",
                 "valor": "Prix",
                 "sem_bufunfa": "Vous n'avez pas assez de Bufunfas pour utiliser les modules, obtenez-en avec la commande </daily:1020794974377353338> avant!",
-                "sem_locale": "Pour activer le module météo il faut définir un emplacement par défaut avec la commande </link locale:1020561785620803674> avant!",
+                "sem_locale": "Pour activer le module météo il faut définir un emplacement par défaut avec la commande </link:1020561785620803674> avant!",
                 "limite_modulos": "Il est possible d'activer seulement 3 modules de chaque type!",
                 "excluido": "Votre module a été supprimé",
                 "desativado": "Votre module a été désactivé",
@@ -725,8 +725,8 @@
                 "termino": ", fini dans",
                 "termino_hoje": ", finisce oggi",
                 "equador": "Cet emplacement est proche de l'équateur, la saison en cours peut ne pas refléter votre météo actuelle",
-                "new_link": "Maintenant, je vais utiliser votre entrée ( `auto_repl` ) comme modèle de recherche dans la commande </weather:1018653229128622187>!\nUtilisez à nouveau la commande </link locale:1020561785620803674> si vous souhaitez modifier l'emplacement épinglé",
-                "error_locale": "Il n'y a pas de paramètres régionaux par défaut définis, utilisez la commande </link locale:1020561785620803674> pour en définir un ou utilisez la commande </weather:1018653229128622187> informant à nouveau une valeur d'entrée",
+                "new_link": "Maintenant, je vais utiliser votre entrée ( `auto_repl` ) comme modèle de recherche dans la commande </weather:1018653229128622187>!\nUtilisez à nouveau la commande </link:1020561785620803674> si vous souhaitez modifier l'emplacement épinglé",
+                "error_locale": "Il n'y a pas de paramètres régionaux par défaut définis, utilisez la commande </link:1020561785620803674> pour en définir un ou utilisez la commande </weather:1018653229128622187> informant à nouveau une valeur d'entrée",
                 "sem_local": "Je n'ai trouvé aucun lieu portant ce nom, veuillez réessayer."
             },
             "minecraft": {

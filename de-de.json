@@ -71,7 +71,7 @@
                 "ativacao": "Aktivierung",
                 "valor": "Preis",
                 "sem_bufunfa": "Du hast nicht genügend Buffunfas, um Module zu verwenden, besorge dir vorher welche mit dem Befehl </daily:1020794974377353338>!",
-                "sem_locale": "Um das Wettermodul zu aktivieren, ist es notwendig, zuvor mit dem Befehl </link locale:1020561785620803674> einen Standardstandort zu definieren!",
+                "sem_locale": "Um das Wettermodul zu aktivieren, ist es notwendig, zuvor mit dem Befehl </link:1020561785620803674> einen Standardstandort zu definieren!",
                 "limite_modulos": "Es können nur 3 Module jedes Typs aktiviert werden!",
                 "excluido": "Ihr Modul wurde gelöscht",
                 "desativado": "Ihr Modul wurde deaktiviert",
@@ -725,8 +725,8 @@
                 "termino": ", endet in",
                 "termino_hoje": ", endet heute",
                 "equador": "Da dieser Ort in der Nähe des Äquators liegt, spiegelt die aktuelle Jahreszeit möglicherweise nicht Ihr aktuelles Klima wider",
-                "new_link": "Jetzt verwende ich Ihren Eintrag ( `auto_repl` ) als Suchmuster im Befehl </weather:1018653229128622187>!\nVerwenden Sie den Befehl </link locale:1020561785620803674> erneut, wenn Sie den angehefteten Ort ändern möchten",
-                "error_locale": "Es ist kein Standardgebietsschema definiert. Verwenden Sie den Befehl </link locale:1020561785620803674>, um einen zu definieren, oder verwenden Sie den Befehl </weather:1018653229128622187> erneut, um einen Eingabewert anzugeben",
+                "new_link": "Jetzt verwende ich Ihren Eintrag ( `auto_repl` ) als Suchmuster im Befehl </weather:1018653229128622187>!\nVerwenden Sie den Befehl </link:1020561785620803674> erneut, wenn Sie den angehefteten Ort ändern möchten",
+                "error_locale": "Es ist kein Standardgebietsschema definiert. Verwenden Sie den Befehl </link:1020561785620803674>, um einen zu definieren, oder verwenden Sie den Befehl </weather:1018653229128622187> erneut, um einen Eingabewert anzugeben",
                 "sem_local": "Ich habe keinen Ort mit diesem Namen gefunden. Bitte versuche es erneut."
             },
             "minecraft": {
