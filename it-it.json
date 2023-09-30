@@ -488,7 +488,7 @@
                 "canal_fechado": "Non hai un canale di segnalazione aperto!",
                 "fechando_canal": "Questo canale verrà chiuso auto_repl, grazie!",
                 "erro_1": "Si è verificato un errore e non è stato possibile creare il canale in questo momento, riprova più tardi",
-                "falta_vinculo": "Un canale deve essere configurato con il comando </conf ticket:1094346210636214304> prima di poter essere attivato tramite il pannello."
+                "falta_vinculo": "Un canale deve essere configurato con il comando </conf guild:1094346210636214304> prima di poter essere attivato tramite il pannello."
             },
             "report": {
                 "reporte": "Reclami",
@@ -519,7 +519,7 @@
                 "identificador": "Identificatore",
                 "id_invalido": "L'ID inserito non è valido!",
                 "rodape": "pagine, usa /verify guild pagina:<num> per vedere altre pagine",
-                "falta_vinculo": "E' necessario configurare una categoria con il comando </conf report:1094346210636214304> prima di poterla attivare tramite il pannello.",
+                "falta_vinculo": "E' necessario configurare una categoria con il comando </conf guild:1094346210636214304> prima di poterla attivare tramite il pannello.",
                 "auto_ban_painel": "Non ho l'autorizzazione `Ban membri` per abilitare questa funzione!",
                 "auto_ban_descricao": "AutoBan è attivo su questo server, segnalare questo utente bannerà anche lui!\n\nPer impostazione predefinita, verranno eliminati anche gli ultimi 3 giorni dei tuoi messaggi.",
                 "auto_ban_hierarquia": "AutoBan è attivo su questo server, tuttavia non è consentito bannare un utente con posizioni più alte della tua!\nL'utente non è stato bannato.",
@@ -591,10 +591,12 @@
             },
             "logger": {
                 "ativado": "Il registro eventi del server è ora attivo, tutti gli eventi verranno inviati sul canale auto_repl",
-                "desativado": "Il registro eventi del server è ora disabilitato\nUsa </panel guild:1107163338930126869>, o comanda </conf log:1094346210636214304> menzionando un canale per abilitarlo di nuovo!",
-                "falta_vinculo": "Un canale deve essere configurato con il comando </conf log:1094346210636214304> prima di poter essere attivato tramite il pannello.",
+                "desativado": "Il registro eventi del server è ora disabilitato\nUsa </panel guild:1107163338930126869>, o comanda </conf guild:1094346210636214304> menzionando un canale per abilitarlo di nuovo!",
+                "falta_vinculo": "Un canale deve essere configurato con il comando </conf guild:1094346210636214304> prima di poter essere attivato tramite il pannello.",
                 "falta_escrita_visualizacao": "Non riesco a visualizzare o inviare messaggi su questo canale! Controlla le mie autorizzazioni per abilitare la registrazione degli eventi su questo canale.",
                 "mencao_canal": "Non hai menzionato alcun canale e non ho un canale memorizzato nella cache!\nUtilizza nuovamente il comando menzionando il canale.",
+                "canal_excluido": "Il canale memorizzato nella cache non esiste più!\nUtilizza nuovamente il comando e specifica un canale valido per visualizzare i resi automatici.",
+                "categoria_excluida": "La categoria salvata nella cache non esiste più!\nUtilizzare nuovamente il comando menzionando una categoria valida per poter ricevere ticket di report tramite il server.",
                 "titulo_avatar": "> Avatar aggiornato",
                 "novo_avatar": "Questo è il nuovo avatar dell'utente!",
                 "novo_membro": "> C'è un nuovo membro!",
@@ -619,7 +621,7 @@
             },
             "spam": {
                 "titulo": "> Prevenzione dello spam",
-                "ativado": "Il modulo antispam è stato attivato! auto_repl\nIl canale menzionato sarà usato per il logger ( </conf log:1094346210636214304> ) anche se è attivato.\n\nSe usi il comando logger che menziona un altro canale, l'anti-spam invierà tutti i report sullo stesso canale del logger, e viceversa\n(entrambi i moduli usano lo stesso canale auto_repl)",
+                "ativado": "Il modulo antispam è stato attivato! auto_repl\nIl canale menzionato sarà usato per il logger ( </conf guild:1094346210636214304> ) anche se è attivato.\n\nSe usi il comando logger che menziona un altro canale, l'anti-spam invierà tutti i report sullo stesso canale del logger, e viceversa\n(entrambi i moduli usano lo stesso canale auto_repl)",
                 "desativado": "Il modulo antispam è stato disabilitato.",
                 "spam_aplicado": "L'utente auto_repl è stato penalizzato per `auto_repl minuti` per aver inviato ripetutamente\nmessaggi considerati spam.",
                 "vigencia": "Validità",

@@ -492,7 +492,7 @@
                 "canal_fechado": "Sie haben keinen offenen Meldekanal!",
                 "fechando_canal": "Dieser Kanal wird auto_repl geschlossen, vielen Dank!",
                 "erro_1": "Es ist ein Fehler aufgetreten und der Kanal konnte derzeit nicht erstellt werden. Bitte versuchen Sie es später noch einmal",
-                "falta_vinculo": "Es ist notwendig, einen Kanal mit dem Befehl </conf ticket:1094346210636214304> zu konfigurieren, bevor Sie ihn über das Panel aktivieren können."
+                "falta_vinculo": "Es ist notwendig, einen Kanal mit dem Befehl </conf guild:1094346210636214304> zu konfigurieren, bevor Sie ihn über das Panel aktivieren können."
             },
             "report": {
                 "reporte": "Berichte",
@@ -523,7 +523,7 @@
                 "identificador": "Identifikator",
                 "id_invalido": "Die eingegebene ID ist ungültig!",
                 "rodape": "Seiten: Verwenden Sie /verify guild page:<nummer>, um andere Seiten anzuzeigen",
-                "falta_vinculo": "Es ist notwendig, eine Kategorie mit dem Befehl </conf report:1094346210636214304> zu konfigurieren, bevor Sie sie über das Bedienfeld aktivieren können.",
+                "falta_vinculo": "Es ist notwendig, eine Kategorie mit dem Befehl </conf guild:1094346210636214304> zu konfigurieren, bevor Sie sie über das Bedienfeld aktivieren können.",
                 "auto_ban_painel": "Ich habe nicht die Berechtigung `Mitglieder blockieren`, um diese Funktion zu aktivieren!",
                 "auto_ban_descricao": "AutoBan ist auf diesem Server aktiv. Wenn Sie diesen Benutzer melden, wird er ebenfalls gesperrt!\n\nStandardmäßig werden auch die letzten 3 Tage seiner Nachrichten gelöscht.",
                 "auto_ban_hierarquia": "Der AutoBan ist auf diesem Server aktiv, es ist jedoch nicht erlaubt, einen Benutzer mit einer höheren Position als Ihrem zu sperren!\nDer Benutzer wurde nicht gesperrt.",
@@ -595,10 +595,12 @@
             },
             "logger": {
                 "ativado": "Das Serverereignisprotokoll ist jetzt aktiv. Alle Ereignisse werden über den Kanal auto_repl gesendet",
-                "desativado": "SDas Server-Ereignisprotokoll ist jetzt deaktiviert.\nVerwenden Sie </panel guild:1107163338930126869> oder den Befehl </conf log:1094346210636214304> und erwähnen Sie einen Kanal, um es wieder zu aktivieren!",
-                "falta_vinculo": "Es ist notwendig, einen Kanal mit dem Befehl </conf log:1094346210636214304> zu konfigurieren, bevor Sie ihn über das Panel aktivieren können.",
+                "desativado": "SDas Server-Ereignisprotokoll ist jetzt deaktiviert.\nVerwenden Sie </panel guild:1107163338930126869> oder den Befehl </conf guild:1094346210636214304> und erwähnen Sie einen Kanal, um es wieder zu aktivieren!",
+                "falta_vinculo": "Es ist notwendig, einen Kanal mit dem Befehl </conf guild:1094346210636214304> zu konfigurieren, bevor Sie ihn über das Panel aktivieren können.",
                 "falta_escrita_visualizacao": "Ich kann auf diesem Kanal keine Nachrichten sehen oder senden! Bitte überprüfen Sie meine Berechtigungen, damit ich die Ereignisprotokollierung für diesen Kanal aktivieren kann.",
                 "mencao_canal": "Du hast keinen Kanal erwähnt und ich habe keinen zwischengespeicherten Kanal!\nVerwende den Befehl erneut und erwähne einen Kanal",
+                "canal_excluido": "Der zwischengespeicherte Kanal existiert nicht mehr!\nVerwenden Sie den Befehl erneut und geben Sie einen gültigen Kanal an, um automatische Rückgaben anzuzeigen.",
+                "categoria_excluida": "Die zwischengespeicherte Kategorie existiert nicht mehr!\nVerwenden Sie den Befehl erneut mit einer gültigen Kategorie, um Berichtstickets über den Server zu empfangen.",
                 "titulo_avatar": "> Aktualisierter Avatar",
                 "novo_avatar": "Dies ist der neue Benutzer-Avatar!",
                 "novo_membro": "> Es gibt ein neues Mitglied!",
@@ -622,7 +624,7 @@
             },
             "spam": {
                 "titulo": "> Spam-Prävention",
-                "ativado": "Das Anti-Spam-Modul wurde aktiviert! auto_repl\nDer benannte Kanal wird für den Logger verwendet (</conf log:1094346210636214304>), auch wenn er aktiviert ist.\n\nWenn Sie den Logger-Befehl verwenden und einen anderen Kanal erwähnen, sendet Anti-Spam alle Berichte an denselben ein Protokollierungskanal und umgekehrt\n(beide Module verwenden denselben auto_repl-Kanal)",
+                "ativado": "Das Anti-Spam-Modul wurde aktiviert! auto_repl\nDer benannte Kanal wird für den Logger verwendet (</conf guild:1094346210636214304>), auch wenn er aktiviert ist.\n\nWenn Sie den Logger-Befehl verwenden und einen anderen Kanal erwähnen, sendet Anti-Spam alle Berichte an denselben ein Protokollierungskanal und umgekehrt\n(beide Module verwenden denselben auto_repl-Kanal)",
                 "desativado": "Das Anti-Spam-Modul wurde deaktiviert.",
                 "spam_aplicado": "Der Benutzer auto_repl wurde für `auto_repl minuten` stummgeschaltet, weil\ner in ungefährer Zeit wiederholt Nachrichten gesendet hat.",
                 "vigencia": "Gültigkeit",

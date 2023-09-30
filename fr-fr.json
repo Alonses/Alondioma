@@ -491,7 +491,7 @@
                 "canal_fechado": "Vous n'avez pas de canal de signalement ouvert!",
                 "fechando_canal": "Cette chaîne sera fermée auto_repl, merci!",
                 "erro_1": "Une erreur s'est produite et la chaîne n'a pas pu être créée pour le moment, veuillez réessayer plus tard",
-                "falta_vinculo": "Un canal doit être configuré avec la commande </conf ticket:1094346210636214304> avant de pouvoir être activé via le panneau."
+                "falta_vinculo": "Un canal doit être configuré avec la commande </conf guild:1094346210636214304> avant de pouvoir être activé via le panneau."
             },
             "report": {
                 "reporte": "Réclamations",
@@ -522,7 +522,7 @@
                 "identificador": "Identifiant",
                 "id_invalido": "L'identifiant saisi est invalide !",
                 "rodape": "pages, utilisez /verify guild page:<num> pour voir d'autres pages",
-                "falta_vinculo": "Il est nécessaire de configurer une catégorie avec la commande </conf report:1094346210636214304> avant de l'activer via le panel.",
+                "falta_vinculo": "Il est nécessaire de configurer une catégorie avec la commande </conf guild:1094346210636214304> avant de l'activer via le panel.",
                 "auto_ban_painel": "Je n'ai pas l'autorisation `Interdire des membres` pour activer cette fonctionnalité!",
                 "auto_ban_descricao": "AutoBan est actif sur ce serveur, signaler cet utilisateur le bannira également!\n\nPar défaut, les 3 derniers jours de vos messages seront également supprimés.",
                 "auto_ban_hierarquia": "L'AutoBan est actif sur ce serveur, cependant il n'est pas permis de bannir un utilisateur avec des positions supérieures à la vôtre!\nL'utilisateur n'a pas été banni.",
@@ -594,10 +594,12 @@
             },
             "logger": {
                 "ativado": "Le journal des événements du serveur est maintenant actif, tous les événements seront envoyés sur le canal auto_repl",
-                "desativado": "La journalisation des événements du serveur est désormais désactivée\nUtilisez </panel guild:1107163338930126869> ou la commande </conf log:1094346210636214304> en mentionnant un canal à réactiver!",
-                "falta_vinculo": "Un canal doit être configuré avec la commande </conf log:1094346210636214304> avant de pouvoir être activé via le panneau.",
+                "desativado": "La journalisation des événements du serveur est désormais désactivée\nUtilisez </panel guild:1107163338930126869> ou la commande </conf guild:1094346210636214304> en mentionnant un canal à réactiver!",
+                "falta_vinculo": "Un canal doit être configuré avec la commande </conf guild:1094346210636214304> avant de pouvoir être activé via le panneau.",
                 "falta_escrita_visualizacao": "Je ne peux pas voir ni envoyer de messages sur cette chaîne! Veuillez vérifier mes autorisations afin que je puisse activer la journalisation des événements pour cette chaîne.",
                 "mencao_canal": "Vous n'avez mentionné aucune chaîne et je n'ai aucun canal en cache!\nVeuillez utiliser à nouveau la commande en mentionnant la chaîne.",
+                "canal_excluido": "Le canal mis en cache n'existe plus!\nUtilisez à nouveau la commande et spécifiez un canal valide pour voir les retours automatiques.",
+                "categoria_excluida": "La catégorie mise en cache n'existe plus!\nUtilisez à nouveau la commande avec une catégorie valide pour pouvoir recevoir des tickets de rapport via le serveur.",
                 "titulo_avatar": "> Avatar mis à jour",
                 "novo_avatar": "C'est le nouvel avatar utilisateur!",
                 "novo_membro": "> Il y a un nouveau membre!",
@@ -622,7 +624,7 @@
             },
             "spam": {
                 "titulo": "> Prévention du spam",
-                "ativado": "Le module anti-spam a été activé ! auto_repl\nLe canal mentionné sera utilisé pour l'enregistreur ( </conf log:1094346210636214304> ) également s'il est activé.\n\nSi vous utilisez la commande logger en mentionnant un autre canal, l'anti-spam enverra tous les rapports sur le même canal d'enregistreur, et vice versa\n(les deux modules utilisent le même canal auto_repl)",
+                "ativado": "Le module anti-spam a été activé ! auto_repl\nLe canal mentionné sera utilisé pour l'enregistreur ( </conf guild:1094346210636214304> ) également s'il est activé.\n\nSi vous utilisez la commande logger en mentionnant un autre canal, l'anti-spam enverra tous les rapports sur le même canal d'enregistreur, et vice versa\n(les deux modules utilisent le même canal auto_repl)",
                 "desativado": "Le module anti-spam a été désactivé.",
                 "spam_aplicado": "L'utilisateur auto_repl a été mis en sourdine pendant `auto_repl minutes` en raison de messages répétés\nenvoyés à des heures approximatives.",
                 "vigencia": "Validité",
