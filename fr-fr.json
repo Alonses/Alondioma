@@ -96,7 +96,8 @@
                 "modulo_2": "🏯 Événements historiques",
                 "modulo_3": "🃏 Blagues",
                 "modulo_4": "〽️ Curiosités",
-                "auto_desativado": "Vos modules ont été désactivés!\nAssurez-vous d'avoir des Bufunfas dans votre compte Alonsal pour pouvoir activer des fonctionnalités comme celle-ci!\n\nVous pouvez gagner des Bufunfas avec la commande </daily:1020794974377353338> ou via des dépôts et des jeux"
+                "auto_desativado": "Vos modules ont été désactivés!\nAssurez-vous d'avoir des Bufunfas dans votre compte Alonsal pour pouvoir activer des fonctionnalités comme celle-ci!\n\nVous pouvez gagner des Bufunfas avec la commande </daily:1020794974377353338> ou via des dépôts et des jeux",
+                "modulo_inexistente": "Ce `module` n'existe plus!\nVeuillez réutiliser la commande avec un autre module."
             },
             "b_historico": {
                 "movimentacoes": "Vos dernières opérations bancaires",
@@ -964,6 +965,7 @@
                 "escolher_lista_navegar": "Choisissez l'une des listes pour voir vos tâches",
                 "escolher_lista_apagar": "Choisissez l'une des listes à supprimer",
                 "escolher_lista_vincular": "Choisissez l'une des listes pour créer un lien vers celle-ci!",
+                "escolher_tarefa_apagar": "Choisissez une tâche à supprimer",
                 "finalizada": "Fini",
                 "em_aberto": "Pas terminé",
                 "criacao": "Créé en",
@@ -972,7 +974,11 @@
                 "tarefa_movida_2": "Votre devoir a de nouveau été déplacé vers les notes ouvertes!",
                 "tarefa_excluida": "Votre tâche a été supprimée avec succès!",
                 "exclusao_lista_cancelada": "Suppression de la liste annulée",
-                "exclusao_lista": "La `liste` et les `tâches` liées ont bien été supprimées!"
+                "exclusao_lista": "La `liste` et les `tâches` liées ont bien été supprimées!",
+                "exclusao_tarefa_cancelada": "La tâche n'a pas été supprimée.",
+                "exclusao_tarefa": "La `tâche` a été supprimée avec succès!",
+                "tarefa_inexistente": "Cette `tâche` n'existe plus!\nVeuillez réutiliser la commande avec une autre tâche.",
+                "lista_inexistente": "Cette `liste` n'existe plus!\nVeuillez utiliser la commande avec une autre liste."
             }
         },
         "menu": {

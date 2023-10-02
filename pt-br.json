@@ -97,7 +97,8 @@
                 "modulo_2": "🏯 Eventos históricos",
                 "modulo_3": "🃏 Charadas",
                 "modulo_4": "〽️ Curiosidades",
-                "auto_desativado": "Seus módulos foram desativados!\nGaranta que tenha Bufunfas em sua conta do Alonsal para poder ativar recursos como este!\n\nVocê pode ganhar bufunfas com o comando </daily:1020794974377353338> ou através de depósitos e games"
+                "auto_desativado": "Seus módulos foram desativados!\nGaranta que tenha Bufunfas em sua conta do Alonsal para poder ativar recursos como este!\n\nVocê pode ganhar bufunfas com o comando </daily:1020794974377353338> ou através de depósitos e games",
+                "modulo_inexistente": "Esse `módulo` não existe mais!\nPor favor, utilize o comando novamente com um outro módulo."
             },
             "b_historico": {
                 "movimentacoes": "Suas últimas movimentações",
@@ -944,6 +945,7 @@
                 "escolher_lista_navegar": "Escolha uma das listas para ver suas tarefas",
                 "escolher_lista_apagar": "Escolha uma das listas para apagar",
                 "escolher_lista_vincular": "Escolha uma das listas para vincular esta!",
+                "escolher_tarefa_apagar": "Escolha uma tarefa para apagar",
                 "finalizada": "Finalizada",
                 "em_aberto": "Em aberto",
                 "criacao": "Criado em",
@@ -952,7 +954,11 @@
                 "tarefa_movida_2": "Sua tarefa foi movida para as notas em aberto novamente!",
                 "tarefa_excluida": "Sua tarefa foi excluída com sucesso!",
                 "exclusao_lista_cancelada": "Exclusão da lista de tarefas cancelada.",
-                "exclusao_lista": "`Lista` e `tarefas` vinculadas excluídas com sucesso!"
+                "exclusao_lista": "`Lista` e `tarefas` vinculadas excluídas com sucesso!",
+                "exclusao_tarefa_cancelada": "Exclusão da tarefa cancelada.",
+                "exclusao_tarefa": "A `tarefa` foi excluída com sucesso!",
+                "tarefa_inexistente": "Essa `tarefa` não existe mais!\nPor favor, utilize o comando novamente com uma outra tarefa.",
+                "lista_inexistente": "Essa `lista` não existe mais!\nPor favor, utilize o comando novamente com uma outra lista."
             }
         },
         "menu": {

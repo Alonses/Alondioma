@@ -97,7 +97,8 @@
                 "modulo_2": "🏯 Historical events",
                 "modulo_3": "🃏 Jokes",
                 "modulo_4": "〽️ Curiosities",
-                "auto_desativado": "Your modules have been deactivated!\nMake sure you have Bufunfas in your Alonsal account to be able to activate features like this!\n\nYou can earn Bufunfas with the command </daily:1020794974377353338> or through deposits and games"
+                "auto_desativado": "Your modules have been deactivated!\nMake sure you have Bufunfas in your Alonsal account to be able to activate features like this!\n\nYou can earn Bufunfas with the command </daily:1020794974377353338> or through deposits and games",
+                "modulo_inexistente": "This `module` no longer exists!\nPlease reuse the command with another module."
             },
             "b_historico": {
                 "movimentacoes": "Your last bank transactions",
@@ -964,6 +965,7 @@
                 "escolher_lista_navegar": "Choose one of the lists to see your tasks",
                 "escolher_lista_apagar": "Choose one of the lists to delete",
                 "escolher_lista_vincular": "Choose one of the lists to link to this one!",
+                "escolher_tarefa_apagar": "Choose a task to delete",
                 "finalizada": "Finished",
                 "em_aberto": "Not completed",
                 "criacao": "Created in",
@@ -972,7 +974,11 @@
                 "tarefa_movida_2": "Your task has been moved to open grades again!",
                 "tarefa_excluida": "Your task has been successfully deleted!",
                 "exclusao_lista_cancelada": "Task list deletion has been canceled",
-                "exclusao_lista": "`List` and linked `tasks` successfully deleted!"
+                "exclusao_lista": "`List` and linked `tasks` successfully deleted!",
+                "exclusao_tarefa_cancelada": "The task has not been deleted.",
+                "exclusao_tarefa": "The `task` was successfully deleted!",
+                "tarefa_inexistente": "This `task` no longer exists!\nPlease use the command again with another task.",
+                "lista_inexistente": "This `list` no longer exists!\nPlease use the command again with a different list."
             }
         },
         "menu": {

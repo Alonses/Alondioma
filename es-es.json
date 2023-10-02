@@ -92,7 +92,8 @@
                 "descricao": "Este módulo descontará `B$ auto_repl`, cuantos más módulos active,\nmás bufones se descontarán de su banco por día.\n\nActualmente, el valor para operar sus módulos es `B$ auto_repl`.\n----------------------------------------------------------------------------",
                 "modulo_ativado": "¡Módulo activado! Su módulo se enviará auto_repl `auto_repl`",
                 "modulo_3": "🃏 Chistes",
-                "auto_desativado": "¡Tus módulos han sido desactivados!\n¡Asegúrate de tener Bufunfas en tu cuenta de Alonsal para poder activar funciones como esta!\n\nPuedes ganar Bufunfas con el comando </daily:1020794974377353338> o a través de depósitos y juegos"
+                "auto_desativado": "¡Tus módulos han sido desactivados!\n¡Asegúrate de tener Bufunfas en tu cuenta de Alonsal para poder activar funciones como esta!\n\nPuedes ganar Bufunfas con el comando </daily:1020794974377353338> o a través de depósitos y juegos",
+                "modulo_inexistente": "¡Este `módulo` ya no existe!\nReutilice el comando con otro módulo."
             },
             "b_historico": {
                 "movimentacoes": "Tus últimas transacciones bancarias",
@@ -930,6 +931,7 @@
                 "escolher_lista_navegar": "Elige una de las listas para ver tus tareas",
                 "escolher_lista_apagar": "Elija una de las listas para eliminar",
                 "escolher_lista_vincular": "¡Elige una de las listas para vincularla a esta!",
+                "escolher_tarefa_apagar": "Elija una tarea para eliminar",
                 "finalizada": "Finalizado",
                 "em_aberto": "En abierto",
                 "criacao": "Creado en",
@@ -938,7 +940,11 @@
                 "tarefa_movida_2": "¡Tu tarea ha sido movida para abrir calificaciones nuevamente!",
                 "tarefa_excluida": "¡Tu tarea ha sido eliminada con éxito!",
                 "exclusao_lista_cancelada": "Eliminación de la lista de tareas canceladas.",
-                "exclusao_lista": "¡La `Lista` y las `tareas` vinculadas se han eliminado con éxito!"
+                "exclusao_lista": "¡La `Lista` y las `tareas` vinculadas se han eliminado con éxito!",
+                "exclusao_tarefa_cancelada": "La tarea no ha sido eliminada.",
+                "exclusao_tarefa": "¡La `tarea` se eliminó correctamente!",
+                "tarefa_inexistente": "¡Esta `tarea` ya no existe!\nUtilice el comando nuevamente con otra tarea.",
+                "lista_inexistente": "¡Esta `lista` ya no existe!\nUtilice el comando nuevamente con otra lista."
             }
         },
         "menu": {

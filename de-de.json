@@ -96,7 +96,8 @@
                 "modulo_2": "🏯 Historische Ereignisse",
                 "modulo_3": "🃏 Witze",
                 "modulo_4": "〽️ Kuriositäten",
-                "auto_desativado": "Ihre Module wurden deaktiviert!\nStellen Sie sicher, dass Sie Bufunfas in Ihrem Alonsal-Konto haben, um solche Funktionen aktivieren zu können!\n\nSie können Bufunfas mit dem Befehl </daily:1020794974377353338> oder durch Einzahlungen und Spiele verdienen"
+                "auto_desativado": "Ihre Module wurden deaktiviert!\nStellen Sie sicher, dass Sie Bufunfas in Ihrem Alonsal-Konto haben, um solche Funktionen aktivieren zu können!\n\nSie können Bufunfas mit dem Befehl </daily:1020794974377353338> oder durch Einzahlungen und Spiele verdienen",
+                "modulo_inexistente": "Dieses `modul` existiert nicht mehr!\nBitte verwenden Sie den Befehl erneut mit einem anderen Modul."
             },
             "b_historico": {
                 "movimentacoes": "Ihre letzten Banktransaktionen",
@@ -962,6 +963,7 @@
                 "escolher_lista_navegar": "Wählen Sie eine der Listen aus, um Ihre Aufgaben anzuzeigen",
                 "escolher_lista_apagar": "Wählen Sie eine der Listen zum Löschen aus",
                 "escolher_lista_vincular": "Wählen Sie eine der Listen aus, um sie zu verlinken!",
+                "escolher_tarefa_apagar": "Wählen Sie eine Aufgabe zum Löschen aus",
                 "finalizada": "Bereit",
                 "em_aberto": "Nicht vollständig",
                 "criacao": "Erstellt in",
@@ -970,7 +972,11 @@
                 "tarefa_movida_2": "Ihre Aufgabe wurde erneut auf offene Noten verschoben!",
                 "tarefa_excluida": "Ihre Aufgabe wurde erfolgreich gelöscht!",
                 "exclusao_lista_cancelada": "Das Löschen der Aufgabenliste wurde abgebrochen",
-                "exclusao_lista": "`Liste` und verknüpfte `Aufgaben` erfolgreich gelöscht!"
+                "exclusao_lista": "`Liste` und verknüpfte `Aufgaben` erfolgreich gelöscht!",
+                "exclusao_tarefa_cancelada": "Die `Aufgaben` wurde nicht gelöscht.",
+                "exclusao_tarefa": "Die `Aufgabe` wurde erfolgreich gelöscht!",
+                "tarefa_inexistente": "Diese `Aufgabe` existiert nicht mehr!\nBitte verwenden Sie den Befehl erneut mit einer anderen Aufgabe.",
+                "lista_inexistente": "Diese `Liste` existiert nicht mehr!\nBitte verwenden Sie den Befehl erneut mit einer anderen Liste."
             }
         },
         "menu": {
