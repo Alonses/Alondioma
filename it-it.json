@@ -528,7 +528,14 @@
                 "auto_ban_banido": "AutoBan ha bannato l'utente segnalato!",
                 "auto_ban_permissao": "AutoBan è attivo su questo server, ma non ho il permesso `Ban Members.`\nL'utente non è stato bannato.",
                 "auto_ban_nao_encontrado": "L'utente è stato segnalato, ma non è sul server per consentirci di bannarlo!",
-                "novo_reporte": "Nuovo rapporto"
+                "novo_reporte": "Nuovo rapporto",
+                "reporte_registrado": "Segnalato dall'utente",
+                "historico": "Questo utente è stato segnalato in precedenza su altri server!",
+                "reportes_externos": "> Rapporti esterni",
+                "status": "Stato",
+                "aviso_de_entradas": "Avviso di ingresso",
+                "canal_de_avisos": "Canale di avviso",
+                "funcionamento_reportes": "```🧻 Come funzionano i report\n\nI report esterni vengono registrati dai moderatori di qualsiasi server su cui è ospitato Alonsal. Un moderatore, quando registra un rapporto tramite /report create, può condividere questa aggiunta con altri server!\n\nDurante la condivisione, Alonsal invierà una notifica di questa aggiunta nel canale specificato di seguito.```"
             },
             "xp": {
                 "permissao_1": "Non puoi gestire i membri di questo server",
@@ -631,7 +638,12 @@
                 "silenciado": "Sei stato disattivato sul server `auto_repl` a causa di diversi messaggi considerati spam\nI messaggi considerati spam sono i seguenti:",
                 "aviso_links": "Il tuo account potrebbe essere nelle mani di altre persone, se vedi questo messaggio, controlla le tue impostazioni di sicurezza modificando la password, abilitando le verifiche in due passaggi e disconnettendo il tuo account da dispositivi sconosciuti per non perdere l'accesso al tuo account.",
                 "falta_permissoes_1": "Impossibile bloccare lo spam dall'utente auto_repl a causa della mancanza di autorizzazioni bot.\nI messaggi inviati considerati spam sono i seguenti.",
-                "falta_permissoes_2": "Impossibile disabilitare l'utente auto_repl a causa della mancanza di autorizzazioni @here\nAssicurati di avere l'autorizzazione `Punisci membri` e che il mio ruolo sia sopra gli altri ruoli nell'elenco dei ruoli per evitare spam da utenti di livello inferiore ."
+                "falta_permissoes_2": "Impossibile disabilitare l'utente auto_repl a causa della mancanza di autorizzazioni @here\nAssicurati di avere l'autorizzazione `Punisci membri` e che il mio ruolo sia sopra gli altri ruoli nell'elenco dei ruoli per evitare spam da utenti di livello inferiore.",
+                "strikes": "📜 Strikes",
+                "punicoes_niveis": "Punizioni per livelli",
+                "strikes_ativo": "\n\nIl sistema di strike è attivo su questo server! Gli utenti ricorrenti di anti-spam verranno puniti nell'ordine descritto di seguito.\n\n1° evento -> 2 ore\n2° evento -> 6 ore\n3° evento -> 2 giorni\n4° evento -> 7 giorni\n5° evento -> Espulsione",
+                "strikes_desativado": "```🔇 Il sistema di strike è disattivato su questo server!\n\nAttivatelo per poter definire punizioni con tempi che aumentano in base al numero di infrazioni che i promotori di spam compiono sul server!```\n",
+                "tempo_minimo": "Tempo minimo"
             }
         },
         "util": {
@@ -1009,7 +1021,8 @@
                 "remover_sobre": "Rimuovere il circa",
                 "comando_desatualizado": "Questo comando non è aggiornato! Si prega di utilizzare di nuovo lo stesso.",
                 "central_exclusao": "cancellazione dei dati",
-                "ouvir_tambem": "Ascolta anche"
+                "ouvir_tambem": "Ascolta anche",
+                "atualizar": "Aggiornare"
             },
             "menus": {
                 "selecionar_operacao": "Selezionare l'operazione desiderata di seguito",

@@ -531,7 +531,14 @@
                 "auto_ban_banido": "AutoBan a banni l'utilisateur signalé!",
                 "auto_ban_permissao": "AutoBan est actif sur ce serveur, mais je n'ai pas les autorisations `Interdire des membres.`\nL'utilisateur n'a pas été banni.",
                 "auto_ban_nao_encontrado": "L'utilisateur a été signalé, mais n'est pas sur le serveur pour que nous le bannions!",
-                "novo_reporte": "Nouveau rapport"
+                "novo_reporte": "Nouveau rapport",
+                "reporte_registrado": "Utilisateur signalé",
+                "historico": "Cet utilisateur a déjà été signalé sur d'autres serveurs!",
+                "reportes_externos": "> Rapports externes",
+                "status": "Statut",
+                "aviso_de_entradas": "Entrées signalées",
+                "canal_de_avisos": "Canal de notification",
+                "funcionamento_reportes": "```🧻 Comment fonctionnent les rapports\n\nLes rapports externes sont enregistrés par les modérateurs de tout serveur sur lequel Alonsal se trouve. Un modérateur, lors de l'enregistrement d'un rapport via /report create, peut partager cet ajout avec d'autres serveurs !\n\nLors du partage, Alonsal enverra une notification de cet ajout dans le canal spécifié ci-dessous.```"
             },
             "xp": {
                 "permissao_1": "Vous ne pouvez pas gérer les membres de ce serveur",
@@ -634,7 +641,13 @@
                 "silenciado": "Vous avez été mis en sourdine sur le serveur `auto_repl` en raison de plusieurs messages considérés comme du spam.\nLes messages considérés comme du spam sont les suivants:",
                 "aviso_links": "Votre compte est peut-être entre les mains d'autres personnes. Si vous voyez ce message, vérifiez vos paramètres de sécurité en modifiant votre mot de passe, en activant les vérifications en deux étapes et en déconnectant votre compte des appareils inconnus afin de ne pas perdre l'accès au compte.",
                 "falta_permissoes_1": "Impossible d'empêcher le spam de l'utilisateur auto_repl en raison du manque d'autorisations du robot.\nLes messages envoyés considérés comme du spam sont les suivants.",
-                "falta_permissoes_2": "Impossible de désactiver l'utilisateur auto_repl en raison du manque d'autorisations @here\nAssurez-vous que j'ai l'autorisation `Punir les membres` et que mon rôle est supérieur aux autres rôles dans la liste des rôles afin d'éviter le spam des utilisateurs en dessous du niveau."
+                "falta_permissoes_2": "Impossible de désactiver l'utilisateur auto_repl en raison du manque d'autorisations @here\nAssurez-vous que j'ai l'autorisation `Punir les membres` et que mon rôle est supérieur aux autres rôles dans la liste des rôles afin d'éviter le spam des utilisateurs en dessous du niveau.",
+                "strikes": "📜 Strikes",
+                "punicoes_niveis": "Punitions par niveaux",
+                "strikes_ativo": "\n\nLe système de strike est actif sur ce serveur ! Les utilisateurs répétés de l'anti-spam seront punis dans l'ordre décrit ci-dessous.\n\n1ère occurrence -> 2 heures\n2ème occurrence -> 6 heures\n3ème occurrence -> 2 jours\n4ème occurrence -> 7 jours \n5ème occurrence -> Expulsion",
+                "strikes_desativado": "```🔇 Le système de strike est désactivé sur ce serveur !\n\nActivez-le pour pouvoir fixer des sanctions avec des délais qui augmentent en fonction du nombre d'infractions commises par les spammeurs sur le serveur !```\n",
+                "tempo": "Temps",
+                "tempo_minimo": "Temps minimum"
             }
         },
         "util": {
@@ -1012,7 +1025,8 @@
                 "comando_desatualizado": "Cette commande est obsolète! Veuillez réutiliser le même.",
                 "central_exclusao": "Suppression de données",
                 "telemetria": "Télémétrie",
-                "ouvir_tambem": "Ecoutez aussi"
+                "ouvir_tambem": "Ecoutez aussi",
+                "atualizar": "Mettre à jour"
             },
             "menus": {
                 "selecionar_operacao": "Sélectionnez l'opération souhaitée ci-dessous",

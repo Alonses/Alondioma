@@ -533,7 +533,13 @@
                 "auto_ban_banido": "AutoBan has banned the reported user!",
                 "auto_ban_permissao": "AutoBan is active on this server, but I don't have 'ban members' permissions.\nThe user was not banned.",
                 "auto_ban_nao_encontrado": "The user has been reported but is not on the server for us to ban!",
-                "novo_reporte": "New report"
+                "novo_reporte": "New report",
+                "reporte_registrado": "User reported",
+                "historico": "This user has already received reports on other servers previously!",
+                "reportes_externos": "> External reports",
+                "aviso_de_entradas": "Entry notice",
+                "canal_de_avisos": "Warning channel",
+                "funcionamento_reportes": "```🧻 How reports work\n\nExternal reports are registered by moderators of any server where Alonsal is located, a moderator, when registering a report through /report create, can share this addition with other servers!\n\nWhen sharing, Alonsal will send a notification about this addition in the channel specified below.```"
             },
             "xp": {
                 "permissao_1": "You cannot manage members of this server",
@@ -636,7 +642,13 @@
                 "silenciado": "You have been muted on the `auto_repl` server due to several messages considered as spam\nThe messages that were considered as spam are as follows:",
                 "aviso_links": "Your account may be in the hands of other people, if you see this message, check your security settings by changing your password, enabling 2-step verifications and disconnecting your account from unknown devices so you don't lose access to the account.",
                 "falta_permissoes_1": "Unable to stop spam from user auto_repl due to lack of bot permissions.\nThe messages sent considered spam are as follows.",
-                "falta_permissoes_2": "Unable to mute user auto_repl due to lack of permissions @here\nMake sure I have the `Members of Punishment` permission and that my role is above the other roles in the role list so I can avoid user spam below of the level."
+                "falta_permissoes_2": "Unable to mute user auto_repl due to lack of permissions @here\nMake sure I have the `Members of Punishment` permission and that my role is above the other roles in the role list so I can avoid user spam below of the level.",
+                "strikes": "📜 Strikes",
+                "punicoes_niveis": "Punishments by levels",
+                "strikes_ativo": "\n\nThe strike system is active on this server! Recurrent anti-spam users will be punished in the order described below.\n\n1st Occurrence -> 2 hours\n2nd Occurrence -> 6 hours\n3rd Occurrence -> 2 days\n4th Occurrence -> 7 days\n5th Occurrence -> Expulsion",
+                "strikes_desativado": "```🔇 The strike system is deactivated on this server!\n\nActivate it to be able to define punishments with times that increase according to the number of infractions that spam promoters carry out on the server!```\n",
+                "tempo": "Time",
+                "tempo_minimo": "Minimum time"
             }
         },
         "util": {
@@ -1014,7 +1026,8 @@
                 "comando_desatualizado": "This command is out of date! Please use the same again.",
                 "central_exclusao": "Exclusion center",
                 "telemetria": "Telemetry",
-                "ouvir_tambem": "Also listen"
+                "ouvir_tambem": "Also listen",
+                "atualizar": "To update"
             },
             "menus": {
                 "selecionar_operacao": "Select the desired operation below",

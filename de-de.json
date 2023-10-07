@@ -532,7 +532,13 @@
                 "auto_ban_banido": "AutoBan hat den gemeldeten Benutzer gesperrt!",
                 "auto_ban_permissao": "AutoBan ist auf diesem Server aktiv, aber ich habe keine Berechtigung, Mitglieder zu sperren.\nDer Benutzer wurde nicht gesperrt.",
                 "auto_ban_nao_encontrado": "Der Benutzer wurde gemeldet, ist aber nicht auf dem Server, daher können wir ihn nicht sperren!",
-                "novo_reporte": "Neuer Bericht"
+                "novo_reporte": "Neuer Bericht",
+                "reporte_registrado": "Benutzer gemeldet",
+                "historico": "Dieser Benutzer wurde bereits auf anderen Servern gemeldet!",
+                "reportes_externos": "> Externe Berichte",
+                "aviso_de_entradas": "Gemeldete Einträge",
+                "canal_de_avisos": "Warnkanal",
+                "funcionamento_reportes": "```🧻 So funktionieren Berichte\n\nExterne Berichte werden von den Moderatoren aller Server aufgezeichnet, auf denen Alonsal präsent ist. Ein Moderator kann diesen Zusatz mit anderen Servern teilen, indem er über /report einen Bericht erstellt! Im Falle einer Genehmigung sendet Alonsal eine Benachrichtigung über diese Ergänzung im untenstehenden Kanal.```"
             },
             "xp": {
                 "permissao_1": "Sie können keine Mitglieder dieses Servers verwalten",
@@ -634,7 +640,13 @@
                 "silenciado": "Wenn Sie den Server `auto_repl` stummgeschaltet haben, werden Ihnen verschiedene Meldungen angezeigt, die als Spam angesehen werden.",
                 "aviso_links": "Ihr Konto befindet sich möglicherweise in den Händen anderer Personen. Wenn Sie diese Meldung sehen, überprüfen Sie Ihre Sicherheitseinstellungen, ändern Sie Ihr Passwort, aktivieren Sie die Bestätigung in zwei Schritten und trennen Sie Ihr Konto von unbekannten Geräten, damit Sie den Zugriff auf Ihr Konto nicht verlieren.",
                 "falta_permissoes_1": "Aufgrund fehlender Bot-Berechtigungen konnte Spam für den Benutzer auto_repl nicht gestoppt werden.\nDie folgenden gesendeten Nachrichten gelten als Spam.",
-                "falta_permissoes_2": "Der Benutzer „auto_repl“ kann aufgrund fehlender Berechtigungen nicht stummgeschaltet werden. @here\nBitte stellen Sie sicher, dass ich über die Berechtigung „Mitglieder“ verfüge und dass meine Rolle über den anderen Rollen in der Rollenliste steht, damit ich Spam von Benutzern unterhalb dieser Ebene vermeiden kann."
+                "falta_permissoes_2": "Der Benutzer „auto_repl“ kann aufgrund fehlender Berechtigungen nicht stummgeschaltet werden. @here\nBitte stellen Sie sicher, dass ich über die Berechtigung „Mitglieder“ verfüge und dass meine Rolle über den anderen Rollen in der Rollenliste steht, damit ich Spam von Benutzern unterhalb dieser Ebene vermeiden kann.",
+                "strikes": "📜 Strikes",
+                "punicoes_niveis": "Strafen pro Level",
+                "strikes_ativo": "\n\nDas Strike-System ist auf diesem Server aktiv! Wiederholte Anti-Spam-Benutzer werden in der unten beschriebenen Reihenfolge bestraft.\n\n1. Vorkommen -> 2 Stunden\n2. Vorkommen -> 6 Stunden\n3. Vorkommen -> 2 Tage\n4. Vorkommen -> 7 Tage\n5. Vorkommen -> Löschen",
+                "strikes_desativado": "```🔇 Das Strike-System ist auf diesem Server deaktiviert!\n\nAktivieren Sie es, um Strafen mit Zeiten festzulegen, die entsprechend der Anzahl der Verstöße, die Spam-Promoter auf dem Server begehen, ansteigen!```\n",
+                "tempo": "Zeit",
+                "tempo_minimo": "Mindestzeit"
             }
         },
         "util": {
@@ -1012,7 +1024,8 @@
                 "comando_desatualizado": "Dieser Befehl ist veraltet! Bitte verwenden Sie dasselbe noch einmal.",
                 "central_exclusao": "Daten löschen",
                 "telemetria": "Telemetrie",
-                "ouvir_tambem": "Hören Sie auch zu"
+                "ouvir_tambem": "Hören Sie auch zu",
+                "atualizar": "Aktualisieren"
             },
             "menus": {
                 "selecionar_operacao": "Wählen Sie unten den gewünschten Vorgang aus",

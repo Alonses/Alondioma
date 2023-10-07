@@ -536,7 +536,14 @@
                 "auto_ban_banido": "O AutoBan baniu o usuário reportado!",
                 "auto_ban_permissao": "O AutoBan está ativo neste servidor, porém eu não possuo permissões para `Banir membros.`\nO usuário não foi banido.",
                 "auto_ban_nao_encontrado": "O usuário foi reportado porém ele não se encontra no servidor para banirmos!",
-                "novo_reporte": "Novo reporte"
+                "novo_reporte": "Novo reporte",
+                "reporte_registrado": "Usuário reportado",
+                "historico": "Este usuário foi reportado em outros servidores anteriomente!",
+                "reportes_externos": "> Reportes externos",
+                "status": "Status",
+                "aviso_de_entradas": "Aviso de entradas",
+                "canal_de_avisos": "Canal de avisos",
+                "funcionamento_reportes": "```🧻 Funcionamento dos reportes\n\nOs reportes externos são registrados por moderadores de qualquer servidor onde o Alonsal estiver, um moderador ao registrar um reporte por meio do /report create, poderá compartilhar essa adição com outros servidores!\n\nAo compartilhar, o Alonsal irá enviar uma notificação sobre essa adição no canal especificado abaixo.```"
             },
             "xp": {
                 "permissao": "Você não pode gerenciar os membros deste servidor",
@@ -641,7 +648,13 @@
                 "silenciado": "Você foi silenciado no servidor `auto_repl` devido a várias mensagens consideradas como spam\nAs mensagens que foram consideradas como spam são as seguintes:",
                 "aviso_links": "Sua conta pode estar nas mãos de outras pessoas, caso veja esta mensagem, verifique suas configurações de segurança, alterando sua senha, ativando verificações em 2 etapas e desconectando sua conta de aparelhos desconhecidos para que não perca o acesso a conta.",
                 "falta_permissoes_1": "Não foi possível interromper um spam do usuário auto_repl por falta de permissões do bot.\nAs mensagens enviadas consideradas spam são as seguintes.",
-                "falta_permissoes_2": "Não foi possível silenciar o usuário auto_repl devido a falta de permissões @here\nGaranta que eu tenha a permissão `Membros de castigo` e que meu cargo esteja acima dos demais cargos na lista de cargos, para que eu possa previnir spam's de usuários abaixo do nível."
+                "falta_permissoes_2": "Não foi possível silenciar o usuário auto_repl devido a falta de permissões @here\nGaranta que eu tenha a permissão `Membros de castigo` e que meu cargo esteja acima dos demais cargos na lista de cargos, para que eu possa previnir spam's de usuários abaixo do nível.",
+                "strikes": "📜 Strikes",
+                "punicoes_niveis": "Punições por níveis",
+                "strikes_ativo": "\n\nO sistema de strikes está ativo neste servidor! Usuários recorrentes do anti-spam serão castigados na ordem descrita abaixo.\n\n1° Ocorrência -> 2 horas\n2° Ocorrência -> 6 horas\n3° Ocorrência -> 2 dias\n4° Ocorrência -> 7 dias\n5° Ocorrência -> Expulsão",
+                "strikes_desativado": "```🔇 O sistema de strikes está desativado neste servidor!\n\nAtive ele para poder definir punições com tempos que se incrementam de acordo com a quantidade de infrações que promovedores de spam realizam no servidor!```\n",
+                "tempo": "Tempo",
+                "tempo_minimo": "Tempo mínimo"
             }
         },
         "util": {
@@ -994,7 +1007,8 @@
                 "comando_desatualizado": "Este comando está desatualizado! Por favor, use o mesmo novamente.",
                 "central_exclusao": "Central de exclusão",
                 "telemetria": "Telemetria",
-                "ouvir_tambem": "Ouvir também"
+                "ouvir_tambem": "Ouvir também",
+                "atualizar": "Atualizar"
             },
             "menus": {
                 "selecionar_operacao": "Selecione a operação desejada abaixo",
