@@ -427,7 +427,7 @@
                 "desc_reports": "Les rapports d'utilisateurs qui se conduisent mal seront envoyés sur le serveur.",
                 "desc_logger": "Journal des événements du serveur.",
                 "desc_spam": "Les messages considérés comme spam seront supprimés et l'auteur sera puni..",
-                "desc_global": "`Le nom du serveur sera affiché dans la commande`\n</rank global:1018609879562334383>",
+                "desc_global": "`Le nom du serveur sera affiché dans la commande`\n</rank:1018609879562334383> ( `🌐 Global` )",
                 "desc_misterioso": "Une cire mystère sera bientôt incluse ici",
                 "desc_autoban": "Bannir automatiquement un utilisateur signalé et supprimer ses messages."
             }

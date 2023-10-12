@@ -425,7 +425,7 @@
                 "desc_reports": "I rapporti sugli utenti che si comportano male verranno inviati al server.",
                 "desc_logger": "Registro eventi del server.",
                 "desc_spam": "I messaggi considerati spam verranno eliminati e l'autore verrà punito..",
-                "desc_global": "`Il nome del server verrà visualizzato nel comando`\n</rank global:1018609879562334383>",
+                "desc_global": "`Il nome del server verrà visualizzato nel comando`\n</rank:1018609879562334383> ( `🌐 Global` )",
                 "desc_misterioso": "Una cera misteriosa sarà presto inclusa qui",
                 "desc_autoban": "Banna automaticamente un utente segnalato ed elimina i suoi post."
             }

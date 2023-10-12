@@ -44,7 +44,8 @@
                 "footer": "Seus embeds irão aparecer assim e ao verem seu perfil com o Alonsal",
                 "rand_color": "Suas cores serão aleatórias a cada comando",
                 "cor_att": "Cor atualizada! Agora seus embeds serão na cor selecionada",
-                "sem_money": "Você não possui `B$ auto_repl` Bufunfas suficientes para essa cor!"
+                "sem_money": "Você não possui `B$ auto_repl` Bufunfas suficientes para essa cor!",
+                "preco": "Preço"
             },
             "pay": {
                 "error": "Você não possui `B$ auto_repl` Bufunfas para transferir!",
@@ -429,7 +430,7 @@
                 "desc_reports": "Reportes de usuários mau comportados serão enviados no servidor.",
                 "desc_logger": "Log de eventos do servidor.",
                 "desc_spam": "Mensagens que forem consideradas spam serão apagadas e o autor será castigado.",
-                "desc_global": "`O Nome do servidor será exibido no comando`\n</rank global:1018609879562334383>",
+                "desc_global": "`O Nome do servidor será exibido no comando`\n</rank:1018609879562334383> ( `🌐 Global` )",
                 "desc_misterioso": "Uma ceira misteriosa será inclusa aqui em breve",
                 "desc_autoban": "Bane o usuário reportado automaticamente, excluíndo várias mensagens do mesmo."
             }
@@ -1008,7 +1009,8 @@
                 "central_exclusao": "Central de exclusão",
                 "telemetria": "Telemetria",
                 "ouvir_tambem": "Ouvir também",
-                "atualizar": "Atualizar"
+                "atualizar": "Atualizar",
+                "escolher_cor": "Escolher outra cor"
             },
             "menus": {
                 "selecionar_operacao": "Selecione a operação desejada abaixo",

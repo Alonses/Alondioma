@@ -428,7 +428,7 @@
                 "desc_reports": "Reports of misbehaving users will be sent on the server.",
                 "desc_logger": "Server event log.",
                 "desc_spam": "Messages considered spam will be deleted and the author will be punished.",
-                "desc_global": "`The server name will be displayed in the command`\n</rank global:1018609879562334383>",
+                "desc_global": "`The server name will be displayed in the command`\n</rank:1018609879562334383> ( `🌐 Global` )",
                 "desc_misterioso": "A mystery wax will be included here soon",
                 "desc_autoban": "Automatically ban a reported user and delete their posts."
             }

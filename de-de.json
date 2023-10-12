@@ -427,7 +427,7 @@
                 "desc_reports": "Berichte über sich schlecht benehmende Benutzer werden an den Server gesendet.",
                 "desc_logger": "Server-Ereignisprotokoll.",
                 "desc_spam": "Als Spam eingestufte Nachrichten werden gelöscht und der Autor wird bestraft.",
-                "desc_global": "`Der Servername wird im Befehl angezeigt`\n</rank global:1018609879562334383>",
+                "desc_global": "`Der Servername wird im Befehl angezeigt`\n</rank:1018609879562334383> ( `🌐 Global` )",
                 "desc_misterioso": "In Kürze wird hier auch ein Mystery-Wachs enthalten sein",
                 "desc_autoban": "Einen gemeldeten Benutzer automatisch sperren und seine Beiträge löschen."
             }
