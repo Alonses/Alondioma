@@ -1035,7 +1035,11 @@
                 "message_edit": "Edição de mensagens",
                 "message_delete": "Exclusão de mensagens",
                 "member_image": "Atualização de avatar",
-                "member_role": "Atualização de cargos"
+                "member_role": "Atualização de cargos",
+                "member_join": "Entrada de membros",
+                "member_left": "Saída de membros",
+                "channel_created": "Criação de canal",
+                "channel_delete": "Exclusão de canal"
             },
             "status": {
                 "ativado": "Ativado",
