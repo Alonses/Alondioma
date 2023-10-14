@@ -636,7 +636,8 @@
                 "auto_exclusao": "<@auto_repl> excluiu uma [mensagem](auto_repl)",
                 "mode_exclusao": "Uma [mensagem](auto_repl) de <@auto_repl> foi excluída",
                 "sem_texto": "Sem texto incluso",
-                "conteudo_excluido": "Conteúdo excluído"
+                "conteudo_excluido": "Conteúdo excluído",
+                "eventos_ouvidos": "Eventos ouvidos"
             },
             "spam": {
                 "titulo": "> Prevenção de Spam",
@@ -796,6 +797,7 @@
                 "dono": "Dono",
                 "canais": "Canais",
                 "categorias": "Categorias",
+                "categoria": "Categoria",
                 "texto": "Texto",
                 "voz": "Voz",
                 "atual": "Atual",
@@ -987,6 +989,7 @@
                 "resumido": "Resumido",
                 "solicitar": "Solicitar",
                 "ativar_anunciando": "Ativar e anunciar",
+                "anunciar_agora": "Anunciar agora",
                 "definir_retorno": "Definir retorno",
                 "marcar_concluida": "Marcar como concluída",
                 "alterar_de_lista": "Alterar de lista",
@@ -1017,7 +1020,26 @@
                 "criador_menu": "Parado aí! Esse menu só pode ser usado pelo autor do comando!",
                 "criador_botoes": "Parado aí! Esses botões só podem ser usados pelo autor do comando!",
                 "escolha_mais_detalhes": "Escolha para ver mais informações",
-                "escolher_frase": "Escolha uma das frases abaixo!"
+                "escolher_frase": "Escolha uma das frases abaixo!",
+                "selecionar_profile": "Selecione um abaixo para começar",
+                "escolher_timeout": "Defina o tempo padrão de mute!",
+                "escolher_cor": "Escolha uma cor!",
+                "escolher_canal": "Escolha um canal de avisos!",
+                "escolher_categoria": "Escolha uma categoria!",
+                "escolher_cargo": "Escolha um cargo!",
+                "escolher_idioma": "Escolha um idioma!",
+                "escolher_eventos": "Escolha os eventos!",
+                "escolher_usuario": "Escolha um usuário!"
+            },
+            "events": {
+                "message_edit": "Edição de mensagens",
+                "message_delete": "Exclusão de mensagens",
+                "member_image": "Atualização de avatar",
+                "member_role": "Atualização de cargos"
+            },
+            "status": {
+                "ativado": "Ativado",
+                "desativado": "Desativado"
             }
         },
         "modu": {
