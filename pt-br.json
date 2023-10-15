@@ -622,6 +622,14 @@
                 "entrada_original": "Entrada original",
                 "membro_saiu": "> Um membro saiu!",
                 "cargo_atualizado": "> Cargo atualizado",
+                "membro_banido": "> Membro banido",
+                "membro_banido_desc": "Um membro foi banido!",
+                "membro_desbanido": "> Membro desbanido",
+                "membro_desbanido_desc": "Um membro foi desbanido!",
+                "titulo_canal_excluido": "> Canal excluído",
+                "canal_excluido_desc": "Um canal foi excluído!",
+                "canal_criado": "> Canal criado",
+                "canal_criado_desc": "Um novo canal foi criado!",
                 "permissoes_apos": "Permissões após a alteração",
                 "cargo_adicionado": "Adicionado",
                 "cargo_removido": "Removido",
@@ -637,7 +645,11 @@
                 "mode_exclusao": "Uma [mensagem](auto_repl) de <@auto_repl> foi excluída",
                 "sem_texto": "Sem texto incluso",
                 "conteudo_excluido": "Conteúdo excluído",
-                "eventos_ouvidos": "Eventos ouvidos"
+                "eventos_ouvidos": "Eventos ouvidos",
+                "motivo_ban": "Motivo do banimento",
+                "sem_motivo": "Sem motivo informado",
+                "canal_tipo_desconhecido": "Tipo de canal desconhecido",
+                "sem_categoria": "Não definido"
             },
             "spam": {
                 "titulo": "> Prevenção de Spam",
@@ -1039,7 +1051,9 @@
                 "member_join": "Entrada de membros",
                 "member_left": "Saída de membros",
                 "channel_created": "Criação de canal",
-                "channel_delete": "Exclusão de canal"
+                "channel_delete": "Exclusão de canal",
+                "member_ban_add": "Banimento de membros",
+                "member_ban_remove": "Desbanimento de membros"
             },
             "status": {
                 "ativado": "Ativado",
