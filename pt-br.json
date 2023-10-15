@@ -1055,6 +1055,17 @@
                 "member_ban_add": "Banimento de membros",
                 "member_ban_remove": "Desbanimento de membros"
             },
+            "channels": {
+                "0": "Canal de texto",
+                "2": "Canal de voz",
+                "4": "Categoria",
+                "5": "Canal de anúncios",
+                "10": "Tópico de um canal de anúncios",
+                "11": "Tópico público",
+                "12": "Tópico privado",
+                "13": "Palco do servidor",
+                "15": "Fórum"
+            },
             "status": {
                 "ativado": "Ativado",
                 "desativado": "Desativado"
