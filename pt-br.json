@@ -526,6 +526,7 @@
                 "usuario_bot": "Você não pode reportar outros bots!",
                 "sem_usuarios": "Nenhum usuário foi adicionado, pois não possuem justificativa de banimento ou não há banimentos no servidor.",
                 "sem_reportes_guild": "Não há usuários que foram denúnciados externamente presentes neste servidor!",
+                "com_reportes_guild": "Há usuários reportados presentes no servidor!",
                 "identificador": "Identificador",
                 "id_invalido": "O ID informado é inválido!",
                 "rodape": "páginas, use /verify guild pagina:<num> para ver outras páginas",
@@ -544,7 +545,12 @@
                 "status": "Status",
                 "aviso_de_entradas": "Aviso de entradas",
                 "canal_de_avisos": "Canal de avisos",
-                "funcionamento_reportes": "```🧻 Funcionamento dos reportes\n\nOs reportes externos são registrados por moderadores de qualquer servidor onde o Alonsal estiver, um moderador ao registrar um reporte por meio do /report create, poderá compartilhar essa adição com outros servidores!\n\nAo compartilhar, o Alonsal irá enviar uma notificação sobre essa adição no canal especificado abaixo.```"
+                "funcionamento_reportes": "```🧻 Funcionamento dos reportes\n\nOs reportes externos são registrados por moderadores de qualquer servidor onde o Alonsal estiver, um moderador ao registrar um reporte por meio do /report create, poderá compartilhar essa adição com outros servidores!\n\nAo compartilhar, o Alonsal irá enviar uma notificação sobre essa adição no canal especificado abaixo.```",
+                "apelido_desconhecido": "Apelido desconhecido!",
+                "historico_usuario": "> Histórico do usuário",
+                "varias_paginas": "páginas, use os botões abaixo para gerenciar os membros reportados",
+                "uma_pagina": "1 página, use os botões abaixo para gerenciar os membros reportados",
+                "escolher_usuario": "Escolha um usuário abaixo para poder ver seu histórico"
             },
             "xp": {
                 "permissao": "Você não pode gerenciar os membros deste servidor",
@@ -1025,7 +1031,8 @@
                 "telemetria": "Telemetria",
                 "ouvir_tambem": "Ouvir também",
                 "atualizar": "Atualizar",
-                "escolher_cor": "Escolher outra cor"
+                "escolher_cor": "Escolher outra cor",
+                "remover_reporte": "Remover reporte"
             },
             "menus": {
                 "selecionar_operacao": "Selecione a operação desejada abaixo",
