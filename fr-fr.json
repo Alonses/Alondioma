@@ -43,7 +43,8 @@
                 "footer": "Vos intégrations apparaîtront comme ceci et quand ils verront votre profil avec Alonsal",
                 "rand_color": "Vos couleurs seront aléatoires à chaque commande",
                 "cor_att": "Couleur mise à jour! Maintenant, vos embeds seront dans la couleur sélectionnée",
-                "sem_money": "Vous n'avez pas `B$ auto_repl` Bufunfas pour cette couleur!"
+                "sem_money": "Vous n'avez pas `B$ auto_repl` Bufunfas pour cette couleur!",
+                "preco": "Prix"
             },
             "pay": {
                 "error": "Vous n'avez pas `B$ auto_repl` Bufunfas à transférer!",
@@ -429,7 +430,8 @@
                 "desc_spam": "Les messages considérés comme spam seront supprimés et l'auteur sera puni..",
                 "desc_global": "`Le nom du serveur sera affiché dans la commande`\n</rank:1018609879562334383> ( `🌐 Global` )",
                 "desc_misterioso": "Une cire mystère sera bientôt incluse ici",
-                "desc_autoban": "Bannir automatiquement un utilisateur signalé et supprimer ses messages."
+                "desc_autoban": "Bannir automatiquement un utilisateur signalé et supprimer ses messages.",
+                "desc_network": "Networking synchronise les actions de modération entre les serveurs d'un groupe."
             }
         },
         "mode": {
@@ -540,6 +542,24 @@
                 "canal_de_avisos": "Canal de notification",
                 "funcionamento_reportes": "```🧻 Comment fonctionnent les rapports\n\nLes rapports externes sont enregistrés par les modérateurs de tout serveur sur lequel Alonsal se trouve. Un modérateur, lors de l'enregistrement d'un rapport via /report create, peut partager cet ajout avec d'autres serveurs !\n\nLors du partage, Alonsal enverra une notification de cet ajout dans le canal spécifié ci-dessous.```"
             },
+            "network": {
+                "descricao": "```🧻 Comment fonctionne le Networking\n\nLe networking du serveur communique les événements modérateurs de ce serveur avec d'autres serveurs externes, lorsqu'un utilisateur est puni ici et que d'autres serveurs font partie du même network que ce serveur, et sont avec la ressource active, l'utilisateur y sera également puni !```",
+                "servidores": "Serveurs",
+                "eventos_sincronizados": "Événements synchronisés",
+                "permissoes_no_servidor": "Autorisations sur ce serveur",
+                "registro_auditoria": "Journal d'audit",
+                "castigar_membros": "Punir les membres",
+                "banir_membros": "Interdire les membres",
+                "expulsar_membros": "Expulser des membres",
+                "quebrar_vinculo": "Rompre le lien",
+                "sem_servidores": "Vous n'êtes pas modérateur sur d'autres serveurs, vous devez être modérateur sur un autre serveur pour avoir accès à cet onglet!",
+                "selecionar_servidores": "Sélectionnez les serveurs à lier à ceci",
+                "banido_por": "Banni par auto_repl dans auto_repl",
+                "ban_removido": "Interdiction supprimée par auto_repl dans auto_repl",
+                "expulso_por": "Expulsé par auto_repl dans auto_repl",
+                "castigado_por": "Puni pour auto_repl dans auto_repl",
+                "motivo": ", Raison:"
+            },
             "xp": {
                 "permissao_1": "Vous ne pouvez pas gérer les membres de ce serveur",
                 "sucesso": "L'expérience pour `auto_repl` a été changée en `auto_repl exp`, son nouveau niveau est `auto_repl`",
@@ -604,6 +624,7 @@
                 "ativado": "Le journal des événements du serveur est maintenant actif, tous les événements seront envoyés sur le canal auto_repl",
                 "desativado": "La journalisation des événements du serveur est désormais désactivée\nUtilisez </panel guild:1107163338930126869> ou la commande </conf guild:1094346210636214304> en mentionnant un canal à réactiver!",
                 "falta_vinculo": "Un canal doit être configuré avec la commande </conf guild:1094346210636214304> avant de pouvoir être activé via le panneau.",
+                "permissao": "Je n'ai pas l'autorisation de `Afficher le journal d'audit`. J'ai besoin de cette autorisation pour fournir des détails plus précis sur les événements du journal.",
                 "falta_escrita_visualizacao": "Je ne peux pas voir ni envoyer de messages sur cette chaîne! Veuillez vérifier mes autorisations afin que je puisse activer la journalisation des événements pour cette chaîne.",
                 "mencao_canal": "Vous n'avez mentionné aucune chaîne et je n'ai aucun canal en cache!\nVeuillez utiliser à nouveau la commande en mentionnant la chaîne.",
                 "canal_excluido": "Le canal mis en cache n'existe plus!\nUtilisez à nouveau la commande et spécifiez un canal valide pour voir les retours automatiques.",
@@ -614,6 +635,16 @@
                 "entrada_original": "Entrée originale",
                 "membro_saiu": "> Un membre est parti!",
                 "cargo_atualizado": "> Rôle mis à jour",
+                "membro_banido": "> Membre banni",
+                "membro_banido_desc": "Un membre a été banni!",
+                "membro_desbanido": "> Membre débloqué",
+                "membro_desbanido_desc": "Un membre a été débanni!",
+                "membro_expulso": "> Membre expulsé",
+                "membro_expulso_desc": "Un membre a été expulsé!",
+                "titulo_canal_excluido": "> Chaîne supprimée",
+                "canal_excluido_desc": "Une chaîne a été supprimée!",
+                "canal_criado": "> Chaîne créée",
+                "canal_criado_desc": "Une nouvelle chaîne a été créée!",
                 "permissoes_apos": "Autorisations après changement",
                 "cargo_adicionado": "Ajoutée",
                 "cargo_removido": "Supprimé",
@@ -628,7 +659,12 @@
                 "auto_exclusao": "<@auto_repl> supprimé un [message](auto_repl)",
                 "mode_exclusao": "Un [message](auto_repl) de <@auto_repl> a été supprimé",
                 "sem_texto": "Aucun texte inclus",
-                "conteudo_excluido": "Contenu supprimé"
+                "conteudo_excluido": "Contenu supprimé",
+                "eventos_ouvidos": "Événements entendus",
+                "motivo_ban": "Raison de l'interdiction",
+                "sem_motivo": "Aucune raison donnée",
+                "canal_tipo_desconhecido": "Type de canal inconnu",
+                "sem_categoria": "Indéfini"
             },
             "spam": {
                 "titulo": "> Prévention du spam",
@@ -813,9 +849,11 @@
             "server": {
                 "id_server": "Identifiant du serveur",
                 "membros": "Membres",
+                "membro": "Membre",
                 "dono": "Propriétaire",
                 "canais": "Canaux",
                 "categorias": "Catégories",
+                "categoria": "Catégorie",
                 "texto": "Texte",
                 "voz": "Voix",
                 "atual": "Courant",
@@ -836,7 +874,8 @@
                 "conta_criada": "Compte créé",
                 "alonsal": "Regarde moi là!",
                 "enceirado": "éternellement ciré",
-                "moderador": "Ce membre est administrateur sur ce serveur"
+                "moderador": "Ce membre est administrateur sur ce serveur",
+                "bot": "C'est un robot!"
             },
             "unidades": {
                 "anos": " ans",
@@ -1004,6 +1043,9 @@
                 "ativar": "Activer",
                 "completo": "Complet",
                 "resumido": "Résumé",
+                "solicitar": "Request",
+                "ativar_anunciando": "Activate and announce",
+                "anunciar_agora": "Annoncez maintenant",
                 "definir_retorno": "Définir le retour",
                 "marcar_concluida": "Marque comme Terminé",
                 "alterar_de_lista": "Changer de groupe",
@@ -1026,14 +1068,55 @@
                 "central_exclusao": "Suppression de données",
                 "telemetria": "Télémétrie",
                 "ouvir_tambem": "Ecoutez aussi",
-                "atualizar": "Mettre à jour"
+                "atualizar": "Mettre à jour",
+                "escolher_cor": "Choisissez une autre couleur",
+                "remover_reporte": "Supprimer le rapport"
             },
             "menus": {
                 "selecionar_operacao": "Sélectionnez l'opération souhaitée ci-dessous",
                 "criador_menu": "Arrêtez là! Ce menu ne peut être utilisé que par l'auteur de la commande!",
                 "criador_botoes": "Arrête toi là! Ces boutons ne peuvent être utilisés que par l'auteur de la commande!",
                 "escolha_mais_detalhes": "Choisissez pour voir plus d'informations",
-                "escolher_frase": "Choisissez l'une des phrases ci-dessous!"
+                "escolher_frase": "Choisissez l'une des phrases ci-dessous!",
+                "selecionar_profile": "Sélectionnez-en un ci-dessous pour commencer",
+                "escolher_timeout": "Réglez le temps de sourdine par défaut!",
+                "escolher_cor": "Choisir une couleur!",
+                "escolher_canal": "Choisissez un canal d'annonce!",
+                "escolher_categoria": "Choisissez une catégorie!",
+                "escolher_cargo": "Choisissez un rôle!",
+                "escolher_idioma": "Choisissez une langue!",
+                "escolher_eventos": "Choisissez les événements!",
+                "escolher_usuario": "Choisissez un utilisateur!",
+                "escolher_guilds": "Choisissez les serveurs!"
+            },
+            "events": {
+                "message_edit": "Messages modifiés",
+                "message_delete": "Messages supprimés",
+                "member_image": "Mise à jour de l'avatar",
+                "member_role": "Mises à jour des rôles",
+                "member_join": "Entrée des membres",
+                "member_left": "Sortie des membres",
+                "channel_created": "Création de chaîne",
+                "channel_delete": "Suppression de chaîne",
+                "member_ban_add": "Interdiction de membre",
+                "member_ban_remove": "Déverrouillage des membres",
+                "member_punishment": "Punition des membres",
+                "member_kick": "Expulsion de membres"
+            },
+            "channels": {
+                "0": "Canal de texte",
+                "2": "Canal vocal",
+                "4": "Catégorie",
+                "5": "Canal publicitaire",
+                "10": "Sujet d'un canal publicitaire",
+                "11": "Sujet public",
+                "12": "Sujet privé",
+                "13": "Étape serveur",
+                "15": "Forum"
+            },
+            "status": {
+                "ativado": "Activé",
+                "desativado": "Désactivé"
             }
         }
     }

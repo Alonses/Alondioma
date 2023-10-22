@@ -29,7 +29,6 @@
                 "rodape_encerrado": "This poll has been closed! Thanks to everyone who participated!!",
                 "votacao_encerrada_1": "***This poll is now closed!***\n\nMany thanks to everyone who participated!\nWe received `auto_repl` votes while the poll was open!\nTo the participants, you now have the auto_repl `Voter` badge!",
                 "votacao_encerrada_2": "**With `auto_repl` votes, the language that received the most votes was auto_repl!!! auto_repl auto_repl**\nIt will be added fully to Alonsal in the coming days!\nUse the command </language:1018632996787589284> anytime to change yours!"
-
             }
         },
         "misc": {
@@ -44,7 +43,8 @@
                 "footer": "Your embeds will appear like this and when they see your profile with Alonsal",
                 "rand_color": "Your colors will be random with each command",
                 "cor_att": "Updated color! Now your embeds will be in the selected color",
-                "sem_money": "You don't have enough `B$ auto_repl` Bufunfas for this color!"
+                "sem_money": "You don't have enough `B$ auto_repl` Bufunfas for this color!",
+                "preco": "Price"
             },
             "pay": {
                 "error": "You don't have `B$ auto_repl` Bufunfas to transfer!",
@@ -430,7 +430,8 @@
                 "desc_spam": "Messages considered spam will be deleted and the author will be punished.",
                 "desc_global": "`The server name will be displayed in the command`\n</rank:1018609879562334383> ( `🌐 Global` )",
                 "desc_misterioso": "A mystery wax will be included here soon",
-                "desc_autoban": "Automatically ban a reported user and delete their posts."
+                "desc_autoban": "Automatically ban a reported user and delete their posts.",
+                "desc_network": "Networking synchronizes moderation actions between servers that are part of a group."
             }
         },
         "mode": {
@@ -541,6 +542,24 @@
                 "canal_de_avisos": "Warning channel",
                 "funcionamento_reportes": "```🧻 How reports work\n\nExternal reports are registered by moderators of any server where Alonsal is located, a moderator, when registering a report through /report create, can share this addition with other servers!\n\nWhen sharing, Alonsal will send a notification about this addition in the channel specified below.```"
             },
+            "network": {
+                "descricao": "```🧻 How the Network works\n\nThe server network communicates the moderating events of this server with other external servers, when a user is punished here and other servers are part of the same network as this server, and have the resource active, the user will be punished there too!```",
+                "servidores": "Servers",
+                "eventos_sincronizados": "Synchronized Events",
+                "permissoes_no_servidor": "Permissions on this server",
+                "registro_auditoria": "Audit log",
+                "castigar_membros": "Moderate members",
+                "banir_membros": "Ban members",
+                "expulsar_membros": "Kick members",
+                "quebrar_vinculo": "Break the link",
+                "sem_servidores": "You are not a moderator on other servers, you must be a moderator on another server to have access to this tab!",
+                "selecionar_servidores": "Select servers to link to this",
+                "banido_por": "Banned by auto_repl in auto_repl",
+                "ban_removido": "Ban removed by auto_repl in auto_repl",
+                "expulso_por": "Kicked out by auto_repl in auto_repl",
+                "castigado_por": "Punished by auto_repl in auto_repl",
+                "motivo": ", Reason:"
+            },
             "xp": {
                 "permissao_1": "You cannot manage members of this server",
                 "sucesso": "Experience for `auto_repl` has been changed to `auto_repl exp`, its new level is `auto_repl`",
@@ -605,6 +624,7 @@
                 "ativado": "Server event log is now active, all events will be sent on auto_repl channel",
                 "desativado": "Server event log is now disabled\nUse </panel guild:1107163338930126869>, or command </conf guild:1094346210636214304> mentioning a channel to enable again!",
                 "falta_vinculo": "It is necessary to configure a channel with the command </conf guild:1094346210636214304> before being able to activate it through the panel.",
+                "permissao": "I do not have permission to `View Audit Log`, I need this permission to provide finer details of log events.",
                 "falta_escrita_visualizacao": "I can't see or send messages on this channel! Please check my permissions so I can enable event logging for this channel.",
                 "mencao_canal": "You didn't mention any channel, and I don't have a cached channel!\nPlease use the command again mentioning a channel",
                 "canal_excluido": "The cached channel no longer exists!\nUse the command again and specify a valid channel to see automatic returns.",
@@ -615,6 +635,16 @@
                 "entrada_original": "Original entry",
                 "membro_saiu": "> A member left!",
                 "cargo_atualizado": "> Updated position",
+                "membro_banido": "> Banned member",
+                "membro_banido_desc": "A member has been banned!",
+                "membro_desbanido": "> Unbanned member",
+                "membro_desbanido_desc": "A member has been unbanned!",
+                "membro_expulso": "> Kicked member",
+                "membro_expulso_desc": "A member was kicked out!",
+                "titulo_canal_excluido": "> Deleted channel",
+                "canal_excluido_desc": "A channel has been deleted!",
+                "canal_criado": "> Channel created",
+                "canal_criado_desc": "A new channel has been created!",
                 "permissoes_apos": "Permissions after change",
                 "cargo_adicionado": "Added",
                 "cargo_removido": "Removed",
@@ -629,7 +659,12 @@
                 "auto_exclusao": "<@auto_repl> deleted a [message](auto_repl)",
                 "mode_exclusao": "A [message](auto_repl) from <@auto_repl> was deleted",
                 "sem_texto": "No text included",
-                "conteudo_excluido": "Deleted Content"
+                "conteudo_excluido": "Deleted Content",
+                "eventos_ouvidos": "Events heard",
+                "motivo_ban": "Reason for ban",
+                "sem_motivo": "No reason given",
+                "canal_tipo_desconhecido": "Unknown channel type",
+                "sem_categoria": "Undefined"
             },
             "spam": {
                 "titulo": "> Spam Prevention",
@@ -814,9 +849,11 @@
             "server": {
                 "id_server": "Server ID",
                 "membros": "Members",
+                "membro": "Member",
                 "dono": "Owner",
                 "canais": "Channels",
                 "categorias": "Categories",
+                "categoria": "Category",
                 "texto": "Text",
                 "voz": "Voice",
                 "atual": "Current",
@@ -837,7 +874,8 @@
                 "conta_criada": "Account created",
                 "alonsal": "Look at me there!",
                 "enceirado": "eternally waxed",
-                "moderador": "This member is an administrator on this server"
+                "moderador": "This member is an administrator on this server",
+                "bot": "It's a Bot!"
             },
             "unidades": {
                 "anos": " years",
@@ -1005,6 +1043,7 @@
                 "resumido": "Summed up",
                 "solicitar": "Request",
                 "ativar_anunciando": "Activate and announce",
+                "anunciar_agora": "Announce now",
                 "definir_retorno": "Set return",
                 "marcar_concluida": "Mark as completed",
                 "alterar_de_lista": "Change list",
@@ -1027,14 +1066,55 @@
                 "central_exclusao": "Exclusion center",
                 "telemetria": "Telemetry",
                 "ouvir_tambem": "Also listen",
-                "atualizar": "To update"
+                "atualizar": "To update",
+                "escolher_cor": "Choose another color",
+                "remover_reporte": "Remove report"
             },
             "menus": {
                 "selecionar_operacao": "Select the desired operation below",
                 "criador_menu": "Stop right there! This menu can only be used by the author of the command!",
                 "criador_botoes": "Stop right there! These buttons can only be used by the author of the command!",
                 "escolha_mais_detalhes": "Choose to see more information",
-                "escolher_frase": "Choose one of the phrases below!"
+                "escolher_frase": "Choose one of the phrases below!",
+                "selecionar_profile": "Select one below to get started",
+                "escolher_timeout": "Set the default mute duration!",
+                "escolher_cor": "Choose a color!",
+                "escolher_canal": "Choose an announcement channel!",
+                "escolher_categoria": "Choose a category!",
+                "escolher_cargo": "Choose a role!",
+                "escolher_idioma": "Choose a language!",
+                "escolher_eventos": "Choose the events!",
+                "escolher_usuario": "Choose a user!",
+                "escolher_guilds": "Choose the servers!"
+            },
+            "events": {
+                "message_edit": "Edited messages",
+                "message_delete": "Deleted messages",
+                "member_image": "Avatar update",
+                "member_role": "Role update",
+                "member_join": "Member join",
+                "member_left": "Member exit",
+                "channel_created": "Channel creation",
+                "channel_delete": "Channel deletion",
+                "member_ban_add": "Member ban",
+                "member_ban_remove": "Member unban",
+                "member_punishment": "Member punishment",
+                "member_kick": "Member kick"
+            },
+            "channels": {
+                "0": "Text channel",
+                "2": "Voice channel",
+                "4": "Category",
+                "5": "Announcement channel",
+                "10": "Topic of an announcement channel",
+                "11": "Public topic",
+                "12": "Private topic",
+                "13": "Server stage",
+                "15": "Forum"
+            },
+            "status": {
+                "ativado": "Activated",
+                "desativado": "Disabled"
             }
         }
     }

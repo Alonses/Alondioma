@@ -432,7 +432,8 @@
                 "desc_spam": "Mensagens que forem consideradas spam serão apagadas e o autor será castigado.",
                 "desc_global": "`O Nome do servidor será exibido no comando`\n</rank:1018609879562334383> ( `🌐 Global` )",
                 "desc_misterioso": "Uma ceira misteriosa será inclusa aqui em breve",
-                "desc_autoban": "Bane o usuário reportado automaticamente, excluíndo várias mensagens do mesmo."
+                "desc_autoban": "Bane o usuário reportado automaticamente, excluíndo várias mensagens do mesmo.",
+                "desc_network": "O networking sincroniza ações moderativas entre servidores que fazem parte de um grupo."
             }
         },
         "mode": {
@@ -551,6 +552,24 @@
                 "varias_paginas": "páginas, use os botões abaixo para gerenciar os membros reportados",
                 "uma_pagina": "1 página, use os botões abaixo para gerenciar os membros reportados",
                 "escolher_usuario": "Escolha um usuário abaixo para poder ver seu histórico"
+            },
+            "network": {
+                "descricao": "```🧻 Funcionamento do networking\n\nO networking do servidor faz a comunicação dos eventos moderativos deste servidor com outros servidores externos, quando um usuário for castigado por aqui e outros servidores fizerem parte do mesmo network deste servidor, e estiverem com o recurso ativo, o usuário também será castigado por lá!```",
+                "servidores": "Servidores",
+                "eventos_sincronizados": "Eventos sincronizados",
+                "permissoes_no_servidor": "Permissões neste servidor",
+                "registro_auditoria": "Registro de auditória",
+                "castigar_membros": "Castigar membros",
+                "banir_membros": "Banir membros",
+                "expulsar_membros": "Expulsar membros",
+                "quebrar_vinculo": "Quebrar vinculo",
+                "sem_servidores": "Você não é moderador em outros servidores, você deve ser moderador em um outro servidor para ter acesso a essa guia!",
+                "selecionar_servidores": "Selecione os servidores para se vincularem a este",
+                "banido_por": "Banido por auto_repl em auto_repl",
+                "ban_removido": "Ban retirado por auto_repl em auto_repl",
+                "expulso_por": "Expulso por auto_repl em auto_repl",
+                "castigado_por": "Castigado por auto_repl em auto_repl",
+                "motivo": ", Motivo:"
             },
             "xp": {
                 "permissao": "Você não pode gerenciar os membros deste servidor",
@@ -1050,7 +1069,8 @@
                 "escolher_cargo": "Escolha um cargo!",
                 "escolher_idioma": "Escolha um idioma!",
                 "escolher_eventos": "Escolha os eventos!",
-                "escolher_usuario": "Escolha um usuário!"
+                "escolher_usuario": "Escolha um usuário!",
+                "escolher_guilds": "Escolha os servidores!"
             },
             "events": {
                 "message_edit": "Edição de mensagens",

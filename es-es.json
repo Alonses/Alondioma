@@ -43,7 +43,8 @@
                 "footer": "Tus incrustaciones aparecerán así y cuando vean tu perfil con Alonsal",
                 "rand_color": "Tus colores serán aleatorios con cada comando.",
                 "cor_att": "¡Color actualizado! Ahora sus embeds estarán en el color seleccionado",
-                "sem_money": "¡No tienes `B$ auto_repl` Bufunfas para ese color!"
+                "sem_money": "¡No tienes `B$ auto_repl` Bufunfas para ese color!",
+                "preco": "Precio"
             },
             "pay": {
                 "error": "¡No tienes `B$ auto_repl` Bufunfas para transferir!",
@@ -407,7 +408,8 @@
                 "desc_spam": "Los mensajes que se consideren spam serán eliminados y el autor será sancionado.",
                 "desc_global": "`El nombre del servidor se mostrará en el comando`\n</rank:1018609879562334383> ( `🌐 Global` )",
                 "desc_misterioso": "Una cera misteriosa se incluirá aquí pronto.",
-                "desc_autoban": "Prohibir automáticamente a un usuario denunciado y eliminar sus publicaciones."
+                "desc_autoban": "Prohibir automáticamente a un usuario denunciado y eliminar sus publicaciones.",
+                "desc_network": "La network sincroniza acciones de moderación entre servidores que forman parte de un grupo."
             }
         },
         "mode": {
@@ -513,6 +515,21 @@
                 "status": "Estado",
                 "funcionamento_reportes": "```🧻 Cómo funcionan los informes\n\nLos moderadores de cualquier servidor donde se encuentre Alonsal registran los informes externos. ¡Un moderador, al registrar un informe a través de /report create, puede compartir esta adición con otros servidores!\n\nAl compartir, Alonsal enviará un notificación sobre esta adición en el canal especificado a continuación.```"
             },
+            "network": {
+                "descricao": "```🧻 Cómo funciona la Network\n\nLa network del servidor comunica los eventos moderadores de este servidor con otros servidores externos, cuando un usuario es castigado aquí y otros servidores son parte de la misma metwork que este servidor, y tienen el recurso activo, el usuario ¡También será castigado allí!```",
+                "permissoes_no_servidor": "Permisos en este servidor",
+                "registro_auditoria": "Registro de auditoría",
+                "castigar_membros": "Castigar a los miembros",
+                "banir_membros": "Prohibir miembros",
+                "expulsar_membros": "Expulsar miembros",
+                "quebrar_vinculo": "Romper el enlace",
+                "sem_servidores": "¡No eres moderador en otros servidores, debes ser moderador en otro servidor para tener acceso a esta pestaña!",
+                "selecionar_servidores": "Seleccione servidores para vincular a esto",
+                "banido_por": "Prohibido por auto_repl en auto_repl",
+                "ban_removido": "Prohibición eliminada por auto_repl en auto_repl",
+                "expulso_por": "Expulsado por auto_repl en auto_repl",
+                "motivo": ", Razón:"
+            },
             "xp": {
                 "permissao_1": "No puede administrar miembros de este servidor",
                 "sucesso": "La experiencia de `auto_repl` ha sido cambiada a `auto_repl exp`, su nuevo nivel es `auto_repl`",
@@ -576,6 +593,7 @@
                 "ativado": "El registro de eventos del servidor ahora está activo, todos los eventos se enviarán en el canal auto_repl",
                 "desativado": "El registro de eventos del servidor ahora está deshabilitado\nUse </panel guild:1107163338930126869>, o comando </conf guild:1094346210636214304> mencionando un canal para habilitarlo nuevamente.",
                 "falta_vinculo": "Un canal debe configurarse con el comando </conf guild:1094346210636214304> antes de que pueda activarse a través del panel.",
+                "permissao": "No tengo permiso para `Ver registro de auditoría`. Necesito este permiso para proporcionar detalles más precisos de los eventos de registro.",
                 "falta_escrita_visualizacao": "¡No puedo ver ni enviar mensajes en este canal! Verifique mis permisos para poder habilitar el registro de eventos para este canal.",
                 "mencao_canal": "¡No mencionaste ningún canal y no tengo ningún canal en caché!\nUtiliza el comando nuevamente mencionando el canal.",
                 "canal_excluido": "¡El canal almacenado en caché ya no existe!\nUtilice el comando nuevamente y especifique un canal válido para ver los retornos automáticos.",
@@ -585,6 +603,16 @@
                 "novo_membro": "> ¡Hay un nuevo miembro!",
                 "membro_saiu": "> ¡Se fue un miembro!",
                 "cargo_atualizado": "> rol función cambiada",
+                "membro_banido": "> Miembro prohibido",
+                "membro_banido_desc": "¡Un miembro ha sido baneado!",
+                "membro_desbanido": "> Miembro desbloqueado",
+                "membro_desbanido_desc": "¡Un miembro ha sido desbaneado!",
+                "membro_expulso": "> Miembro expulsado",
+                "membro_expulso_desc": "¡Un miembro fue expulsado!",
+                "titulo_canal_excluido": "> Canal eliminado",
+                "canal_excluido_desc": "¡Se ha eliminado un canal!",
+                "canal_criado": "> Canal creado",
+                "canal_criado_desc": "¡Se ha creado un nuevo canal!",
                 "permissoes_apos": "Permisos después del cambio",
                 "cargo_adicionado": "Agregado",
                 "cargo_removido": "Retirado",
@@ -598,7 +626,12 @@
                 "auto_exclusao": "<@auto_repl> eliminó un [mensaje](auto_repl)",
                 "mode_exclusao": "Se eliminó un [mensaje](auto_repl) de <@auto_repl>",
                 "sem_texto": "No incluye texto",
-                "conteudo_excluido": "Contenido eliminado"
+                "conteudo_excluido": "Contenido eliminado",
+                "eventos_ouvidos": "Eventos escuchados",
+                "motivo_ban": "Razón de la prohibición",
+                "sem_motivo": "Ninguna razón dada",
+                "canal_tipo_desconhecido": "Tipo de canal desconocido",
+                "sem_categoria": "No definido"
             },
             "spam": {
                 "titulo": "> Prevención de correo no deseado",
@@ -783,9 +816,11 @@
             "server": {
                 "id_server": "ID do server",
                 "membros": "Miembros",
+                "membro": "Miembro",
                 "dono": "Dueño",
                 "canais": "Canales",
                 "categorias": "Categorías",
+                "categoria": "Categoría",
                 "texto": "Texto",
                 "voz": "Voz",
                 "atual": "Actual",
@@ -806,7 +841,8 @@
                 "conta_criada": "Cuenta creada",
                 "alonsal": "Oh yo allí!",
                 "enceirado": "eternamente encerado",
-                "moderador": "Este miembro es un administrador en este servidor"
+                "moderador": "Este miembro es un administrador en este servidor",
+                "bot": "¡Es un robot!"
             },
             "unidades": {
                 "anos": " años",
@@ -966,6 +1002,7 @@
                 "resumido": "Resumió",
                 "solicitar": "Pedido",
                 "ativar_anunciando": "Activar y anunciar",
+                "anunciar_agora": "Anuncie ahora",
                 "definir_retorno": "Establecer retorno",
                 "marcar_concluida": "Marcar como completado",
                 "alterar_de_lista": "Cambiar de grupo",
@@ -983,14 +1020,53 @@
                 "comando_desatualizado": "¡Este comando está desactualizado! Utilice el mismo de nuevo.",
                 "central_exclusao": "Eliminación de datos",
                 "ouvir_tambem": "Escucha también",
-                "atualizar": "Actualizar"
+                "atualizar": "Actualizar",
+                "escolher_cor": "Elige otro color",
+                "remover_reporte": "Eliminar informe"
             },
             "menus": {
                 "selecionar_operacao": "Seleccione la operación deseada a continuación",
                 "criador_menu": "¡Alto ahí! ¡Este menú solo puede ser utilizado por el autor del comando!",
                 "criador_botoes": "¡Alto ahí! ¡Estos botones solo pueden ser utilizados por el autor del comando!",
                 "escolha_mais_detalhes": "Elige ver más información",
-                "escolher_frase": "¡Elige una de las frases a continuación!"
+                "escolher_frase": "¡Elige una de las frases a continuación!",
+                "selecionar_profile": "Seleccione uno a continuación para comenzar",
+                "escolher_timeout": "¡Establezca el tiempo de silencio predeterminado!",
+                "escolher_cor": "¡Elige un color!",
+                "escolher_canal": "¡Elija un canal de anuncio!",
+                "escolher_categoria": "¡Elige una categoría!",
+                "escolher_cargo": "¡Elegir un role!",
+                "escolher_idioma": "¡Elige un idioma!",
+                "escolher_eventos": "¡Elige los eventos!",
+                "escolher_usuario": "¡Elige un usuario!",
+                "escolher_guilds": "¡Elige los servidores!"
+            },
+            "events": {
+                "message_edit": "Mensajes editados",
+                "message_delete": "Mensajes eliminados",
+                "member_image": "Actualización de avatar",
+                "member_role": "Actualización de roles",
+                "member_join": "Entrada de miembros",
+                "member_left": "Salida de miembros",
+                "channel_created": "Creación de canales",
+                "channel_delete": "Eliminación de canal",
+                "member_ban_add": "Prohibición de miembros",
+                "member_ban_remove": "Desbaneo de miembros",
+                "member_punishment": "Castigo de miembros",
+                "member_kick": "Expulsión de miembros"
+            },
+            "channels": {
+                "4": "Categoría",
+                "5": "Canal publicitario",
+                "10": "Tema de un canal publicitario",
+                "11": "Tema publico",
+                "12": "Tema privado",
+                "13": "Etapa del servidor",
+                "15": "Foro"
+            },
+            "status": {
+                "ativado": "Activado",
+                "desativado": "Desactivado"
             }
         }
     }
