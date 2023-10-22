@@ -632,6 +632,8 @@
                 "membro_banido_desc": "Um membro foi banido!",
                 "membro_desbanido": "> Membro desbanido",
                 "membro_desbanido_desc": "Um membro foi desbanido!",
+                "membro_expulso": "> Membro expulso",
+                "membro_expulso_desc": "Um membro foi expulso!",
                 "titulo_canal_excluido": "> Canal excluído",
                 "canal_excluido_desc": "Um canal foi excluído!",
                 "canal_criado": "> Canal criado",
@@ -1060,7 +1062,9 @@
                 "channel_created": "Criação de canal",
                 "channel_delete": "Exclusão de canal",
                 "member_ban_add": "Banimento de membros",
-                "member_ban_remove": "Desbanimento de membros"
+                "member_ban_remove": "Desbanimento de membros",
+                "member_punishment": "Castigo de membros",
+                "member_kick": "Expulsão de membros"
             },
             "channels": {
                 "0": "Canal de texto",
