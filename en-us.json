@@ -472,7 +472,8 @@
                 "idioma": "Language",
                 "ficara_pago": "Will become paid",
                 "sem_games": "There are currently no free games!\nSet up an ads module with </notify config:1018632996787589283> to automatically receive ads when free games appear!",
-                "games_gratuitos": "There are games available to redeem for a limited time! auto_repl\n\nRedeem the titles below before the date to guarantee **completely free** copies in your account on the respective platform."
+                "games_gratuitos": "There are games available to redeem for a limited time! auto_repl\n\nRedeem the titles below before the date to guarantee **completely free** copies in your account on the respective platform.",
+                "descricao": "```🧻 How it works\n\nIf you enable this feature, I will send you ads for games that are available for free for a limited time. You can change channels, positions and receive notifications using the buttons below!```"
             },
             "canal": {
                 "canal": "Channel",
@@ -486,7 +487,8 @@
                 "ativo": "Users will now be able to use the </complaint start:1094356024091217990> command on this server!",
                 "desativo": "Tickets have been disabled for this server.",
                 "tipo_canal": "You need to select a category so I can create channels within it, please try again",
-                "sem_categoria": "You didn't mention any categories and I don't have any cached categories!\nUse the command again by entering a category."
+                "sem_categoria": "You didn't mention any categories and I don't have any cached categories!\nUse the command again by entering a category.",
+                "descricao": "```🧻 How it works\n\nIn-server reports use a separate category to automatically create reporting channels!\n\nServer members can use the /report start command to open a channel visible only to admins and the requester. \n\nBy default, channels are not deleted, but the requester can stop seeing the reporting channel if they wish.```"
             },
             "denuncia": {
                 "desativado": "Reporting on private chats is disabled for this server, notify a moderator about this feature! :P",
@@ -540,7 +542,7 @@
                 "reportes_externos": "> External reports",
                 "aviso_de_entradas": "Entry notice",
                 "canal_de_avisos": "Warning channel",
-                "funcionamento_reportes": "```🧻 How reports work\n\nExternal reports are registered by moderators of any server where Alonsal is located, a moderator, when registering a report through /report create, can share this addition with other servers!\n\nWhen sharing, Alonsal will send a notification about this addition in the channel specified below.```"
+                "funcionamento_reportes": "```🧻 How reports work\n\nExternal reports are registered by moderators of any server where Alonsal is located, a moderator, when registering a report through /report create, can share this addition with other servers!\n\nWhen sharing, Alonsal will send a notification about this addition in the channel specified below.\n\n📛 How AutoBan works\n\nAutoBan is an extra feature to /report create, with it being active, all reports that are created on the server will also result in the banning of the user who is reported!\n\n📣 How the Entry Announcement works\n\nThe Entry Announcement serves to notify the server moderators if a user who has been reported enters the server, I will notify you about that user and their reporting history.```"
             },
             "network": {
                 "descricao": "```🧻 How the Network works\n\nThe server network communicates the moderating events of this server with other external servers, when a user is punished here and other servers are part of the same network as this server, and have the resource active, the user will be punished there too!```",
@@ -558,7 +560,9 @@
                 "ban_removido": "Ban removed by auto_repl in auto_repl",
                 "expulso_por": "Kicked out by auto_repl in auto_repl",
                 "castigado_por": "Punished by auto_repl in auto_repl",
-                "motivo": ", Reason:"
+                "motivo": ", Reason:",
+                "linkado": "Linked server",
+                "nao_linkado": "Not linked"
             },
             "xp": {
                 "permissao_1": "You cannot manage members of this server",
@@ -664,7 +668,8 @@
                 "motivo_ban": "Reason for ban",
                 "sem_motivo": "No reason given",
                 "canal_tipo_desconhecido": "Unknown channel type",
-                "sem_categoria": "Undefined"
+                "sem_categoria": "Undefined",
+                "descricao": "```🧻 How the event log works\n\nThe Server Event Log records the various events that are seen by the audit log in a more dynamic way!\n\nThrough the events heard, it is possible to define which events I can notify through the channel (chosen below) when it occurs!\n\nBy default, the same event log channel will be used for events considered as spam, used by the Anti-spam module.```"
             },
             "spam": {
                 "titulo": "> Spam Prevention",

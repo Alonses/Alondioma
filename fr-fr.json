@@ -247,10 +247,10 @@
             "gta": {
                 "horario": "Maintenant sont exactement auto_repl dans GTA Online",
                 "horario_atual": "Heure actuelle",
-                "erro_apisal": "Impossible de se connecter à APISAL pour le moment, veuillez réessayer plus tard !"
+                "erro_apisal": "Impossible de se connecter à APISAL pour le moment, veuillez réessayer plus tard!"
             },
             "jokenpo": {
-                "erro_aposta": "Payez le loyer !\nVous n'avez pas assez de Bufunfas pour jouer, collectez-en avec le </daily:1020794974377353338> avant!"
+                "erro_aposta": "Payez le loyer!\nVous n'avez pas assez de Bufunfas pour jouer, collectez-en avec le </daily:1020794974377353338> avant!"
             },
             "nazar": {
                 "titulo": ":wind_chime: Madame Nazar aujourd'hui",
@@ -344,7 +344,7 @@
                 "badges_publicas": "Badges visibles",
                 "clima_resumido": "Résumé météo",
                 "tarefas_globais": "Tâches globales",
-                "nao_compartilha_badges": "Cet utilisateur ne partage pas ses badges publiquement !\nNe peut pas voir ses badges...",
+                "nao_compartilha_badges": "Cet utilisateur ne partage pas ses badges publiquement!\nNe peut pas voir ses badges...",
                 "links_externos": "Liens externes",
                 "nota_servidores": "Les serveurs inconnus sont des serveurs sur lesquels vous avez acquis de l'expérience et je ne suis plus dessus! 😢",
                 "tipo_dado": "Sélectionnez un type de données",
@@ -472,7 +472,8 @@
                 "idioma": "Langue",
                 "ficara_pago": "Seront payés",
                 "sem_games": "Il n'y a actuellement aucun jeu gratuit!\nConfigurez un module de publicités avec </notify config:1018632996787589283> pour recevoir automatiquement des publicités lorsque des jeux gratuits apparaissent!",
-                "games_gratuitos": "Les jeux sont disponibles pour une durée limitée! auto_repl\n\nÉchangez les titres ci-dessous avant la date pour garantir des copies **entièrement gratuites** sur votre compte sur la plateforme respective."
+                "games_gratuitos": "Les jeux sont disponibles pour une durée limitée! auto_repl\n\nÉchangez les titres ci-dessous avant la date pour garantir des copies **entièrement gratuites** sur votre compte sur la plateforme respective.",
+                "descricao": "```🧻 Comment ça marche\n\nSi vous activez cette fonctionnalité, je vous enverrai des publicités pour des jeux disponibles gratuitement pendant une durée limitée. Vous pouvez changer de chaîne, de position et recevoir des notifications en utilisant les boutons ci-dessous!```"
             },
             "canal": {
                 "lock": "Canal bloqué!\nUtilisez </chat unlock:1142641928190574672> pour déverrouiller",
@@ -485,7 +486,8 @@
                 "ativo": "Les utilisateurs pourront désormais utiliser la commande </complaint start:1094356024091217990> sur ce serveur!",
                 "desativo": "Les tickets ont été désactivés pour ce serveur.",
                 "tipo_canal": "Vous devez sélectionner une catégorie pour que je puisse y créer des chaînes, veuillez réessayer",
-                "sem_categoria": "Vous n'avez mentionné aucune catégorie et je n'ai pas de catégorie en cache !\nRéutilisez la commande en entrant une catégorie."
+                "sem_categoria": "Vous n'avez mentionné aucune catégorie et je n'ai pas de catégorie en cache!\nRéutilisez la commande en entrant une catégorie.",
+                "descricao": "```🧻 Comment ça marche\n\nLes rapports de serveur utilisent une catégorie distincte pour créer automatiquement des canaux de reporting !\n\nLes membres du serveur peuvent utiliser la commande /report start pour ouvrir un canal visible uniquement par les administrateurs et le demandeur.\n\nPar défaut, les chaînes ne sont pas supprimées, mais le demandeur peut cesser de voir la chaîne de signalement s'il le souhaite.```"
             },
             "denuncia": {
                 "desativado": "Les rapports dans les chats privés sont désactivés pour ce serveur, informez un modérateur de cette fonctionnalité! :P",
@@ -523,7 +525,7 @@
                 "sem_usuarios": "Aucun utilisateur n'a été ajouté, car ils n'ont aucune justification pour l'interdiction ou il n'y a pas d'interdiction sur le serveur.",
                 "sem_reportes_guild": "Il n'y a aucun utilisateur signalé en externe sur ce serveur!",
                 "identificador": "Identifiant",
-                "id_invalido": "L'identifiant saisi est invalide !",
+                "id_invalido": "L'identifiant saisi est invalide!",
                 "rodape": "pages, utilisez /verify guild page:<num> pour voir d'autres pages",
                 "falta_vinculo": "Il est nécessaire de configurer une catégorie avec la commande </conf guild:1094346210636214304> avant de l'activer via le panel.",
                 "auto_ban_painel": "Je n'ai pas l'autorisation `Interdire des membres` pour activer cette fonctionnalité!",
@@ -540,7 +542,7 @@
                 "status": "Statut",
                 "aviso_de_entradas": "Entrées signalées",
                 "canal_de_avisos": "Canal de notification",
-                "funcionamento_reportes": "```🧻 Comment fonctionnent les rapports\n\nLes rapports externes sont enregistrés par les modérateurs de tout serveur sur lequel Alonsal se trouve. Un modérateur, lors de l'enregistrement d'un rapport via /report create, peut partager cet ajout avec d'autres serveurs !\n\nLors du partage, Alonsal enverra une notification de cet ajout dans le canal spécifié ci-dessous.```"
+                "funcionamento_reportes": "```🧻 Comment fonctionnent les rapports\n\nLes rapports externes sont enregistrés par les modérateurs de tout serveur sur lequel Alonsal se trouve. Un modérateur, lors de l'enregistrement d'un rapport via /report create, peut partager cet ajout avec d'autres serveurs !\n\nLors du partage, Alonsal enverra une notification de cet ajout dans le canal spécifié ci-dessous.\n\n📛 Comment fonctionne AutoBan\n\nAutoBan est une fonctionnalité supplémentaire pour /report create, lorsqu'elle est active, tous les rapports créés sur le serveur entraîneront également le bannissement de l'utilisateur signalé!\n\n📣 Comment fonctionne l'annonce d'entrée\n\nL'annonce d'entrée sert à informer les modérateurs du serveur si un utilisateur qui a été signalé entre sur le serveur, je vous informerai de cet utilisateur et de son historique de signalement.```"
             },
             "network": {
                 "descricao": "```🧻 Comment fonctionne le Networking\n\nLe networking du serveur communique les événements modérateurs de ce serveur avec d'autres serveurs externes, lorsqu'un utilisateur est puni ici et que d'autres serveurs font partie du même network que ce serveur, et sont avec la ressource active, l'utilisateur y sera également puni !```",
@@ -558,7 +560,9 @@
                 "ban_removido": "Interdiction supprimée par auto_repl dans auto_repl",
                 "expulso_por": "Expulsé par auto_repl dans auto_repl",
                 "castigado_por": "Puni pour auto_repl dans auto_repl",
-                "motivo": ", Raison:"
+                "motivo": ", Raison:",
+                "linkado": "Serveur lié",
+                "nao_linkado": "Pas de lien"
             },
             "xp": {
                 "permissao_1": "Vous ne pouvez pas gérer les membres de ce serveur",
@@ -664,7 +668,8 @@
                 "motivo_ban": "Raison de l'interdiction",
                 "sem_motivo": "Aucune raison donnée",
                 "canal_tipo_desconhecido": "Type de canal inconnu",
-                "sem_categoria": "Indéfini"
+                "sem_categoria": "Indéfini",
+                "descricao": "```🧻 Comment fonctionne le journal des événements\n\nLe journal des événements du serveur enregistre les différents événements vus par le journal d'audit de manière plus dynamique !\n\nGrâce aux événements entendus, il est possible de définir quels événements je peux notifier via le canal (choisi ci-dessous) lorsque cela se produit!\n\nPar défaut, le même canal de journal des événements sera utilisé pour les événements considérés comme du spam, utilisé par le module Anti-Spam.```"
             },
             "spam": {
                 "titulo": "> Prévention du spam",

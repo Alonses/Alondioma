@@ -476,7 +476,8 @@
                 "idioma": "Idioma",
                 "ficara_pago": "Se tornará pago",
                 "sem_games": "Não há nenhum game de graça atualmente!\nConfigure um módulo de anúncios com o </notify config:1018632996787589283> para receber anúncio de forma automática quando aparecerem jogos gratuitos!",
-                "games_gratuitos": "Há games disponíveis para resgate por tempo limitado! auto_repl\n\nResgate os titulos abaixo antes da data para garantir cópias **totalmente de graça** em sua conta na respectiva plataforma."
+                "games_gratuitos": "Há games disponíveis para resgate por tempo limitado! auto_repl\n\nResgate os titulos abaixo antes da data para garantir cópias **totalmente de graça** em sua conta na respectiva plataforma.",
+                "descricao": "```🧻 Como funciona\n\nAo ativar esse recurso, enviarei anúncios de games que estiverem gratuitos por tempo limitado no servidor, você pode alterar o canal e o cargo que receberá a notificação pelos botões abaixo!```"
             },
             "canal": {
                 "canal": "Canal",
@@ -490,7 +491,8 @@
                 "ativo": "Agora os usuários poderão usar o comando </complaint start:1094356024091217990> neste servidor!",
                 "desativo": "Os tickets foram desativados para esse servidor.",
                 "tipo_canal": "Você precisa selecionar uma categoria para que eu possa criar canais dentro dela, tente novamente",
-                "sem_categoria": "Você não mencionou nenhuma categoria, e não possui uma categoria salva em cache!\nPor favor, utilize o comando novamente inserindo uma categoria."
+                "sem_categoria": "Você não mencionou nenhuma categoria, e não possui uma categoria salva em cache!\nPor favor, utilize o comando novamente inserindo uma categoria.",
+                "descricao": "```🧻 Como funciona\n\nAs denúncias in-server usam uma categoria separada para criar canais de denúncia de forma automática!\n\nOs membros do servidor poderão utilizar o comando /denuncia iniciar para abrir um canal visível apenas para os adms e o requisitante.\n\nPor padrão, os canais não são excluídos, mas o requisitante pode deixar de ver o canal de denúncias se desejar.```"
             },
             "denuncia": {
                 "desativado": "As denúncias em chats privados estão desabilitados para esse servidor, avise um moderador sobre essa função! :P",
@@ -546,7 +548,7 @@
                 "status": "Status",
                 "aviso_de_entradas": "Aviso de entradas",
                 "canal_de_avisos": "Canal de avisos",
-                "funcionamento_reportes": "```🧻 Funcionamento dos reportes\n\nOs reportes externos são registrados por moderadores de qualquer servidor onde o Alonsal estiver, um moderador ao registrar um reporte por meio do /report create, poderá compartilhar essa adição com outros servidores!\n\nAo compartilhar, o Alonsal irá enviar uma notificação sobre essa adição no canal especificado abaixo.```",
+                "funcionamento_reportes": "```🧻 Funcionamento dos reportes\n\nOs reportes externos são registrados por moderadores de qualquer servidor onde o Alonsal estiver, um moderador ao registrar um reporte por meio do /report create, poderá compartilhar essa adição com outros servidores!\n\nAo compartilhar, o Alonsal irá enviar uma notificação sobre essa adição no canal especificado abaixo.\n\n📛 Funcionamento do AutoBan\n\nO AutoBan é um recurso extra ao /report create, com ele estando ativo, todos os reportes que forem criados no servidor também implicarão no banimento do usuário que for reportado!\n\n📣 Funcionamento do Anúncio de entradas\n\nO Anúncio de entradas serve para notificar os moderadores do servidor caso algum usuário que tenha sido reportado entre no servidor, eu irei avisar vocês sobre esse usuário e seu histórico de denúncias.```",
                 "apelido_desconhecido": "Apelido desconhecido!",
                 "historico_usuario": "> Histórico do usuário",
                 "varias_paginas": "páginas, use os botões abaixo para gerenciar os membros reportados",
@@ -569,7 +571,9 @@
                 "ban_removido": "Ban retirado por auto_repl em auto_repl",
                 "expulso_por": "Expulso por auto_repl em auto_repl",
                 "castigado_por": "Castigado por auto_repl em auto_repl",
-                "motivo": ", Motivo:"
+                "motivo": ", Motivo:",
+                "linkado": "Servidor linkado",
+                "nao_linkado": "Não linkado"
             },
             "xp": {
                 "permissao": "Você não pode gerenciar os membros deste servidor",
@@ -676,7 +680,8 @@
                 "motivo_ban": "Motivo do banimento",
                 "sem_motivo": "Sem motivo informado",
                 "canal_tipo_desconhecido": "Tipo de canal desconhecido",
-                "sem_categoria": "Não definido"
+                "sem_categoria": "Não definido",
+                "descricao": "```🧻 Funcionamento do log de eventos\n\nO Log de eventos do servidor registra os eventos diversos que são vistos pelo registro de auditoria de forma mais dinâmica!\n\nAtravés dos eventos ouvidos, é possível definir quais eventos eu poderei avisar através do canal (escolhido abaixo) quando ocorrer!\n\nPor padrão, o mesmo canal do log de eventos será usado para eventos considerados como spam, utilizados pelo módulo do Anti-spam.```"
             },
             "spam": {
                 "titulo": "> Prevenção de Spam",

@@ -472,7 +472,8 @@
                 "idioma": "Sprache",
                 "ficara_pago": "Wird bezahlt",
                 "sem_games": "Derzeit gibt es keine kostenlosen Spiele!\nRichten Sie ein Anzeigenmodul mit </notify config:1018632996787589283> ein, um automatisch Anzeigen zu erhalten, wenn kostenlose Spiele erscheinen!",
-                "games_gratuitos": "Spiele können für eine begrenzte Zeit eingelöst werden! auto_repl\n\nLösen Sie die unten aufgeführten Titel vor dem Datum ein, um **völlig kostenlose** Kopien in Ihrem Konto auf der jeweiligen Plattform zu erhalten."
+                "games_gratuitos": "Spiele können für eine begrenzte Zeit eingelöst werden! auto_repl\n\nLösen Sie die unten aufgeführten Titel vor dem Datum ein, um **völlig kostenlose** Kopien in Ihrem Konto auf der jeweiligen Plattform zu erhalten.",
+                "descricao": "```🧻 So funktioniert es\n\nWenn Sie diese Funktion aktivieren, sende ich Ihnen Werbung für Spiele, die für eine begrenzte Zeit kostenlos verfügbar sind. Mit den Schaltflächen unten können Sie Kanäle und Positionen ändern und Benachrichtigungen erhalten!```"
             },
             "canal": {
                 "canal": "Kanal",
@@ -486,7 +487,8 @@
                 "ativo": "Benutzer können jetzt auf diesem Server den Befehl </complaint start:1094356024091217990> verwenden!",
                 "desativo": "Tickets wurden für diesen Server deaktiviert.",
                 "tipo_canal": "Sie müssen eine Kategorie auswählen, damit ich darin Kanäle erstellen kann. Bitte versuche es erneut",
-                "sem_categoria": "Sie haben keine Kategorien erwähnt und ich habe keine zwischengespeicherten Kategorien!\nVerwenden Sie den Befehl erneut, indem Sie eine Kategorie eingeben."
+                "sem_categoria": "Sie haben keine Kategorien erwähnt und ich habe keine zwischengespeicherten Kategorien!\nVerwenden Sie den Befehl erneut, indem Sie eine Kategorie eingeben.",
+                "descricao": "```🧻 So funktioniert es\n\nServerseitige Berichte verwenden eine separate Kategorie, um automatisch Berichtskanäle zu erstellen!\n\nServermitglieder können den Startbefehl /report verwenden, um einen Kanal zu öffnen, der nur für Administratoren und den Anforderer sichtbar ist. \n\nStandardmäßig werden Kanäle nicht gelöscht, aber der Anforderer kann den Berichtskanal nicht mehr sehen, wenn er dies wünscht.```"
             },
             "denuncia": {
                 "desativado": "Die Meldung privater Chats ist für diesen Server deaktiviert. Benachrichtigen Sie einen Moderator über diese Funktion! :P",
@@ -540,7 +542,7 @@
                 "reportes_externos": "> Externe Berichte",
                 "aviso_de_entradas": "Gemeldete Einträge",
                 "canal_de_avisos": "Warnkanal",
-                "funcionamento_reportes": "```🧻 So funktionieren Berichte\n\nExterne Berichte werden von den Moderatoren aller Server aufgezeichnet, auf denen Alonsal präsent ist. Ein Moderator kann diesen Zusatz mit anderen Servern teilen, indem er über /report einen Bericht erstellt! Im Falle einer Genehmigung sendet Alonsal eine Benachrichtigung über diese Ergänzung im untenstehenden Kanal.```"
+                "funcionamento_reportes": "```🧻 So funktionieren Berichte\n\nExterne Berichte werden von den Moderatoren aller Server aufgezeichnet, auf denen Alonsal präsent ist. Ein Moderator kann diesen Zusatz mit anderen Servern teilen, indem er über /report einen Bericht erstellt! Im Falle einer Genehmigung sendet Alonsal eine Benachrichtigung über diese Ergänzung im untenstehenden Kanal.\n\n📛 So funktioniert AutoBan\n\nAutoBan ist eine zusätzliche Funktion zur /report-Erstellung. Wenn sie aktiv ist, führen alle Berichte, die auf dem Server erstellt werden, auch zur Sperrung des gemeldeten Benutzers!\n\n📣 So funktioniert die Eintrittsmitteilung\n\nDie Eintrittsmitteilung dient dazu, die Servermoderatoren zu benachrichtigen, wenn ein gemeldeter Benutzer den Server betritt. Ich werde Sie über diesen Benutzer und seinen Meldeverlauf benachrichtigen.```"
             },
             "network": {
                 "descricao": "```🧻 So funktioniert das Netzwerk\n\nDas Servernetzwerk kommuniziert Moderationsereignisse von diesem Server an andere externe Server. Wenn ein Benutzer hier bestraft wird und andere Server Teil desselben Netzwerks wie dieser Server sind und die Funktion aktiv ist, wird der Benutzer auch dort bestraft!```",
@@ -558,7 +560,9 @@
                 "ban_removido": "Verbot von auto_repl in auto_repl entfernt",
                 "expulso_por": "Von auto_repl in auto_repl rausgeschmissen",
                 "castigado_por": "Bestraft für auto_repl in auto_repl",
-                "motivo": ", Grund:"
+                "motivo": ", Grund:",
+                "linkado": "Verbundener Server",
+                "nao_linkado": "Nicht verbunden"
             },
             "xp": {
                 "permissao_1": "Sie können keine Mitglieder dieses Servers verwalten",
@@ -663,7 +667,8 @@
                 "motivo_ban": "Grund für das Verbot",
                 "sem_motivo": "Ohne Grund",
                 "canal_tipo_desconhecido": "Unbekannter Kanaltyp",
-                "sem_categoria": "Nicht definiert"
+                "sem_categoria": "Nicht definiert",
+                "descricao": "```🧻 So funktioniert das Ereignisprotokoll\n\nDas Server-Ereignisprotokoll zeichnet die verschiedenen Ereignisse, die im Audit-Protokoll erscheinen, dynamischer auf!\n\nBasierend auf den gehörten Ereignissen ist es möglich zu definieren, welche Ereignisse ich über den Kanal benachrichtigen kann (unten ausgewählt), wenn dies auftritt!\n\nStandardmäßig verwenden Ereignisse, die als Spam gelten, denselben Ereignisprotokollkanal, der von der Anti-Spam-Engine verwendet wird.```"
             },
             "spam": {
                 "titulo": "> Spam-Prävention",

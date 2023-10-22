@@ -447,7 +447,8 @@
                 "anuncio_enviado": "Se envió un nuevo anuncio en auto_repl, el anuncio de juegos no está actualmente activo en este servidor.\nUse el panel del servidor para habilitar la característica, o el comando </notify config:1018632996787589283> nuevamente.",
                 "ficara_pago": "Será pagado",
                 "sem_games": "¡Actualmente no hay juegos gratuitos!\nConfigure un módulo de anuncios con </notify config:1018632996787589283> para recibir anuncios automáticamente cuando aparezcan juegos gratuitos.",
-                "games_gratuitos": "¡Los juegos están disponibles para canjear por tiempo limitado! auto_repl\n\nCanjee los títulos siguientes antes de la fecha para garantizar copias **completamente gratuitas** en su cuenta en la plataforma respectiva."
+                "games_gratuitos": "¡Los juegos están disponibles para canjear por tiempo limitado! auto_repl\n\nCanjee los títulos siguientes antes de la fecha para garantizar copias **completamente gratuitas** en su cuenta en la plataforma respectiva.",
+                "descricao": "```🧻 Cómo funciona\n\nSi habilitas esta función, te enviaré anuncios de juegos que están disponibles de forma gratuita por un tiempo limitado. ¡Puedes cambiar canales, posiciones y recibir notificaciones usando los botones a continuación!```"
             },
             "canal": {
                 "canal": "Canal",
@@ -461,7 +462,8 @@
                 "ativo": "¡Los usuarios ahora podrán usar el comando </complaint start:1094356024091217990> en este servidor!",
                 "desativo": "Los tickets han sido deshabilitados para este servidor.",
                 "tipo_canal": "Debes seleccionar una categoría para poder crear canales dentro de ella, por favor inténtalo de nuevo",
-                "sem_categoria": "¡No mencionaste ninguna categoría y no tengo una categoría en caché!\nReutiliza el comando ingresando una categoría."
+                "sem_categoria": "¡No mencionaste ninguna categoría y no tengo una categoría en caché!\nReutiliza el comando ingresando una categoría.",
+                "descricao": "```🧻 Cómo funciona\n\nServer Reports usa una categoría separada para crear canales de informes automáticamente.\n\nLos miembros del servidor pueden usar el comando /report start para abrir un canal visible solo para los administradores y el solicitante.\n\nDe forma predeterminada, los canales no se eliminan, pero el solicitante puede dejar de ver el canal de informes si lo desea.```"
             },
             "denuncia": {
                 "desativado": "Las quejas en canales privados están desactivadas en este servidor, notifique a un moderador sobre esta función. :P",
@@ -513,7 +515,7 @@
                 "historico": "¡Este usuario ha sido reportado en otros servidores anteriormente!",
                 "reportes_externos": "> Informes externos",
                 "status": "Estado",
-                "funcionamento_reportes": "```🧻 Cómo funcionan los informes\n\nLos moderadores de cualquier servidor donde se encuentre Alonsal registran los informes externos. ¡Un moderador, al registrar un informe a través de /report create, puede compartir esta adición con otros servidores!\n\nAl compartir, Alonsal enviará un notificación sobre esta adición en el canal especificado a continuación.```"
+                "funcionamento_reportes": "```🧻 Cómo funcionan los informes\n\nLos moderadores de cualquier servidor donde se encuentre Alonsal registran los informes externos. ¡Un moderador, al registrar un informe a través de /report create, puede compartir esta adición con otros servidores!\n\nAl compartir, Alonsal enviará un notificación sobre esta adición en el canal especificado a continuación.\n\n📛 Cómo funciona AutoBan\n\nAutoBan es una característica adicional para /report create, cuando está activo, todos los informes que se crean en el servidor también resultarán en la prohibición del usuario reportado.\n\n📣 Cómo funciona el Anuncio de entrada\n\nEl Anuncio de entrada sirve para notificar a los moderadores del servidor si un usuario que ha sido reportado ingresa al servidor, les notificaré sobre ese usuario y su historial de informes.```"
             },
             "network": {
                 "descricao": "```🧻 Cómo funciona la Network\n\nLa network del servidor comunica los eventos moderadores de este servidor con otros servidores externos, cuando un usuario es castigado aquí y otros servidores son parte de la misma metwork que este servidor, y tienen el recurso activo, el usuario ¡También será castigado allí!```",
@@ -528,7 +530,9 @@
                 "banido_por": "Prohibido por auto_repl en auto_repl",
                 "ban_removido": "Prohibición eliminada por auto_repl en auto_repl",
                 "expulso_por": "Expulsado por auto_repl en auto_repl",
-                "motivo": ", Razón:"
+                "motivo": ", Razón:",
+                "linkado": "Servidor vinculado",
+                "nao_linkado": "No enlazado"
             },
             "xp": {
                 "permissao_1": "No puede administrar miembros de este servidor",
@@ -631,7 +635,8 @@
                 "motivo_ban": "Razón de la prohibición",
                 "sem_motivo": "Ninguna razón dada",
                 "canal_tipo_desconhecido": "Tipo de canal desconocido",
-                "sem_categoria": "No definido"
+                "sem_categoria": "No definido",
+                "descricao": "```🧻 Cómo funciona el registro de eventos\n\n¡El registro de eventos del servidor registra los diversos eventos que ve el registro de auditoría de una manera más dinámica!\n\nA través de los eventos escuchados, es posible definir qué eventos puedo notificar a través del canal (elegido a continuación) cuando ocurre!\n\nDe forma predeterminada, se utilizará el mismo canal de registro de eventos para los eventos considerados spam, utilizado por el módulo Anti-spam.```"
             },
             "spam": {
                 "titulo": "> Prevención de correo no deseado",

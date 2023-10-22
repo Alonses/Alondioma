@@ -468,7 +468,8 @@
                 "idioma": "Lingua",
                 "ficara_pago": "Sara pagato",
                 "sem_games": "Al momento non ci sono giochi gratuiti!\nConfigura un modulo pubblicitario con </notify config:1018632996787589283> per ricevere automaticamente annunci pubblicitari quando compaiono giochi gratuiti!",
-                "games_gratuitos": "Ci sono giochi disponibili da riscattare per un periodo limitato! auto_repl\n\nRiscatta i seguenti titoli prima della data per garantire copie **completamente gratuite** nel tuo account sulla rispettiva piattaforma."
+                "games_gratuitos": "Ci sono giochi disponibili da riscattare per un periodo limitato! auto_repl\n\nRiscatta i seguenti titoli prima della data per garantire copie **completamente gratuite** nel tuo account sulla rispettiva piattaforma.",
+                "descricao": "```🧻 Come funziona\n\nSe abiliti questa funzione, ti invierò annunci di giochi disponibili gratuitamente per un periodo limitato. Puoi cambiare canale, posizione e ricevere notifiche utilizzando i pulsanti qui sotto!```"
             },
             "canal": {
                 "canal": "Canale",
@@ -482,7 +483,8 @@
                 "ativo": "Gli utenti potranno ora utilizzare il comando </complaint start:1094356024091217990> su questo server!",
                 "desativo": "I ticket sono stati disabilitati per questo server.",
                 "tipo_canal": "Devi selezionare una categoria in modo che io possa creare canali al suo interno, riprova",
-                "sem_categoria": "Non hai menzionato alcuna categoria e non ho alcuna categoria memorizzata nella cache!\nRiutilizza il comando inserendo una categoria."
+                "sem_categoria": "Non hai menzionato alcuna categoria e non ho alcuna categoria memorizzata nella cache!\nRiutilizza il comando inserendo una categoria.",
+                "descricao": "```🧻 Come funziona\n\nI report lato server utilizzano una categoria separata per creare automaticamente canali di reporting!\n\nI membri del server possono utilizzare il comando /report start per aprire un canale visibile solo agli amministratori e al richiedente. \n\nPer impostazione predefinita, i canali non vengono eliminati, ma il richiedente può interrompere la visualizzazione del canale segnalato se lo desidera.```"
             },
             "denuncia": {
                 "desativado": "I rapporti sulle chat private sono disabilitati per questo server, avvisa un moderatore di questa funzione! :P",
@@ -537,7 +539,7 @@
                 "status": "Stato",
                 "aviso_de_entradas": "Avviso di ingresso",
                 "canal_de_avisos": "Canale di avviso",
-                "funcionamento_reportes": "```🧻 Come funzionano i report\n\nI report esterni vengono registrati dai moderatori di qualsiasi server su cui è ospitato Alonsal. Un moderatore, quando registra un rapporto tramite /report create, può condividere questa aggiunta con altri server!\n\nDurante la condivisione, Alonsal invierà una notifica di questa aggiunta nel canale specificato di seguito.```"
+                "funcionamento_reportes": "```🧻 Come funzionano i report\n\nI report esterni vengono registrati dai moderatori di qualsiasi server su cui è ospitato Alonsal. Un moderatore, quando registra un rapporto tramite /report create, può condividere questa aggiunta con altri server!\n\nDurante la condivisione, Alonsal invierà una notifica di questa aggiunta nel canale specificato di seguito.\n\n📛 Come funziona AutoBan\n\nAutoBan è una funzionalità extra per la creazione di /report, se è attivo, tutti i report creati sul server comporteranno anche il ban dell'utente segnalato!\n\n📣 Come funziona l'annuncio di ingresso\n\nL'annuncio di ingresso serve per avvisare i moderatori del server se un utente che è stato segnalato entra nel server, ti avviserò su quell'utente e sulla sua cronologia delle segnalazioni.```"
             },
             "network": {
                 "descricao": "```🧻 Come funziona la networking\n\nLa networking del server comunica gli eventi moderativi di questo server con altri server esterni, quando un utente viene punito qui e altri server fanno parte della stessa network di questo server e hanno la risorsa attiva, l'utente Lo farai anche lì sarai punito!```",
@@ -554,7 +556,9 @@
                 "banido_por": "Bandito da auto_repl in auto_repl",
                 "ban_removido": "Divieto rimosso da auto_repl in auto_repl",
                 "expulso_por": "Espulso da auto_repl in auto_repl",
-                "castigado_por": "Punito da auto_repl in auto_repl"
+                "castigado_por": "Punito da auto_repl in auto_repl",
+                "linkado": "Server collegato",
+                "nao_linkado": "Non collegata"
             },
             "xp": {
                 "permissao_1": "Non puoi gestire i membri di questo server",
@@ -660,7 +664,8 @@
                 "motivo_ban": "Motivo del divieto",
                 "sem_motivo": "Nessun motivo fornito",
                 "canal_tipo_desconhecido": "Tipo di canale sconosciuto",
-                "sem_categoria": "Non definito"
+                "sem_categoria": "Non definito",
+                "descricao": "```🧻 Come funziona il registro eventi\n\nIl registro eventi del Server registra i vari eventi che vengono visti dal registro di controllo in modo più dinamico!\n\nTramite gli eventi ascoltati è possibile definire quali eventi posso notificare attraverso il canale (scelto di seguito) quando si verifica!\n\nPer impostazione predefinita, per gli eventi considerati spam verrà utilizzato lo stesso canale del registro eventi utilizzato dal modulo Anti-spam.```"
             },
             "spam": {
                 "titulo": "> Prevenzione dello spam",
