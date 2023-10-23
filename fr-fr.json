@@ -431,7 +431,9 @@
                 "desc_global": "`Le nom du serveur sera affiché dans la commande`\n</rank:1018609879562334383> ( `🌐 Global` )",
                 "desc_misterioso": "Une cire mystère sera bientôt incluse ici",
                 "desc_autoban": "Bannir automatiquement un utilisateur signalé et supprimer ses messages.",
-                "desc_network": "Networking synchronise les actions de modération entre les serveurs d'un groupe."
+                "desc_network": "Networking synchronise les actions de modération entre les serveurs d'un groupe.",
+                "sem_permissoes": "Je ne dispose pas des autorisations nécessaires pour activer cette fonctionnalité !\nVeuillez vérifier mes autorisations requises ci-dessous et les accorder afin d'utiliser cette fonctionnalité.",
+                "salvo_sem_permissoa": "J'ai enregistré vos entrées pour cette commande, mais je ne l'ai pas activée en raison d'un manque d'autorisations!\nVérifiez mes autorisations requises via </panel guild:1107163338930126869> pour activer cette fonctionnalité."
             }
         },
         "mode": {
@@ -553,6 +555,8 @@
                 "castigar_membros": "Punir les membres",
                 "banir_membros": "Interdire les membres",
                 "expulsar_membros": "Expulser des membres",
+                "gerenciar_canais": "Gérer les chaînes",
+                "gerenciar_cargos": "Gérer les rôles",
                 "quebrar_vinculo": "Rompre le lien",
                 "sem_servidores": "Vous n'êtes pas modérateur sur d'autres serveurs, vous devez être modérateur sur un autre serveur pour avoir accès à cet onglet!",
                 "selecionar_servidores": "Sélectionnez les serveurs à lier à ceci",

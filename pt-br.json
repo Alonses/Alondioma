@@ -433,7 +433,9 @@
                 "desc_global": "`O Nome do servidor será exibido no comando`\n</rank:1018609879562334383> ( `🌐 Global` )",
                 "desc_misterioso": "Uma ceira misteriosa será inclusa aqui em breve",
                 "desc_autoban": "Bane o usuário reportado automaticamente, excluíndo várias mensagens do mesmo.",
-                "desc_network": "O networking sincroniza ações moderativas entre servidores que fazem parte de um grupo."
+                "desc_network": "O networking sincroniza ações moderativas entre servidores que fazem parte de um grupo.",
+                "sem_permissoes": "Eu não possuo as permissões necessárias para ativar esse recurso!\nPor favor, verifique minhas permissões requeridas abaixo e conceda elas para poder usar esse recurso.",
+                "salvo_sem_permissoa": "Eu salvei as suas entradas para esse comando, porém não ativei ele por falta de permissões!\nConsulte minhas permissões requeridas através do </panel guild:1107163338930126869> para poder ativar esse recurso."
             }
         },
         "mode": {
@@ -564,6 +566,8 @@
                 "castigar_membros": "Castigar membros",
                 "banir_membros": "Banir membros",
                 "expulsar_membros": "Expulsar membros",
+                "gerenciar_canais": "Gerenciar canais",
+                "gerenciar_cargos": "Gerenciar cargos",
                 "quebrar_vinculo": "Quebrar vinculo",
                 "sem_servidores": "Você não é moderador em outros servidores, você deve ser moderador em um outro servidor para ter acesso a essa guia!",
                 "selecionar_servidores": "Selecione os servidores para se vincularem a este",

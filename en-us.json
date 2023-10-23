@@ -431,7 +431,9 @@
                 "desc_global": "`The server name will be displayed in the command`\n</rank:1018609879562334383> ( `🌐 Global` )",
                 "desc_misterioso": "A mystery wax will be included here soon",
                 "desc_autoban": "Automatically ban a reported user and delete their posts.",
-                "desc_network": "Networking synchronizes moderation actions between servers that are part of a group."
+                "desc_network": "Networking synchronizes moderation actions between servers that are part of a group.",
+                "sem_permissoes": "I do not have the necessary permissions to enable this feature!\nPlease check my required permissions below and grant them in order to use this feature.",
+                "salvo_sem_permissoa": "I saved your entries for this command, but I didn't activate it due to lack of permissions!\nCheck my required permissions through </panel guild:1107163338930126869> to activate this feature."
             }
         },
         "mode": {
@@ -553,6 +555,8 @@
                 "castigar_membros": "Moderate members",
                 "banir_membros": "Ban members",
                 "expulsar_membros": "Kick members",
+                "gerenciar_canais": "Manage channels",
+                "gerenciar_cargos": "Manage roles",
                 "quebrar_vinculo": "Break the link",
                 "sem_servidores": "You are not a moderator on other servers, you must be a moderator on another server to have access to this tab!",
                 "selecionar_servidores": "Select servers to link to this",

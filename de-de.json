@@ -431,7 +431,9 @@
                 "desc_global": "`Der Servername wird im Befehl angezeigt`\n</rank:1018609879562334383> ( `🌐 Global` )",
                 "desc_misterioso": "In Kürze wird hier auch ein Mystery-Wachs enthalten sein",
                 "desc_autoban": "Einen gemeldeten Benutzer automatisch sperren und seine Beiträge löschen.",
-                "desc_network": "Das Netzwerk synchronisiert Moderationsaktionen zwischen Servern, die Teil einer Gruppe sind."
+                "desc_network": "Das Netzwerk synchronisiert Moderationsaktionen zwischen Servern, die Teil einer Gruppe sind.",
+                "sem_permissoes": "Ich verfüge nicht über die erforderlichen Berechtigungen, um diese Funktion zu aktivieren!\nBitte überprüfen Sie unten die erforderlichen Berechtigungen und erteilen Sie sie, um diese Funktion zu verwenden.",
+                "salvo_sem_permissoa": "Ich habe Ihre Einträge für diesen Befehl gespeichert, ihn aber aufgrund fehlender Berechtigungen nicht aktiviert!\nÜberprüfen Sie meine erforderlichen Berechtigungen in </panel guild:1107163338930126869>, um diese Funktion zu aktivieren."
             }
         },
         "mode": {
@@ -553,6 +555,8 @@
                 "castigar_membros": "Mitglieder bestrafen",
                 "banir_membros": "Mitglieder verbieten",
                 "expulsar_membros": "Mitglieder ausschließen",
+                "gerenciar_canais": "Kanäle verwalten",
+                "gerenciar_cargos": "Rollen verwalten",
                 "quebrar_vinculo": "Trennen",
                 "sem_servidores": "Sie sind kein Moderator auf anderen Servern, Sie müssen Moderator auf einem anderen Server sein, um auf diese Registerkarte zugreifen zu können!",
                 "selecionar_servidores": "Wählen Sie Server aus, die dieser Gruppe zugeordnet werden sollen",

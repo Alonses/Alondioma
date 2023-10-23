@@ -409,7 +409,9 @@
                 "desc_global": "`El nombre del servidor se mostrará en el comando`\n</rank:1018609879562334383> ( `🌐 Global` )",
                 "desc_misterioso": "Una cera misteriosa se incluirá aquí pronto.",
                 "desc_autoban": "Prohibir automáticamente a un usuario denunciado y eliminar sus publicaciones.",
-                "desc_network": "La network sincroniza acciones de moderación entre servidores que forman parte de un grupo."
+                "desc_network": "La network sincroniza acciones de moderación entre servidores que forman parte de un grupo.",
+                "sem_permissoes": "¡No tengo los permisos necesarios para habilitar esta función!\nRevise y otorgue los permisos necesarios a continuación para utilizar esta función.",
+                "salvo_sem_permissoa": "¡Guardé tus entradas para este comando, pero no lo activé debido a falta de permisos!\nVerifica mis permisos requeridos a través de </panel guild:1107163338930126869> para activar esta función."
             }
         },
         "mode": {
@@ -524,6 +526,8 @@
                 "castigar_membros": "Castigar a los miembros",
                 "banir_membros": "Prohibir miembros",
                 "expulsar_membros": "Expulsar miembros",
+                "gerenciar_canais": "Administrar canales",
+                "gerenciar_cargos": "Administrar roles",
                 "quebrar_vinculo": "Romper el enlace",
                 "sem_servidores": "¡No eres moderador en otros servidores, debes ser moderador en otro servidor para tener acceso a esta pestaña!",
                 "selecionar_servidores": "Seleccione servidores para vincular a esto",
