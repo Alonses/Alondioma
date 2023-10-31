@@ -450,6 +450,8 @@
                 "permissao": "Non posso farlo senza l'autorizzazione `Gestisci messaggi`.",
                 "apagado_1": "messaggi` sono stati rimossi",
                 "apagado_2": "messaggio` è stato rimosso",
+                "purge_user": "I messaggi di <@auto_repl> sono stati cancellati!",
+                "purge_error": "Non siamo riusciti a eliminare i messaggi di questo utente, forse ha bloccato un messaggio o questi messaggi sono troppo vecchi!",
                 "error": "Impossibile eseguire questo comando perché ci sono messaggi bloccati o troppo vecchi, riduci il numero e riprova"
             },
             "anuncio": {
@@ -541,7 +543,19 @@
                 "status": "Stato",
                 "aviso_de_entradas": "Avviso di ingresso",
                 "canal_de_avisos": "Canale di avviso",
-                "funcionamento_reportes": "```🧻 Come funzionano i report\n\nI report esterni vengono registrati dai moderatori di qualsiasi server su cui è ospitato Alonsal. Un moderatore, quando registra un rapporto tramite /report create, può condividere questa aggiunta con altri server!\n\nDurante la condivisione, Alonsal invierà una notifica di questa aggiunta nel canale specificato di seguito.\n\n📛 Come funziona AutoBan\n\nAutoBan è una funzionalità extra per la creazione di /report, se è attivo, tutti i report creati sul server comporteranno anche il ban dell'utente segnalato!\n\n📣 Come funziona l'annuncio di ingresso\n\nL'annuncio di ingresso serve per avvisare i moderatori del server se un utente che è stato segnalato entra nel server, ti avviserò su quell'utente e sulla sua cronologia delle segnalazioni.```"
+                "funcionamento_reportes": "```🧻 Come funzionano i report\n\nI report esterni vengono registrati dai moderatori di qualsiasi server su cui è ospitato Alonsal. Un moderatore, quando registra un rapporto tramite /report create, può condividere questa aggiunta con altri server!\n\nDurante la condivisione, Alonsal invierà una notifica di questa aggiunta nel canale specificato di seguito.\n\n📛 Come funziona AutoBan\n\nAutoBan è una funzionalità extra per la creazione di /report, se è attivo, tutti i report creati sul server comporteranno anche il ban dell'utente segnalato!\n\n📣 Come funziona l'annuncio di ingresso\n\nL'annuncio di ingresso serve per avvisare i moderatori del server se un utente che è stato segnalato entra nel server, ti avviserò su quell'utente e sulla sua cronologia delle segnalazioni.```",
+                "apelido_desconhecido": "Soprannome sconosciuto!",
+                "historico_usuario": "> Cronologia utente",
+                "varias_paginas": "pagine, utilizzare i pulsanti sottostanti per gestire i membri segnalati",
+                "uma_pagina": "1 pagina, utilizza i pulsanti sottostanti per gestire i membri segnalati",
+                "escolher_usuario": "Scegli un utente qui sotto per vedere la sua cronologia",
+                "escolher_usuario_gerencia": "Scegli un utente qui sotto da modificare",
+                "usuario_sem_reportes": "Questo server non ha alcun report registrato!",
+                "usuario_removido": "L'utente è stato rimosso dall'elenco dei report del server, grazie!!",
+                "operacao_cancelada": "L'operazione è stata annullata, non sono stati applicati effetti...",
+                "remover_reporte": "> Rimuovi rapporto",
+                "remover_reporte_desc": "```📃 | Descrizione fornita: auto_repl```\nRevocare la segnalazione di questo utente cancellerà la tua cronologia su questo server, puoi confermare questa operazione o annullare utilizzando i pulsanti sottostanti.",
+                "reporte_neste_servidor": "Rapporto del server:"
             },
             "network": {
                 "descricao": "```🧻 Come funziona la networking\n\nLa networking del server comunica gli eventi moderativi di questo server con altri server esterni, quando un utente viene punito qui e altri server fanno parte della stessa network di questo server e hanno la risorsa attiva, l'utente Lo farai anche lì sarai punito!```",
@@ -666,6 +680,7 @@
                 "conteudo_excluido": "Contenuto eliminato",
                 "eventos_ouvidos": "Eventi ascoltati",
                 "motivo_ban": "Motivo del divieto",
+                "motivo_expulsao": "Motivo dell'espulsione",
                 "sem_motivo": "Nessun motivo fornito",
                 "canal_tipo_desconhecido": "Tipo di canale sconosciuto",
                 "sem_categoria": "Non definito",
@@ -687,7 +702,10 @@
                 "punicoes_niveis": "Punizioni per livelli",
                 "strikes_ativo": "\n\nIl sistema di strike è attivo su questo server! Gli utenti ricorrenti di anti-spam verranno puniti nell'ordine descritto di seguito.\n\n1° evento -> 2 ore\n2° evento -> 6 ore\n3° evento -> 2 giorni\n4° evento -> 7 giorni\n5° evento -> Espulsione",
                 "strikes_desativado": "```🔇 Il sistema di strike è disattivato su questo server!\n\nAttivatelo per poter definire punizioni con tempi che aumentano in base al numero di infrazioni che i promotori di spam compiono sul server!```\n",
-                "tempo_minimo": "Tempo minimo"
+                "tempo_minimo": "Tempo minimo",
+                "strikes_desc": "Un membro è stato espulso dal server tramite Strikes!",
+                "strikes_kick": "Espulso dal server dal sistema Strike Anti-spam",
+                "justificativa_kick": "Sei stato espulso dal server auto_repl per più messaggi spam.\nI tuoi ultimi messaggi considerati spam sono i seguenti."
             }
         },
         "util": {
@@ -1070,7 +1088,8 @@
                 "ouvir_tambem": "Ascolta anche",
                 "atualizar": "Aggiornare",
                 "escolher_cor": "Scegli un altro colore",
-                "remover_reporte": "Rimuovi rapporto"
+                "remover_reporte": "Rimuovi rapporto",
+                "ver_usuarios": "Altri utenti"
             },
             "menus": {
                 "selecionar_operacao": "Selezionare l'operazione desiderata di seguito",

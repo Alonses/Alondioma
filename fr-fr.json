@@ -432,7 +432,7 @@
                 "desc_misterioso": "Une cire mystère sera bientôt incluse ici",
                 "desc_autoban": "Bannir automatiquement un utilisateur signalé et supprimer ses messages.",
                 "desc_network": "Networking synchronise les actions de modération entre les serveurs d'un groupe.",
-                "sem_permissoes": "Je ne dispose pas des autorisations nécessaires pour activer cette fonctionnalité !\nVeuillez vérifier mes autorisations requises ci-dessous et les accorder afin d'utiliser cette fonctionnalité.",
+                "sem_permissoes": "Je ne dispose pas des autorisations nécessaires pour activer cette fonctionnalité!\nVeuillez vérifier mes autorisations requises ci-dessous et les accorder afin d'utiliser cette fonctionnalité.",
                 "salvo_sem_permissoa": "J'ai enregistré vos entrées pour cette commande, mais je ne l'ai pas activée en raison d'un manque d'autorisations!\nVérifiez mes autorisations requises via </panel guild:1107163338930126869> pour activer cette fonctionnalité."
             }
         },
@@ -454,6 +454,8 @@
                 "permissao": "Je ne peux pas faire cela sans l'autorisation `Gérer les messages`",
                 "apagado_1": "messages` ont été supprimés",
                 "apagado_2": "message` a été supprimé",
+                "purge_user": "Les messages de <@auto_repl> ont été supprimés!",
+                "purge_error": "Impossible de supprimer les messages de cet utilisateur. Peut-être qu'il a épinglé un message ou que ces messages sont vraiment anciens!",
                 "error": "Impossible d'exécuter cette commande car il y a des publications épinglées ou obsolètes, veuillez réduire le nombre et réessayer"
             },
             "anuncio": {
@@ -544,7 +546,19 @@
                 "status": "Statut",
                 "aviso_de_entradas": "Entrées signalées",
                 "canal_de_avisos": "Canal de notification",
-                "funcionamento_reportes": "```🧻 Comment fonctionnent les rapports\n\nLes rapports externes sont enregistrés par les modérateurs de tout serveur sur lequel Alonsal se trouve. Un modérateur, lors de l'enregistrement d'un rapport via /report create, peut partager cet ajout avec d'autres serveurs !\n\nLors du partage, Alonsal enverra une notification de cet ajout dans le canal spécifié ci-dessous.\n\n📛 Comment fonctionne AutoBan\n\nAutoBan est une fonctionnalité supplémentaire pour /report create, lorsqu'elle est active, tous les rapports créés sur le serveur entraîneront également le bannissement de l'utilisateur signalé!\n\n📣 Comment fonctionne l'annonce d'entrée\n\nL'annonce d'entrée sert à informer les modérateurs du serveur si un utilisateur qui a été signalé entre sur le serveur, je vous informerai de cet utilisateur et de son historique de signalement.```"
+                "funcionamento_reportes": "```🧻 Comment fonctionnent les rapports\n\nLes rapports externes sont enregistrés par les modérateurs de tout serveur sur lequel Alonsal se trouve. Un modérateur, lors de l'enregistrement d'un rapport via /report create, peut partager cet ajout avec d'autres serveurs !\n\nLors du partage, Alonsal enverra une notification de cet ajout dans le canal spécifié ci-dessous.\n\n📛 Comment fonctionne AutoBan\n\nAutoBan est une fonctionnalité supplémentaire pour /report create, lorsqu'elle est active, tous les rapports créés sur le serveur entraîneront également le bannissement de l'utilisateur signalé!\n\n📣 Comment fonctionne l'annonce d'entrée\n\nL'annonce d'entrée sert à informer les modérateurs du serveur si un utilisateur qui a été signalé entre sur le serveur, je vous informerai de cet utilisateur et de son historique de signalement.```",
+                "apelido_desconhecido": "Surnom inconnu!",
+                "historico_usuario": "> Historique des utilisateurs",
+                "varias_paginas": "pages, utilisez les boutons ci-dessous pour gérer les membres signalés",
+                "uma_pagina": "1 page, utilisez les boutons ci-dessous pour gérer les membres signalés",
+                "escolher_usuario": "Choisissez un utilisateur ci-dessous pour voir son historique",
+                "escolher_usuario_gerencia": "Choisissez un utilisateur ci-dessous pour pouvoir gérer",
+                "usuario_sem_reportes": "Ce serveur n'a aucun rapport enregistré!",
+                "usuario_removido": "L'utilisateur a été supprimé de la liste de rapports du serveur, merci!!",
+                "operacao_cancelada": "L'opération a été annulée, aucun effet n'a été appliqué...",
+                "remover_reporte": "> Supprimer le rapport",
+                "remover_reporte_desc": "```📃 | Description fournie: auto_repl```\nLa révocation du rapport de cet utilisateur effacera son historique sur ce serveur. Vous pouvez confirmer ou annuler à l'aide des boutons ci-dessous.",
+                "reporte_neste_servidor": "Rapport du serveur:"
             },
             "network": {
                 "descricao": "```🧻 Comment fonctionne le Networking\n\nLe networking du serveur communique les événements modérateurs de ce serveur avec d'autres serveurs externes, lorsqu'un utilisateur est puni ici et que d'autres serveurs font partie du même network que ce serveur, et sont avec la ressource active, l'utilisateur y sera également puni !```",
@@ -670,6 +684,7 @@
                 "conteudo_excluido": "Contenu supprimé",
                 "eventos_ouvidos": "Événements entendus",
                 "motivo_ban": "Raison de l'interdiction",
+                "motivo_expulsao": "Motif de l'expulsion",
                 "sem_motivo": "Aucune raison donnée",
                 "canal_tipo_desconhecido": "Type de canal inconnu",
                 "sem_categoria": "Indéfini",
@@ -692,7 +707,10 @@
                 "strikes_ativo": "\n\nLe système de strike est actif sur ce serveur ! Les utilisateurs répétés de l'anti-spam seront punis dans l'ordre décrit ci-dessous.\n\n1ère occurrence -> 2 heures\n2ème occurrence -> 6 heures\n3ème occurrence -> 2 jours\n4ème occurrence -> 7 jours \n5ème occurrence -> Expulsion",
                 "strikes_desativado": "```🔇 Le système de strike est désactivé sur ce serveur !\n\nActivez-le pour pouvoir fixer des sanctions avec des délais qui augmentent en fonction du nombre d'infractions commises par les spammeurs sur le serveur !```\n",
                 "tempo": "Temps",
-                "tempo_minimo": "Temps minimum"
+                "tempo_minimo": "Temps minimum",
+                "strikes_desc": "Un membre a été expulsé du serveur via Strikes!",
+                "strikes_kick": "Expulsé du serveur par le système Strike Anti-spam",
+                "justificativa_kick": "Vous avez été expulsé du serveur auto_repl à plusieurs reprises pour spam.\nVos derniers messages considérés comme du spam sont les suivants."
             }
         },
         "util": {
@@ -1079,7 +1097,8 @@
                 "ouvir_tambem": "Ecoutez aussi",
                 "atualizar": "Mettre à jour",
                 "escolher_cor": "Choisissez une autre couleur",
-                "remover_reporte": "Supprimer le rapport"
+                "remover_reporte": "Supprimer le rapport",
+                "ver_usuarios": "Autres utilisateurs"
             },
             "menus": {
                 "selecionar_operacao": "Sélectionnez l'opération souhaitée ci-dessous",

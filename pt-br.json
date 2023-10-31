@@ -457,6 +457,8 @@
                 "permissao": "Eu não posso fazer isso sem a permissão de `Gerenciar mensagens`",
                 "apagado_1": "mensagens` foram removidas",
                 "apagado_2": "mensagem` foi removida",
+                "purge_user": "As mensagens de <@auto_repl> foram apagadas!",
+                "purge_error": "Não foi possível excluir as mensagens desse usuário, talvez ele tenha fixado uma mensagem, ou essas mensagens sejam muito antigas!",
                 "error": "Não foi possível executar este comando, pois há mensagens fixadas ou muito antigas, por favor, diminua a quantidade e tente novamente"
             },
             "anuncio": {
@@ -555,7 +557,14 @@
                 "historico_usuario": "> Histórico do usuário",
                 "varias_paginas": "páginas, use os botões abaixo para gerenciar os membros reportados",
                 "uma_pagina": "1 página, use os botões abaixo para gerenciar os membros reportados",
-                "escolher_usuario": "Escolha um usuário abaixo para poder ver seu histórico"
+                "escolher_usuario": "Escolha um usuário abaixo para poder ver seu histórico",
+                "escolher_usuario_gerencia": "Escolha um usuário abaixo para poder gerenciar",
+                "usuario_sem_reportes": "Este servidor não possui nenhum reporte registrado!",
+                "usuario_removido": "O usuário foi removido da lista de reportes do servidor, obrigado!!",
+                "operacao_cancelada": "A operação foi cancelada, nenhum efeito foi aplicado...",
+                "remover_reporte": "> Remover reporte",
+                "remover_reporte_desc": "```📃 | Descrição fornecida: auto_repl```\nRevogar o reporte deste usuário limpará o seu histórico neste servidor, você pode confirmar essa operação ou cancelar pelos botões abaixo.",
+                "reporte_neste_servidor": "Reporte neste servidor:"
             },
             "network": {
                 "descricao": "```🧻 Funcionamento do networking\n\nO networking do servidor faz a comunicação dos eventos moderativos deste servidor com outros servidores externos, quando um usuário for castigado por aqui e outros servidores fizerem parte do mesmo network deste servidor, e estiverem com o recurso ativo, o usuário também será castigado por lá!```",
@@ -682,6 +691,7 @@
                 "conteudo_excluido": "Conteúdo excluído",
                 "eventos_ouvidos": "Eventos ouvidos",
                 "motivo_ban": "Motivo do banimento",
+                "motivo_expulsao": "Motivo da expulsão",
                 "sem_motivo": "Sem motivo informado",
                 "canal_tipo_desconhecido": "Tipo de canal desconhecido",
                 "sem_categoria": "Não definido",
@@ -704,7 +714,10 @@
                 "strikes_ativo": "\n\nO sistema de strikes está ativo neste servidor! Usuários recorrentes do anti-spam serão castigados na ordem descrita abaixo.\n\n1° Ocorrência -> 2 horas\n2° Ocorrência -> 6 horas\n3° Ocorrência -> 2 dias\n4° Ocorrência -> 7 dias\n5° Ocorrência -> Expulsão",
                 "strikes_desativado": "```🔇 O sistema de strikes está desativado neste servidor!\n\nAtive ele para poder definir punições com tempos que se incrementam de acordo com a quantidade de infrações que promovedores de spam realizam no servidor!```\n",
                 "tempo": "Tempo",
-                "tempo_minimo": "Tempo mínimo"
+                "tempo_minimo": "Tempo mínimo",
+                "strikes_desc": "Um membro foi expulso do servidor por meio do sistema de Strikes!",
+                "strikes_kick": "Expulso do servidor pelo sistema de Strikes do Anti-spam",
+                "justificativa_kick": "Você foi expulso do servidor auto_repl por realizar diversos spams.\nSuas últimas mensagens consideradas como spam são as seguintes."
             }
         },
         "util": {
@@ -1062,7 +1075,8 @@
                 "ouvir_tambem": "Ouvir também",
                 "atualizar": "Atualizar",
                 "escolher_cor": "Escolher outra cor",
-                "remover_reporte": "Remover reporte"
+                "remover_reporte": "Remover reporte",
+                "ver_usuarios": "Ver outros usuários"
             },
             "menus": {
                 "selecionar_operacao": "Selecione a operação desejada abaixo",

@@ -431,6 +431,8 @@
                 "permissao": "No puedo hacer esto sin el permiso `Administrar mensajes`.",
                 "apagado_1": "publicaciones` han sido eliminadas",
                 "apagado_2": "publicación` ha sido eliminada",
+                "purge_user": "¡Se han eliminado los mensajes de <@auto_repl>!",
+                "purge_error": "No pudimos eliminar mensajes de este usuario, tal vez fijó un mensaje o estos mensajes son demasiado antiguos.",
                 "error": "No se puede ejecutar este comando porque hay mensajes fijos o demasiado antiguos, reduzca el número e intente nuevamente"
             },
             "anuncio": {
@@ -517,7 +519,19 @@
                 "historico": "¡Este usuario ha sido reportado en otros servidores anteriormente!",
                 "reportes_externos": "> Informes externos",
                 "status": "Estado",
-                "funcionamento_reportes": "```🧻 Cómo funcionan los informes\n\nLos moderadores de cualquier servidor donde se encuentre Alonsal registran los informes externos. ¡Un moderador, al registrar un informe a través de /report create, puede compartir esta adición con otros servidores!\n\nAl compartir, Alonsal enviará un notificación sobre esta adición en el canal especificado a continuación.\n\n📛 Cómo funciona AutoBan\n\nAutoBan es una característica adicional para /report create, cuando está activo, todos los informes que se crean en el servidor también resultarán en la prohibición del usuario reportado.\n\n📣 Cómo funciona el Anuncio de entrada\n\nEl Anuncio de entrada sirve para notificar a los moderadores del servidor si un usuario que ha sido reportado ingresa al servidor, les notificaré sobre ese usuario y su historial de informes.```"
+                "funcionamento_reportes": "```🧻 Cómo funcionan los informes\n\nLos moderadores de cualquier servidor donde se encuentre Alonsal registran los informes externos. ¡Un moderador, al registrar un informe a través de /report create, puede compartir esta adición con otros servidores!\n\nAl compartir, Alonsal enviará un notificación sobre esta adición en el canal especificado a continuación.\n\n📛 Cómo funciona AutoBan\n\nAutoBan es una característica adicional para /report create, cuando está activo, todos los informes que se crean en el servidor también resultarán en la prohibición del usuario reportado.\n\n📣 Cómo funciona el Anuncio de entrada\n\nEl Anuncio de entrada sirve para notificar a los moderadores del servidor si un usuario que ha sido reportado ingresa al servidor, les notificaré sobre ese usuario y su historial de informes.```",
+                "apelido_desconhecido": "¡Apodo desconocido!",
+                "historico_usuario": "> Historial de usuario",
+                "varias_paginas": "páginas, use los botones a continuación para administrar los miembros reportados",
+                "uma_pagina": "1 página, use los botones a continuación para administrar los miembros reportados",
+                "escolher_usuario": "Elija un usuario a continuación para ver su historial",
+                "escolher_usuario_gerencia": "Elija un usuario a continuación para poder administrar",
+                "usuario_sem_reportes": "¡Este servidor no tiene ningún informe registrado!",
+                "usuario_removido": "El usuario ha sido eliminado de la lista de informes del servidor, ¡¡gracias!!",
+                "operacao_cancelada": "La operación fue cancelada, no se aplicaron efectos...",
+                "remover_reporte": "> Eliminar informe",
+                "remover_reporte_desc": "```📃 | Descripción proporcionada: auto_repl```\nRevocar el informe de este usuario eliminará su historial en este servidor, puede confirmar esta operación o cancelar usando los botones a continuación.",
+                "reporte_neste_servidor": "Informe del servidor:"
             },
             "network": {
                 "descricao": "```🧻 Cómo funciona la Network\n\nLa network del servidor comunica los eventos moderadores de este servidor con otros servidores externos, cuando un usuario es castigado aquí y otros servidores son parte de la misma metwork que este servidor, y tienen el recurso activo, el usuario ¡También será castigado allí!```",
@@ -637,6 +651,7 @@
                 "conteudo_excluido": "Contenido eliminado",
                 "eventos_ouvidos": "Eventos escuchados",
                 "motivo_ban": "Razón de la prohibición",
+                "motivo_expulsao": "Motivo de la expulsión",
                 "sem_motivo": "Ninguna razón dada",
                 "canal_tipo_desconhecido": "Tipo de canal desconocido",
                 "sem_categoria": "No definido",
@@ -659,7 +674,10 @@
                 "strikes_ativo": "\n\n¡El sistema de strikes está activo en este servidor! Los usuarios reincidentes de antispam serán castigados en el orden descrito a continuación.\n\n1er incidente -> 2 horas\n2do incidente -> 6 horas\n3er incidente -> 2 días\n4to incidente -> 7 días\n5to incidente -> Expulsión",
                 "strikes_desativado": "```🔇 ¡El sistema de strike está desactivado en este servidor!\n\n¡Actívalo para poder definir castigos con tiempos que aumentan según el número de infracciones que los promotores de spam realizan en el servidor!```\n",
                 "tempo": "Tiempo",
-                "tempo_minimo": "Tiempo minimo"
+                "tempo_minimo": "Tiempo minimo",
+                "strikes_desc": "¡Un miembro fue expulsado del servidor a través del sistema Strikes!",
+                "strikes_kick": "Expulsado del servidor por el sistema Anti-spam Strike",
+                "justificativa_kick": "Fuiste expulsado del servidor auto_repl por enviar spam varias veces.\nTus últimos mensajes considerados spam son los siguientes."
             }
         },
         "util": {
@@ -1031,7 +1049,8 @@
                 "ouvir_tambem": "Escucha también",
                 "atualizar": "Actualizar",
                 "escolher_cor": "Elige otro color",
-                "remover_reporte": "Eliminar informe"
+                "remover_reporte": "Eliminar informe",
+                "ver_usuarios": "Ver otros usuarios"
             },
             "menus": {
                 "selecionar_operacao": "Seleccione la operación deseada a continuación",

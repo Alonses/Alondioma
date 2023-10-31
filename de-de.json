@@ -454,6 +454,8 @@
                 "permissao": "Ich kann dies nicht ohne die Berechtigung `Nachrichten verwalten` tun",
                 "apagado_1": "Nachrichten` wurden entfernt",
                 "apagado_2": "Nachricht` wurde entfernt",
+                "purge_user": "Nachrichten von <@auto_repl> wurden gelöscht!",
+                "purge_error": "Nachrichten von diesem Benutzer können nicht gelöscht werden. Vielleicht hat er eine Nachricht angepinnt oder diese Nachrichten sind wirklich alt!",
                 "error": "Dieser Befehl kann nicht ausgeführt werden, da angeheftete oder zu alte Nachrichten vorhanden sind. Verringern Sie den Wert und versuchen Sie es erneut"
             },
             "anuncio": {
@@ -544,7 +546,19 @@
                 "reportes_externos": "> Externe Berichte",
                 "aviso_de_entradas": "Gemeldete Einträge",
                 "canal_de_avisos": "Warnkanal",
-                "funcionamento_reportes": "```🧻 So funktionieren Berichte\n\nExterne Berichte werden von den Moderatoren aller Server aufgezeichnet, auf denen Alonsal präsent ist. Ein Moderator kann diesen Zusatz mit anderen Servern teilen, indem er über /report einen Bericht erstellt! Im Falle einer Genehmigung sendet Alonsal eine Benachrichtigung über diese Ergänzung im untenstehenden Kanal.\n\n📛 So funktioniert AutoBan\n\nAutoBan ist eine zusätzliche Funktion zur /report-Erstellung. Wenn sie aktiv ist, führen alle Berichte, die auf dem Server erstellt werden, auch zur Sperrung des gemeldeten Benutzers!\n\n📣 So funktioniert die Eintrittsmitteilung\n\nDie Eintrittsmitteilung dient dazu, die Servermoderatoren zu benachrichtigen, wenn ein gemeldeter Benutzer den Server betritt. Ich werde Sie über diesen Benutzer und seinen Meldeverlauf benachrichtigen.```"
+                "funcionamento_reportes": "```🧻 So funktionieren Berichte\n\nExterne Berichte werden von den Moderatoren aller Server aufgezeichnet, auf denen Alonsal präsent ist. Ein Moderator kann diesen Zusatz mit anderen Servern teilen, indem er über /report einen Bericht erstellt! Im Falle einer Genehmigung sendet Alonsal eine Benachrichtigung über diese Ergänzung im untenstehenden Kanal.\n\n📛 So funktioniert AutoBan\n\nAutoBan ist eine zusätzliche Funktion zur /report-Erstellung. Wenn sie aktiv ist, führen alle Berichte, die auf dem Server erstellt werden, auch zur Sperrung des gemeldeten Benutzers!\n\n📣 So funktioniert die Eintrittsmitteilung\n\nDie Eintrittsmitteilung dient dazu, die Servermoderatoren zu benachrichtigen, wenn ein gemeldeter Benutzer den Server betritt. Ich werde Sie über diesen Benutzer und seinen Meldeverlauf benachrichtigen.```",
+                "apelido_desconhecido": "Unbekannter Spitzname!",
+                "historico_usuario": "> Benutzerverlauf",
+                "varias_paginas": "Seiten, verwenden Sie die Schaltflächen unten, um gemeldete Mitglieder zu verwalten",
+                "uma_pagina": "1 Seite, verwenden Sie die Schaltflächen unten, um gemeldete Mitglieder zu verwalten",
+                "escolher_usuario": "Wählen Sie unten einen Benutzer aus, um dessen Verlauf anzuzeigen",
+                "escolher_usuario_gerencia": "Wählen Sie unten einen Benutzer aus, um ihn zu verwalten",
+                "usuario_sem_reportes": "Dieser Server hat keine registrierten Berichte!",
+                "usuario_removido": "Der Benutzer wurde aus der Berichtsliste des Servers entfernt, vielen Dank!!",
+                "operacao_cancelada": "Der Vorgang wurde abgebrochen, es wurden keine Effekte angewendet...",
+                "remover_reporte": "> Bericht entfernen",
+                "remover_reporte_desc": "```📃 | Beschreibung bereitgestellt: auto_repl```\nWenn Sie die Meldung dieses Benutzers widerrufen, wird sein Verlauf auf diesem Server gelöscht. Sie können diesen Vorgang über die Schaltflächen unten bestätigen oder abbrechen.",
+                "reporte_neste_servidor": "Serverbericht:"
             },
             "network": {
                 "descricao": "```🧻 So funktioniert das Netzwerk\n\nDas Servernetzwerk kommuniziert Moderationsereignisse von diesem Server an andere externe Server. Wenn ein Benutzer hier bestraft wird und andere Server Teil desselben Netzwerks wie dieser Server sind und die Funktion aktiv ist, wird der Benutzer auch dort bestraft!```",
@@ -669,6 +683,7 @@
                 "conteudo_excluido": "gelöschter Inhalt",
                 "eventos_ouvidos": "Ereignisse gehört",
                 "motivo_ban": "Grund für das Verbot",
+                "motivo_expulsao": "Grund für den Ausschluss",
                 "sem_motivo": "Ohne Grund",
                 "canal_tipo_desconhecido": "Unbekannter Kanaltyp",
                 "sem_categoria": "Nicht definiert",
@@ -691,7 +706,10 @@
                 "strikes_ativo": "\n\nDas Strike-System ist auf diesem Server aktiv! Wiederholte Anti-Spam-Benutzer werden in der unten beschriebenen Reihenfolge bestraft.\n\n1. Vorkommen -> 2 Stunden\n2. Vorkommen -> 6 Stunden\n3. Vorkommen -> 2 Tage\n4. Vorkommen -> 7 Tage\n5. Vorkommen -> Löschen",
                 "strikes_desativado": "```🔇 Das Strike-System ist auf diesem Server deaktiviert!\n\nAktivieren Sie es, um Strafen mit Zeiten festzulegen, die entsprechend der Anzahl der Verstöße, die Spam-Promoter auf dem Server begehen, ansteigen!```\n",
                 "tempo": "Zeit",
-                "tempo_minimo": "Mindestzeit"
+                "tempo_minimo": "Mindestzeit",
+                "strikes_desc": "Ein Mitglied wurde durch das Strike-System vom Server geworfen!",
+                "strikes_kick": "Durch Anti-Spam-Angriffssystem vom Server entfernt",
+                "justificativa_kick": "Sie wurden wegen mehrmaligem Spam vom auto_repl-Server verwiesen.\nIhre letzten Nachrichten, die als Spam eingestuft wurden, lauten wie folgt."
             }
         },
         "util": {
@@ -1076,7 +1094,8 @@
                 "ouvir_tambem": "Hören Sie auch zu",
                 "atualizar": "Aktualisieren",
                 "escolher_cor": "Andere Farbe",
-                "remover_reporte": "Bericht entfernen"
+                "remover_reporte": "Bericht entfernen",
+                "ver_usuarios": "Andere Benutzer"
             },
             "menus": {
                 "selecionar_operacao": "Wählen Sie unten den gewünschten Vorgang aus",

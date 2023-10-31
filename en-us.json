@@ -454,6 +454,8 @@
                 "permissao": "I can't do this without the `Manage messages` permission",
                 "apagado_1": "messages` have been removed",
                 "apagado_2": "message` has been removed",
+                "purge_user": "Messages from <@auto_repl> have been deleted!",
+                "purge_error": "We were unable to delete messages from this user, perhaps they pinned a message, or these messages are too old!",
                 "error": "Unable to run this command because there are pinned or too old messages, decrease the value and try again"
             },
             "anuncio": {
@@ -544,7 +546,19 @@
                 "reportes_externos": "> External reports",
                 "aviso_de_entradas": "Entry notice",
                 "canal_de_avisos": "Warning channel",
-                "funcionamento_reportes": "```🧻 How reports work\n\nExternal reports are registered by moderators of any server where Alonsal is located, a moderator, when registering a report through /report create, can share this addition with other servers!\n\nWhen sharing, Alonsal will send a notification about this addition in the channel specified below.\n\n📛 How AutoBan works\n\nAutoBan is an extra feature to /report create, with it being active, all reports that are created on the server will also result in the banning of the user who is reported!\n\n📣 How the Entry Announcement works\n\nThe Entry Announcement serves to notify the server moderators if a user who has been reported enters the server, I will notify you about that user and their reporting history.```"
+                "funcionamento_reportes": "```🧻 How reports work\n\nExternal reports are registered by moderators of any server where Alonsal is located, a moderator, when registering a report through /report create, can share this addition with other servers!\n\nWhen sharing, Alonsal will send a notification about this addition in the channel specified below.\n\n📛 How AutoBan works\n\nAutoBan is an extra feature to /report create, with it being active, all reports that are created on the server will also result in the banning of the user who is reported!\n\n📣 How the Entry Announcement works\n\nThe Entry Announcement serves to notify the server moderators if a user who has been reported enters the server, I will notify you about that user and their reporting history.```",
+                "apelido_desconhecido": "Unknown nickname!",
+                "historico_usuario": "> User History",
+                "varias_paginas": "pages, use the buttons below to manage reported members",
+                "uma_pagina": "1 page, use the buttons below to manage reported members",
+                "escolher_usuario": "Choose a user below to see their history",
+                "escolher_usuario_gerencia": "Choose a user below to be able to manage",
+                "usuario_sem_reportes": "This server does not have any registered reports!",
+                "usuario_removido": "The user has been removed from the server's reporting list, thank you!!",
+                "operacao_cancelada": "The operation was cancelled, no effects were applied...",
+                "remover_reporte": "> Remove report",
+                "remover_reporte_desc": "```📃 | Description provided: auto_repl```\nRevoking this user's report will clear your history on this server, you can confirm this operation or cancel using the buttons below.",
+                "reporte_neste_servidor": "Server report:"
             },
             "network": {
                 "descricao": "```🧻 How the Network works\n\nThe server network communicates the moderating events of this server with other external servers, when a user is punished here and other servers are part of the same network as this server, and have the resource active, the user will be punished there too!```",
@@ -670,6 +684,7 @@
                 "conteudo_excluido": "Deleted Content",
                 "eventos_ouvidos": "Events heard",
                 "motivo_ban": "Reason for ban",
+                "motivo_expulsao": "Reason for expulsion",
                 "sem_motivo": "No reason given",
                 "canal_tipo_desconhecido": "Unknown channel type",
                 "sem_categoria": "Undefined",
@@ -692,7 +707,10 @@
                 "strikes_ativo": "\n\nThe strike system is active on this server! Recurrent anti-spam users will be punished in the order described below.\n\n1st Occurrence -> 2 hours\n2nd Occurrence -> 6 hours\n3rd Occurrence -> 2 days\n4th Occurrence -> 7 days\n5th Occurrence -> Expulsion",
                 "strikes_desativado": "```🔇 The strike system is deactivated on this server!\n\nActivate it to be able to define punishments with times that increase according to the number of infractions that spam promoters carry out on the server!```\n",
                 "tempo": "Time",
-                "tempo_minimo": "Minimum time"
+                "tempo_minimo": "Minimum time",
+                "strikes_desc": "A member was kicked off the server via the Strikes system!",
+                "strikes_kick": "Kicked from the server by the Anti-spam Strike system",
+                "justificativa_kick": "You have been kicked off the auto_repl server due to repeated spam.\nYour most recent messages that were classified as spam are as follows."
             }
         },
         "util": {
@@ -1077,7 +1095,8 @@
                 "ouvir_tambem": "Also listen",
                 "atualizar": "To update",
                 "escolher_cor": "Choose another color",
-                "remover_reporte": "Remove report"
+                "remover_reporte": "Remove report",
+                "ver_usuarios": "See other users"
             },
             "menus": {
                 "selecionar_operacao": "Select the desired operation below",
