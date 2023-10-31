@@ -210,6 +210,7 @@
                 "rodape": "Auf Mobiltelefonen läuft das Spiel möglicherweise nicht richtig.",
                 "jogar_agora": "Jetzt spielen!",
                 "vinculo": "Dieser Benutzer hat sein Discord-Konto noch nicht mit Pula Prédios:tm: verknüpft!",
+                "sem_vinculo": "Sie verlinken noch nicht auf Pula Prédios:tm:\nBetreten Sie das Spiel, kopieren Sie Ihren Token und fügen Sie ihn hier mit </link:1020561785620803674> ( in der Option `🚀 Pula Prédios` ) ein, um diesen Befehl verwenden zu können!",
                 "error_1": "Beim Token ist ein Fehler aufgetreten. Wir versuchen, dieses Problem zu lösen. Bitte versuchen Sie es später noch einmal",
                 "error_2": "Bei APISAL ist ein Fehler aufgetreten. Diese Funktion konnte im Moment nicht ausgeführt werden. Bitte versuchen Sie es später noch einmal",
                 "estatisticas_pula": "> Ihre Statistiken in Pula",

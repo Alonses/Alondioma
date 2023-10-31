@@ -211,6 +211,7 @@
                 "rodape": "O jogo pode não rodar direito em celulares.",
                 "jogar_agora": "Jogar agora!",
                 "vinculo": "Este usuário não vinculou sua conta Discord ao Pula Prédios:tm: ainda!",
+                "sem_vinculo": "Você não vinculou ao Pula Prédios:tm: ainda!\nEntre no jogo, copie o seu token e cole aqui através do </link:1020561785620803674> ( na opção `🚀 Pula Prédios` ), para poder usar esse comando!",
                 "error_1": "Houve um erro com o Token, estamos enceirando para descobrir qual foi o problema, por favor, tente novamente mais tarde",
                 "error_2": "Houve um erro com a APISAL, não sendo foi possível realizar essa função no momento, tente novamente mais tarde",
                 "estatisticas_pula": "> Suas estatísticas no Pula",

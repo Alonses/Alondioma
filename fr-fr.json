@@ -210,6 +210,7 @@
                 "rodape": "Le jeu peut ne pas fonctionner correctement sur les téléphones portables.",
                 "jogar_agora": "Joue maintenant!",
                 "vinculo": "Cet utilisateur n'a pas encore lié son compte Discord à Pula Prédios:tm:!",
+                "sem_vinculo": "Vous n'avez pas encore de lien vers Pula Prédios:tm:!\nEntrez dans le jeu, copiez votre jeton et collez-le ici en utilisant </link:1020561785620803674> ( dans l'option `🚀 Pula Prédios` ), pour pouvoir utiliser cette commande!",
                 "error_1": "Il y a eu une erreur avec le jeton, nous vérifions quel était le problème, veuillez réessayer plus tard",
                 "error_2": "Il y a eu une erreur avec APISAL, il n'était pas possible d'exécuter cette fonction pour le moment, veuillez réessayer plus tard",
                 "estatisticas_pula": "> Vos statistiques à Pula",
