@@ -93,6 +93,7 @@
                 "descricao": "Este módulo descontará `B$ auto_repl`, cuantos más módulos active,\nmás bufones se descontarán de su banco por día.\n\nActualmente, el valor para operar sus módulos es `B$ auto_repl`.\n----------------------------------------------------------------------------",
                 "modulo_ativado": "¡Módulo activado! Su módulo se enviará auto_repl `auto_repl`",
                 "modulo_3": "🃏 Chistes",
+                "modulo_5": "💎 Artículos de Minecraft",
                 "auto_desativado": "¡Tus módulos han sido desactivados!\n¡Asegúrate de tener Bufunfas en tu cuenta de Alonsal para poder activar funciones como esta!\n\nPuedes ganar Bufunfas con el comando </daily:1020794974377353338> o a través de depósitos y juegos",
                 "modulo_inexistente": "¡Este `módulo` ya no existe!\nReutilice el comando con otro módulo."
             },
