@@ -433,7 +433,7 @@
                 "desc_autoban": "Banna automaticamente un utente segnalato ed elimina i suoi post.",
                 "desc_network": "La network sincronizza le azioni di moderazione tra i server che fanno parte di un gruppo.",
                 "sem_permissoes": "Non dispongo delle autorizzazioni necessarie per abilitare questa funzione!\nControlla le autorizzazioni richieste di seguito e concedile per poter utilizzare questa funzione.",
-                "salvo_sem_permissoa": "Ho salvato le tue voci per questo comando, ma non l'ho attivato a causa della mancanza di autorizzazioni!\nControlla le autorizzazioni richieste in </panel guild:1107163338930126869> per attivare questa funzione."
+                "salvo_sem_permissao": "Ho salvato le tue voci per questo comando, ma non l'ho attivato a causa della mancanza di autorizzazioni!\nControlla le autorizzazioni richieste in </panel guild:1107163338930126869> per attivare questa funzione."
             }
         },
         "mode": {

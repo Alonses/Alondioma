@@ -413,7 +413,7 @@
                 "desc_autoban": "Prohibir automáticamente a un usuario denunciado y eliminar sus publicaciones.",
                 "desc_network": "La network sincroniza acciones de moderación entre servidores que forman parte de un grupo.",
                 "sem_permissoes": "¡No tengo los permisos necesarios para habilitar esta función!\nRevise y otorgue los permisos necesarios a continuación para utilizar esta función.",
-                "salvo_sem_permissoa": "¡Guardé tus entradas para este comando, pero no lo activé debido a falta de permisos!\nVerifica mis permisos requeridos a través de </panel guild:1107163338930126869> para activar esta función."
+                "salvo_sem_permissao": "¡Guardé tus entradas para este comando, pero no lo activé debido a falta de permisos!\nVerifica mis permisos requeridos a través de </panel guild:1107163338930126869> para activar esta función."
             }
         },
         "mode": {

@@ -437,7 +437,8 @@
                 "desc_autoban": "Bane o usuário reportado automaticamente, excluíndo várias mensagens do mesmo.",
                 "desc_network": "O networking sincroniza ações moderativas entre servidores que fazem parte de um grupo.",
                 "sem_permissoes": "Eu não possuo as permissões necessárias para ativar esse recurso!\nPor favor, verifique minhas permissões requeridas abaixo e conceda elas para poder usar esse recurso.",
-                "salvo_sem_permissoa": "Eu salvei as suas entradas para esse comando, porém não ativei ele por falta de permissões!\nConsulte minhas permissões requeridas através do </panel guild:1107163338930126869> para poder ativar esse recurso."
+                "salvo_sem_permissao": "Eu salvei as suas entradas para esse comando, porém não ativei ele por falta de permissões!\nConsulte minhas permissões requeridas através do </panel guild:1107163338930126869> para poder ativar esse recurso.",
+                "user_sem_permissao": "Você não possui as permissões requeridas para essa função!"
             }
         },
         "mode": {
@@ -875,7 +876,13 @@
                 "LOW": ":blue_square: Baixo",
                 "MEDIUM": ":green_square: Médio",
                 "HIGH": ":orange_square: Alto",
-                "HIGHEST": ":red_square: Máximo"
+                "HIGHEST": ":red_square: Máximo",
+                "descricao_verificacao": "Novos membros devem atender os seguintes requisitos:",
+                "sem_verificacao": "Sem regras de verificação requeridas",
+                "desc_LOW": "Precisa ter um e-mail verificado na conta do Discord",
+                "desc_MEDIUM": "Também precisa ter uma conta no Discord há mais de 5 minutos.",
+                "desc_HIGH": "Também precisa ter uma conta no Discord há mais de 10 minutos.",
+                "desc_HIGHEST": "Precisa ter um telefone verificado na conta do Discord."
             },
             "user": {
                 "id_user": "ID do usuário",
@@ -1039,7 +1046,8 @@
                 "exclusao_tarefa_cancelada": "Exclusão da tarefa cancelada.",
                 "exclusao_tarefa": "A `tarefa` foi excluída com sucesso!",
                 "tarefa_inexistente": "Essa `tarefa` não existe mais!\nPor favor, utilize o comando novamente com uma outra tarefa.",
-                "lista_inexistente": "Essa `lista` não existe mais!\nPor favor, utilize o comando novamente com uma outra lista."
+                "lista_inexistente": "Essa `lista` não existe mais!\nPor favor, utilize o comando novamente com uma outra lista.",
+                "selecionar_remover": "Selecione uma tarefa abaixo para remover"
             }
         },
         "menu": {
@@ -1080,7 +1088,9 @@
                 "atualizar": "Atualizar",
                 "escolher_cor": "Escolher outra cor",
                 "remover_reporte": "Remover reporte",
-                "ver_usuarios": "Ver outros usuários"
+                "ver_usuarios": "Ver outros usuários",
+                "moderacao": "Moderação",
+                "estatisticas": "Estatísticas"
             },
             "menus": {
                 "selecionar_operacao": "Selecione a operação desejada abaixo",

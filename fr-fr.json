@@ -435,7 +435,7 @@
                 "desc_autoban": "Bannir automatiquement un utilisateur signalé et supprimer ses messages.",
                 "desc_network": "Networking synchronise les actions de modération entre les serveurs d'un groupe.",
                 "sem_permissoes": "Je ne dispose pas des autorisations nécessaires pour activer cette fonctionnalité!\nVeuillez vérifier mes autorisations requises ci-dessous et les accorder afin d'utiliser cette fonctionnalité.",
-                "salvo_sem_permissoa": "J'ai enregistré vos entrées pour cette commande, mais je ne l'ai pas activée en raison d'un manque d'autorisations!\nVérifiez mes autorisations requises via </panel guild:1107163338930126869> pour activer cette fonctionnalité."
+                "salvo_sem_permissao": "J'ai enregistré vos entrées pour cette commande, mais je ne l'ai pas activée en raison d'un manque d'autorisations!\nVérifiez mes autorisations requises via </panel guild:1107163338930126869> pour activer cette fonctionnalité."
             }
         },
         "mode": {
