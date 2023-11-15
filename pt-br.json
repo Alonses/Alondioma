@@ -1090,7 +1090,9 @@
                 "remover_reporte": "Remover reporte",
                 "ver_usuarios": "Ver outros usuários",
                 "moderacao": "Moderação",
-                "estatisticas": "Estatísticas"
+                "estatisticas": "Estatísticas",
+                "remover_strikes": "Remover Strikes",
+                "remover_warns": "Remover Warns"
             },
             "menus": {
                 "selecionar_operacao": "Selecione a operação desejada abaixo",
@@ -1107,7 +1109,8 @@
                 "escolher_idioma": "Escolha um idioma!",
                 "escolher_eventos": "Escolha os eventos!",
                 "escolher_usuario": "Escolha um usuário!",
-                "escolher_guilds": "Escolha os servidores!"
+                "escolher_guilds": "Escolha os servidores!",
+                "escolher_numero": "Escolha um número!"
             },
             "events": {
                 "message_edit": "Edição de mensagens",
@@ -1121,7 +1124,10 @@
                 "member_ban_add": "Banimento de membros",
                 "member_ban_remove": "Desbanimento de membros",
                 "member_punishment": "Castigo de membros",
-                "member_kick": "Expulsão de membros"
+                "member_kick": "Expulsão de membros",
+                "member_mute": "Mutar membro",
+                "member_ban": "Banir membro",
+                "member_kick_2": "Expulsar membro"
             },
             "channels": {
                 "0": "Canal de texto",
