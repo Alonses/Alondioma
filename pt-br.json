@@ -723,6 +723,34 @@
                 "strikes_desc": "Um membro foi expulso do servidor por meio do sistema de Strikes!",
                 "strikes_kick": "Expulso do servidor pelo sistema de Strikes do Anti-spam",
                 "justificativa_kick": "Você foi expulso do servidor auto_repl por realizar diversos spams.\nSuas últimas mensagens consideradas como spam são as seguintes."
+            },
+            "warn": {
+                "advertencias": "Advertências",
+                "desc_advertencias": "Criar advertências e punir um membro após \"N\" advertências.",
+                "advertencia_registrada": "A advertência foi registrada no servidor!",
+                "advertencia_cancelada": "A inclusão da advertência foi cancelada",
+                "penalidade_server": "Penalidade do servidor",
+                "advertencias_registro": "Advertências em registro",
+                "aplicador_ultima_advertencia": "Aplicador da última punição",
+                "ultima_descricao": "Última descrição fornecida:",
+                "verificando_advertencia": "> Verificando advertência",
+                "titulo_advertencia": "> Uma advertência!",
+                "advertencias_registradas": "Esse usuário recebeu advertências neste servidor, ao completar a quantidade de advertências permitidas, ele receberá uma punição!",
+                "repetencias": "Repetências",
+                "penalidade_aplicada": "Penalidade aplicada",
+                "usuario_nova_advertencia": "Um usuário recebeu uma nova advertência!",
+                "usuario_punicao_aplicada": "Ele atingiu o limite de advertências do servidor, a punição foi aplicada!",
+                "descricao_fornecida": "Descrição fornecida",
+                "aviso_penalidade": "Se você receber mais advertências a ponto de atingir o limite, a penalidade será aplicada.",
+                "aviso_penalidade_aplicada": "Você foi penalizado no servidor auto_repl devido a advertências recebidas.",
+                "advertencia_recebida": "Você recebeu uma advertência do servidor auto_repl!\n```fix\n📠 | Descrição fornecida:\n\nauto_repl```",
+                "aplicador_punicao": "Aplicador da punição",
+                "adverencias_em_registro": "Advertências em registro",
+                "sem_warns_guild": "Não há usuários que foram advertências presentes neste servidor!",
+                "com_warns_guild": "Há usuários com advertências presentes no servidor!",
+                "criando_advertencia": "> Criando uma advertência",
+                "remover_advertencia": "> Remover advertência",
+                "rodape_penalidade": "A penalidade será aplicada apenas caso o membro atinja o limite de repetências do servidor."
             }
         },
         "util": {
@@ -1092,7 +1120,9 @@
                 "moderacao": "Moderação",
                 "estatisticas": "Estatísticas",
                 "remover_strikes": "Remover Strikes",
-                "remover_warns": "Remover Warns"
+                "remover_warns": "Remover Warns",
+                "advertencias": "Advertências",
+                "penalidade": "Penalidade"
             },
             "menus": {
                 "selecionar_operacao": "Selecione a operação desejada abaixo",
