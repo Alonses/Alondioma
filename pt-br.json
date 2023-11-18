@@ -698,7 +698,12 @@
                 "sem_motivo": "Sem motivo informado",
                 "canal_tipo_desconhecido": "Tipo de canal desconhecido",
                 "sem_categoria": "Não definido",
-                "descricao": "```🧻 Funcionamento do log de eventos\n\nO Log de eventos do servidor registra os eventos diversos que são vistos pelo registro de auditoria de forma mais dinâmica!\n\nAtravés dos eventos ouvidos, é possível definir quais eventos eu poderei avisar através do canal (escolhido abaixo) quando ocorrer!\n\nPor padrão, o mesmo canal do log de eventos será usado para eventos considerados como spam, utilizados pelo módulo do Anti-spam.```"
+                "descricao": "```🧻 Funcionamento do log de eventos\n\nO Log de eventos do servidor registra os eventos diversos que são vistos pelo registro de auditoria de forma mais dinâmica!\n\nAtravés dos eventos ouvidos, é possível definir quais eventos eu poderei avisar através do canal (escolhido abaixo) quando ocorrer!\n\nPor padrão, o mesmo canal do log de eventos será usado para eventos considerados como spam, utilizados pelo módulo do Anti-spam.```",
+                "canal_voz": "> Canais de voz",
+                "id_membro": "ID do membro:",
+                "canal_entrada": "<@auto_repl> entrou no canal de voz <#auto_repl>",
+                "canal_saida": "<@auto_repl> saiu do canal de voz <#auto_repl>",
+                "canal_troca": "<@auto_repl> mudou do canal de voz <#auto_repl> para o <#auto_repl>"
             },
             "spam": {
                 "titulo": "> Prevenção de Spam",
@@ -740,7 +745,7 @@
                 "penalidade_aplicada": "Penalidade aplicada",
                 "usuario_nova_advertencia": "Um usuário recebeu uma nova advertência!",
                 "usuario_punicao_aplicada": "Ele atingiu o limite de advertências do servidor, a punição foi aplicada!",
-                "descricao_fornecida": "Descrição fornecida",
+                "descricao_fornecida": "Descrição fornecida:",
                 "aviso_penalidade": "Se você receber mais advertências a ponto de atingir o limite, a penalidade será aplicada.",
                 "aviso_penalidade_aplicada": "Você foi penalizado no servidor auto_repl devido a advertências recebidas.",
                 "advertencia_recebida": "Você recebeu uma advertência do servidor auto_repl!\n```fix\n📠 | Descrição fornecida:\n\nauto_repl```",
@@ -1157,7 +1162,8 @@
                 "member_kick": "Expulsão de membros",
                 "member_mute": "Mutar membro",
                 "member_ban": "Banir membro",
-                "member_kick_2": "Expulsar membro"
+                "member_kick_2": "Expulsar membro",
+                "member_voice_status": "Movimentações em canais de voz"
             },
             "channels": {
                 "0": "Canal de texto",
