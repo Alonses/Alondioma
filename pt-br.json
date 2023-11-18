@@ -731,6 +731,7 @@
             },
             "warn": {
                 "advertencias": "Advertências",
+                "advertidos": "Advertidos",
                 "desc_advertencias": "Criar advertências e punir um membro após \"N\" advertências.",
                 "advertencia_registrada": "A advertência foi registrada no servidor!",
                 "advertencia_cancelada": "A inclusão da advertência foi cancelada",
@@ -755,7 +756,13 @@
                 "com_warns_guild": "Há usuários com advertências presentes no servidor!",
                 "criando_advertencia": "> Criando uma advertência",
                 "remover_advertencia": "> Remover advertência",
-                "rodape_penalidade": "A penalidade será aplicada apenas caso o membro atinja o limite de repetências do servidor."
+                "rodape_penalidade": "A penalidade será aplicada apenas caso o membro atinja o limite de repetências do servidor.",
+                "sem_permissao": "Você não pode acessar essa função!\nA punição das advertências neste servidor estão definidas como `auto_repl` e você não possui ela...",
+                "descricao_inclusao_warn": "Ao prosseguir com essa inclusão, o usuário ganhará mais uma advertência neste servidor.\n```fix\n📠 | Descrição fornecida:\n\nauto_repl```\nNote que há um `+ 1` nas advertências em registro abaixo, caso você confirme essa inclusão, o novo valor será a soma (podendo resultar na aplicação da penalidade).",
+                "mod_sem_permissao": "Você não pode criar uma advertência neste servidor!\nA punição das advertências neste servidor estão definidas como `auto_repl` e você não possui ela...",
+                "mod_sem_hierarquia": "Você não pode criar uma advertência a um usuário que possui mais permissões que você!",
+                "bot_sem_hierarquia": "Eu não posso criar uma advertência a esse usuário, pois possuo menos permissões que o usuário informado!",
+                "bot_sem_permissao": "Eu não posso registrar uma advertência a esse usuário, pois não tenho permissões para `auto_repl` conforme a punição padrão do servidor..."
             }
         },
         "util": {
@@ -1179,6 +1186,17 @@
             "status": {
                 "ativado": "Ativado",
                 "desativado": "Desativado"
+            },
+            "times": {
+                "3600": "1 hora",
+                "7200": "2 horas",
+                "21700": "6 horas",
+                "43200": "12 horas",
+                "86400": "1 dia",
+                "172800": "2 dias",
+                "259200": "3 dias",
+                "432000": "5 dias",
+                "604800": "7 dias"
             }
         },
         "modu": {
