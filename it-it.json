@@ -686,7 +686,12 @@
                 "sem_motivo": "Nessun motivo fornito",
                 "canal_tipo_desconhecido": "Tipo di canale sconosciuto",
                 "sem_categoria": "Non definito",
-                "descricao": "```🧻 Come funziona il registro eventi\n\nIl registro eventi del Server registra i vari eventi che vengono visti dal registro di controllo in modo più dinamico!\n\nTramite gli eventi ascoltati è possibile definire quali eventi posso notificare attraverso il canale (scelto di seguito) quando si verifica!\n\nPer impostazione predefinita, per gli eventi considerati spam verrà utilizzato lo stesso canale del registro eventi utilizzato dal modulo Anti-spam.```"
+                "descricao": "```🧻 Come funziona il registro eventi\n\nIl registro eventi del Server registra i vari eventi che vengono visti dal registro di controllo in modo più dinamico!\n\nTramite gli eventi ascoltati è possibile definire quali eventi posso notificare attraverso il canale (scelto di seguito) quando si verifica!\n\nPer impostazione predefinita, per gli eventi considerati spam verrà utilizzato lo stesso canale del registro eventi utilizzato dal modulo Anti-spam.```",
+                "canal_voz": "> Canali vocali",
+                "id_membro": "ID membro:",
+                "canal_entrada": "<@auto_repl> entrato nel canale vocale <#auto_repl>",
+                "canal_saida": "<@auto_repl> lasciato il canale vocale <#auto_repl>",
+                "canal_troca": "<@auto_repl> cambiato dal canale vocale <#auto_repl> al <#auto_repl>"
             },
             "spam": {
                 "titulo": "> Prevenzione dello spam",
@@ -709,7 +714,7 @@
                 "tempo_minimo": "Tempo minimo",
                 "strikes_desc": "Un membro è stato espulso dal server tramite Strikes!",
                 "strikes_kick": "Espulso dal server dal sistema Strike Anti-spam",
-                "justificativa_kick": "Sei stato espulso dal server auto_repl per più messaggi spam.\nI tuoi ultimi messaggi considerati spam sono i seguenti."
+                "justificativa_kick": "Sei stato espulso dal server auto_repl per più messaggi spam.\nI tuoi ultimi messaggi considerati spam sono i seguenti:"
             }
         },
         "util": {
@@ -1093,7 +1098,13 @@
                 "atualizar": "Aggiornare",
                 "escolher_cor": "Scegli un altro colore",
                 "remover_reporte": "Rimuovi rapporto",
-                "ver_usuarios": "Altri utenti"
+                "ver_usuarios": "Altri utenti",
+                "moderacao": "Moderazione",
+                "estatisticas": "Statistiche",
+                "remover_strikes": "Rimuovi Strikes",
+                "remover_warns": "Rimuovi Warns",
+                "advertencias": "Avvertenze",
+                "penalidade": "Pena"
             },
             "menus": {
                 "selecionar_operacao": "Selezionare l'operazione desiderata di seguito",
@@ -1110,7 +1121,8 @@
                 "escolher_idioma": "Scegli una lingua!",
                 "escolher_eventos": "Scegli gli eventi!",
                 "escolher_usuario": "Scegli un utente!",
-                "escolher_guilds": "Scegli i server!"
+                "escolher_guilds": "Scegli i server!",
+                "escolher_numero": "Scegli un numero!"
             },
             "events": {
                 "message_edit": "Messaggi modificati",
@@ -1124,7 +1136,11 @@
                 "member_ban_add": "Divieto di membro",
                 "member_ban_remove": "Membro sbloccato",
                 "member_punishment": "Punizione dei membri",
-                "member_kick": "Espulsione dei membri"
+                "member_kick": "Espulsione dei membri",
+                "member_mute": "Punire il membro",
+                "member_ban": "Bannare il membro",
+                "member_kick_2": "Caccia il membro",
+                "member_voice_status": "Movimenti nei canali vocali"
             },
             "channels": {
                 "0": "Canale di testo",
@@ -1139,6 +1155,17 @@
             "status": {
                 "ativado": "Attivato",
                 "desativado": "Disabilitato"
+            },
+            "times": {
+                "3600": "1 ora",
+                "7200": "2 ore",
+                "21700": "6 ore",
+                "43200": "12 ore",
+                "86400": "1 giorno",
+                "172800": "2 giorni",
+                "259200": "3 giorni",
+                "432000": "5 giorni",
+                "604800": "7 giorni"
             }
         }
     }

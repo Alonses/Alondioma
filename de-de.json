@@ -689,7 +689,12 @@
                 "sem_motivo": "Ohne Grund",
                 "canal_tipo_desconhecido": "Unbekannter Kanaltyp",
                 "sem_categoria": "Nicht definiert",
-                "descricao": "```🧻 So funktioniert das Ereignisprotokoll\n\nDas Server-Ereignisprotokoll zeichnet die verschiedenen Ereignisse, die im Audit-Protokoll erscheinen, dynamischer auf!\n\nBasierend auf den gehörten Ereignissen ist es möglich zu definieren, welche Ereignisse ich über den Kanal benachrichtigen kann (unten ausgewählt), wenn dies auftritt!\n\nStandardmäßig verwenden Ereignisse, die als Spam gelten, denselben Ereignisprotokollkanal, der von der Anti-Spam-Engine verwendet wird.```"
+                "descricao": "```🧻 So funktioniert das Ereignisprotokoll\n\nDas Server-Ereignisprotokoll zeichnet die verschiedenen Ereignisse, die im Audit-Protokoll erscheinen, dynamischer auf!\n\nBasierend auf den gehörten Ereignissen ist es möglich zu definieren, welche Ereignisse ich über den Kanal benachrichtigen kann (unten ausgewählt), wenn dies auftritt!\n\nStandardmäßig verwenden Ereignisse, die als Spam gelten, denselben Ereignisprotokollkanal, der von der Anti-Spam-Engine verwendet wird.```",
+                "canal_voz": "> Sprachkanäle",
+                "id_membro": "Benutzer-ID:",
+                "canal_entrada": "<@auto_repl> betrat den Sprachkanal <#auto_repl>",
+                "canal_saida": "<@auto_repl> hat den Sprachkanal verlassen <#auto_repl>",
+                "canal_troca": "<@auto_repl> vom Sprachkanal <#auto_repl> zu <#auto_repl> geändert"
             },
             "spam": {
                 "titulo": "> Spam-Prävention",
@@ -713,7 +718,7 @@
                 "tempo_minimo": "Mindestzeit",
                 "strikes_desc": "Ein Mitglied wurde durch das Strike-System vom Server geworfen!",
                 "strikes_kick": "Durch Anti-Spam-Angriffssystem vom Server entfernt",
-                "justificativa_kick": "Sie wurden wegen mehrmaligem Spam vom auto_repl-Server verwiesen.\nIhre letzten Nachrichten, die als Spam eingestuft wurden, lauten wie folgt."
+                "justificativa_kick": "Sie wurden wegen mehrmaligem Spam vom auto_repl-Server verwiesen.\nIhre letzten Nachrichten, die als Spam eingestuft wurden, lauten wie folgt:"
             }
         },
         "util": {
@@ -1099,7 +1104,13 @@
                 "atualizar": "Aktualisieren",
                 "escolher_cor": "Andere Farbe",
                 "remover_reporte": "Bericht entfernen",
-                "ver_usuarios": "Andere Benutzer"
+                "ver_usuarios": "Andere Benutzer",
+                "moderacao": "Mäßigung",
+                "estatisticas": "Statistiken",
+                "remover_strikes": "Streiks entfernen",
+                "remover_warns": "Warnungen entfernen",
+                "advertencias": "Warnungen",
+                "penalidade": "Strafe"
             },
             "menus": {
                 "selecionar_operacao": "Wählen Sie unten den gewünschten Vorgang aus",
@@ -1116,7 +1127,8 @@
                 "escolher_idioma": "Wählen Sie eine Sprache!",
                 "escolher_eventos": "Wählen Sie die Veranstaltungen!",
                 "escolher_usuario": "Wählen Sie einen Benutzer!",
-                "escolher_guilds": "Wählen Sie die Server!"
+                "escolher_guilds": "Wählen Sie die Server!",
+                "escolher_numero": "Wähle eine Nummer!"
             },
             "events": {
                 "message_edit": "Nachrichten bearbeiten",
@@ -1130,7 +1142,11 @@
                 "member_ban_add": "Mitgliederverbot",
                 "member_ban_remove": "Mitglieder entsperren",
                 "member_punishment": "Strafe für Mitglieder",
-                "member_kick": "Mitglieder löschen"
+                "member_kick": "Mitglieder löschen",
+                "member_mute": "Mitglied bestrafen",
+                "member_ban": "Ban-Mitglied",
+                "member_kick_2": "Kick-Mitglied",
+                "member_voice_status": "Bewegungen in Sprachkanälen"
             },
             "channels": {
                 "0": "Textkanal",
@@ -1146,6 +1162,17 @@
             "status": {
                 "ativado": "Aktiviert",
                 "desativado": "Deaktiviert"
+            },
+            "times": {
+                "3600": "1 Stunde",
+                "7200": "2 Stunden",
+                "21700": "6 Stunden",
+                "43200": "12 Stunden",
+                "86400": "1 Tag",
+                "172800": "2 Tage",
+                "259200": "3 Tage",
+                "432000": "5 Tage",
+                "604800": "7 Tage"
             }
         }
     }

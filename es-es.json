@@ -657,7 +657,12 @@
                 "sem_motivo": "Ninguna razón dada",
                 "canal_tipo_desconhecido": "Tipo de canal desconocido",
                 "sem_categoria": "No definido",
-                "descricao": "```🧻 Cómo funciona el registro de eventos\n\n¡El registro de eventos del servidor registra los diversos eventos que ve el registro de auditoría de una manera más dinámica!\n\nA través de los eventos escuchados, es posible definir qué eventos puedo notificar a través del canal (elegido a continuación) cuando ocurre!\n\nDe forma predeterminada, se utilizará el mismo canal de registro de eventos para los eventos considerados spam, utilizado por el módulo Anti-spam.```"
+                "descricao": "```🧻 Cómo funciona el registro de eventos\n\n¡El registro de eventos del servidor registra los diversos eventos que ve el registro de auditoría de una manera más dinámica!\n\nA través de los eventos escuchados, es posible definir qué eventos puedo notificar a través del canal (elegido a continuación) cuando ocurre!\n\nDe forma predeterminada, se utilizará el mismo canal de registro de eventos para los eventos considerados spam, utilizado por el módulo Anti-spam.```",
+                "canal_voz": "> Canales de voz",
+                "id_membro": "ID de miembro:",
+                "canal_entrada": "<@auto_repl> entró en el canal de voz <#auto_repl>",
+                "canal_saida": "<@auto_repl> abandonó el canal de voz <#auto_repl>",
+                "canal_troca": "<@auto_repl> cambiado del canal de voz <#auto_repl> a <#auto_repl>"
             },
             "spam": {
                 "titulo": "> Prevención de correo no deseado",
@@ -681,7 +686,7 @@
                 "tempo_minimo": "Tiempo minimo",
                 "strikes_desc": "¡Un miembro fue expulsado del servidor a través del sistema Strikes!",
                 "strikes_kick": "Expulsado del servidor por el sistema Anti-spam Strike",
-                "justificativa_kick": "Fuiste expulsado del servidor auto_repl por enviar spam varias veces.\nTus últimos mensajes considerados spam son los siguientes."
+                "justificativa_kick": "Fuiste expulsado del servidor auto_repl por enviar spam varias veces.\nTus últimos mensajes considerados spam son los siguientes:"
             }
         },
         "util": {
@@ -1054,7 +1059,13 @@
                 "atualizar": "Actualizar",
                 "escolher_cor": "Elige otro color",
                 "remover_reporte": "Eliminar informe",
-                "ver_usuarios": "Ver otros usuarios"
+                "ver_usuarios": "Ver otros usuarios",
+                "moderacao": "Moderación",
+                "estatisticas": "Estadísticas",
+                "remover_strikes": "Eliminar Strikes",
+                "remover_warns": "Eliminar Warns",
+                "advertencias": "Advertencias",
+                "penalidade": "Multa"
             },
             "menus": {
                 "selecionar_operacao": "Seleccione la operación deseada a continuación",
@@ -1071,7 +1082,8 @@
                 "escolher_idioma": "¡Elige un idioma!",
                 "escolher_eventos": "¡Elige los eventos!",
                 "escolher_usuario": "¡Elige un usuario!",
-                "escolher_guilds": "¡Elige los servidores!"
+                "escolher_guilds": "¡Elige los servidores!",
+                "escolher_numero": "¡Elige un número!"
             },
             "events": {
                 "message_edit": "Mensajes editados",
@@ -1085,7 +1097,11 @@
                 "member_ban_add": "Prohibición de miembros",
                 "member_ban_remove": "Desbaneo de miembros",
                 "member_punishment": "Castigo de miembros",
-                "member_kick": "Expulsión de miembros"
+                "member_kick": "Expulsión de miembros",
+                "member_mute": "Silenciar al miembro",
+                "member_ban": "Prohibir al miembro",
+                "member_kick_2": "Expulsar al miembro",
+                "member_voice_status": "Movimientos en los canales de voz."
             },
             "channels": {
                 "4": "Categoría",
@@ -1099,6 +1115,13 @@
             "status": {
                 "ativado": "Activado",
                 "desativado": "Desactivado"
+            },
+            "times": {
+                "86400": "1 día",
+                "172800": "2 días",
+                "259200": "3 días",
+                "432000": "5 días",
+                "604800": "7 días"
             }
         }
     }

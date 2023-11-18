@@ -690,7 +690,12 @@
                 "sem_motivo": "No reason given",
                 "canal_tipo_desconhecido": "Unknown channel type",
                 "sem_categoria": "Undefined",
-                "descricao": "```🧻 How the event log works\n\nThe Server Event Log records the various events that are seen by the audit log in a more dynamic way!\n\nThrough the events heard, it is possible to define which events I can notify through the channel (chosen below) when it occurs!\n\nBy default, the same event log channel will be used for events considered as spam, used by the Anti-spam module.```"
+                "descricao": "```🧻 How the event log works\n\nThe Server Event Log records the various events that are seen by the audit log in a more dynamic way!\n\nThrough the events heard, it is possible to define which events I can notify through the channel (chosen below) when it occurs!\n\nBy default, the same event log channel will be used for events considered as spam, used by the Anti-spam module.```",
+                "canal_voz": "> Voice channels",
+                "id_membro": "Member ID:",
+                "canal_entrada": "<@auto_repl> entered the voice channel <#auto_repl>",
+                "canal_saida": "<@auto_repl> left the voice channel <#auto_repl>",
+                "canal_troca": "<@auto_repl> changed from the voice channel <#auto_repl> to the <#auto_repl>"
             },
             "spam": {
                 "titulo": "> Spam Prevention",
@@ -714,7 +719,7 @@
                 "tempo_minimo": "Minimum time",
                 "strikes_desc": "A member was kicked off the server via the Strikes system!",
                 "strikes_kick": "Kicked from the server by the Anti-spam Strike system",
-                "justificativa_kick": "You have been kicked off the auto_repl server due to repeated spam.\nYour most recent messages that were classified as spam are as follows."
+                "justificativa_kick": "You have been kicked off the auto_repl server due to repeated spam.\nYour most recent messages that were classified as spam are as follows:"
             }
         },
         "util": {
@@ -1100,7 +1105,13 @@
                 "atualizar": "To update",
                 "escolher_cor": "Choose another color",
                 "remover_reporte": "Remove report",
-                "ver_usuarios": "See other users"
+                "ver_usuarios": "See other users",
+                "moderacao": "Moderation",
+                "estatisticas": "Statistics",
+                "remover_strikes": "Remove Strikes",
+                "remover_warns": "Remove Warns",
+                "advertencias": "Warnings",
+                "penalidade": "Penalty"
             },
             "menus": {
                 "selecionar_operacao": "Select the desired operation below",
@@ -1117,7 +1128,8 @@
                 "escolher_idioma": "Choose a language!",
                 "escolher_eventos": "Choose the events!",
                 "escolher_usuario": "Choose a user!",
-                "escolher_guilds": "Choose the servers!"
+                "escolher_guilds": "Choose the servers!",
+                "escolher_numero": "Choose a number!"
             },
             "events": {
                 "message_edit": "Edited messages",
@@ -1131,7 +1143,11 @@
                 "member_ban_add": "Member ban",
                 "member_ban_remove": "Member unban",
                 "member_punishment": "Member punishment",
-                "member_kick": "Member kick"
+                "member_kick": "Member kick",
+                "member_mute": "Mute member",
+                "member_ban": "Ban member",
+                "member_kick_2": "Kick member",
+                "member_voice_status": "Movements in voice channels"
             },
             "channels": {
                 "0": "Text channel",
@@ -1147,6 +1163,17 @@
             "status": {
                 "ativado": "Activated",
                 "desativado": "Disabled"
+            },
+            "times": {
+                "3600": "1 hour",
+                "7200": "2 hours",
+                "21700": "6 hours",
+                "43200": "12 hours",
+                "86400": "1 day",
+                "172800": "2 days",
+                "259200": "3 days",
+                "432000": "5 days",
+                "604800": "7 days"
             }
         }
     }

@@ -690,7 +690,12 @@
                 "sem_motivo": "Aucune raison donnée",
                 "canal_tipo_desconhecido": "Type de canal inconnu",
                 "sem_categoria": "Indéfini",
-                "descricao": "```🧻 Comment fonctionne le journal des événements\n\nLe journal des événements du serveur enregistre les différents événements vus par le journal d'audit de manière plus dynamique !\n\nGrâce aux événements entendus, il est possible de définir quels événements je peux notifier via le canal (choisi ci-dessous) lorsque cela se produit!\n\nPar défaut, le même canal de journal des événements sera utilisé pour les événements considérés comme du spam, utilisé par le module Anti-Spam.```"
+                "descricao": "```🧻 Comment fonctionne le journal des événements\n\nLe journal des événements du serveur enregistre les différents événements vus par le journal d'audit de manière plus dynamique !\n\nGrâce aux événements entendus, il est possible de définir quels événements je peux notifier via le canal (choisi ci-dessous) lorsque cela se produit!\n\nPar défaut, le même canal de journal des événements sera utilisé pour les événements considérés comme du spam, utilisé par le module Anti-Spam.```",
+                "canal_voz": "> Canaux vocaux",
+                "id_membro": "ID de l'utilisateur:",
+                "canal_entrada": "<@auto_repl> est entré dans le canal vocal <#auto_repl>",
+                "canal_saida": "<@auto_repl> a quitté le canal vocal <#auto_repl>",
+                "canal_troca": "<@auto_repl> changé du canal vocal <#auto_repl> au canal <#auto_repl>"
             },
             "spam": {
                 "titulo": "> Prévention du spam",
@@ -714,7 +719,7 @@
                 "tempo_minimo": "Temps minimum",
                 "strikes_desc": "Un membre a été expulsé du serveur via Strikes!",
                 "strikes_kick": "Expulsé du serveur par le système Strike Anti-spam",
-                "justificativa_kick": "Vous avez été expulsé du serveur auto_repl à plusieurs reprises pour spam.\nVos derniers messages considérés comme du spam sont les suivants."
+                "justificativa_kick": "Vous avez été expulsé du serveur auto_repl à plusieurs reprises pour spam.\nVos derniers messages considérés comme du spam sont les suivants:"
             }
         },
         "util": {
@@ -1102,7 +1107,13 @@
                 "atualizar": "Mettre à jour",
                 "escolher_cor": "Choisissez une autre couleur",
                 "remover_reporte": "Supprimer le rapport",
-                "ver_usuarios": "Autres utilisateurs"
+                "ver_usuarios": "Autres utilisateurs",
+                "moderacao": "Modération",
+                "estatisticas": "Statistiques",
+                "remover_strikes": "Supprimer les Strikes",
+                "remover_warns": "Supprimer les Warns",
+                "advertencias": "Avertissements",
+                "penalidade": "Peine"
             },
             "menus": {
                 "selecionar_operacao": "Sélectionnez l'opération souhaitée ci-dessous",
@@ -1119,7 +1130,8 @@
                 "escolher_idioma": "Choisissez une langue!",
                 "escolher_eventos": "Choisissez les événements!",
                 "escolher_usuario": "Choisissez un utilisateur!",
-                "escolher_guilds": "Choisissez les serveurs!"
+                "escolher_guilds": "Choisissez les serveurs!",
+                "escolher_numero": "Choisissez un numéro!"
             },
             "events": {
                 "message_edit": "Messages modifiés",
@@ -1133,7 +1145,11 @@
                 "member_ban_add": "Interdiction de membre",
                 "member_ban_remove": "Déverrouillage des membres",
                 "member_punishment": "Punition des membres",
-                "member_kick": "Expulsion de membres"
+                "member_kick": "Expulsion de membres",
+                "member_mute": "Muter le membre",
+                "member_ban": "Bannir le membre",
+                "member_kick_2": "Expulser le membre",
+                "member_voice_status": "Mouvements dans les canaux vocaux"
             },
             "channels": {
                 "0": "Canal de texte",
@@ -1149,6 +1165,17 @@
             "status": {
                 "ativado": "Activé",
                 "desativado": "Désactivé"
+            },
+            "times": {
+                "3600": "1 heure",
+                "7200": "2 heures",
+                "21700": "6 heures",
+                "43200": "12 heures",
+                "86400": "1 jour",
+                "172800": "2 jours",
+                "259200": "3 jours",
+                "432000": "5 jours",
+                "604800": "7 jours"
             }
         }
     }

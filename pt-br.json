@@ -727,7 +727,7 @@
                 "tempo_minimo": "Tempo mínimo",
                 "strikes_desc": "Um membro foi expulso do servidor por meio do sistema de Strikes!",
                 "strikes_kick": "Expulso do servidor pelo sistema de Strikes do Anti-spam",
-                "justificativa_kick": "Você foi expulso do servidor auto_repl por realizar diversos spams.\nSuas últimas mensagens consideradas como spam são as seguintes."
+                "justificativa_kick": "Você foi expulso do servidor auto_repl por realizar diversos spams.\nSuas últimas mensagens consideradas como spam são as seguintes:"
             },
             "warn": {
                 "advertencias": "Advertências",
