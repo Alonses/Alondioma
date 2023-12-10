@@ -15,7 +15,9 @@
             "ping": {
                 "titulo": "> Ó Abre alas que eu queru passsaa :notes:",
                 "boas_vindas": "Olá! Obrigado por me adicionar ao servidor!\n\nDeixo em anexo abaixo o meu site, com todos os comandos caso necessário ;D",
+                "boas_vindas_tutorial": "Olá! O que faremos hoje?\n\nDeixo em anexo abaixo o meu site, com todos os comandos caso necessário ;D",
                 "idioma_dica": "Do not speak Portuguese? No problems! Change my language right now with the </language:1018632996787589284> command!",
+                "idioma_dica_server": "Do not speak Portuguese? No problem! You can change my language on the server using the `/language` command!",
                 "site": "Site Alonsal"
             },
             "vote": {
