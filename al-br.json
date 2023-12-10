@@ -2,7 +2,7 @@
     "data": {
         "inic": {
             "inicio": {
-                "slash_commands": "Os comandos tradicionais foram apagados! Continue me usando pelos comandos em `/barra` ( </help:1018609879512006787> )! Experimenta agora memo ;D\n\nNota: Não consegue ver meus comandos? Me convida dnv clicando no botão ae! Tbm verifique se meus comandos stão ligados pra todos nas integrações do server em `Integrações -> Alonsal -> Comandos`"
+                "slash_commands": "Os comandos tradicionais foram apagados! Continue me usando pelos comandos em `/barra` ( </help:1018609879512006787> )! Experimenta agora memo ;D\n\nNota: Não consegue ver meus comandos? Me convida dnv clicando no botão ae! Tbm verifique se meus comandos stão ligados pra todos nas integrações do server em `Integrações -> Alon -> Comandos`"
             },
             "error": {
                 "epic_embed_fail": "Deu PT aq ao rodar esse comando, acontece toda hora, chora boi, já notifiquei os salafrários que me arrumam, tudo numa boa!",
@@ -23,7 +23,7 @@
                 "cor_ativa": "Ocê já tá usando essa cor!",
                 "titulo": "> Esse é um Embed demonstração :tada:",
                 "descricao": "Alguma descrição aleatória por aqui...",
-                "footer": "Seus embeds irão aparecer assim e ao verem seu perfil com o Alonsal",
+                "footer": "Seus embeds irão aparecer assim e ao verem seu perfil com o Alon",
                 "rand_color": "Suas cores serão aleatórias a cada comando",
                 "cor_att": "Cor alterada! Agora seus _epic embed fails_ serão na nova cor",
                 "sem_money": "Ocê n tem `B$ auto_repl` Bufunfas pra ter essa cor!"
@@ -153,7 +153,7 @@
                 "convite": "Convide-me clicando aqui!"
             },
             "git": {
-                "link": "Contribua reportando bugs ou roubando códigos do Alonsal :pray_tone2:"
+                "link": "Contribua reportando bugs ou roubando códigos do Alon :pray_tone2:"
             },
             "info": {
                 "conteudo_1": "Esse bóti é patrocinado por Baidu e Renato's lanches, 40 tipos de lanche, hot dog, fastfood em 5 minutos, a maior casa de lanches de extrema, venha comer o renatão de 4, o lanche completo!",
@@ -162,14 +162,14 @@
             "mail": {
                 "aviso_1": "Há um erro em sua mensagem, tenta dnv.",
                 "error_1": "Não foi possível enviar a mensagem pra esse ID",
-                "sucesso_1": "Mensagem enviada pra o Alonsal :incoming_envelope:\nDespachei mais informações no seu privado :mailbox_with_mail:",
+                "sucesso_1": "Mensagem enviada pra o Alon :incoming_envelope:\nDespachei mais informações no seu privado :mailbox_with_mail:",
                 "conteudo_1": "Sua mensagem foi entregue pro/a"
             },
             "help": {
                 "comandos": "Veja os comandos, me convide ou acesse meu server pelo site!"
             },
             "apoio": {
-                "escaneie": "Scaneie ou clique no Titulo acima pra doar\ne ajudar a manter e desenvolver o Alonsal!\nToda ajuda é ultra Bem-Vinda ;D"
+                "escaneie": "Scaneie ou clique no Titulo acima pra doar\ne ajudar a manter e desenvolver o Alon!\nToda ajuda é ultra Bem-Vinda ;D"
             },
             "hub": {
                 "info": "Entre agora mesmo no meu server, seja pra tirar dúvidas, ou usar os comandos, o server é liberado pra todos!"
@@ -206,7 +206,7 @@
             },
             "telemetria": {
                 "titulo": "> 🎲 de telemetria",
-                "descricao": "Pra um melhor funcionamento do Alonsal utilizamos de vários 🎲 anonimizados pra decidir em quais recursos prover mais atenção e melhorar no futuro.\n\n🎲 esses podem vir de todas as funções do bóti, o mais destacado deles é o de comandos, ao usar um comando, como esse do /telemetria, o bóti registra a interação em seu histórico de comandos e mostra um resuminho de qual server o comando foi invocado, tipo na print abaixo.\n\nOutros 🎲 que tbm coletamos stão disponíveis a seguir:\n`Entrada e saída (do bóti) de servers`, `Total de servers, canéis e usuários que o bóti consegue ver`, `Epic Embed Fails que ocorrerem durante um comando`, `Mensagens de texto pra as experiências/nível`, `Movimentações nas Bufunfas`, `Canais que recebem atts de jogos gratuitos`, e por fim esses últimos que são atualizados todo dia:\n\n`Comandos invocados, erros, xp concedido, mensagens válidas pra xp, bufunfas distribuídas e movimentadas, e servers, canais e usuários \"conhecidos\".`",
+                "descricao": "Pra um melhor funcionamento do Alon utilizamos de vários 🎲 anonimizados pra decidir em quais recursos prover mais atenção e melhorar no futuro.\n\n🎲 esses podem vir de todas as funções do bóti, o mais destacado deles é o de comandos, ao usar um comando, como esse do /telemetria, o bóti registra a interação em seu histórico de comandos e mostra um resuminho de qual server o comando foi invocado, tipo na print abaixo.\n\nOutros 🎲 que tbm coletamos stão disponíveis a seguir:\n`Entrada e saída (do bóti) de servers`, `Total de servers, canéis e usuários que o bóti consegue ver`, `Epic Embed Fails que ocorrerem durante um comando`, `Mensagens de texto pra as experiências/nível`, `Movimentações nas Bufunfas`, `Canais que recebem atts de jogos gratuitos`, e por fim esses últimos que são atualizados todo dia:\n\n`Comandos invocados, erros, xp concedido, mensagens válidas pra xp, bufunfas distribuídas e movimentadas, e servers, canais e usuários \"conhecidos\".`",
                 "rodape": "🔰 | Vale ressaltar que entradas de texto são privadas tbm, tornando o conteúdo digitado não visível pra sua privacidade."
             }
         },
@@ -415,7 +415,7 @@
                 "error_1": "Esse perfil não existe, tenta dnv",
                 "error_2": "Deu um pepino aqui e não deu pra puxar esse perfil do LastFM, parece que a plataforma caiu! Tenta dnv depois!",
                 "sem_link": "Esse corno não me linkou com a LastFM, tenta dnv usando o nome personalizado dele",
-                "new_link": "O Alonsal foi vinculado a sua conta `auto_repl`! Agora ao usar auto_repl ocê não precisará screver seu nome toda hora :P"
+                "new_link": "O Alon foi vinculado a sua conta `auto_repl`! Agora ao usar auto_repl ocê não precisará screver seu nome toda hora :P"
             }
         },
         "menu": {
