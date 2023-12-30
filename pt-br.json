@@ -758,7 +758,7 @@
                 "ultima_descricao": "Última descrição fornecida:",
                 "verificando_advertencia": "> Verificando advertência",
                 "titulo_advertencia": "> Uma advertência!",
-                "advertencias_registradas": "Esse usuário recebeu advertências neste servidor, ao completar a quantidade de advertências permitidas, ele receberá uma punição!",
+                "advertencias_registradas": "Esse usuário recebeu advertências neste servidor, a próxima advertência que receber pode resultar em uma nova penalidade!",
                 "repetencias": "Repetências",
                 "penalidade_aplicada": "Penalidade aplicada",
                 "usuario_nova_advertencia": "Um usuário recebeu uma nova advertência!",
@@ -1188,7 +1188,8 @@
                 "member_mute": "Mutar membro",
                 "member_ban": "Banir membro",
                 "member_kick_2": "Expulsar membro",
-                "member_voice_status": "Movimentações em canais de voz"
+                "member_voice_status": "Movimentações em canais de voz",
+                "none": "Sem penalidade"
             },
             "channels": {
                 "0": "Canal de texto",
