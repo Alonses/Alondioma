@@ -1175,6 +1175,7 @@
             "events": {
                 "message_edit": "Edição de mensagens",
                 "message_delete": "Exclusão de mensagens",
+                "member_nick": "Atualização de apelido",
                 "member_image": "Atualização de avatar",
                 "member_role": "Atualização de cargos",
                 "member_join": "Entrada de membros",
@@ -1189,6 +1190,8 @@
                 "member_ban": "Banir membro",
                 "member_kick_2": "Expulsar membro",
                 "member_voice_status": "Movimentações em canais de voz",
+                "invite_created": "Criação de convite",
+                "invite_deleted": "Exclusão de convite",
                 "none": "Sem penalidade"
             },
             "channels": {
