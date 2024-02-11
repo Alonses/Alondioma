@@ -2,7 +2,7 @@
     "data": {
         "inic": {
             "inicio": {
-                "slash_commands": "Los comandos heredados se han deshabilitado, ¡siga usando Alon con los comandos `/slash` ( </help:1018609879512006787> )! Pruébelo ahora ;D\n\nNota: ¿No puede ver mis comandos? ¡Invítame de nuevo haciendo clic en el botón de abajo! También verifique que mis comandos estén habilitados para todas las integraciones de servidor en `Integraciones -> Alon -> Comandos`",
+                "slash_commands": "Los comandos heredados se han deshabilitado, ¡siga usando Alonsal con los comandos `/slash` ( </help:1018609879512006787> )! Pruébelo ahora ;D\n\nNota: ¿No puede ver mis comandos? ¡Invítame de nuevo haciendo clic en el botón de abajo! También verifique que mis comandos estén habilitados para todas las integraciones de servidor en `Integraciones -> Alonsal -> Comandos`",
                 "convidar": "¡Invitar!",
                 "suporte": "Apoyo"
             },
@@ -16,10 +16,10 @@
                 "titulo": "> ¡Oh Abran paso que quiero pasar! :notes:",
                 "boas_vindas": "¡Hola! ¡Gracias por agregarme al servidor!\n\nDejo mi sitio web adjunto a continuación, con todos los comandos si es necesario ;D",
                 "idioma_dica": "Do not speak Spanish? No problems! Change my language right now with the </language:1018632996787589284> command!",
-                "site": "Web de Alon"
+                "site": "Web de Alonsal"
             },
             "vote": {
-                "titulo": "> Vota por el próximo idioma de Alon!",
+                "titulo": "> Vota por el próximo idioma de Alonsal!",
                 "descricao": "***¡Se agregará el idioma que reciba más votos!***\n\n¿Cuál elegirás? ¿Qué te gustaría ver por aquí?\n\n¡Ayúdalo a ganar! auto_repl auto_repl\nVota por los botones de abajo antes de",
                 "rodape": "¡El voto es por usuario, puede cambiar su voto durante la votación!",
                 "voto_registrado": "¡Tu voto ha sido guardado! :flag_auto_repl: :flag_auto_repl: :flag_auto_repl:\n:buzón: | ¡Puedes cambiar tu voto en cualquier momento haciendo clic de nuevo!",
@@ -28,7 +28,7 @@
                 "encerrada_votador": "¡Gracias por votar!",
                 "rodape_encerrado": "¡Esta encuesta ha terminado! ¡¡Gracias a todos los que participaron!!",
                 "votacao_encerrada_1": "***¡Esta encuesta ya está cerrada! ***\n\n¡Muchas gracias a todos los que participaron!\n¡Recibimos `auto_repl` votos mientras la encuesta estaba abierta!\nPara los participantes, ahora tienen la insignia auto_repl `Voter`!",
-                "votacao_encerrada_2": "**Con `auto_repl` votos, el idioma que recibió más votos fue auto_repl!!! auto_repl auto_repl**\n¡Se agregará por completo a Alon en los próximos días!\nUse el comando </language:1018632996787589284> en cualquier momento para cambiar el suyo."
+                "votacao_encerrada_2": "**Con `auto_repl` votos, el idioma que recibió más votos fue auto_repl!!! auto_repl auto_repl**\n¡Se agregará por completo a Alonsal en los próximos días!\nUse el comando </language:1018632996787589284> en cualquier momento para cambiar el suyo."
             }
         },
         "misc": {
@@ -40,7 +40,7 @@
                 "cor_ativa": "¡Ya estás usando este color!",
                 "titulo": "> Esta es una demostración incrustada :tada:",
                 "descricao": "Alguna descripción aleatoria por aquí...",
-                "footer": "Tus incrustaciones aparecerán así y cuando vean tu perfil con Alon",
+                "footer": "Tus incrustaciones aparecerán así y cuando vean tu perfil con Alonsal",
                 "rand_color": "Tus colores serán aleatorios con cada comando.",
                 "cor_att": "¡Color actualizado! Ahora sus embeds estarán en el color seleccionado",
                 "sem_money": "¡No tienes `B$ auto_repl` Bufunfas para ese color!",
@@ -94,7 +94,7 @@
                 "modulo_ativado": "¡Módulo activado! Su módulo se enviará auto_repl `auto_repl`",
                 "modulo_3": "🃏 Chistes",
                 "modulo_5": "💎 Artículos de Minecraft",
-                "auto_desativado": "¡Tus módulos han sido desactivados!\n¡Asegúrate de tener Bufunfas en tu cuenta de Alon para poder activar funciones como esta!\n\nPuedes ganar Bufunfas con el comando </daily:1020794974377353338> o a través de depósitos y juegos",
+                "auto_desativado": "¡Tus módulos han sido desactivados!\n¡Asegúrate de tener Bufunfas en tu cuenta de Alonsal para poder activar funciones como esta!\n\nPuedes ganar Bufunfas con el comando </daily:1020794974377353338> o a través de depósitos y juegos",
                 "modulo_inexistente": "¡Este `módulo` ya no existe!\nReutilice el comando con otro módulo."
             },
             "b_historico": {
@@ -157,7 +157,7 @@
                 "experiencia": "Experiencia",
                 "nivel": "Nivel",
                 "ativacoes": "Activaciones",
-                "historia_alonsal": "Estos son los mandos activados a lo largo de la historia de Alon",
+                "historia_alonsal": "Estos son los mandos activados a lo largo de la historia de Alonsal",
                 "aliase_faltando": "alias desaparecido",
                 "nome_faltando": "Nombre desconocido",
                 "error_1": "Introduzca un número de página más pequeño para este",
@@ -262,7 +262,7 @@
         },
         "manu": {
             "avalie": {
-                "titulo": "> ¡Califícame en TopGG y ayuda a la causa de Alon!",
+                "titulo": "> ¡Califícame en TopGG y ayuda a la causa de Alonsal!",
                 "descricao": "¡Deje sus comentarios sobre mí en TopGG y contribuya a nuestra actualización de funciones!\n\nPara informar errores y problemas, o hacer sugerencias, use el comando </mail:1018609879512006788>",
                 "avaliar": "Evaluar"
             },
@@ -272,12 +272,12 @@
             },
             "git": {
                 "repositorio": "> Repositorio Alonsal",
-                "link": "Contribuye reportando errores o robando códigos de Alon :pray_tone2:"
+                "link": "Contribuye reportando errores o robando códigos de Alonsal :pray_tone2:"
             },
             "info": {
                 "infos": "Patinando entre las líneas de buggy :man_golfing:",
                 "conteudo_1": "Este bot está patrocinado por Baidu y Renato's snacks, 40 tipos de snacks, hot dog, fastfood en 5 minutos, la mayor tienda de snacks extremos, ¡ven y come el renatão de 4 pulgadas, el snack completo!",
-                "conteudo_2": ":mailbox: Sugerir comandos o reportar errores usando </mail:1018609879512006788>\n:page_facing_up: Usa </git:1018609879470047261> para ver el repositorio de Alon\nauto_repl </discord:1018609879512006789> - Únete al Hub Multiconectado de Alon\nauto_repl </support:1018632996787589282> - Ayudar a mantener y desarrollar Alon",
+                "conteudo_2": ":mailbox: Sugerir comandos o reportar errores usando </mail:1018609879512006788>\n:page_facing_up: Usa </git:1018609879470047261> para ver el repositorio de Alon\nauto_repl </discord:1018609879512006789> - Únete al Hub Multiconectado de Alon\nauto_repl </support:1018632996787589282> - Ayudar a mantener y desarrollar Alonsal",
                 "conteudo_3": "> FUENTES EXTERNAS\nLas frases de </cattle:1018653229128622184> son derechos completos de [@GadoDecider](https://twitter.com/GadoDecider), todos los créditos son para él.",
                 "invocado_1": "Yo ya estaba convocado",
                 "invocado_2": "veces",
@@ -290,7 +290,7 @@
                 "aviso_2": ":mailbox: ¡Tu mensaje ha sido entregado!",
                 "aviso_5": ":incoming_envelope:\nTe envié más información a tu privado. :mailbox_with_mail:",
                 "error_1": "No se pudo enviar el mensaje a este ID",
-                "sucesso_1": "Mensaje enviado a Alonso :incoming_envelope:\nTe envié más información a tu privado. :mailbox_with_mail:",
+                "sucesso_1": "Mensaje enviado a Alonsal :incoming_envelope:\nTe envié más información a tu privado. :mailbox_with_mail:",
                 "conteudo_1": "Su mensaje ha sido entregado a",
                 "conteudo_2": "El contenido del mensaje es"
             },
@@ -298,11 +298,11 @@
                 "comandos": "Veja os comandos, me convide ou acesse meu servidor pelo site!"
             },
             "apoio": {
-                "apoie": "> ¡Apoya a Alonso!",
-                "escaneie": "¡Escanee el código QR o haga clic en el botón de abajo para donar\ny ayudar a mantener y desarrollar Alon!\n\nToda ayuda es muy apreciada ;D"
+                "apoie": "> ¡Apoya a Alonsal!",
+                "escaneie": "¡Escanee el código QR o haga clic en el botón de abajo para donar\ny ayudar a mantener y desarrollar Alonsal!\n\nToda ayuda es muy apreciada ;D"
             },
             "hub": {
-                "hub_alonsal": "> Centro de Alon",
+                "hub_alonsal": "> Centro de Alonsal",
                 "info": "Ingrese a mi servidor ahora mismo, ya sea para hacer preguntas, o usar los comandos, ¡el servidor es gratis para todos!",
                 "conectar": "¡Entrar!"
             },
@@ -375,7 +375,7 @@
             },
             "telemetria": {
                 "titulo": "> Datos de telemetría",
-                "descricao": "Para que Alon funcione mejor, utilizamos varios datos anónimos para decidir a qué funciones prestar más atención y mejorar en el futuro.\n\nEstos datos pueden provenir de todas las funciones del bot, siendo las más destacadas los comandos, al usar un comando como este de /telemetria, el bot registra la interacción en su historial de comandos emitidos y muestra un breve resumen de qué servidor se utilizó el comando, como en la impresión adjunta a continuación.\n\nTambién se enumeran otros datos que recopilamos a continuación:\n`Servidores (bot) entrantes y salientes`, `Total de servidores, canales y usuarios que el bot puede ver`, `Errores que ocurren durante un comando`, `Mensajes de texto para experiencias/nivel`, `Movimientos de bufón`, `Canales que reciben actualizaciones gratuitas de juegos`, y finalmente los que se actualizan diariamente:\n\n`Comandos disparados, errores, experiencia otorgada, mensajes xp válidos, bufones distribuidos y movidos, y servidores, canales y usuarios \"conocidos\".`",
+                "descricao": "Para que Alonsal funcione mejor, utilizamos varios datos anónimos para decidir a qué funciones prestar más atención y mejorar en el futuro.\n\nEstos datos pueden provenir de todas las funciones del bot, siendo las más destacadas los comandos, al usar un comando como este de /telemetria, el bot registra la interacción en su historial de comandos emitidos y muestra un breve resumen de qué servidor se utilizó el comando, como en la impresión adjunta a continuación.\n\nTambién se enumeran otros datos que recopilamos a continuación:\n`Servidores (bot) entrantes y salientes`, `Total de servidores, canales y usuarios que el bot puede ver`, `Errores que ocurren durante un comando`, `Mensajes de texto para experiencias/nivel`, `Movimientos de bufón`, `Canales que reciben actualizaciones gratuitas de juegos`, y finalmente los que se actualizan diariamente:\n\n`Comandos disparados, errores, experiencia otorgada, mensajes xp válidos, bufones distribuidos y movidos, y servidores, canales y usuarios \"conocidos\".`",
                 "rodape": "🔰 | Vale la pena señalar que las entradas de texto también están ocultas, lo que hace que el contenido escrito sea invisible para su privacidad."
             },
             "traduz": {
@@ -393,7 +393,7 @@
                 "desc_badges_publicas": "Muestra tus insignias a otros usuarios.",
                 "desc_clima_resumido": "`Devuelve` </weather:1018653229128622187> `en forma resumida.`",
                 "desc_tarefas_globais": "Vea sus tareas y listas en cualquier servidor.",
-                "alonsal_falador": "Alon hablador",
+                "alonsal_falador": "Alonsal hablador",
                 "permitir_broadcast": "Permitir transmisión",
                 "anuncio_games": "Anuncio de juegos",
                 "denuncias_server": "Quejas en el servidor",
@@ -401,10 +401,10 @@
                 "log_eventos": "Registro de eventos",
                 "anti_spam": "Antispam",
                 "visibilidade_global": "Visible globalmente",
-                "desc_falador": "Alon podrá responder a otros usuarios si incluyen su nombre en algún mensaje",
-                "desc_broadcast": "`Los usuarios del servidor pueden chatear con Slondo usando Alon en este servidor a través del comando`\n</broadcast:1114316224663396472>",
-                "desc_games": "Alon enviará anuncios de juegos gratuitos de forma automática.",
-                "desc_denuncias": "Los usuarios pueden utilizar Alon para realizar reclamaciones dentro del propio servidor.",
+                "desc_falador": "Alonsal podrá responder a otros usuarios si incluyen su nombre en algún mensaje",
+                "desc_broadcast": "`Los usuarios del servidor pueden chatear con Slondo usando Alonsal en este servidor a través del comando`\n</broadcast:1114316224663396472>",
+                "desc_games": "Alonsal enviará anuncios de juegos gratuitos de forma automática.",
+                "desc_denuncias": "Los usuarios pueden utilizar Alonsal para realizar reclamaciones dentro del propio servidor.",
                 "desc_reports": "Los informes de los usuarios que se portan mal se enviarán al servidor.",
                 "desc_logger": "Registro de eventos del servidor.",
                 "desc_spam": "Los mensajes que se consideren spam serán eliminados y el autor será sancionado.",
@@ -521,7 +521,7 @@
                 "historico": "¡Este usuario ha sido reportado en otros servidores anteriormente!",
                 "reportes_externos": "> Informes externos",
                 "status": "Estado",
-                "funcionamento_reportes": "```🧻 Cómo funcionan los informes\n\nLos moderadores de cualquier servidor donde se encuentre Alon registran los informes externos. ¡Un moderador, al registrar un informe a través de /report create, puede compartir esta adición con otros servidores!\n\nAl compartir, Alon enviará un notificación sobre esta adición en el canal especificado a continuación.\n\n📛 Cómo funciona AutoBan\n\nAutoBan es una característica adicional para /report create, cuando está activo, todos los informes que se crean en el servidor también resultarán en la prohibición del usuario reportado.\n\n📣 Cómo funciona el Anuncio de entrada\n\nEl Anuncio de entrada sirve para notificar a los moderadores del servidor si un usuario que ha sido reportado ingresa al servidor, les notificaré sobre ese usuario y su historial de informes.```",
+                "funcionamento_reportes": "```🧻 Cómo funcionan los informes\n\nLos moderadores de cualquier servidor donde se encuentre Alonsal registran los informes externos. ¡Un moderador, al registrar un informe a través de /report create, puede compartir esta adición con otros servidores!\n\nAl compartir, Alonsal enviará un notificación sobre esta adición en el canal especificado a continuación.\n\n📛 Cómo funciona AutoBan\n\nAutoBan es una característica adicional para /report create, cuando está activo, todos los informes que se crean en el servidor también resultarán en la prohibición del usuario reportado.\n\n📣 Cómo funciona el Anuncio de entrada\n\nEl Anuncio de entrada sirve para notificar a los moderadores del servidor si un usuario que ha sido reportado ingresa al servidor, les notificaré sobre ese usuario y su historial de informes.```",
                 "apelido_desconhecido": "¡Apodo desconocido!",
                 "historico_usuario": "> Historial de usuario",
                 "varias_paginas": "páginas, use los botones a continuación para administrar los miembros reportados",
@@ -961,7 +961,7 @@
                 "tempo_jogado": "Tiempo jugado",
                 "hours": "horas",
                 "minutes": "minutos",
-                "sem_link": "El usuario mencionado no ha vinculado a Alon con Steam, ¡intenta buscar su nombre personalizado!",
+                "sem_link": "El usuario mencionado no ha vinculado a Alonsal con Steam, ¡intenta buscar su nombre personalizado!",
                 "nome_invalido": "El nombre proporcionado no es utilizado por ningún perfil en Steam, inténtalo de nuevo."
             },
             "calc": {
@@ -1012,7 +1012,7 @@
                 "obsessao": "Obsesión del momento",
                 "error_1": "Este perfil no existe, intente nuevamente",
                 "error_2": "Ocurrió un error inesperado y no se pudo cargar este perfil desde LastFM, ¡parece que la plataforma no funciona correctamente! Por favor, inténtelo de nuevo más tarde",
-                "sem_link": "El usuario mencionado no ha vinculado a Alon con LastFM, ¡intenta buscar su nombre personalizado!",
+                "sem_link": "El usuario mencionado no ha vinculado a Alonsal con LastFM, ¡intenta buscar su nombre personalizado!",
                 "new_link": "¡Alon ha sido vinculado a tu cuenta `auto_repl`! Ahora cuando uses auto_repl no necesitarás escribir tu nombre todo el tiempo :P"
             },
             "rastreio": {
