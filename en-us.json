@@ -724,7 +724,7 @@
             "warn": {
                 "advertencias": "Warns",
                 "advertidos": "Warned",
-                "desc_advertencias": "Create warns and punish a member after \"N\" warnings.",
+                "desc_advertencias": "Create custom warnings and penalize members",
                 "advertencia_registrada": "The warn has been registered on the server!",
                 "advertencia_cancelada": "The inclusion of the warn has been canceled",
                 "penalidade_server": "Server Penalty",

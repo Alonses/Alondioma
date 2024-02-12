@@ -724,7 +724,7 @@
             "warn": {
                 "advertencias": "Avertissements",
                 "advertidos": "Les utilisateurs prévenus",
-                "desc_advertencias": "Créez des avertissements et punissez un membre après \"N\" avertissements.",
+                "desc_advertencias": "Créez des avertissements personnalisés et pénalisez les membres.",
                 "advertencia_registrada": "L'avertissement a été enregistré sur le serveur!",
                 "advertencia_cancelada": "L'inclusion de l'avertissement a été annulée",
                 "penalidade_server": "Pénalité du serveur",

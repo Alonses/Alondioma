@@ -723,7 +723,7 @@
             "warn": {
                 "advertencias": "Warnungen",
                 "advertidos": "Benutzer gewarnt",
-                "desc_advertencias": "Erstellen Sie Warnungen und bestrafen Sie ein Mitglied nach \"N\" Warnungen.",
+                "desc_advertencias": "Erstellen Sie benutzerdefinierte Warnungen und bestrafen Sie Mitglieder.",
                 "advertencia_registrada": "Die Warnung wurde auf dem Server registriert!",
                 "advertencia_cancelada": "Die Aufnahme der Warnung wurde aufgehoben",
                 "penalidade_server": "Serverstrafe",

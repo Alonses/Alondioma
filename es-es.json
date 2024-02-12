@@ -691,7 +691,7 @@
             "warn": {
                 "advertencias": "Advertencias",
                 "advertidos": "Prevenido",
-                "desc_advertencias": "Cree advertencias y castigue a un miembro después de \"N\" advertencias.",
+                "desc_advertencias": "Crea advertencias personalizadas y penaliza a los miembros.",
                 "advertencia_registrada": "¡El aviso ha quedado registrado en el servidor!",
                 "advertencia_cancelada": "La inclusión del aviso ha sido cancelada",
                 "penalidade_server": "Penalización al servidor",

@@ -719,7 +719,7 @@
             "warn": {
                 "advertencias": "Avvertenze",
                 "advertidos": "Utenti avvisati",
-                "desc_advertencias": "Crea avvisi e punisci un membro dopo gli avvisi \"N\".",
+                "desc_advertencias": "Crea avvisi personalizzati e penalizza i membri.",
                 "advertencia_registrada": "L'avviso è stato registrato sul server!",
                 "advertencia_cancelada": "L'inclusione dell'avviso è stata annullata",
                 "penalidade_server": "Penalità del server",
