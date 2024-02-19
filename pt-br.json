@@ -462,6 +462,7 @@
             "idiomas": {
                 "titulo_idioma": "Idiomas disponíveis",
                 "idioma_server": "Todas as mensagens automáticas agora serão enviadas no idioma:",
+                "idioma_secundario_removido": "O idioma secundário foi removido com sucesso.",
                 "siglas": {
                     "al-br": "Alonsês",
                     "de-de": "Alemão",
@@ -778,7 +779,10 @@
                 "mod_sem_permissao": "Você não pode criar uma advertência neste servidor!\nA punição das advertências neste servidor estão definidas como `auto_repl` e você não possui ela...",
                 "mod_sem_hierarquia": "Você não pode criar uma advertência a um usuário que possui mais permissões que você!",
                 "bot_sem_hierarquia": "Eu não posso criar uma advertência a esse usuário, pois possuo menos permissões que o usuário informado!",
-                "bot_sem_permissao": "Eu não posso criar uma advertência a esse usuário, pois não tenho permissões para `auto_repl` conforme a punição padrão do servidor..."
+                "bot_sem_permissao": "Eu não posso criar uma advertência a esse usuário, pois não tenho permissões para `auto_repl` conforme a punição padrão do servidor...",
+                "sem_advertencia": "O usuário mencionado não possui nenhuma advertência neste servidor!",
+                "gerenciar_advertencia": "Selecione uma das advertências abaixo para poder gerenciar!",
+                "advertencia_titulo": "> Advertências de"
             }
         },
         "util": {
