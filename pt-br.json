@@ -66,7 +66,8 @@
                 "bufunfas": "Bufunfas enceiradas em estoque",
                 "daily": "Próximo </daily:1020794974377353338> disponível",
                 "dica_comando": "Use </daily:1020794974377353338> para coletar Bufunfas!",
-                "dica_rodape": "Você pode usar Bufunfas em customizações, como o /color por exemplo!"
+                "dica_rodape": "Você pode usar Bufunfas em customizações, como o /color por exemplo!",
+                "rank_titulo": "> Ranking de Bufunfas"
             },
             "modulo": {
                 "cabecalho_menu": "> Criando um módulo",
@@ -319,7 +320,20 @@
                 "invocado_2": "vezes",
                 "versao": "Versão",
                 "spawn_alonsal": "Spawnei em ",
-                "ouvindo_agora": "Ouvindo agora:"
+                "ouvindo_agora": "Ouvindo agora:",
+                "guia_estatisticas": "**Algumas estatísticas minhas!**```Há estatísticas para o dia de hoje,\ne estatísticas para o histórico do Alonsal!```",
+                "miscelania": "Miscelânea",
+                "jogos_free": "Jogos Free",
+                "modulos_ativos": "Módulos ativos",
+                "de_hoje": "De hoje",
+                "botoes_clicados": "Botoes clicados",
+                "xp_gerado": "XP gerado",
+                "menus_abertos": "Menus abertos",
+                "historico": "Do histórico",
+                "comandos_usados": "Comandos usados",
+                "spams_freados": "Spams freados",
+                "ultimo_comando": "Último comando",
+                "ativo_desde": "Ativo desde"
             },
             "mail": {
                 "aviso_1": "Há um erro em sua mensagem, tente novamente.",
@@ -413,6 +427,9 @@
                     "10": "Suas Bufunfas serão zeradas"
                 }
             },
+            "guild_data": {
+                "opcoes_rodape": "Configure opções de exclusão abaixo"
+            },
             "telemetria": {
                 "titulo": "> Dados de telemetria",
                 "descricao": "Para um melhor funcionamento do Alonsal utilizamos de vários dados anonimizados para decidir em quais recursos prover mais atenção e melhorar no futuro.\n\nDados esses podem vir de todas as funções do bot, o mais destacado deles é o de comandos, ao usar um comando, como este do /telemetria, o bot registra a interação em seu histórico de comandos disparados e exibe um pequeno resumo de qual servidor o comando foi usado, como na print em anexo abaixo.\n\nOutros dados que também coletamos estão listados abaixo:\n`Entrada e saída (do bot) de servidores`, `Total de servidores, canais e usuários que o bot consegue visualizar`, `Erros que ocorrerem durante um comando`, `Mensagens de texto para as experiências/nível`, `Movimentações de Bufunfas`, `Canais que recebem atualizações de jogos gratuitos`, e por fim estes últimos que são atualizados diariamente:\n\n`Comandos disparados, erros, experiência concedida, mensagens válidas para xp, bufunfas distribuídas e movimentadas, e servidores, canais e usuários \"conhecidos\".`",
@@ -455,7 +472,9 @@
                 "desc_network": "O networking sincroniza ações moderativas entre servidores que fazem parte de um grupo.",
                 "sem_permissoes": "Eu não possuo as permissões necessárias para ativar esse recurso!\nPor favor, verifique minhas permissões requeridas abaixo e conceda elas para poder usar esse recurso.",
                 "salvo_sem_permissao": "Eu salvei as suas entradas para esse comando, porém não ativei ele por falta de permissões!\nConsulte minhas permissões requeridas através do </panel guild:1107163338930126869> para poder ativar esse recurso.",
-                "user_sem_permissao": "Você não possui as permissões requeridas para essa função!"
+                "user_sem_permissao": "Você não possui as permissões requeridas para essa função!",
+                "convites_rastreados": "Convites rastreados",
+                "desc_convites_rastreados": "Apaga os convites de membros quando forem banidos e expulsos."
             }
         },
         "mode": {
@@ -502,7 +521,8 @@
                 "ficara_pago": "Se tornará pago",
                 "sem_games": "Não há nenhum game de graça atualmente!\nConfigure um módulo de anúncios com o </notify config:1018632996787589283> para receber anúncio de forma automática quando aparecerem jogos gratuitos!",
                 "games_gratuitos": "Há games disponíveis para resgate por tempo limitado! auto_repl\n\nResgate os titulos abaixo antes da data para garantir cópias **totalmente de graça** em sua conta na respectiva plataforma.",
-                "descricao": "```🧻 Como funciona\n\nAo ativar esse recurso, enviarei anúncios de games que estiverem gratuitos por tempo limitado no servidor, você pode alterar o canal e o cargo que receberá a notificação pelos botões abaixo!```"
+                "descricao": "```🧻 Como funciona\n\nAo ativar esse recurso, enviarei anúncios de games que estiverem gratuitos por tempo limitado no servidor, você pode alterar o canal e o cargo que receberá a notificação pelos botões abaixo!```",
+                "jogos_disponiveis_rodape": "Há diversos jogos disponíveis para coletar atualmente, acesse o /games em um servidor para ver todos!"
             },
             "canal": {
                 "canal": "Canal",
@@ -608,7 +628,8 @@
                 "castigado_por": "Castigado por auto_repl em auto_repl",
                 "motivo": ", Motivo:",
                 "linkado": "Servidor linkado",
-                "nao_linkado": "Não linkado"
+                "nao_linkado": "Não linkado",
+                "sem_permissao": "Eu não tenho permissões para ver o `Registro de auditoria` do servidor, não é possível ver as aplicações de penalidades!\nA sincronização do Networking não foi concluída. @here"
             },
             "xp": {
                 "permissao": "Você não pode gerenciar os membros deste servidor",
@@ -722,7 +743,24 @@
                 "id_membro": "ID do membro:",
                 "canal_entrada": "<@auto_repl> entrou no canal de voz <#auto_repl>",
                 "canal_saida": "<@auto_repl> saiu do canal de voz <#auto_repl>",
-                "canal_troca": "<@auto_repl> mudou do canal de voz <#auto_repl> para o <#auto_repl>"
+                "canal_troca": "<@auto_repl> mudou do canal de voz <#auto_repl> para o <#auto_repl>",
+                "convite_criado_titulo": "> Convite criado 🔗",
+                "convite_excluido_titulo": "> Convite excluído 🔗",
+                "convite_criado": "Um novo convite para o servidor foi criado!",
+                "convite_excluido": "Um convite foi excluído!",
+                "limite_usos": "Limite de auto_repl usos",
+                "membro_castigado_titulo": "> Membro castigado 🔇",
+                "membro_perdoado_titulo": "> Remoção de castigo 🔊",
+                "membro_castigado": "Um membro foi castigado",
+                "membro_perdoado": "Um membro foi perdoado",
+                "motivo_castigo": "Motivo do castigo",
+                "tempo_castigo": "Tempo de castigo",
+                "apelido_atualizado_titulo": "> Apelido atualizado",
+                "apelido_alterado": "Um membro do servidor atualizou o seu apelido!",
+                "apelido_alterado_moderador": "Um membro teve o seu apelido atualizado por um moderador!",
+                "apelido": "O Apelido",
+                "apelido_novo": "Novo",
+                "apelido_antigo": "Antigo"
             },
             "spam": {
                 "titulo": "> Prevenção de Spam",
@@ -746,7 +784,9 @@
                 "tempo_minimo": "Tempo mínimo",
                 "strikes_desc": "Um membro foi expulso do servidor por meio do sistema de Strikes!",
                 "strikes_kick": "Expulso do servidor pelo sistema de Strikes do Anti-spam",
-                "justificativa_kick": "Você foi expulso do servidor auto_repl por realizar diversos spams.\nSuas últimas mensagens consideradas como spam são as seguintes:"
+                "justificativa_kick": "Você foi expulso do servidor auto_repl por realizar diversos spams.\nSuas últimas mensagens consideradas como spam são as seguintes:",
+                "links_suspeitos": "Links suspeitos",
+                "mencoes": "Menções"
             },
             "warn": {
                 "advertencias": "Advertências",
@@ -782,7 +822,12 @@
                 "bot_sem_permissao": "Eu não posso criar uma advertência a esse usuário, pois não tenho permissões para `auto_repl` conforme a punição padrão do servidor...",
                 "sem_advertencia": "O usuário mencionado não possui nenhuma advertência neste servidor!",
                 "gerenciar_advertencia": "Selecione uma das advertências abaixo para poder gerenciar!",
-                "advertencia_titulo": "> Advertências de"
+                "advertencia_titulo": "> Advertências de",
+                "remocao_em": "Será removida em",
+                "dica_expiracao_rodape": "Você pode desligar a expiração de advertências no /painel guild pela guia de \"🛑 Advertências\""
+            },
+            "link_suspeito": {
+                "detectado": "Um novo link suspeito foi detectado neste servidor!\nMensagens que forem enviadas futuramente e contiverem esse link serão apagadas, e seus autores penalizados."
             }
         },
         "util": {
@@ -942,7 +987,11 @@
                 "desc_LOW": "Precisa ter um e-mail verificado na conta do Discord",
                 "desc_MEDIUM": "Também precisa ter uma conta no Discord há mais de 5 minutos.",
                 "desc_HIGH": "Também precisa ter uma conta no Discord há mais de 10 minutos.",
-                "desc_HIGHEST": "Precisa ter um telefone verificado na conta do Discord."
+                "desc_HIGHEST": "Precisa ter um telefone verificado na conta do Discord.",
+                "convidado": "Convidado por",
+                "cargos_moderativos": "Cargos moderativos",
+                "outros_cargos": "Outros cargos",
+                "foruns": "Fóruns"
             },
             "user": {
                 "id_user": "ID do usuário",
@@ -994,6 +1043,8 @@
                 "criacoes": "Criações",
                 "semanas": "2 Semanas",
                 "artes": "Artes",
+                "videos": "Videos",
+                "total": "Total",
                 "suspeito": "Este usuário pode estar usando de meios ilegais para conseguir conquistas, não considere isso como uma confirmação",
                 "jogo_favorito": "Jogo favorito",
                 "capturas": "Capturas",
@@ -1059,7 +1110,9 @@
                 "error_1": "Este perfil não existe, tente novamente",
                 "error_2": "Houve um erro inesperado e não foi possível carregar este perfil do LastFM, parece que a plataforma não está funcionando normalmente! Por favor, tente novamente mais tarde",
                 "sem_link": "O usuário mencionado não linkou o Alonsal com a LastFM, tente pesquisar pelo nome personalizado do mesmo!",
-                "new_link": "O Alonsal foi vinculado a sua conta `auto_repl`! Agora ao usar auto_repl você não precisará escrever seu nome toda hora :P"
+                "new_link": "O Alonsal foi vinculado a sua conta `auto_repl`! Agora ao usar auto_repl você não precisará escrever seu nome toda hora :P",
+                "ouvindo_agora_card": "está escutando agora!",
+                "nao_esta_ouvindo": "No momento não está sendo ouvido nada..."
             },
             "rastreio": {
                 "local": "Local",
@@ -1155,7 +1208,16 @@
                 "remover_warns": "Remover Warns",
                 "advertencias": "Advertências",
                 "penalidade": "Penalidade",
-                "alterar_dia": "Alterar dia"
+                "expiracao": "Expiração",
+                "expirando": "Expirando",
+                "alterar_dia": "Alterar dia",
+                "proximo": "Próximo",
+                "inicio": "Início",
+                "destino": "Destino",
+                "convite": "Convite",
+                "ver_jogos_free": "Ver jogos Free",
+                "excluir_tudo": "Excluir tudo",
+                "definir_exclusao": "Definir exclusão"
             },
             "menus": {
                 "selecionar_operacao": "Selecione a operação desejada abaixo",
