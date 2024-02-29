@@ -610,10 +610,6 @@
                 "ativo": "Tasks will now be shown globally.\nYou'll be able to see all your lists and tasks on any server I'm on too!",
                 "desativo": "Tasks will now be shown by server, separately.\nYou can create lists with the same name for different servers."
             },
-            "public": {
-                "ativado": "Server name will be shown in global ranking for all servers now!",
-                "desativado": "The server will no longer be shown in the global ranking."
-            },
             "emojis": {
                 "permissao": "I don't have the permission to manage the emojis and stickers on this server.",
                 "emoji_reservado": "This emoji is used by me! We cannot remove.",

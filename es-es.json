@@ -580,10 +580,6 @@
                 "ativo": "Las tareas ahora se mostrarán globalmente.\n¡También podrás ver todas tus listas y tareas en cualquier servidor en el que esté!",
                 "desativo": "Las tareas ahora se mostrarán por servidor, por separado.\nPuede crear listas con el mismo nombre para diferentes servidores."
             },
-            "public": {
-                "ativado": "¡El nombre del servidor se mostrará en la clasificación global para todos los servidores ahora!",
-                "desativado": "El servidor ya no se mostrará en el ranking global."
-            },
             "emojis": {
                 "permissao": "No tengo permitido administrar emojis y stickers en este servidor.",
                 "emoji_reservado": "¡Este emoji es usado por mí! no podemos quitarlo",

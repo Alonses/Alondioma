@@ -606,10 +606,6 @@
                 "ativo": "Le attività verranno ora mostrate a livello globale.\nPotrai vedere tutte le tue liste e attività anche su qualsiasi server su cui mi trovo!",
                 "desativo": "Le attività verranno ora visualizzate per server, separatamente.\nPuoi creare elenchi con lo stesso nome per server diversi."
             },
-            "public": {
-                "ativado": "Il nome del server verrà ora mostrato nella classifica globale per tutti i server!",
-                "desativado": "Il server non verrà più mostrato nella classifica globale."
-            },
             "emojis": {
                 "permissao": "Non sono autorizzato a gestire emoji e adesivi su questo server.",
                 "emoji_reservado": "Questa emoji è usata da me! Non possiamo rimuoverlo",

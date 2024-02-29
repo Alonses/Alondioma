@@ -216,6 +216,13 @@
                 "consoantes": "Consoantes:",
                 "numeros": "Números:",
                 "sem_emoji": "Você precisa incluir um emoji para executar esse comando, por favor, tente novamente"
+            },
+            "speaker": {
+                "canais_permitidos": "canais permitidos",
+                "sem_canal": "nenhum canal selecionado",
+                "descricao": "```🧻 Como funciona\n\nO Alonsal falador é um recurso que poder ser usado para conversar com o bot através do servidor de forma dinâmica, os retornos que ele te mostrará não são filtrados, sendo assim, nós não temos controle do que ele dirá!\n\nVocê pode limitar esse recurso para funcionar em apenas alguns canais, ou ativar no servidor inteiro!```",
+                "limitar_canais": "Limitar canais",
+                "canais_conversacao": "Canais de conversação"
             }
         },
         "game": {
@@ -365,7 +372,7 @@
             "data": {
                 "ranking_guilds": "Ranking nos seguintes servidores",
                 "dados_conhecidos": "> Seus dados conhecidos",
-                "resumo_dados": "Este é um resumo dos dados que salvei sobre você",
+                "resumo_dados": "Este é um resumo dos dados que salvei sobre você\nauto_repl\n**Recursos configurados:**",
                 "dica_rodape": "Você pode excluir todos os seus dados com o comando /data excluir",
                 "dados_removidos": "Seus dados foram removidos do",
                 "sem_dados": "Você não possui dados salvos por aqui ;)",
@@ -392,6 +399,16 @@
                 "exclusao_niveis": "Exclusão por níveis",
                 "dados_excluidos": "Seus dados foram excluídos com sucesso.",
                 "selecionar_menus": "Use os botões abaixo para decidir o que fará em seguida!",
+                "dados_salvos": "Dados salvos de você",
+                "servidores_com_moderacao": "Servidores onde você possui moderação",
+                "servidores_conhecidos": "servidores conhecidos",
+                "selecionar_operacoes_exclusao": "Configure opções de exclusão abaixo",
+                "tempo_exclusao_global": "Tempo de exclusão global",
+                "resumo_detalhado": "```fix\nAo ser movido para exclusão, o Alonsal irá ignorar todas as mensagens enviadas nos chats por você, o tempo de exclusão após o período de inatividade definida é de 14 dias, dentro dessa janela ainda é possível reverter o processo de exclusão de seus dados caso use algum comando do Alonsal.\n\nA exclusão dos dados será realizada após o periodo de inatividade definido somado a outros 14 dias de forma automática, você pode definir esse tempo de inatividade através dos botões abaixo.\n\nAo apagar os dados, o Alonsal irá remover completamente os dados salvos relacionados a você, incluindo o registro de ranking de todos os servidores ao qual possui registro, todas as tarefas criadas, módulos programados e tickets de denúncia abertos.```auto_repl\n**Recursos do servidor:**",
+                "excluir_apos": "Excluir dados após",
+                "tempo_por_servidor": "Tempo de exclusão por servidor",
+                "de_inatividade": "de inatividade",
+                "inatividade_2": "de inatividade no servidor.\n( Acrescido de outros `14 dias` após confirmação de inatividade )\n",
                 "selects": {
                     "uni": {
                         "1": "Locale",
@@ -428,7 +445,25 @@
                 }
             },
             "guild_data": {
-                "opcoes_rodape": "Configure opções de exclusão abaixo"
+                "opcoes_rodape": "Configure opções de exclusão abaixo",
+                "dados_servidor_titulo": "> Dados do servidor",
+                "reportes_criados": "Reportes criados",
+                "advertencias_ativas": "Advertências ativas",
+                "ranking_servidor": "Ranking do servidor",
+                "reporte": "reporte",
+                "reportes": "reportes",
+                "advertencia": "advertência",
+                "advertencias": "advertências",
+                "membro": "membro",
+                "membros": "membros",
+                "network_servidores": "Faz networking com outros auto_repl servidores",
+                "network_unico": "Faz networking com um outro servidor",
+                "outros_servidores": "Outros servidores no link",
+                "sem_servidores": "`Sem servidores`",
+                "resumo_dados": "Este é um resumo dos dados que salvei sobre o servidor e seus membros\nauto_repl\n**Recursos do servidor:",
+                "tempo_exclusao": "Tempo de exclusão",
+                "excluir_apos": "Excluir dados após `auto_repl dias`\n",
+                "resumo_expandido": "```fix\nAo ser removido do servidor, o Alonsal irá desativar a maioria dos recursos listados abaixo.\n\nA exclusão dos dados será realizada após um período de forma automática, você pode definir esse tempo através dos botões abaixo.\n\nAo apagar os dados, o Alonsal irá remover completamente os dados salvos do servidor, incluindo o registro de ranking, a redefinição da origem de reportes e links suspeitos e remoção de advertências salvas.```auto_repl\n**Recursos do servidor:"
             },
             "telemetria": {
                 "titulo": "> Dados de telemetria",
@@ -474,7 +509,11 @@
                 "salvo_sem_permissao": "Eu salvei as suas entradas para esse comando, porém não ativei ele por falta de permissões!\nConsulte minhas permissões requeridas através do </panel guild:1107163338930126869> para poder ativar esse recurso.",
                 "user_sem_permissao": "Você não possui as permissões requeridas para essa função!",
                 "convites_rastreados": "Convites rastreados",
-                "desc_convites_rastreados": "Apaga os convites de membros quando forem banidos e expulsos."
+                "desc_convites_rastreados": "Apaga os convites de membros quando forem banidos e expulsos.",
+                "modo_compacto": "Modo compacto",
+                "desc_modo_compacto": "",
+                "servidores_conhecidos": "Servidores conhecidos",
+                "desc_servidores_conhecidos": "Sincroniza os servidores conhecidos quando você entra ou sai."
             }
         },
         "mode": {
@@ -629,7 +668,10 @@
                 "motivo": ", Motivo:",
                 "linkado": "Servidor linkado",
                 "nao_linkado": "Não linkado",
-                "sem_permissao": "Eu não tenho permissões para ver o `Registro de auditoria` do servidor, não é possível ver as aplicações de penalidades!\nA sincronização do Networking não foi concluída. @here"
+                "sem_permissao": "Eu não tenho permissões para ver o `Registro de auditoria` do servidor, não é possível ver as aplicações de penalidades!\nA sincronização do Networking não foi concluída. @here",
+                "falta_permissao": "Não é possível definir um cargo para o anúncio sem a permissão de \"Gerenciar cargos\" concedida.",
+                "falta_serviores": "O Networking precisa de mais servidores no mesmo link para ser ativo.",
+                "sem_canal": "Sem canal definido"
             },
             "xp": {
                 "permissao": "Você não pode gerenciar os membros deste servidor",
@@ -656,10 +698,6 @@
             "tasks": {
                 "ativo": "Agora as tarefas serão mostradas globalmente.\nVocê conseguirá ver todas as suas listas e tarefas em qualquer servidor em que eu também estiver!",
                 "desativo": "Agora as tarefas serão mostradas por servidor, separadamente.\nVocê poderá criar listas com o mesmo nome para servidores diferentes."
-            },
-            "public": {
-                "ativado": "O nome do servidor será mostrado no ranking global para todos os servidores agora!",
-                "desativado": "O servidor não será mais mostrado no ranking global."
             },
             "emojis": {
                 "permissao": "Não tenho permissão para gerenciar emojis e figurinhas neste servidor.",
@@ -824,10 +862,29 @@
                 "gerenciar_advertencia": "Selecione uma das advertências abaixo para poder gerenciar!",
                 "advertencia_titulo": "> Advertências de",
                 "remocao_em": "Será removida em",
-                "dica_expiracao_rodape": "Você pode desligar a expiração de advertências no /painel guild pela guia de \"🛑 Advertências\""
+                "dica_expiracao_rodape": "Você pode desligar a expiração de advertências no /painel guild pela guia de \"🛑 Advertências\"",
+                "descricao_painel_visualizacao": "Esse é o painel de usuários que possuem advertências ativas no servidor e que receberam denúncias em servidores externos e estão presentes neste servidor.",
+                "verificar_warn": "Selecione qual área deseja visualizar com os botões abaixo.",
+                "descricao_advertencias": "```🧻 Funcionamento do sistema de advertências\n\nEsse sistema registra advertências a longo prazo criado pelos moderadores do servidor!\n\nVocê pode definir qual será a penalidade, a quantidade de advertências do servidor e as penalidades pelos botões abaixo.\n\n🧻 Advertência com validade:\nAo ativar esse recurso, as advertências serão removidas após um tempo definido de forma automática, você pode usar esse recurso de modo a não precisar verificar um usuário toda vez, removendo suas advertências manualmente.```",
+                "expulsao_na": "Expulsão na",
+                "com_validade": "Com validade",
+                "validade": "Validade",
+                "expira_em": "Expira em",
+                "no_momento": "no momento",
+                "aviso_rodape_expulsao": "Os membros estão sendo expulsos da 1° advertência, por gentileza, altere essa configuração para poder ativar esse recurso."
             },
             "link_suspeito": {
                 "detectado": "Um novo link suspeito foi detectado neste servidor!\nMensagens que forem enviadas futuramente e contiverem esse link serão apagadas, e seus autores penalizados."
+            },
+            "roles": {
+                "titulo_atribuidor": "> Atribuindo cargos",
+                "descricao_atribuidor": "Este é um atribuidor de cargos, selecione os cargos que serão atribuídos de forma automática para os membros desse servidor, e se membros que possuem determinados cargos serão ignorados.",
+                "nenhum": "`Nenhum`",
+                "cargo_selecionado": "Cargo selecionado",
+                "atribuir_selecionados": "Atribuir selecionados",
+                "ignorando_nenhum": "Ignorando nenhum",
+                "ignorar_membros": "Ignorar membros",
+                "ignorar_membros_com_cargos": "`Que já possuírem algum cargo`"
             }
         },
         "util": {
@@ -1206,7 +1263,6 @@
                 "estatisticas": "Estatísticas",
                 "remover_strikes": "Remover Strikes",
                 "remover_warns": "Remover Warns",
-                "advertencias": "Advertências",
                 "penalidade": "Penalidade",
                 "expiracao": "Expiração",
                 "expirando": "Expirando",
@@ -1217,7 +1273,14 @@
                 "convite": "Convite",
                 "ver_jogos_free": "Ver jogos Free",
                 "excluir_tudo": "Excluir tudo",
-                "definir_exclusao": "Definir exclusão"
+                "definir_exclusao": "Definir exclusão",
+                "ajustes": "Ajustes",
+                "notificacoes": "Notificações",
+                "definir_inatividade": "Definir inatividade",
+                "sincronizar_servidores": "Sincronizar servidores",
+                "cargos_atribuidos": "Cargos atribuídos",
+                "ignorar_cargos": "Ignorar cargos",
+                "iniciar_atribuicao": "Iniciar atribuição"
             },
             "menus": {
                 "selecionar_operacao": "Selecione a operação desejada abaixo",
