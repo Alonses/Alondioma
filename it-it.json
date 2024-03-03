@@ -34,7 +34,7 @@
         "misc": {
             "daily": {
                 "daily": "Bufunfas raccolti! Hai ricevuto `B$ auto_repl` Bufunfas, controlla domani per maggiori informazioni",
-                "error": "Hai già raccolto oggi! Usa di nuovo il comando"
+                "error": "Hai già raccolto oggi! Usa di nuovo il comando <t:auto_repl:R>\n( <t:auto_repl:f> )"
             },
             "color": {
                 "cor_ativa": "Stai già usando questo colore!",
@@ -51,7 +51,7 @@
                 "error_2": "Inserisci un numero positivo per depositare",
                 "error_3": "Non puoi trasferirti su te stesso!",
                 "user_bot": "Non puoi trasferire Bufunfas a bot diversi da me!",
-                "sucesso": "Trasferimento approvato! `B$ auto_repl` Bufunfas sono stati depositati sul conto di",
+                "sucesso": "Trasferimento approvato! `B$ auto_repl` Bufunfas sono stati depositati sul conto di <@!auto_repl>",
                 "notifica": "Hai appena ricevuto un deposito! <@!auto_repl> ha depositato `B$ auto_repl` Bufunfas nel tuo account! Sìì",
                 "nova_transferencia": "> Nuovo trasferimento",
                 "transferindo": "Trasferimento",
@@ -495,7 +495,7 @@
             "denuncia": {
                 "desativado": "I rapporti sulle chat private sono disabilitati per questo server, avvisa un moderatore di questa funzione! :P",
                 "introducao": "La tua chat è stata aperta, <#auto_repl>, usala per segnalare e allegare file se necessario.",
-                "canal_aberto": "Hai già un canale di segnalazione aperto!",
+                "canal_aberto": "Hai già un canale di segnalazione aperto! ( <#auto_repl> )",
                 "canal_fechado": "Non hai un canale di segnalazione aperto!",
                 "fechando_canal": "Questo canale verrà chiuso auto_repl, grazie!",
                 "erro_1": "Si è verificato un errore e non è stato possibile creare il canale in questo momento, riprova più tardi",
@@ -700,9 +700,9 @@
                 "ping_expulsao": "auto_repl è stato espulso a causa di ripetuti attacchi di spam",
                 "silenciado": "Sei stato disattivato sul server `auto_repl` a causa di diversi messaggi considerati spam\nI messaggi considerati spam sono i seguenti:",
                 "aviso_links": "Il tuo account potrebbe essere nelle mani di altre persone, se vedi questo messaggio, controlla le tue impostazioni di sicurezza modificando la password, abilitando le verifiche in due passaggi e disconnettendo il tuo account da dispositivi sconosciuti per non perdere l'accesso al tuo account.",
-                "falta_permissoes_1": "Impossibile bloccare lo spam dall'utente auto_repl a causa della mancanza di autorizzazioni bot.\nI messaggi inviati considerati spam sono i seguenti.",
-                "falta_permissoes_2": "Impossibile disabilitare l'utente auto_repl a causa della mancanza di autorizzazioni\nAssicurati di avere l'autorizzazione `Punisci membri` e che il mio ruolo sia sopra gli altri ruoli nell'elenco dei ruoli per evitare spam da utenti di livello inferiore.",
-                "falta_permissoes_3": "Impossibile espellere l'utente auto_repl a causa della mancanza di permessi\nAssicurati di avere l'autorizzazione `Espulsa membri` e che il mio ruolo sia superiore rispetto agli altri ruoli nell'elenco dei ruoli in modo da poter evitare spam dagli utenti seguenti.",
+                "falta_permissoes_1": "@here\nImpossibile bloccare lo spam dall'utente auto_repl a causa della mancanza di autorizzazioni bot.\nI messaggi inviati considerati spam sono i seguenti.",
+                "falta_permissoes_2": "@here\nImpossibile disabilitare l'utente auto_repl a causa della mancanza di autorizzazioni\nAssicurati di avere l'autorizzazione `Punisci membri` e che il mio ruolo sia sopra gli altri ruoli nell'elenco dei ruoli per evitare spam da utenti di livello inferiore.",
+                "falta_permissoes_3": "@here\nImpossibile espellere l'utente auto_repl a causa della mancanza di permessi\nAssicurati di avere l'autorizzazione `Espulsa membri` e che il mio ruolo sia superiore rispetto agli altri ruoli nell'elenco dei ruoli in modo da poter evitare spam dagli utenti seguenti.",
                 "strikes": "📜 Strikes",
                 "punicoes_niveis": "Punizioni per livelli",
                 "strikes_ativo": "\n\nIl sistema di strike è attivo su questo server! Gli utenti ricorrenti di anti-spam verranno puniti nell'ordine descritto di seguito.\n\n1° evento -> 2 ore\n2° evento -> 6 ore\n3° evento -> 2 giorni\n4° evento -> 7 giorni\n5° evento -> Espulsione",
@@ -758,7 +758,7 @@
             "wiki": {
                 "wiki_slondo": "Non sul wiki, cerca altrove! :sunglasses:",
                 "topicos_rel": "Argomenti correlati",
-                "sem_dados": "Non ho trovato nulla relativo alla tua ricerca.",
+                "sem_dados": "Non ho trovato nulla relativo alla tua ricerca [ `auto_repl` ], riprova",
                 "auto_pesquisa": "Perché stai cercando te stesso? non c'è niente su di te qui",
                 "artigo_completo": "Articolo completo"
             },
@@ -794,7 +794,7 @@
                 "reverso": "Il tuo testo invertito"
             },
             "tempo": {
-                "aviso_2": "Non ho trovato nessun posto chiamato",
+                "aviso_2": "Non ho trovato nessun posto chiamato `auto_repl`, riprova",
                 "aviso_3": "Si è verificato un errore con l'API meteo e il meteo non è attualmente ricercabile",
                 "aviso_continente": "Questi dati sono una media di tutti i valori per il continente esaminato.",
                 "aviso_pais": "Questi dati sono una media di tutti i valori per il paese intervistato.",
@@ -843,8 +843,7 @@
                 "sem_local": "Non ho trovato nessuna località con questo nome, riprova."
             },
             "minecraft": {
-                "nao_encontrado": "Non ho trovato nessun elemento o blocco con il nome",
-                "tente_novamente": "riprova",
+                "nao_encontrado": "Non ho trovato nessun elemento o blocco con il nome `auto_repl`, riprova",
                 "error_1": "Impossibile caricare la base dell'articolo al momento, riprova più tardi",
                 "coletavel": "Ca collezione",
                 "versao_add": "Versione aggiunta",

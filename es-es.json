@@ -34,7 +34,7 @@
         "misc": {
             "daily": {
                 "daily": "¡Recolectado diariamente! Recibiste `B$ auto_repl` Bufunfas, vuelve mañana para obtener más",
-                "error": "¡Ya has recogido tu diario! Usa el comando de nuevo"
+                "error": "¡Ya has recogido tu diario! Usa el comando de nuevo <t:auto_repl:R>\n( <t:auto_repl:f> )"
             },
             "color": {
                 "cor_ativa": "¡Ya estás usando este color!",
@@ -51,7 +51,7 @@
                 "error_2": "Ingrese un número positivo para depositar",
                 "error_3": "¡No puedes transferirte a ti mismo!",
                 "user_bot": "¡No puedes transferir Bufunfas a otros bots que no sean yo!",
-                "sucesso": "Transferencia aprobada! `B$ auto_repl` Bufunfas fueron depositadas en la cuenta de",
+                "sucesso": "Transferencia aprobada! `B$ auto_repl` Bufunfas fueron depositadas en la cuenta de <@!auto_repl>",
                 "notifica": "¡Acabas de recibir un depósito! ¡<@!auto_repl> ha depositado `B$ auto_repl` Bufunfas en su cuenta! Hurra",
                 "nova_transferencia": "> Nueva transferencia",
                 "transferindo": "Transfiriendo",
@@ -474,7 +474,7 @@
             "denuncia": {
                 "desativado": "Las quejas en canales privados están desactivadas en este servidor, notifique a un moderador sobre esta función. :P",
                 "introducao": "Tu chat ha sido abierto, <#auto_repl>, úsalo para reportar y adjuntar archivos si es necesario.",
-                "canal_aberto": "¡Ya tienes un canal de denuncia abierto!",
+                "canal_aberto": "¡Ya tienes un canal de denuncia abierto! ( <#auto_repl> )",
                 "canal_fechado": "¡No tienes un canal de denuncia abierto!",
                 "fechando_canal": "Este canal se cerrará auto_repl, ¡gracias!",
                 "erro_1": "Ocurrió un error y no se pudo crear el canal en este momento, inténtalo de nuevo más tarde",
@@ -671,9 +671,9 @@
                 "ping_expulsao": "auto_repl fue expulsado debido a repetidos ataques de spam.",
                 "silenciado": "Has sido silenciado en el servidor `auto_repl` debido a varios mensajes considerados spam\nLos mensajes que fueron considerados spam son los siguientes:",
                 "aviso_links": "Tu cuenta puede estar en manos de otras personas, si ves este mensaje revisa tu configuración de seguridad, cambiando tu contraseña, activando las verificaciones en 2 pasos y desconectando tu cuenta de dispositivos desconocidos para que no pierdas el acceso a la cuenta.",
-                "falta_permissoes_1": "No se puede detener el spam del usuario auto_repl debido a la falta de permisos del bot.\nLos mensajes enviados considerados spam son los siguientes.",
-                "falta_permissoes_2": "No se puede silenciar al usuario auto_repl debido a la falta de permisos\nAsegúrese de tener el permiso `Castigar a los miembros` y de que mi función esté por encima de las otras funciones en la lista de funciones para poder evitar el spam para los usuarios de nivel inferior.",
-                "falta_permissoes_3": "No se puede expulsar al usuario auto_repl debido a la falta de permisos\nAsegúrese de tener el permiso `Expulsar miembros` y de que mi función sea superior a las otras funciones en la lista de funciones para poder evitar el spam de los usuarios siguientes.",
+                "falta_permissoes_1": "@here\nNo se puede detener el spam del usuario auto_repl debido a la falta de permisos del bot.\nLos mensajes enviados considerados spam son los siguientes.",
+                "falta_permissoes_2": "@here\nNo se puede silenciar al usuario auto_repl debido a la falta de permisos\nAsegúrese de tener el permiso `Castigar a los miembros` y de que mi función esté por encima de las otras funciones en la lista de funciones para poder evitar el spam para los usuarios de nivel inferior.",
+                "falta_permissoes_3": "@here\nNo se puede expulsar al usuario auto_repl debido a la falta de permisos\nAsegúrese de tener el permiso `Expulsar miembros` y de que mi función sea superior a las otras funciones en la lista de funciones para poder evitar el spam de los usuarios siguientes.",
                 "strikes": "📜 Strikes",
                 "punicoes_niveis": "Castigos por niveles",
                 "strikes_ativo": "\n\n¡El sistema de strikes está activo en este servidor! Los usuarios reincidentes de antispam serán castigados en el orden descrito a continuación.\n\n1er incidente -> 2 horas\n2do incidente -> 6 horas\n3er incidente -> 2 días\n4to incidente -> 7 días\n5to incidente -> Expulsión",
@@ -730,7 +730,7 @@
             "wiki": {
                 "wiki_slondo": "Este vagabundo no está en la wiki, ¡busca algo más! :sunglasses:",
                 "topicos_rel": "Temas relacionados",
-                "sem_dados": "No encontré nada relacionado con tu búsqueda.",
+                "sem_dados": "No encontré nada relacionado con tu búsqueda [ `auto_repl` ], inténtalo de nuevo",
                 "auto_pesquisa": "¿Por qué te investigas a ti mismo? no hay nada sobre ti aquí",
                 "artigo_completo": "Articulo completo"
             },
@@ -766,7 +766,7 @@
                 "reverso": "Tu mensaje al revés"
             },
             "tempo": {
-                "aviso_2": "Não encontrei nenhum local chamado",
+                "aviso_2": "Não encontrei nenhum local chamado `auto_repl`, inténtalo de nuevo",
                 "aviso_3": "Hubo un error con la API del clima y no es posible buscar el clima en este momento",
                 "aviso_continente": "Estos datos son un promedio de todos los valores para el continente encuestado.",
                 "aviso_pais": "Estos datos son un promedio de todos los valores para el país encuestado.",
@@ -815,8 +815,7 @@
                 "sem_local": "No pude encontrar ninguna ubicación con ese nombre, inténtalo de nuevo."
             },
             "minecraft": {
-                "nao_encontrado": "No encontré ningún elemento o bloque con el nombre",
-                "tente_novamente": "inténtalo de nuevo",
+                "nao_encontrado": "No encontré ningún elemento o bloque con el nombre `auto_repl`, inténtalo de nuevo",
                 "error_1": "No se puede cargar la base de artículos en este momento, inténtalo de nuevo más tarde",
                 "coletavel": "Coleccionable",
                 "tipo": "Tipo de artículo",

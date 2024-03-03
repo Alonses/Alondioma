@@ -37,7 +37,7 @@
         "misc": {
             "daily": {
                 "daily": "Daily coletado! Você recebeu `B$ auto_repl` Bufunfas, retorne amanhã para mais",
-                "error": "Você já coletou seu daily! Use o comando novamente"
+                "error": "Você já coletou seu daily! Use o comando novamente <t:auto_repl:R>\n( <t:auto_repl:f> )"
             },
             "color": {
                 "cor_ativa": "Você já está usando essa cor!",
@@ -54,7 +54,7 @@
                 "error_2": "Informe um número positivo para depositar",
                 "error_3": "Você não pode transferir para si mesmo!",
                 "user_bot": "Você não pode transferir Bufunfas para outros bots além de mim!",
-                "sucesso": "Transferência aprovada! `B$ auto_repl` Bufunfas foram depositadas na conta de",
+                "sucesso": "Transferência aprovada! `B$ auto_repl` Bufunfas foram depositadas na conta de <@!auto_repl>",
                 "notifica": "Você acabou de receber um depósito! <@!auto_repl> depositou `B$ auto_repl` Bufunfas em sua conta! Obaa",
                 "nova_transferencia": "> Nova transferência",
                 "transferindo": "Transferindo",
@@ -413,6 +413,9 @@
                 "descricao_tempo_inatividade": "Todos os seus dados serão marcados para exclusão.\n\nApós a confirmação, o Alonsal irá mover seus dados para uma quarentena de 14 dias, e após isso, todos os dados relacionados a você serão removidos de nossa base de dados.\n\nAntes do prazo se expirar, você deverá usar um comando nosso novamente para evitar que seus dados sejam removidos.\n\nPor padrão, todos os usuários possuem um tempo de inatividade que aciona essa funcionalidade de expiração, caso deseje manter seus dados por mais tempo, considere retornar e aumentar o tempo de inatividade.",
                 "hoster_alonsal": "Adicionou-me ao servidor",
                 "aviso_movido_exclusao_dm": "Olá! Esperamos que essa mensagem alcance você bem\nEste é um aviso prévio que estamos enviando sobre os seus dados que foram salvos no Alonsal!\n\nNotamos que você está sem interagir conosco a bastante tempo já...\nPor isso, estamos movendo todos os dados relacionados a você que coletamos para exclusão!\n\nEstaremos realizando a exclusão de tudo <t:auto_repl:R> ( <t:auto_repl:f> ).\nCaso queira interromper essa ação, é necessário usar algum comando conosco antes do tempo terminar!\n\nEsperamos que tenha tido um bom divertimento conosco, obrigado pela confiança e até uma próxima!! ;D",
+                "aviso_remocao_exclusao": "Olá! Devido a sua interação comigo, removi você da lista de exclusão dos dados!\n\nCaso isso tenha sido um erro, por gentileza, use o comando </data:1018609879470047260> novamente em um servidor.",
+                "salvos_cache": "Os servidores salvos em cache foram atualizados!\nAtualmente você possui moderação em `auto_repl servidores`",
+                "hoster_convites": "Convidou o Alonsal para auto_repl servidores",
                 "selects": {
                     "uni": {
                         "1": "Locale",
@@ -450,7 +453,7 @@
             },
             "guild_data": {
                 "opcoes_rodape": "Configure opções de exclusão abaixo",
-                "dados_servidor_titulo": "> Dados do servidor",
+                "dados_servidor_titulo": "> Dados do servidor 🌐",
                 "reportes_criados": "Reportes criados",
                 "advertencias_ativas": "Advertências ativas",
                 "ranking_servidor": "Ranking do servidor",
@@ -464,11 +467,11 @@
                 "network_unico": "Faz networking com um outro servidor",
                 "outros_servidores": "Outros servidores no link",
                 "sem_servidores": "`Sem servidores`",
-                "resumo_dados": "Este é um resumo dos dados que salvei sobre o servidor e seus membros\nauto_repl\n**Recursos do servidor:",
+                "resumo_dados": "Este é um resumo dos dados que salvei sobre o servidor e seus membros\nauto_repl\n**Recursos do servidor:**",
                 "tempo_exclusao": "Tempo de exclusão",
                 "descricao_quebra_link": "**Ao confirmar a quebra de link este servidor será removido do grupo do network**.\n\nOs servidores listados abaixo continuarão com o link ativo, porém este servidor não fará mais parte do mesmo.",
                 "excluir_apos": "Excluir dados após `auto_repl dias`\n",
-                "resumo_expandido": "```fix\nAo ser removido do servidor, o Alonsal irá desativar a maioria dos recursos listados abaixo.\n\nA exclusão dos dados será realizada após um período de forma automática, você pode definir esse tempo através dos botões abaixo.\n\nAo apagar os dados, o Alonsal irá remover completamente os dados salvos do servidor, incluindo o registro de ranking, a redefinição da origem de reportes e links suspeitos e remoção de advertências salvas.```auto_repl\n**Recursos do servidor:",
+                "resumo_expandido": "```fix\nAo ser removido do servidor, o Alonsal irá desativar a maioria dos recursos listados abaixo.\n\nA exclusão dos dados será realizada após um período de forma automática, você pode definir esse tempo através dos botões abaixo.\n\nAo apagar os dados, o Alonsal irá remover completamente os dados salvos do servidor, incluindo o registro de ranking, a redefinição da origem de reportes e links suspeitos e remoção de advertências salvas.```auto_repl\n**Recursos do servidor:**",
                 "remover_canal": "Remover canal"
             },
             "telemetria": {
@@ -588,7 +591,7 @@
             "denuncia": {
                 "desativado": "As denúncias em chats privados estão desabilitados para esse servidor, avise um moderador sobre essa função! :P",
                 "introducao": "Seu chat foi aberto, <#auto_repl>, use ele para fazer denúncias e anexar arquivos caso necessário.",
-                "canal_aberto": "Você já possui um canal de denúncia aberto!",
+                "canal_aberto": "Você já possui um canal de denúncia aberto! ( <#auto_repl> )",
                 "canal_fechado": "Você não possui um canal de denúncia aberto!",
                 "fechando_canal": "Este canal será fechado auto_repl, obrigado!",
                 "erro_1": "Houve um erro e não foi possível criar o canal no momento, por favor, tente novamente mais tarde",
@@ -753,7 +756,7 @@
                 "ativado": "O log de eventos do servidor agora está ativo, todos os eventos serão enviados no canal auto_repl",
                 "desativado": "O log de eventos do servidor agora está desativado\nUse o </panel guild:1107163338930126869>, ou o comando </conf guild:1094346210636214304> mencionando um canal para ativar novamente!",
                 "falta_vinculo": "É preciso configurar um canal com o comando </conf guild:1094346210636214304> antes de poder ativar pelo painel.",
-                "permissao": "Eu não possuo permissão para `Ver o registro de auditoria`, eu preciso dessa permissão para fornecer detalhes mais refinados dos eventos do log.",
+                "permissao": "@here\nEu não possuo permissão para `Ver o registro de auditoria`, eu preciso dessa permissão para fornecer detalhes mais refinados dos eventos do log.",
                 "falta_escrita_visualizacao": "Eu não posso ver e nem enviar mensagens nesse canal! Por favor, verifique minhas permissões para poder ativar o log de eventos neste canal.",
                 "mencao_canal": "Você não mencionou nenhum canal, e não possui um canal salvo em cache!\nPor favor, utilize o comando novamente mencionando um canal",
                 "canal_excluido": "O canal salvo em cache não existe mais!\nUse o comando novamente mencionando um canal válido para poder ver retornos automáticos.",
@@ -830,9 +833,9 @@
                 "ping_expulsao": "auto_repl foi expulso devido a repetidos strikes de spam",
                 "silenciado": "Você foi silenciado no servidor `auto_repl` devido a várias mensagens consideradas como spam\nAs mensagens que foram consideradas como spam são as seguintes:",
                 "aviso_links": "Sua conta pode estar nas mãos de outras pessoas, caso veja esta mensagem, verifique suas configurações de segurança, alterando sua senha, ativando verificações em 2 etapas e desconectando sua conta de aparelhos desconhecidos para que não perca o acesso a conta.",
-                "falta_permissoes_1": "Não foi possível interromper um spam do usuário auto_repl por falta de permissões do bot.\nAs mensagens enviadas consideradas spam são as seguintes.",
-                "falta_permissoes_2": "Não foi possível silenciar o usuário auto_repl devido a falta de permissões\nGaranta que eu tenha a permissão `Membros de castigo` e que meu cargo esteja acima dos demais cargos na lista de cargos, para que eu possa previnir spam's de usuários abaixo do nível.",
-                "falta_permissoes_3": "Não foi possível expulsar o usuário auto_repl devido a falta de permissões\nGaranta que eu tenha a permissão `Expulsar membros` e que meu cargo esteja acima dos demais cargos na lista de cargos, para que eu possa previnir spam's de usuários abaixo do nível.",
+                "falta_permissoes_1": "@here\nNão foi possível interromper um spam do usuário auto_repl por falta de permissões do bot.\nAs mensagens enviadas consideradas spam são as seguintes.",
+                "falta_permissoes_2": "@here\nNão foi possível silenciar o usuário auto_repl devido a falta de permissões\nGaranta que eu tenha a permissão `Membros de castigo` e que meu cargo esteja acima dos demais cargos na lista de cargos, para que eu possa previnir spam's de usuários abaixo do nível.",
+                "falta_permissoes_3": "@here\nNão foi possível expulsar o usuário auto_repl devido a falta de permissões\nGaranta que eu tenha a permissão `Expulsar membros` e que meu cargo esteja acima dos demais cargos na lista de cargos, para que eu possa previnir spam's de usuários abaixo do nível.",
                 "strikes": "📜 Strikes",
                 "punicoes_niveis": "Punições por níveis",
                 "strikes_ativo": "\n\nO sistema de strikes está ativo neste servidor! Usuários recorrentes do anti-spam serão castigados na ordem descrita abaixo.\n\n1° Ocorrência -> 2 horas\n2° Ocorrência -> 6 horas\n3° Ocorrência -> 2 dias\n4° Ocorrência -> 7 dias\n5° Ocorrência -> Expulsão",
@@ -927,11 +930,12 @@
                 "recurso_ativo": "Os Warns estão habilitados nesse servidor! Agora ao usar o comando </warn> mencionando um usuário, ele será penalizado caso a quantidade de warns seja alcançada.\n\nVocê pode alterar a quantidade de warns e a ação que será tomada pelo </panel guild> a qualquer momento!",
                 "recurso_desligado": "Os Warns agora estão desligado nesse servidor!\nUse o comando novamente ou ative através do </panel guild> para poder usar as advertências",
                 "membro_desconhecido": "O membro mencionado não faz mais parte desse servidor...\nNão é possível criar uma advertência para ele.",
-                "nao_configurado": "Antes de executar esse comando, configure as advertências através do </panel guild:1107163338930126869> na guia das `🛑 Advertências`,\npara poder definir penalidades e aplicação de cargos ao usuário.\n\nÉ necessário que pelo menos duas advertências sejam criadas para poder usar esse comando."
+                "nao_configurado": "Antes de executar esse comando, configure as advertências através do </panel guild:1107163338930126869> na guia das `🛑 Advertências`,\npara poder definir penalidades e aplicação de cargos ao usuário.\n\nÉ necessário que pelo menos duas advertências sejam criadas para poder usar esse comando.",
+                "nao_configurado_2": "Você precisa ativar esse recurso e definir um canal de avisos de advertências pelo painel do servidor!"
             },
             "link_suspeito": {
                 "titulo": "> Navegando por links suspeitos 🔗",
-                "detectado": "Um novo link suspeito foi detectado neste servidor!\nMensagens que forem enviadas futuramente e contiverem esse link serão apagadas, e seus autores penalizados.",
+                "detectado": "Um novo link suspeito foi detectado neste servidor!\nMensagens que forem enviadas futuramente e contiverem esse link serão apagadas, e seus autores penalizados.\n( `auto_repl` )",
                 "descricao_link": "O Link descrito abaixo foi identificado como suspeito.```fix\nauto_repl```",
                 "link_nao_encontrado": "O link selecionado não foi encontrado!\nPor favor, tente novamente com um outro link.",
                 "identificado": "Identificado",
@@ -972,7 +976,11 @@
                 "sem_permissao": "Eu não possuo permissões para `Gerenciar cargos` no servidor,\né necessário conceder essa permissão para que eu possa atribuir cargos para os usuários de forma automática."
             },
             "invites": {
-                "sem_permissao": "Eu não posso ver a lista de convites sem a permissão `Gerenciar servidor` concedida."
+                "convite": "convite",
+                "convites": "convites",
+                "sem_permissao": "Eu não posso ver a lista de convites sem a permissão `Gerenciar servidor` concedida.",
+                "sem_permissao_2": "Eu não tenho permissões para `Gerenciar servidor`, não é possível ver a lista de convites sem essa permissão concedida!\nA exclusão automática dos convites de um membro que foi expulso/banido não foi realizada. @here",
+                "exclusao": "O módulo de convites rastreados excluiu `auto_repl`."
             }
         },
         "util": {
@@ -987,7 +995,7 @@
             "wiki": {
                 "wiki_slondo": "Esse vagabundo não tá na wiki, pesquise outra coisa! :sunglasses:",
                 "topicos_rel": "Tópicos relacionados",
-                "sem_dados": "Não encontrei nada relacionado a sua pesquisa",
+                "sem_dados": "Não encontrei nada relacionado a sua pesquisa [ `auto_repl` ], tente novamente",
                 "auto_pesquisa": "Pq vc está se pesquisando? Não tem nada sobre vc aq",
                 "artigo_completo": "Artigo completo"
             },
@@ -1023,7 +1031,7 @@
                 "reverso": "Sua mensagem ao contrário"
             },
             "tempo": {
-                "aviso_2": "Não encontrei nenhum local chamado",
+                "aviso_2": "Não encontrei nenhum local chamado `auto_repl`, tente novamente",
                 "aviso_3": "Houve algum erro com a API de clima e não é possível pesquisar por climas no momento",
                 "aviso_continente": "Estes dados são uma média de todos os valores do continente pesquisado",
                 "aviso_pais": "Estes dados são uma média de todos os valores do país pesquisado",
@@ -1072,8 +1080,7 @@
                 "sem_local": "Não encontrei nenhum local com este nome, por favor, tente novamente."
             },
             "minecraft": {
-                "nao_encontrado": "Não encontrei nenhum item ou bloco com o nome",
-                "tente_novamente": "tente novamente",
+                "nao_encontrado": "Não encontrei nenhum item ou bloco com o nome `auto_repl`, tente novamente",
                 "error_1": "Não foi possível carregar a base de itens no momento, tente novamente mais tarde",
                 "coletavel": "Coletável",
                 "tipo": "Tipo",
@@ -1307,6 +1314,23 @@
                 "lista_inexistente": "Essa `lista` não existe mais!\nPor favor, utilize o comando novamente com uma outra lista.",
                 "selecionar_remover": "Selecione uma tarefa abaixo para remover",
                 "autor_nao_original": "Você deve usar o comando </tasks add:1137792790143696992> para ter acesso a este botão!"
+            }
+        },
+        "events": {
+            "ban": {
+                "falta_permissao": "A punição de <@auto_repl> não foi aplicada pois o moderador que criou a advertência não possui permissões para `Banir membros` ou a hierarquia do usuário que foi advertido é maior que a do moderador!",
+                "sem_permissao_ban": "Eu não posso banir o membro <@auto_repl> por falta de permissões, as advertências do servidor estão definidas como `Banir membro`, porém eu não posso banir um usuário sem essa permissão concedida!\nO sistema de advertências não irá funcionar sem essa permissão.",
+                "sem_permissao_ban_hierarquia": "Eu não posso banir o membro <@auto_repl> pois ele possui mais hierarquia que eu!\nO sistema de advertências não irá funcionar se meu cargo estiver abaixo do usuário advertido na lista de cargos do servidor!"
+            },
+            "kick": {
+                "falta_permissao": "A punição de <@auto_repl> não foi aplicada pois o moderador que criou a advertência não possui permissões para `Expulsar membros` ou a hierarquia do usuário que foi advertido é maior que a do moderador!",
+                "sem_permissao_kick": "Eu não posso expulsar o membro <@auto_repl> por falta de permissões, as advertências do servidor estão definidas como `Expulsar membro`, porém eu não posso expulsar um usuário sem a permissão `Expulsar membros` concedida!\nO sistema de advertências não irá funcionar sem essa permissão.",
+                "sem_permissao_kick_2": "Eu não posso expulsar o membro <@auto_repl> pois ele possui mais hierarquia que eu!\nO sistema de advertências não irá funcionar se meu cargo estiver abaixo do usuário advertido na lista de cargos do servidor!"
+            },
+            "mute": {
+                "falta_permissao": "A punição de <@auto_repl> não foi aplicada pois o moderador que criou a advertência não possui permissões para `Castigar membros` ou a hierarquia do usuário que foi advertido é maior que a do moderador!",
+                "sem_permissao_mute": "Eu não posso silenciar esse membro por falta de permissões, as advertências do servidor estão definidas como `Mutar membro`, porém eu não posso mutar um usuário sem a permissão `Castigar membros`.!\nO sistema de advertências não irá funcionar sem essa permissão.",
+                "sem_permissao_mute_2": "Eu não posso silenciar esse membro pois ele possui mais hierarquia que eu!\nO sistema de advertências não irá funcionar se meu cargo estiver abaixo do usuário advertido na lista de cargos do servidor!"
             }
         },
         "menu": {

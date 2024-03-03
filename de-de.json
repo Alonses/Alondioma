@@ -34,7 +34,7 @@
         "misc": {
             "daily": {
                 "daily": "Täglich gesammelt! Sie haben `B$ auto_repl` Bufunfas erhalten. Schauen Sie morgen noch einmal vorbei, um weitere Informationen zu erhalten",
-                "error": "Sie haben Ihr Tagesgeld bereits gesammelt! Verwenden Sie den Befehl erneut"
+                "error": "Sie haben Ihr Tagesgeld bereits gesammelt! Verwenden Sie den Befehl erneut <t:auto_repl:R>\n( <t:auto_repl:f> )"
             },
             "color": {
                 "cor_ativa": "Sie verwenden diese Farbe bereits!",
@@ -51,7 +51,7 @@
                 "error_2": "Geben Sie eine positive Zahl für die Anzahlung ein",
                 "error_3": "Sie können nicht auf sich selbst übertragen!",
                 "user_bot": "Du kannst Possenreißer nicht auf andere Bots als mich übertragen!",
-                "sucesso": "Übertragung genehmigt! Auf dem Konto von wurden `B$ auto_repl` Bufunfas eingezahlt",
+                "sucesso": "Übertragung genehmigt! Auf dem Konto von wurden `B$ auto_repl` Bufunfas eingezahlt <@!auto_repl>",
                 "notifica": "Sie haben gerade eine Anzahlung erhalten! <@!auto_repl> hat `B$ auto_repl` Bufunfas auf Ihr Konto eingezahlt! Yay",
                 "nova_transferencia": "> Neue Überweisung",
                 "transferindo": "Senden",
@@ -499,7 +499,7 @@
             "denuncia": {
                 "desativado": "Die Meldung privater Chats ist für diesen Server deaktiviert. Benachrichtigen Sie einen Moderator über diese Funktion! :P",
                 "introducao": "Ihr Chat wurde geöffnet, <#auto_repl>. Verwenden Sie es, um bei Bedarf Berichte zu erstellen und Dateien anzuhängen.",
-                "canal_aberto": "Sie haben bereits einen offenen Meldekanal!",
+                "canal_aberto": "Sie haben bereits einen offenen Meldekanal! ( <#auto_repl> )",
                 "canal_fechado": "Sie haben keinen offenen Meldekanal!",
                 "fechando_canal": "Dieser Kanal wird auto_repl geschlossen, vielen Dank!",
                 "erro_1": "Es ist ein Fehler aufgetreten und der Kanal konnte derzeit nicht erstellt werden. Bitte versuchen Sie es später noch einmal",
@@ -703,9 +703,9 @@
                 "ping_expulsao": "auto_repl wurde aufgrund wiederholter Spam-Angriffe rausgeschmissen",
                 "silenciado": "Wenn Sie den Server `auto_repl` stummgeschaltet haben, werden Ihnen verschiedene Meldungen angezeigt, die als Spam angesehen werden.",
                 "aviso_links": "Ihr Konto befindet sich möglicherweise in den Händen anderer Personen. Wenn Sie diese Meldung sehen, überprüfen Sie Ihre Sicherheitseinstellungen, ändern Sie Ihr Passwort, aktivieren Sie die Bestätigung in zwei Schritten und trennen Sie Ihr Konto von unbekannten Geräten, damit Sie den Zugriff auf Ihr Konto nicht verlieren.",
-                "falta_permissoes_1": "Aufgrund fehlender Bot-Berechtigungen konnte Spam für den Benutzer auto_repl nicht gestoppt werden.\nDie folgenden gesendeten Nachrichten gelten als Spam.",
-                "falta_permissoes_2": "Der Benutzer auto_repl kann aufgrund fehlender Berechtigungen nicht stummgeschaltet werden.\nBitte stellen Sie sicher, dass ich über die `Berechtigung Mitglieder` verfüge und dass meine Rolle über den anderen Rollen in der Rollenliste steht, damit ich Spam von Benutzern unterhalb dieser Ebene vermeiden kann.",
-                "falta_permissoes_3": "Der Benutzer auto_repl kann aufgrund fehlender Berechtigungen nicht entfernt werden.\nBitte stellen Sie sicher, dass ich die Berechtigung `Mitglieder entfernen` habe und dass meine Rolle den anderen Rollen in der Rollenliste überlegen ist, damit ich Spam von den Benutzern vermeiden kann Die unten aufgeführten Maßnahmen können vermieden werden.",
+                "falta_permissoes_1": "@here\nAufgrund fehlender Bot-Berechtigungen konnte Spam für den Benutzer auto_repl nicht gestoppt werden.\nDie folgenden gesendeten Nachrichten gelten als Spam.",
+                "falta_permissoes_2": "@here\nDer Benutzer auto_repl kann aufgrund fehlender Berechtigungen nicht stummgeschaltet werden.\nBitte stellen Sie sicher, dass ich über die `Berechtigung Mitglieder` verfüge und dass meine Rolle über den anderen Rollen in der Rollenliste steht, damit ich Spam von Benutzern unterhalb dieser Ebene vermeiden kann.",
+                "falta_permissoes_3": "@here\nDer Benutzer auto_repl kann aufgrund fehlender Berechtigungen nicht entfernt werden.\nBitte stellen Sie sicher, dass ich die Berechtigung `Mitglieder entfernen` habe und dass meine Rolle den anderen Rollen in der Rollenliste überlegen ist, damit ich Spam von den Benutzern vermeiden kann Die unten aufgeführten Maßnahmen können vermieden werden.",
                 "strikes": "📜 Strikes",
                 "punicoes_niveis": "Strafen pro Level",
                 "strikes_ativo": "\n\nDas Strike-System ist auf diesem Server aktiv! Wiederholte Anti-Spam-Benutzer werden in der unten beschriebenen Reihenfolge bestraft.\n\n1. Vorkommen -> 2 Stunden\n2. Vorkommen -> 6 Stunden\n3. Vorkommen -> 2 Tage\n4. Vorkommen -> 7 Tage\n5. Vorkommen -> Löschen",
@@ -762,7 +762,7 @@
             "wiki": {
                 "wiki_slondo": "Dieser Penner ist nicht im Wiki, suchen Sie nach etwas anderem! :sunglasses:",
                 "topicos_rel": "verwandte Themen",
-                "sem_dados": "Ich habe nichts zu Ihrer Suche gefunden",
+                "sem_dados": "Ich habe nichts zu Ihrer Suche gefunden [ `auto_repl` ], versuche es noch einmal",
                 "auto_pesquisa": "Warum suchst du? Hier ist nichts über dich",
                 "artigo_completo": "ganzer Artikel"
             },
@@ -798,7 +798,7 @@
                 "reverso": "Ihre umgekehrte Nachricht"
             },
             "tempo": {
-                "aviso_2": "Ich konnte keinen Ort mit diesem Namen finden gefunden",
+                "aviso_2": "Ich konnte keinen Ort mit diesem Namen finden gefunden `auto_repl`, versuche es noch einmal",
                 "aviso_3": "In der Wetter-API ist ein Fehler aufgetreten und wir können das Wetter derzeit nicht abrufen",
                 "aviso_continente": "Bei diesen Daten handelt es sich um einen Durchschnitt aller Werte für den untersuchten Kontinent.",
                 "aviso_pais": "Bei diesen Daten handelt es sich um einen Durchschnitt aller Werte für das untersuchte Land.",
@@ -847,8 +847,7 @@
                 "sem_local": "Ich habe keinen Ort mit diesem Namen gefunden. Bitte versuche es erneut."
             },
             "minecraft": {
-                "nao_encontrado": "Ich habe keinen Artikel oder Block mit diesem Namen gefunden",
-                "tente_novamente": "versuche es noch einmal",
+                "nao_encontrado": "Ich habe keinen Artikel oder Block mit diesem Namen gefunden `auto_repl`, versuche es noch einmal",
                 "error_1": "Die Datenbank konnte derzeit nicht geladen werden. Bitte versuchen Sie es später noch einmal",
                 "coletavel": "Sammlerstück",
                 "tipo": "Typ",

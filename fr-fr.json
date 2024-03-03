@@ -34,7 +34,7 @@
         "misc": {
             "daily": {
                 "daily": "Quotidiennement collecté! Vous avez reçu `B$ auto_repl` Bufunfas, revenez demain pour plus",
-                "error": "Vous avez déjà encaissé votre paiement quotidien! Utilisez à nouveau la commande"
+                "error": "Vous avez déjà encaissé votre paiement quotidien! Utilisez à nouveau la commande <t:auto_repl:R>\n( <t:auto_repl:f> )"
             },
             "color": {
                 "cor_ativa": "Vous utilisez déjà cette couleur!",
@@ -51,7 +51,7 @@
                 "error_2": "Entrez un nombre positif pour déposer",
                 "error_3": "Vous ne pouvez pas transférer à vous-même!",
                 "user_bot": "Vous ne pouvez pas transférer les Bufunfas vers des bots autres que moi!",
-                "sucesso": "Transfert approuvé! `B$ auto_repl` Bufunfas ont été déposés sur le compte de",
+                "sucesso": "Transfert approuvé! `B$ auto_repl` Bufunfas ont été déposés sur le compte de <@!auto_repl>",
                 "notifica": "Vous venez de recevoir un acompte! <@!auto_repl> a déposé `B$ auto_repl` Bufunfas sur votre compte! Yay",
                 "nova_transferencia": "> Nouveau transfert",
                 "transferindo": "Transfert",
@@ -498,7 +498,7 @@
             "denuncia": {
                 "desativado": "Les rapports dans les chats privés sont désactivés pour ce serveur, informez un modérateur de cette fonctionnalité! :P",
                 "introducao": "Votre chat a été ouvert, <#auto_repl>, utilisez-le pour signaler et joindre des fichiers si nécessaire.",
-                "canal_aberto": "Vous disposez déjà d'un canal de signalement ouvert!",
+                "canal_aberto": "Vous disposez déjà d'un canal de signalement ouvert! ( <#auto_repl> )",
                 "canal_fechado": "Vous n'avez pas de canal de signalement ouvert!",
                 "fechando_canal": "Cette chaîne sera fermée auto_repl, merci!",
                 "erro_1": "Une erreur s'est produite et la chaîne n'a pas pu être créée pour le moment, veuillez réessayer plus tard",
@@ -704,9 +704,9 @@
                 "ping_expulsao": "auto_repl a été expulsé en raison d'attaques de spam répétées",
                 "silenciado": "Vous avez été mis en sourdine sur le serveur `auto_repl` en raison de plusieurs messages considérés comme du spam.\nLes messages considérés comme du spam sont les suivants:",
                 "aviso_links": "Votre compte est peut-être entre les mains d'autres personnes. Si vous voyez ce message, vérifiez vos paramètres de sécurité en modifiant votre mot de passe, en activant les vérifications en deux étapes et en déconnectant votre compte des appareils inconnus afin de ne pas perdre l'accès au compte.",
-                "falta_permissoes_1": "Impossible d'empêcher le spam de l'utilisateur auto_repl en raison du manque d'autorisations du robot.\nLes messages envoyés considérés comme du spam sont les suivants.",
-                "falta_permissoes_2": "Impossible de désactiver l'utilisateur auto_repl en raison du manque d'autorisations\nAssurez-vous que j'ai l'autorisation `Punir les membres` et que mon rôle est supérieur aux autres rôles dans la liste des rôles afin d'éviter le spam des utilisateurs en dessous du niveau.",
-                "falta_permissoes_3": "Impossible d'expulser l'utilisateur auto_repl en raison du manque d'autorisations\nVeuillez vous assurer que j'ai l'autorisation `Expulser les membres` et que mon rôle est supérieur aux autres rôles dans la liste des rôles afin que je puisse éviter le spam des utilisateurs ci-dessous.",
+                "falta_permissoes_1": "@here\nImpossible d'empêcher le spam de l'utilisateur auto_repl en raison du manque d'autorisations du robot.\nLes messages envoyés considérés comme du spam sont les suivants.",
+                "falta_permissoes_2": "@here\nImpossible de désactiver l'utilisateur auto_repl en raison du manque d'autorisations\nAssurez-vous que j'ai l'autorisation `Punir les membres` et que mon rôle est supérieur aux autres rôles dans la liste des rôles afin d'éviter le spam des utilisateurs en dessous du niveau.",
+                "falta_permissoes_3": "@here\nImpossible d'expulser l'utilisateur auto_repl en raison du manque d'autorisations\nVeuillez vous assurer que j'ai l'autorisation `Expulser les membres` et que mon rôle est supérieur aux autres rôles dans la liste des rôles afin que je puisse éviter le spam des utilisateurs ci-dessous.",
                 "strikes": "📜 Strikes",
                 "punicoes_niveis": "Punitions par niveaux",
                 "strikes_ativo": "\n\nLe système de strike est actif sur ce serveur ! Les utilisateurs répétés de l'anti-spam seront punis dans l'ordre décrit ci-dessous.\n\n1ère occurrence -> 2 heures\n2ème occurrence -> 6 heures\n3ème occurrence -> 2 jours\n4ème occurrence -> 7 jours \n5ème occurrence -> Expulsion",
@@ -763,7 +763,7 @@
             "wiki": {
                 "wiki_slondo": "Ce clochard n'est pas sur le wiki, cherchez autre chose! :sunglasses:",
                 "topicos_rel": "Rubriques connexes",
-                "sem_dados": "je n'ai rien trouvé en rapport avec votre recherche",
+                "sem_dados": "je n'ai rien trouvé en rapport avec votre recherche [ `auto_repl` ], réessayer",
                 "auto_pesquisa": "Pourquoi faites-vous des recherches sur vous-même ? Il n'y a rien sur toi ici",
                 "artigo_completo": "Article complet"
             },
@@ -799,7 +799,7 @@
                 "reverso": "Votre message inversé"
             },
             "tempo": {
-                "aviso_2": "Je n'ai pas trouvé d'endroit appelé",
+                "aviso_2": "Je n'ai pas trouvé d'endroit appelé `auto_repl`, réessayer",
                 "aviso_3": "Il y a eu une erreur avec l'API météo et il n'est pas possible de rechercher la météo pour le moment",
                 "aviso_continente": "Ces données sont une moyenne de toutes les valeurs pour le continent étudié",
                 "aviso_pais": "Ces données sont une moyenne de toutes les valeurs du pays enquêté",
@@ -848,8 +848,7 @@
                 "sem_local": "Je n'ai trouvé aucun lieu portant ce nom, veuillez réessayer."
             },
             "minecraft": {
-                "nao_encontrado": "Je n'ai trouvé aucun élément ou bloc avec le nom",
-                "tente_novamente": "réessayer",
+                "nao_encontrado": "Je n'ai trouvé aucun élément ou bloc avec le nom `auto_repl`, réessayer",
                 "error_1": "Impossible de charger la base de données pour le moment, veuillez réessayer plus tard",
                 "coletavel": "collecter",
                 "tipo": "Taper",

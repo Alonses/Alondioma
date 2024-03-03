@@ -17,7 +17,7 @@
         "misc": {
             "daily": {
                 "daily": "Daily coletado! Ocê recebeu `B$ auto_repl` Bufunfas, volta amanhã pra mais",
-                "error": "Ocê já coletou seu daily! Usa dnv"
+                "error": "Ocê já coletou seu daily! Usa dnv <t:auto_repl:R>\n( <t:auto_repl:f> )"
             },
             "color": {
                 "cor_ativa": "Ocê já tá usando essa cor!",
@@ -33,7 +33,7 @@
                 "error_2": "Bota um número positivo pra depositar aí meo!",
                 "error_3": "Cê não pode transferir pra si mesmo!",
                 "user_bot": "Cê não pode transferir Bufunfas pra outros bótis além de mim!",
-                "sucesso": "Transferência aprovada! `B$ auto_repl` Bufunfas foram enviadas na conta de",
+                "sucesso": "Transferência aprovada! `B$ auto_repl` Bufunfas foram enviadas na conta de <@!auto_repl>",
                 "notifica": "Ocê acabou de receber um depósito! <@!auto_repl> mandou `B$ auto_repl` Bufunfas procê! STONKS",
                 "nova_transferencia": "> Novo depósito",
                 "transferindo": "Enviando",
@@ -240,7 +240,7 @@
             "denuncia": {
                 "desativado": "As denúncias em chats privados stão desligadas nesse server, avise um ade eme sobre essa função! :P",
                 "introducao": "Seu chat foi criado, <#auto_repl>, use ele pra fazer umas denúncias e anexar uns arquivos caso necessário.",
-                "canal_aberto": "Ocê já tem um canal de denúncia aberto!",
+                "canal_aberto": "Ocê já tem um canal de denúncia aberto! ( <#auto_repl> )",
                 "canal_fechado": "Ocê não tem nenhum canal de denúncia aberto!",
                 "fechando_canal": "Esse knel vai ser explodido auto_repl",
                 "erro_1": "Deu um erro aq e não consegui criar o canal agora, chora boi, tenta dnv dps"
@@ -278,7 +278,6 @@
                 "auto_ban_banido": "O AutoBan baniu o cornão reportado!",
                 "auto_ban_permissao": "O AutoBan tá ativo aqui, porém eu não possuo permissões para `Banir membros.`\nO cornão não foi banido.",
                 "auto_ban_nao_encontrado": "O cornão foi reportado só que ele não tá nesse server para banirmos!"
-
             },
             "xp": {
                 "permissao_1": "Ocê não pode gerenciar os membros desse server",
@@ -342,7 +341,7 @@
                 "error_1": "Não foi possível buscar esse salafrário no momento, tenta dnv depois"
             },
             "tempo": {
-                "aviso_2": "Não achei nada com esse nome ai",
+                "aviso_2": "Não achei nada com esse nome ai  `auto_repl`, tenta dnv",
                 "aviso_3": "Deu um PT aq na API do tempo, vai dar pra pesquisar não",
                 "aviso_continente": "Issae é uma média do continente todo",
                 "aviso_pais": "Issae é uma média do país todo",

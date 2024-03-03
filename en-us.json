@@ -34,7 +34,7 @@
         "misc": {
             "daily": {
                 "daily": "Daily collected! You received `B$ auto_repl` Bufunfas, check back tomorrow for more",
-                "error": "You have already collected your daily! Use the command again"
+                "error": "You have already collected your daily! Use the command again <t:auto_repl:R>\n( <t:auto_repl:f> )"
             },
             "color": {
                 "cor_ativa": "You are already using this color!",
@@ -51,7 +51,7 @@
                 "error_2": "Enter a positive number to deposit",
                 "error_3": "You cannot transfer to yourself!",
                 "user_bot": "You cannot transfer Bufunfas to bots other than me!",
-                "sucesso": "Transfer approved! `B$ auto_repl` Bufunfas were deposited in the account of",
+                "sucesso": "Transfer approved! `B$ auto_repl` Bufunfas were deposited in the account of <@!auto_repl>",
                 "notifica": "You just received a deposit! <@!auto_repl> has deposited `B$ auto_repl` Bufunfas into your account! yay",
                 "nova_transferencia": "> New transfer",
                 "transferindo": "Transferring",
@@ -499,7 +499,7 @@
             "denuncia": {
                 "desativado": "Reporting on private chats is disabled for this server, notify a moderator about this feature! :P",
                 "introducao": "Your chat has been opened, <#auto_repl>, use it to report and attach files if necessary.",
-                "canal_aberto": "You already have an open reporting channel!",
+                "canal_aberto": "You already have an open reporting channel! ( <#auto_repl> )",
                 "canal_fechado": "You do not have an open reporting channel!",
                 "fechando_canal": "This channel will be closed auto_repl, thank you!",
                 "erro_1": "There was an error and the channel could not be created at the moment, please try again later",
@@ -704,9 +704,9 @@
                 "ping_expulsao": "auto_repl got kicked out due to repeated spam strikes",
                 "silenciado": "You have been muted on the `auto_repl` server due to several messages considered as spam\nThe messages that were considered as spam are as follows:",
                 "aviso_links": "Your account may be in the hands of other people, if you see this message, check your security settings by changing your password, enabling 2-step verifications and disconnecting your account from unknown devices so you don't lose access to the account.",
-                "falta_permissoes_1": "Unable to stop spam from user auto_repl due to lack of bot permissions.\nThe messages sent considered spam are as follows.",
-                "falta_permissoes_2": "Unable to mute user auto_repl due to lack of permissions\nMake sure I have the `Members of Punishment` permission and that my role is above the other roles in the role list so I can avoid user spam below of the level.",
-                "falta_permissoes_3": "Unable to kick user auto_repl due to lack of permissions\nPlease make sure I have the `Kick members` permission and that my role is higher than the other roles in the role list so that I can avoid spam from the users below.",
+                "falta_permissoes_1": "@here\nUnable to stop spam from user auto_repl due to lack of bot permissions.\nThe messages sent considered spam are as follows.",
+                "falta_permissoes_2": "@here\nUnable to mute user auto_repl due to lack of permissions\nMake sure I have the `Members of Punishment` permission and that my role is above the other roles in the role list so I can avoid user spam below of the level.",
+                "falta_permissoes_3": "@here\nUnable to kick user auto_repl due to lack of permissions\nPlease make sure I have the `Kick members` permission and that my role is higher than the other roles in the role list so that I can avoid spam from the users below.",
                 "strikes": "📜 Strikes",
                 "punicoes_niveis": "Punishments by levels",
                 "strikes_ativo": "\n\nThe strike system is active on this server! Recurrent anti-spam users will be punished in the order described below.\n\n1st Occurrence -> 2 hours\n2nd Occurrence -> 6 hours\n3rd Occurrence -> 2 days\n4th Occurrence -> 7 days\n5th Occurrence -> Expulsion",
@@ -763,7 +763,7 @@
             "wiki": {
                 "wiki_slondo": "This bum is not on the wiki, look for something else! :sunglasses:",
                 "topicos_rel": "Related Topics",
-                "sem_dados": "I didn't find anything related to your search",
+                "sem_dados": "I didn't find anything related to your search [ `auto_repl` ], try again",
                 "auto_pesquisa": "Why are you researching yourself? There's nothing about you here",
                 "artigo_completo": "Full article"
             },
@@ -799,7 +799,7 @@
                 "reverso": "Your message in reverse"
             },
             "tempo": {
-                "aviso_2": "I didn't find any place called",
+                "aviso_2": "I didn't find any place called `auto_repl`, try again",
                 "aviso_3": "There was an error with the weather API and it is not possible to search for weather at the moment",
                 "aviso_continente": "These data are an average of all values for the continent surveyed",
                 "aviso_pais": "These data are an average of all values in the country surveyed",
@@ -848,8 +848,7 @@
                 "sem_local": "I didn't find any location with this name, please try again."
             },
             "minecraft": {
-                "nao_encontrado": "I didn't find any item or block with the name",
-                "tente_novamente": "try again",
+                "nao_encontrado": "I didn't find any item or block with the name `auto_repl`, try again",
                 "error_1": "Could not load database at this time, please try again later",
                 "coletavel": "Collectable",
                 "tipo": "Type",
