@@ -409,6 +409,10 @@
                 "tempo_por_servidor": "Tempo de exclusão por servidor",
                 "de_inatividade": "de inatividade",
                 "inatividade_2": "de inatividade no servidor.\n( Acrescido de outros `14 dias` após confirmação de inatividade )\n",
+                "aviso_movido_exclusao": "Os seus dados foram marcados para exclusão <t:auto_repl:R>\n\nAté lá, você será ignorado no ranking de XP do Alonsal, caso deseje manter os dados, você deverá usar novamente um comando antes do tempo expirar.",
+                "descricao_tempo_inatividade": "Todos os seus dados serão marcados para exclusão.\n\nApós a confirmação, o Alonsal irá mover seus dados para uma quarentena de 14 dias, e após isso, todos os dados relacionados a você serão removidos de nossa base de dados.\n\nAntes do prazo se expirar, você deverá usar um comando nosso novamente para evitar que seus dados sejam removidos.\n\nPor padrão, todos os usuários possuem um tempo de inatividade que aciona essa funcionalidade de expiração, caso deseje manter seus dados por mais tempo, considere retornar e aumentar o tempo de inatividade.",
+                "hoster_alonsal": "Adicionou-me ao servidor",
+                "aviso_movido_exclusao_dm": "Olá! Esperamos que essa mensagem alcance você bem\nEste é um aviso prévio que estamos enviando sobre os seus dados que foram salvos no Alonsal!\n\nNotamos que você está sem interagir conosco a bastante tempo já...\nPor isso, estamos movendo todos os dados relacionados a você que coletamos para exclusão!\n\nEstaremos realizando a exclusão de tudo <t:auto_repl:R> ( <t:auto_repl:f> ).\nCaso queira interromper essa ação, é necessário usar algum comando conosco antes do tempo terminar!\n\nEsperamos que tenha tido um bom divertimento conosco, obrigado pela confiança e até uma próxima!! ;D",
                 "selects": {
                     "uni": {
                         "1": "Locale",
@@ -462,8 +466,10 @@
                 "sem_servidores": "`Sem servidores`",
                 "resumo_dados": "Este é um resumo dos dados que salvei sobre o servidor e seus membros\nauto_repl\n**Recursos do servidor:",
                 "tempo_exclusao": "Tempo de exclusão",
+                "descricao_quebra_link": "**Ao confirmar a quebra de link este servidor será removido do grupo do network**.\n\nOs servidores listados abaixo continuarão com o link ativo, porém este servidor não fará mais parte do mesmo.",
                 "excluir_apos": "Excluir dados após `auto_repl dias`\n",
-                "resumo_expandido": "```fix\nAo ser removido do servidor, o Alonsal irá desativar a maioria dos recursos listados abaixo.\n\nA exclusão dos dados será realizada após um período de forma automática, você pode definir esse tempo através dos botões abaixo.\n\nAo apagar os dados, o Alonsal irá remover completamente os dados salvos do servidor, incluindo o registro de ranking, a redefinição da origem de reportes e links suspeitos e remoção de advertências salvas.```auto_repl\n**Recursos do servidor:"
+                "resumo_expandido": "```fix\nAo ser removido do servidor, o Alonsal irá desativar a maioria dos recursos listados abaixo.\n\nA exclusão dos dados será realizada após um período de forma automática, você pode definir esse tempo através dos botões abaixo.\n\nAo apagar os dados, o Alonsal irá remover completamente os dados salvos do servidor, incluindo o registro de ranking, a redefinição da origem de reportes e links suspeitos e remoção de advertências salvas.```auto_repl\n**Recursos do servidor:",
+                "remover_canal": "Remover canal"
             },
             "telemetria": {
                 "titulo": "> Dados de telemetria",
@@ -543,6 +549,7 @@
             "anuncio": {
                 "permissao": "Você não pode usar este comando, pois não pode `gerenciar os canais` do servidor!",
                 "permissao_envio": "Eu não tenho permissões para enviar mensagens neste canal, por favor verifique minhas permissões e tente novamente.",
+                "permissao_cargos": "Não é possível escolher cargos pelos menus sem a permissão \"Gerenciar cargos\" concedida.\nPor gentileza, conceda a permissão, ou faça a configuração através do comando </notify config:1018632996787589283>",
                 "anuncio_games": "A partir de agora o canal auto_repl irá receber atualizações quando houver jogos gratuitos disponíveis\nUtilize o comando sem parametros para remover as atualizações",
                 "anuncio_off": "Anúncios de jogos desligados para este servidor",
                 "ativos": "Ativos no momento",
@@ -644,7 +651,17 @@
                 "operacao_cancelada": "A operação foi cancelada, nenhum efeito foi aplicado...",
                 "remover_reporte": "> Remover reporte",
                 "remover_reporte_desc": "```📃 | Descrição fornecida: auto_repl```\nRevogar o reporte deste usuário limpará o seu histórico neste servidor, você pode confirmar essa operação ou cancelar pelos botões abaixo.",
-                "reporte_neste_servidor": "Reporte neste servidor:"
+                "reporte_neste_servidor": "Reporte neste servidor:",
+                "com_registro": "Há advertências criadas para esse membro!",
+                "sem_usuarios_report": "Não há usuários reportados presentes no servidor.",
+                "usuarios_reportados_titulo": "> Usuários reportados",
+                "descricao_busca_reporte": "Todos os membros que receberam reportes externos estão listados abaixo\n\nSelecione um para verificar seus reportes recebidos em outros servidores.",
+                "selecionar_membro": "Selecione um membro abaixo para gerenciar seus reportes de outros servidores.",
+                "anuncio_network": "O usuário foi reportado com sucesso e a notificação foi enviada apenas para os servidores que fazem networking com este!",
+                "sem_permissao_migrate": "Eu não possuo a permissão de `Banir membros` para poder ver o histórico de banimentos do servidor!\nSem essa permissão também não posso fazer a migração de membros.",
+                "aviso_global": "Aviso global",
+                "apenas_network": "Apenas no network",
+                "descricao_network": "Este reporte está sendo anunciado apenas nos servidores que fazem parte de um networking, como este!!"
             },
             "network": {
                 "descricao": "```🧻 Funcionamento do networking\n\nO networking do servidor faz a comunicação dos eventos moderativos deste servidor com outros servidores externos, quando um usuário for castigado por aqui e outros servidores fizerem parte do mesmo network deste servidor, e estiverem com o recurso ativo, o usuário também será castigado por lá!```",
@@ -671,7 +688,9 @@
                 "sem_permissao": "Eu não tenho permissões para ver o `Registro de auditoria` do servidor, não é possível ver as aplicações de penalidades!\nA sincronização do Networking não foi concluída. @here",
                 "falta_permissao": "Não é possível definir um cargo para o anúncio sem a permissão de \"Gerenciar cargos\" concedida.",
                 "falta_serviores": "O Networking precisa de mais servidores no mesmo link para ser ativo.",
-                "sem_canal": "Sem canal definido"
+                "sem_canal": "Sem canal definido",
+                "cargo_vinculado": "O cargo mencionado acima será atribuído ao usuário que receber essa advertência.",
+                "cargo_permissao": "Não é possível definir um cargo através das advertências sem a permissão de \"Gerenciar cargos\" concedida."
             },
             "xp": {
                 "permissao": "Você não pode gerenciar os membros deste servidor",
@@ -829,6 +848,7 @@
             "warn": {
                 "advertencias": "Advertências",
                 "advertidos": "Advertidos",
+                "proxima_penalidade": "Próxima penalidade",
                 "desc_advertencias": "Crie advertências customizadas e penalize membros.",
                 "advertencia_registrada": "A advertência foi registrada no servidor!",
                 "advertencia_cancelada": "A inclusão da advertência foi cancelada",
@@ -871,10 +891,67 @@
                 "validade": "Validade",
                 "expira_em": "Expira em",
                 "no_momento": "no momento",
-                "aviso_rodape_expulsao": "Os membros estão sendo expulsos da 1° advertência, por gentileza, altere essa configuração para poder ativar esse recurso."
+                "aviso_rodape_expulsao": "Os membros estão sendo expulsos da 1° advertência, por gentileza, altere essa configuração para poder ativar esse recurso.",
+                "edicao_warn_titulo": "> Advertência N° auto_repl :pencil:",
+                "descricao_edicao_warn": "```💂‍♂️ Defina regras para essa advertência, membros que forem advertidos receberão o que estiver definido por aqui!```",
+                "sem_cargo": "`Sem cargo`",
+                "sem_penalidade": "`Sem penalidade`",
+                "editar_advertencia": "Defina as notificações para as advertências pelos botões abaixo.",
+                "descricao_notificacao_advertencia": "```📣 Notificações em advertências\n\nDefina se eu irei notificar as novas advertências com um ping @here\nE se irei exibir quando as advertências forem apagadas!```",
+                "motivo_remocao": "Motivo para remoção",
+                "descricao_advertencia": "```fix\n📠 | Descrição fornecida:\n\nauto_repl```\n",
+                "bloqueio_minimo": "É necessário definir pelo menos duas advertências customizadas para poder ativar esse recurso.",
+                "sem_usuarios": "Não há usuários com advertências no servidor!",
+                "usuarios_advertidos_titulo": "> Usuários com advertências",
+                "usuarios_advertidos_descricao": "Todos os membros com advertências ativas no momento estão listados abaixo\n\nSelecione um para gerenciar as advertências que o membro recebeu.",
+                "selecionar_usuario_advertido": "Selecione um membro abaixo para gerenciar suas advertências neste servidor.",
+                "moderador_responsavel": "Moderador responsável",
+                "sem_permissao_cargos": "Uma advertência com cargos foi criada, porém eu não possuo permissões para `Gerenciar cargos`,\no cargo não foi atribuído ao membro que recebeu a advertência. @here",
+                "punicao_aplicada": "Essa advertência também concedeu uma punição no servidor.",
+                "punicao_nao_aplicada": "Essa advertência não resultou em uma punição no servidor.",
+                "advertencias_reiniciadas": "> Advertências reiniciadas :inbox_tray:",
+                "advertencias_reiniciadas_descricao": "As advertências de <@auto_repl> foram reiniciadas!\nO usuário agora não possui mais advertências neste servidor.",
+                "advertencias_removidas": "As advertências do usuário neste servidor foram todas removidas.",
+                "advertencia_removida": "Advertência removida com sucesso!",
+                "advertencias_restantes": "\nO usuário agora possui outras `auto_repl advertências` ativas neste servidor",
+                "advertencia_restante": "\nO usuário possui apenas outra `1 advertência` ativa neste servidor",
+                "advertencia_removida_titulo": "> Uma Advertência foi removida! :inbox_tray:",
+                "descricao_advertencia_removida": "Uma advertência de <@auto_repl> foi removida!",
+                "gerenciar_advertencia_escolha": "Escolha as opções abaixo para gerenciar essa advertência.",
+                "aplicado": "Aplicado",
+                "moderador": "Moderador",
+                "sem_nome": "Sem nome",
+                "trava_advertencia": "Essa advertência não pode ser excluída! Configure ela ou desative o recurso de advertências.",
+                "trava_advertencia_2": "Essa não é a última advertência criada, por gentileza, prossiga até a última e exclua ela antes.",
+                "definir_tempo": "Defina o tempo para remover a advertência!",
+                "recurso_ativo": "Os Warns estão habilitados nesse servidor! Agora ao usar o comando </warn> mencionando um usuário, ele será penalizado caso a quantidade de warns seja alcançada.\n\nVocê pode alterar a quantidade de warns e a ação que será tomada pelo </panel guild> a qualquer momento!",
+                "recurso_desligado": "Os Warns agora estão desligado nesse servidor!\nUse o comando novamente ou ative através do </panel guild> para poder usar as advertências",
+                "membro_desconhecido": "O membro mencionado não faz mais parte desse servidor...\nNão é possível criar uma advertência para ele.",
+                "nao_configurado": "Antes de executar esse comando, configure as advertências através do </panel guild:1107163338930126869> na guia das `🛑 Advertências`,\npara poder definir penalidades e aplicação de cargos ao usuário.\n\nÉ necessário que pelo menos duas advertências sejam criadas para poder usar esse comando."
             },
             "link_suspeito": {
-                "detectado": "Um novo link suspeito foi detectado neste servidor!\nMensagens que forem enviadas futuramente e contiverem esse link serão apagadas, e seus autores penalizados."
+                "titulo": "> Navegando por links suspeitos 🔗",
+                "detectado": "Um novo link suspeito foi detectado neste servidor!\nMensagens que forem enviadas futuramente e contiverem esse link serão apagadas, e seus autores penalizados.",
+                "descricao_link": "O Link descrito abaixo foi identificado como suspeito.```fix\nauto_repl```",
+                "link_nao_encontrado": "O link selecionado não foi encontrado!\nPor favor, tente novamente com um outro link.",
+                "identificado": "Identificado",
+                "rodape_dica": "Use os botões abaixo para gerenciar este link",
+                "aviso_adicao": "O Link suspeito informado foi registrado!\n\nUm relatório foi enviado ao <#auto_repl> avisando sobre a adição.",
+                "adicionado_manualmente": "Um novo link suspeito foi adicionado manualmente neste servidor!\n( `auto_repl` )",
+                "excluido_manual": "Um link suspeito foi removido manualmente neste servidor!\n( `auto_repl` )",
+                "aviso_remocao": "O Link suspeito foi excluído!\n\nUm relatório foi enviado ao <#auto_repl> avisando sobre a remoção.",
+                "operacao_cancelada_adicao": "O Link informado não foi registrado, operação cancelada.",
+                "operacao_cancelada_exclusao": "O Link selecionado não foi excluído, operação cancelada.",
+                "sem_links": "Não há links suspeitos identificados e reportados neste servidor!\nVocê pode adicionar um link suspeito através do comando </link add:1020561785620803674> caso acredite que ele seja malicioso!",
+                "navegando_titulo": "> Navegando por links suspeitos 🔗",
+                "descricao_links_suspeitos": "Links suspeitos são links que consideramos maliciosos e que podem trazer problemas para usuários que clicarem.\n\nGeralmente esses links são usados para conceder acesso a sua conta Discord ou de outras redes para pessoas má intencionadas, sem o consentimento do usuário que veio a clicar por engano, acreditando ser um link oficial.",
+                "navegar_links": "Use o menu abaixo para navegar pelos links suspeitos do servidor!",
+                "registrado_em": "Registrado em",
+                "link_invalido": "O texto informado não é um link!\nNão é possível salvar esse valor como um link suspeito.",
+                "link_ja_registrado": "O link informado já está registrado por aqui!\nNão é possível salvar esse link novamente.",
+                "registrando_link_titulo": "> Registrando um novo link suspeito :link:",
+                "registrando_link_descricao": "Você está informando que o link abaixo é malicioso:```fix\nauto_repl```\nAo reportar este link ao Alonsal, todas as mensagens que forem enviadas e contiverem esse link em um servidor com o recurso de `🔗 Links suspeitos` habilitado...\n\nImplicaram na exclusão imediata da mensagem que foi enviada e na penalização do autor com base no tratamento do `📛 Anti-spam` do servidor.",
+                "rodape_opcoes": "Use os botões abaixo para confirmar a intenção."
             },
             "roles": {
                 "titulo_atribuidor": "> Atribuindo cargos",
@@ -884,7 +961,18 @@
                 "atribuir_selecionados": "Atribuir selecionados",
                 "ignorando_nenhum": "Ignorando nenhum",
                 "ignorar_membros": "Ignorar membros",
-                "ignorar_membros_com_cargos": "`Que já possuírem algum cargo`"
+                "ignorar_membros_com_cargos": "`Que já possuírem algum cargo`",
+                "se_possuir_cargo": "Se possuir um cargo",
+                "operacao_ativa": "Há uma operação ativa no momento",
+                "concluido": "A Atribuição de cargos foi concluída!```fix\n👤Usuários atualizados: auto_repl\n🚯Usuários ignorados: auto_repl (já possuem o cargo)\n🚯Usuários ignorados: auto_repl (restrições de cargos definidos)\n🤖Bots ignorados: auto_repl```",
+                "atualizando_usuarios": "Atualizando usuários: `auto_repl de auto_repl`\n( Término estimado <t:auto_repl:R> )",
+                "pin_segundo_plano": "Estamos atualizando os usuários em segundo plano.\n( Término estimado <t:auto_repl:R> )",
+                "movido_segundo_plano": "Olá! Estamos movendo a atualização de usuários para segundo plano,\nÉ esperando que o processo de atribuição de cargos acabe <t:auto_repl:R>,\nestaremos te avisando quando terminar!",
+                "operacao_cancelada": "Operação cancelada```fix\n👤Usuários atualizados: auto_repl\n🚯Usuários ignorados: auto_repl (já possuem o cargo)\n🚯Usuários ignorados: auto_repl (restrições de cargos definidos)\n🤖Bots ignorados: auto_repl```",
+                "sem_permissao": "Eu não possuo permissões para `Gerenciar cargos` no servidor,\né necessário conceder essa permissão para que eu possa atribuir cargos para os usuários de forma automática."
+            },
+            "invites": {
+                "sem_permissao": "Eu não posso ver a lista de convites sem a permissão `Gerenciar servidor` concedida."
             }
         },
         "util": {
@@ -1217,7 +1305,8 @@
                 "exclusao_tarefa": "A `tarefa` foi excluída com sucesso!",
                 "tarefa_inexistente": "Essa `tarefa` não existe mais!\nPor favor, utilize o comando novamente com uma outra tarefa.",
                 "lista_inexistente": "Essa `lista` não existe mais!\nPor favor, utilize o comando novamente com uma outra lista.",
-                "selecionar_remover": "Selecione uma tarefa abaixo para remover"
+                "selecionar_remover": "Selecione uma tarefa abaixo para remover",
+                "autor_nao_original": "Você deve usar o comando </tasks add:1137792790143696992> para ter acesso a este botão!"
             }
         },
         "menu": {
@@ -1280,7 +1369,21 @@
                 "sincronizar_servidores": "Sincronizar servidores",
                 "cargos_atribuidos": "Cargos atribuídos",
                 "ignorar_cargos": "Ignorar cargos",
-                "iniciar_atribuicao": "Iniciar atribuição"
+                "iniciar_atribuicao": "Iniciar atribuição",
+                "remover_link": "Remover link",
+                "remover_advertencia": "Remover advertência",
+                "remover_advertencias": "Remover advertências",
+                "gerenciar_advertencias": "Gerenciar advertências",
+                "tempo_mute": "Tempo de mute",
+                "excluir_advertencia": "Excluir advertência",
+                "remover_outras": "Remover outras",
+                "notificar_remocao": "Notificar remoção",
+                "nova_advertencia": "Nova advertência",
+                "por_servidor": "Por servidor",
+                "globalmente": "Globalmente",
+                "remover_todos": "Remover todos",
+                "interromper_operacao": "Interromper operação",
+                "anunciar_ao_network": "Anunciar ao Network"
             },
             "menus": {
                 "selecionar_operacao": "Selecione a operação desejada abaixo",
@@ -1299,7 +1402,8 @@
                 "escolher_usuario": "Escolha um usuário!",
                 "escolher_guilds": "Escolha os servidores!",
                 "escolher_numero": "Escolha um número!",
-                "escolher_dia_modulo": "Selecione quando esse módulo será ativado!"
+                "escolher_dia_modulo": "Selecione quando esse módulo será ativado!",
+                "escolher_link": "Escolha um link suspeito!"
             },
             "events": {
                 "message_edit": "Edição de mensagens",
