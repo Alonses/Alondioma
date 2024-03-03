@@ -404,7 +404,7 @@
                 "servidores_conhecidos": "servidores conhecidos",
                 "selecionar_operacoes_exclusao": "Configure opções de exclusão abaixo",
                 "tempo_exclusao_global": "Tempo de exclusão global",
-                "resumo_detalhado": "```fix\nAo ser movido para exclusão, o Alonsal irá ignorar todas as mensagens enviadas nos chats por você, o tempo de exclusão após o período de inatividade definida é de 14 dias, dentro dessa janela ainda é possível reverter o processo de exclusão de seus dados caso use algum comando do Alonsal.\n\nA exclusão dos dados será realizada após o periodo de inatividade definido somado a outros 14 dias de forma automática, você pode definir esse tempo de inatividade através dos botões abaixo.\n\nAo apagar os dados, o Alonsal irá remover completamente os dados salvos relacionados a você, incluindo o registro de ranking de todos os servidores ao qual possui registro, todas as tarefas criadas, módulos programados e tickets de denúncia abertos.```auto_repl\n**Recursos do servidor:**",
+                "resumo_detalhado": "```fix\nAo ser movido para exclusão, o Alonsal irá ignorar todas as mensagens enviadas nos chats por você, o tempo de exclusão após o período de inatividade definida é de 14 dias, dentro dessa janela ainda é possível reverter o processo de exclusão de seus dados caso use algum comando do Alonsal.\n\nA exclusão dos dados será realizada após o periodo de inatividade definido somado a outros 14 dias de forma automática, você pode definir esse tempo de inatividade através dos botões abaixo.\n\nAo apagar os dados, o Alonsal irá remover completamente os dados salvos relacionados a você, incluindo o registro de ranking de todos os servidores ao qual possui registro, todas as tarefas criadas, módulos programados e tickets de denúncia abertos.```auto_repl\n**Recursos configurados:**",
                 "excluir_apos": "Excluir dados após",
                 "tempo_por_servidor": "Tempo de exclusão por servidor",
                 "de_inatividade": "de inatividade",
@@ -416,6 +416,8 @@
                 "aviso_remocao_exclusao": "Olá! Devido a sua interação comigo, removi você da lista de exclusão dos dados!\n\nCaso isso tenha sido um erro, por gentileza, use o comando </data:1018609879470047260> novamente em um servidor.",
                 "salvos_cache": "Os servidores salvos em cache foram atualizados!\nAtualmente você possui moderação em `auto_repl servidores`",
                 "hoster_convites": "Convidou o Alonsal para auto_repl servidores",
+                "aviso_movido_exclusao_dm_servidor": "Olá! Esperamos que essa mensagem alcance você bem\nEste é um aviso prévio que estamos enviando sobre os seus dados que foram salvos no Alonsal!\n\nNotamos que você está sem interagir em um servidor ( auto_repl ) há algum tempo já...\nPor isso, estamos movendo todos os dados relacionados a você que estão neste servidor para exclusão!\n\nEstaremos realizando a exclusão deles <t:auto_repl:R> ( <t:auto_repl:f> ).\nCaso queira interromper essa ação, é necessário usar algum comando no servidor informado antes do tempo terminar!\n\nEsperamos que tenha tido um bom divertimento no servidor.",
+                "aviso_remocao_exclusao_servidor": "Olá! Devido a sua interação comigo em um servidor marcado para exclusão ( auto_repl ), removi você da lista de exclusão dos dados relacionados ao servidor!\n\nCaso isso tenha sido um erro, por gentileza, use o comando </data:1018609879470047260> novamente em um servidor.",
                 "selects": {
                     "uni": {
                         "1": "Locale",
@@ -511,7 +513,7 @@
                 "desc_logger": "Log de eventos do servidor.",
                 "desc_spam": "Mensagens que forem consideradas spam serão apagadas e o autor será castigado.",
                 "desc_global": "`O Nome do servidor será exibido no comando`\n</rank:1018609879562334383> ( `🌐 Global` )",
-                "desc_misterioso": "Uma ceira misteriosa será inclusa aqui em breve",
+                "desc_misterioso": "Uma ceira misteriosa será inclusa aqui em breve.",
                 "desc_autoban": "Bane o usuário reportado automaticamente, excluíndo várias mensagens do mesmo.",
                 "desc_network": "O networking sincroniza ações moderativas entre servidores que fazem parte de um grupo.",
                 "sem_permissoes": "Eu não possuo as permissões necessárias para ativar esse recurso!\nPor favor, verifique minhas permissões requeridas abaixo e conceda elas para poder usar esse recurso.",
@@ -520,7 +522,7 @@
                 "convites_rastreados": "Convites rastreados",
                 "desc_convites_rastreados": "Apaga os convites de membros quando forem banidos e expulsos.",
                 "modo_compacto": "Modo compacto",
-                "desc_modo_compacto": "",
+                "desc_modo_compacto": "O modo compacto remove todos os emojis do inicio das frases.",
                 "servidores_conhecidos": "Servidores conhecidos",
                 "desc_servidores_conhecidos": "Sincroniza os servidores conhecidos quando você entra ou sai."
             }
@@ -1417,6 +1419,8 @@
                 "escolher_frase": "Escolha uma das frases abaixo!",
                 "selecionar_profile": "Selecione um abaixo para começar",
                 "escolher_timeout": "Defina o tempo padrão de mute!",
+                "escolher_expiracao": "Defina o tempo de exclusão",
+                "escolher_inatividade": "Defina o tempo de inatividade",
                 "escolher_cor": "Escolha uma cor!",
                 "escolher_canal": "Escolha um canal de avisos!",
                 "escolher_categoria": "Escolha uma categoria!",
