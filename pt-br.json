@@ -1443,7 +1443,8 @@
                 "interromper_operacao": "Interromper operação",
                 "anunciar_ao_network": "Anunciar ao Network",
                 "nenhum_cargo": "Nenhum cargo",
-                "novo_strike": "Novo strike"
+                "novo_strike": "Novo strike",
+                "recursos": "Recursos"
             },
             "menus": {
                 "escolher_esse": "Escolher esse",
