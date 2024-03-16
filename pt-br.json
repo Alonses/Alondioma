@@ -846,7 +846,9 @@
                 "punicoes_niveis": "Punições por níveis",
                 "descricao_funcionamento": "🧻 Como funciona:\n\nO Anti-spam checa por mensagens estranhas que são enviadas no servidor, caso uma atividade suspeita seja detectada. O Alonsal irá classificar como Spam e aplicar penalidades ao membro que gerou essa estranheza, removendo as mensagens consideradas malíciosas em sequência.",
                 "strikes_ativo": "\n\n⚾ | Os strikes estão ativos nesse servidor.",
-                "strikes_desativado": "\n\n🔇 | Os strikes está desativados neste servidor.\nAtive ele para poder utilizar penalidades customizadas!",
+                "strikes_desativado": "\n\n🔇 | Os strikes estão desativados neste servidor.\nAtive ele para poder utilizar penalidades customizadas!",
+                "moderadores_ativo": "\n\n💂‍♂️ | O gerenciamento de moderadores está ativo neste servidor! Moderadores que fizerem spam serão penalizados também.",
+                "moderadores_desativado": "\n\n💂‍♂️ | O gerenciamento de moderadores está desligado neste servidor! Moderadores que fizerem spam não serão penalizados.",
                 "tempo": "Tempo",
                 "tempo_minimo": "Tempo mínimo",
                 "strikes_desc": "Um membro foi expulso do servidor por meio do sistema de Strikes!",
@@ -857,7 +859,7 @@
                 "justificativa_capturado": "",
                 "links_suspeitos": "Links suspeitos",
                 "mencoes": "Menções",
-                "ping_capturado": "Um membro foi capturado pelo Spam por enviar mensagens suspeitas, o mesmo não foi penalizado.",
+                "ping_capturado": "auto_repl foi capturado por fazer spam no servidor, o mesmo não foi penalizado.",
                 "capturado": "Você realizou spam no servidor auto_repl\nSuas últimas mensagens consideradas como spam foram removidas de forma automática.\n\nAs mensagens consideradas como spam são as seguintes:",
                 "cargo_vinculado": "O cargo mencionado acima será atribuído ao usuário que receber esse strike.",
                 "cargo_permissao": "Não é possível definir um cargo através dos strikes sem a permissão de \"Gerenciar cargos\" concedida.",
@@ -868,7 +870,12 @@
                 "descricao_configuracao_strike": "Selecione um strike abaixo para ter acesso a customizações!\n\nCada Strike concedido pode aplicar efeitos distintos nos membros do servidor.\n\nPor padrão, os strikes são concedidos de forma automática aos membros que realizam Spam no servidor. Crie vários strikes para personalizar, ou deixe apenas um, a escolha é sua!",
                 "configurando_strikes": "> Configurando Strikes",
                 "sem_permissao_cargos": "Um strike com cargos foi acionado, porém eu não possuo permissões para `Gerenciar cargos`,\no cargo não foi atribuído ao membro que recebeu o strike. @here",
-                "cargo_acrescentado": "Cargo vinculado"
+                "cargo_acrescentado": "Cargo vinculado",
+                "spam_titulo_user": "Parado ai!",
+                "expulsao_em": "Expulsão em",
+                "gerenciar_moderadores": "Gerenciar modeadores",
+                "posicionamento": "**Posição do Alonsal auto_repl° cargo**",
+                "posicionamento_cargo": "Para que o Alonsal possa gerenciar moderadores neste servidor, é aconselhado posicionar o cargo dele no topo de todos os outros cargos."
             },
             "warn": {
                 "advertencias": "Advertências",
