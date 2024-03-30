@@ -664,7 +664,7 @@
                 "titulo": "> Prevención de correo no deseado",
                 "ativado": "¡El módulo anti-spam ha sido activado! auto_repl\nEl canal mencionado se usará para el registrador (</conf guild:1094346210636214304>) también si está activado.\n\nSi usa el comando de registrador mencionando otro canal, el antispam enviará todos los informes en el mismo canal registrador y viceversa\n(ambos módulos usan el mismo canal auto_repl)",
                 "desativado": "El módulo antispam ha sido deshabilitado.",
-                "spam_aplicado": "El usuario auto_repl ha sido silenciado durante `auto_repl minutos` debido a\nmensajes repetidos enviados en tiempos aproximados.",
+                "spam_aplicado": "El usuario auto_repl ha sido silenciado durante `auto_repl` debido a\nmensajes repetidos enviados en tiempos aproximados.",
                 "vigencia": "Validez",
                 "justificativa_mute": "Spam en el servidor",
                 "ping_spam": "auto_repl fue castigado por spam",

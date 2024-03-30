@@ -696,7 +696,7 @@
                 "titulo": "> Spam-Prävention",
                 "ativado": "Das Anti-Spam-Modul wurde aktiviert! auto_repl\nDer benannte Kanal wird für den Logger verwendet (</conf guild:1094346210636214304>), auch wenn er aktiviert ist.\n\nWenn Sie den Logger-Befehl verwenden und einen anderen Kanal erwähnen, sendet Anti-Spam alle Berichte an denselben ein Protokollierungskanal und umgekehrt\n(beide Module verwenden denselben auto_repl-Kanal)",
                 "desativado": "Das Anti-Spam-Modul wurde deaktiviert.",
-                "spam_aplicado": "Der Benutzer auto_repl wurde für `auto_repl minuten` stummgeschaltet, weil\ner in ungefährer Zeit wiederholt Nachrichten gesendet hat.",
+                "spam_aplicado": "Der Benutzer auto_repl wurde für `auto_repl` stummgeschaltet, weil\ner in ungefährer Zeit wiederholt Nachrichten gesendet hat.",
                 "vigencia": "Gültigkeit",
                 "justificativa_mute": "Spam auf dem Server",
                 "ping_spam": "auto_repl wurde aufgrund von Spam mutiert",

@@ -697,7 +697,7 @@
                 "titulo": "> Prévention du spam",
                 "ativado": "Le module anti-spam a été activé ! auto_repl\nLe canal mentionné sera utilisé pour l'enregistreur ( </conf guild:1094346210636214304> ) également s'il est activé.\n\nSi vous utilisez la commande logger en mentionnant un autre canal, l'anti-spam enverra tous les rapports sur le même canal d'enregistreur, et vice versa\n(les deux modules utilisent le même canal auto_repl)",
                 "desativado": "Le module anti-spam a été désactivé.",
-                "spam_aplicado": "L'utilisateur auto_repl a été mis en sourdine pendant `auto_repl minutes` en raison de messages répétés\nenvoyés à des heures approximatives.",
+                "spam_aplicado": "L'utilisateur auto_repl a été mis en sourdine pendant `auto_repl` en raison de messages répétés\nenvoyés à des heures approximatives.",
                 "vigencia": "Validité",
                 "justificativa_mute": "Envoyer du spam au serveur",
                 "ping_spam": "auto_repl a été sanctionné pour spam",

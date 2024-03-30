@@ -693,7 +693,7 @@
                 "titulo": "> Prevenzione dello spam",
                 "ativado": "Il modulo antispam è stato attivato! auto_repl\nIl canale menzionato sarà usato per il logger ( </conf guild:1094346210636214304> ) anche se è attivato.\n\nSe usi il comando logger che menziona un altro canale, l'anti-spam invierà tutti i report sullo stesso canale del logger, e viceversa\n(entrambi i moduli usano lo stesso canale auto_repl)",
                 "desativado": "Il modulo antispam è stato disabilitato.",
-                "spam_aplicado": "L'utente auto_repl è stato penalizzato per `auto_repl minuti` per aver inviato ripetutamente\nmessaggi considerati spam.",
+                "spam_aplicado": "L'utente auto_repl è stato penalizzato per `auto_repl` per aver inviato ripetutamente\nmessaggi considerati spam.",
                 "vigencia": "Validità",
                 "justificativa_mute": "Messaggi di spam del server",
                 "ping_spam": "auto_repl è stato punito per spam",
