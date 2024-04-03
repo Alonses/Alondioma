@@ -649,7 +649,8 @@
                 "aviso_de_entradas": "Aviso de entradas",
                 "canal_de_avisos": "Canal de avisos",
                 "funcionamento_reportes": "```🧻 Funcionamento dos reportes\n\nOs reportes externos são registrados por moderadores de qualquer servidor onde o Alonsal estiver, um moderador ao registrar um reporte por meio do /report create, poderá compartilhar essa adição com outros servidores!\n\nAo compartilhar, o Alonsal irá enviar uma notificação sobre essa adição no canal especificado abaixo.\n\n📛 Funcionamento do AutoBan\n\nO AutoBan é um recurso extra ao /report create, com ele estando ativo, todos os reportes que forem criados no servidor também implicarão no banimento do usuário que for reportado!\n\n📣 Funcionamento do Anúncio de entradas\n\nO Anúncio de entradas serve para notificar os moderadores do servidor caso algum usuário que tenha sido reportado entre no servidor, eu irei avisar vocês sobre esse usuário e seu histórico de denúncias.```",
-                "apelido_desconhecido": "Apelido desconhecido!",
+                "apelido_desconhecido": "Apelido desconhecido",
+                "entrada_desconhecida": "Entrada desconhecida",
                 "historico_usuario": "> Histórico do usuário",
                 "varias_paginas": "páginas, use os botões abaixo para gerenciar os membros reportados",
                 "uma_pagina": "1 página, use os botões abaixo para gerenciar os membros reportados",
@@ -971,7 +972,12 @@
                 "nao_configurado_2": "Você precisa ativar esse recurso e definir um canal de avisos de advertências pelo painel do servidor!",
                 "customizacao_rodape": "Qual será a customização da vez?",
                 "descricao_configuracao_warn": "Selecione uma advertência abaixo para ter acesso a customizações!\n\nCada Advertência concedida pode aplicar efeitos distintos nos membros do servidor.\n\nPor padrão, as advertências são concedidos apenas por moderadores no servidor. Crie várias advertências para personalizar níveis de penalidade, ou deixe apenas duas, a escolha é sua!",
-                "configurando_warns": "> Configurando Advertências"
+                "configurando_warns": "> Configurando Advertências",
+                "advertencias_publicas": "Advertências públicas",
+                "anuncio_publico": "Anúncio público",
+                "anunciar_publicamente": "Anunciar publicamente",
+                "canal_publico": "Canal público",
+                "descricao_adv_publica": "```fix\n🧙‍♀️ O Anúncio público está ativo!\n\nTodas as advertências que forem criadas agora serão enviadas no canal específico para advertências públicas, e o membro que foi advertido será mencionado por lá!```"
             },
             "link_suspeito": {
                 "titulo": "> Navegando por links suspeitos 🔗",
