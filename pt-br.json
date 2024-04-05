@@ -221,7 +221,7 @@
             "speaker": {
                 "canais_permitidos": "canais permitidos",
                 "sem_canal": "nenhum canal selecionado",
-                "descricao": "```🧻 Como funciona\n\nO Alonsal falador é um recurso que poder ser usado para conversar com o bot através do servidor de forma dinâmica, os retornos que ele te mostrará não são filtrados, sendo assim, nós não temos controle do que ele dirá!\n\nVocê pode limitar esse recurso para funcionar em apenas alguns canais, ou ativar no servidor inteiro!```",
+                "descricao": "```🧻 Como funciona\n\nO Alonsal falador é um recurso que poder ser usado para conversar com o bot através do servidor de forma dinâmica, os retornos que ele te mostrará não são filtrados, sendo assim, nós não temos controle do que ele dirá e não nos reponsabilizamos pelo que sairá!\n\nVocê pode limitar esse recurso para funcionar em apenas alguns canais, ou ativar no servidor inteiro!```",
                 "limitar_canais": "Limitar canais",
                 "canais_conversacao": "Canais de conversação"
             }
@@ -334,7 +334,7 @@
                 "jogos_free": "Jogos Free",
                 "modulos_ativos": "Módulos ativos",
                 "de_hoje": "De hoje",
-                "botoes_clicados": "Botoes clicados",
+                "botoes_clicados": "Botões clicados",
                 "xp_gerado": "XP gerado",
                 "menus_abertos": "Menus abertos",
                 "historico": "Do histórico",
@@ -413,11 +413,11 @@
                 "aviso_movido_exclusao": "Os seus dados foram marcados para exclusão <t:auto_repl:R>\n\nAté lá, você será ignorado no ranking de XP do Alonsal, caso deseje manter os dados, você deverá usar novamente um comando antes do tempo expirar.",
                 "descricao_tempo_inatividade": "Todos os seus dados serão marcados para exclusão.\n\nApós a confirmação, o Alonsal irá mover seus dados para uma quarentena de 14 dias, e após isso, todos os dados relacionados a você serão removidos de nossa base de dados.\n\nAntes do prazo se expirar, você deverá usar um comando nosso novamente para evitar que seus dados sejam removidos.\n\nPor padrão, todos os usuários possuem um tempo de inatividade que aciona essa funcionalidade de expiração, caso deseje manter seus dados por mais tempo, considere retornar e aumentar o tempo de inatividade.",
                 "hoster_alonsal": "Adicionou-me ao servidor",
-                "aviso_movido_exclusao_dm": "Olá! Esperamos que essa mensagem alcance você bem\nEste é um aviso prévio que estamos enviando sobre os seus dados que foram salvos no Alonsal!\n\nNotamos que você está sem interagir conosco a bastante tempo já...\nPor isso, estamos movendo todos os dados relacionados a você que coletamos para exclusão!\n\nEstaremos realizando a exclusão de tudo <t:auto_repl:R> ( <t:auto_repl:f> ).\nCaso queira interromper essa ação, é necessário usar algum comando conosco antes do tempo terminar!\n\nEsperamos que tenha tido um bom divertimento conosco, obrigado pela confiança e até uma próxima!! ;D",
+                "aviso_movido_exclusao_dm": "Olá! Esperamos que essa mensagem alcance você bem\nEste é um aviso prévio que estamos enviando sobre os seus dados que foram salvos no Alonsal!\n\nNotamos que você está sem interagir conosco a bastante tempo já...\nPor isso, estamos movendo todos os dados relacionados a você que coletamos para exclusão!\n\nEstaremos realizando a exclusão de tudo <t:auto_repl:R> ( <t:auto_repl:f> ).\nCaso queira interromper essa ação, é necessário usar algum comando conosco antes do tempo terminar!\n\nEsperamos que tenha tido um bom divertimento com o Alonsal, obrigado pela confiança e até uma próxima!! ;D",
                 "aviso_remocao_exclusao": "Olá! Devido a sua interação comigo, removi você da lista de exclusão dos dados!\n\nCaso isso tenha sido um erro, por gentileza, use o comando </data:1018609879470047260> novamente em um servidor.",
                 "salvos_cache": "Os servidores salvos em cache foram atualizados!\nAtualmente você possui moderação em `auto_repl servidores`",
                 "hoster_convites": "Convidou o Alonsal para auto_repl servidores",
-                "aviso_movido_exclusao_dm_servidor": "Olá! Esperamos que essa mensagem alcance você bem\nEste é um aviso prévio que estamos enviando sobre os seus dados que foram salvos no Alonsal!\n\nNotamos que você está sem interagir em um servidor ( auto_repl ) há algum tempo já...\nPor isso, estamos movendo todos os dados relacionados a você que estão neste servidor para exclusão!\n\nEstaremos realizando a exclusão deles <t:auto_repl:R> ( <t:auto_repl:f> ).\nCaso queira interromper essa ação, é necessário usar algum comando no servidor informado antes do tempo terminar!\n\nEsperamos que tenha tido um bom divertimento no servidor.",
+                "aviso_movido_exclusao_dm_servidor": "Olá! Esperamos que essa mensagem alcance você bem\nEste é um aviso prévio que estamos enviando sobre os seus dados que foram salvos no Alonsal!\n\n***NOTE QUE, este aviso se aplica diretamente ao Alonsal, e os dados que temos salvos sobre você nele, SE VOCÊ NÃO PRETENDE USAR O BOT FUTURAMENTE, desconsidere essa mensagem.***\n\nContinuando, motamos que você está sem interagir em um servidor ( auto_repl ) há algum tempo já...\nPor isso, estamos movendo todos os dados que temos salvos sobre você que estão neste servidor para exclusão!\n\nEstaremos realizando a exclusão deles <t:auto_repl:R> ( <t:auto_repl:f> ).\nCaso queira interromper essa ação e manter os seus dados no Alonsal, é necessário usar algum comando no servidor informado antes do tempo terminar!\n\nEsperamos que tenha tido um bom divertimento utilizando o Alonsal no servidor informado!",
                 "aviso_remocao_exclusao_servidor": "Olá! Devido a sua interação comigo em um servidor marcado para exclusão ( auto_repl ), removi você da lista de exclusão dos dados relacionados ao servidor!\n\nCaso isso tenha sido um erro, por gentileza, use o comando </data:1018609879470047260> novamente em um servidor.",
                 "exclusao_dados_completa": "Olá! Sou eu novamente...\nEstou passando para avisar de que os registros que salvamos de você foram removidos de nosso registros, viva!!\n\nAs funcionalidades nossas estão a uma `/barra` de distância 🧙‍♀️😎.\n\nAté uma próxima e obrigado pela confiança depositada conosco.",
                 "exclusao_dm_servidor": "Olá, olha eu aqui de novo :v\nRealizamos a exclusão dos seus dados em um dos servidores em que você estava inativo...,\nAgora, todos os dados seus vinculados ao servidor auto_repl, não estão mais entre nós e iremos parar de contabilizar o seu ranking neste servidor.",
@@ -543,6 +543,7 @@
                     "fr-fr": "Francês",
                     "it-it": "Italiano",
                     "pt-br": "Português",
+                    "pt-hp": "Hopês",
                     "ru-ru": "Russo"
                 }
             },
@@ -822,7 +823,7 @@
                 "membro_perdoado": "Um membro foi perdoado",
                 "motivo_castigo": "Motivo do castigo",
                 "tempo_castigo": "Tempo de castigo",
-                "apelido_atualizado_titulo": "> Apelido atualizado",
+                "apelido_atualizado_titulo": "> Apelido atualizado 🔖",
                 "apelido_alterado": "Um membro do servidor atualizou o seu apelido!",
                 "apelido_alterado_moderador": "Um membro teve o seu apelido atualizado por um moderador!",
                 "apelido": "O Apelido",
@@ -865,7 +866,6 @@
                 "strikes_ban": "Banido do servidor pelo sistema de Strikes do Anti-spam",
                 "justificativa_kick": "Você foi expulso do servidor auto_repl por realizar diversos spams.\nSuas últimas mensagens consideradas como spam são as seguintes:",
                 "justificativa_ban": "Você foi banido do servidor auto_repl por realizar diversos spams.\nSuas últimas mensagens consideradas como spam são as seguintes:",
-                "justificativa_capturado": "",
                 "links_suspeitos": "Links suspeitos",
                 "mencoes": "Menções",
                 "ping_capturado": "auto_repl foi capturado por fazer spam no servidor, o mesmo não foi penalizado.",
@@ -965,8 +965,8 @@
                 "trava_advertencia": "Essa advertência não pode ser excluída! Configure ela ou desative o recurso de advertências.",
                 "trava_advertencia_2": "Essa não é a última advertência criada, por gentileza, prossiga até a última e exclua ela antes.",
                 "definir_tempo": "Defina o tempo para remover a advertência!",
-                "recurso_ativo": "Os Warns estão habilitados nesse servidor! Agora ao usar o comando </warn> mencionando um usuário, ele será penalizado caso a quantidade de warns seja alcançada.\n\nVocê pode alterar a quantidade de warns e a ação que será tomada pelo </panel guild> a qualquer momento!",
-                "recurso_desligado": "Os Warns agora estão desligado nesse servidor!\nUse o comando novamente ou ative através do </panel guild> para poder usar as advertências",
+                "recurso_ativo": "Os Warns estão habilitados nesse servidor! Agora ao usar o comando </warn create:1174176501453824010> mencionando um usuário, ele será penalizado caso a a advertência aplique penalidades.\n\nVocê pode alterar a quantidade de warns e a ação que será tomada por cada uma no </panel guild:1107163338930126869> a qualquer momento!",
+                "recurso_desligado": "Os Warns agora estão desligado nesse servidor!\nUse o comando novamente ou ative através do </panel guild:1107163338930126869> para poder usar as advertências",
                 "membro_desconhecido": "O membro mencionado não faz mais parte desse servidor...\nNão é possível criar uma advertência para ele.",
                 "nao_configurado": "Antes de executar esse comando, configure as advertências através do </panel guild:1107163338930126869> na guia das `🛑 Advertências`,\npara poder definir penalidades e aplicação de cargos ao usuário.\n\nÉ necessário que pelo menos duas advertências sejam criadas para poder usar esse comando.",
                 "nao_configurado_2": "Você precisa ativar esse recurso e definir um canal de avisos de advertências pelo painel do servidor!",
@@ -977,7 +977,8 @@
                 "anuncio_publico": "Anúncio público",
                 "anunciar_publicamente": "Anunciar publicamente",
                 "canal_publico": "Canal público",
-                "descricao_adv_publica": "```fix\n🧙‍♀️ O Anúncio público está ativo!\n\nTodas as advertências que forem criadas agora serão enviadas no canal específico para advertências públicas, e o membro que foi advertido será mencionado por lá!```"
+                "descricao_adv_publica": "```fix\n🧙‍♀️ O Anúncio público está ativo!\n\nTodas as advertências que forem criadas agora serão enviadas no canal específico para advertências públicas, e o membro que foi advertido será mencionado por lá!```",
+                "anuncio_temporario": "<@auto_repl> recebeu uma nova advertência! ( `auto_repl` )\n\nauto_repl\n\n:hotsprings: Esta mensagem será removida <t:auto_repl:R>"
             },
             "link_suspeito": {
                 "titulo": "> Navegando por links suspeitos 🔗",
@@ -994,7 +995,7 @@
                 "operacao_cancelada_exclusao": "O Link selecionado não foi excluído, operação cancelada.",
                 "sem_links": "Não há links suspeitos identificados e reportados neste servidor!\nVocê pode adicionar um link suspeito através do comando </link add:1020561785620803674> caso acredite que ele seja malicioso!",
                 "navegando_titulo": "> Navegando por links suspeitos 🔗",
-                "descricao_links_suspeitos": "Links suspeitos são links que consideramos maliciosos e que podem trazer problemas para usuários que clicarem.\n\nGeralmente esses links são usados para conceder acesso a sua conta Discord ou de outras redes para pessoas má intencionadas, sem o consentimento do usuário que veio a clicar por engano, acreditando ser um link oficial.",
+                "descricao_links_suspeitos": "Links suspeitos são links que consideramos maliciosos e que podem trazer problemas para usuários que clicarem.\n\nGeralmente esses links são usados para conceder acesso a sua conta Discord ou de outras redes para pessoas má intencionadas, sem o consentimento do usuário que veio a clicar por engano, acreditando ser um link oficial.\n\nPor aqui, nos registramos links de forma automática sempre que um Spam é detectado no servidor, e o recurso de `🔗 Links suspeitos` está ativo.\n\n🛑 Não clique em hipótese alguma em um link listado abaixo! Nós não nos responsabilizamos por atitudes que terceiros podem realizar em sua conta, caso seja vitima de hackemento.",
                 "navegar_links": "Use o menu abaixo para navegar pelos links suspeitos do servidor!",
                 "registrado_em": "Registrado em",
                 "link_invalido": "O texto informado não é um link!\nNão é possível salvar esse valor como um link suspeito.",
