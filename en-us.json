@@ -1447,6 +1447,7 @@
                 "expiracao": "Expiration",
                 "expirando": "Expiring",
                 "alterar_dia": "Change day",
+                "alterar_frequencia": "Change frequency",
                 "proximo": "Next",
                 "inicio": "Home",
                 "destino": "Destiny",
@@ -1502,7 +1503,8 @@
                 "escolher_link": "Choose a suspicious link!",
                 "escolher_expiracao": "Set the deletion time",
                 "escolher_inatividade": "Set downtime",
-                "escolher_acao": "Choose an action!"
+                "escolher_acao": "Choose an action!",
+                "escolher_frequencia": "Choose a frequency!"
             },
             "events": {
                 "message_edit": "Edited messages",

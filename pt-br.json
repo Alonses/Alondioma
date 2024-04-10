@@ -1429,6 +1429,7 @@
                 "expiracao": "Expiração",
                 "expirando": "Expirando",
                 "alterar_dia": "Alterar dia",
+                "alterar_frequencia": "Alterar frequência",
                 "proximo": "Próximo",
                 "inicio": "Início",
                 "destino": "Destino",
@@ -1484,7 +1485,8 @@
                 "escolher_guilds": "Escolha os servidores!",
                 "escolher_numero": "Escolha um número!",
                 "escolher_dia_modulo": "Selecione quando esse módulo será ativado!",
-                "escolher_link": "Escolha um link suspeito!"
+                "escolher_link": "Escolha um link suspeito!",
+                "escolher_frequencia": "Escolha uma frequência!"
             },
             "events": {
                 "message_edit": "Edição de mensagens",
