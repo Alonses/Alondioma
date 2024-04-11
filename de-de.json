@@ -90,7 +90,7 @@
                 "ativacao_min_0": "am werktags um",
                 "ativacao_min_1": "am Wochenende um",
                 "ativacao_min_2": "jeden Tag um",
-                "descricao": "Dieses Modul vergünstigt `B$ auto_repl`. Je mehr Module Sie aktivieren,\n desto mehr Bufunfas werden pro Tag von Ihrer Bank abgebucht.\n\nDerzeit beträgt der Wert für die Ausführung Ihrer Module `B$ auto_repl.`\n----------------------------------------------------------------------------",
+                "descricao": "Dieses Modul vergünstigt `B$ auto_repl`. Je mehr Module Sie aktivieren,\n desto mehr Bufunfas werden pro Tag von Ihrer Bank abgebucht.\n\nDerzeit beträgt der Wert für die Ausführung Ihrer Module `B$ auto_repl`\n----------------------------------------------------------------------------",
                 "modulo_ativado": "Modul aktiviert! Ihr Modul wird auto_repl `auto_repl` gesendet",
                 "modulo_0": "🌩️ Wetter",
                 "modulo_1": "🖊️ Phrasen",

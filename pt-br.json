@@ -109,7 +109,7 @@
                 "ativacao_min_8": "nas quintas-feiras às",
                 "ativacao_min_9": "nas sextas-feiras às",
                 "ativacao_min_10": "nos sábados às",
-                "descricao": "Este módulo irá descontar `B$ auto_repl`, quanto mais módulos ativar,\nmais bufunfas serão descontadas do seu banco por dia.\n\nAtualmente o valor por operar seus módulos é `B$ auto_repl.`\n----------------------------------------------------------------------------",
+                "descricao": "Este módulo irá descontar `B$ auto_repl`, quanto mais módulos ativar,\nmais bufunfas serão descontadas do seu banco por dia.\n\nAtualmente o valor por operar seus módulos é `B$ auto_repl`\n----------------------------------------------------------------------------",
                 "modulo_ativado": "Módulo ativado! Seu módulo será enviado auto_repl `auto_repl`",
                 "modulo_0": "🌩️ Clima",
                 "modulo_1": "🖊️ Frases",
@@ -119,7 +119,8 @@
                 "modulo_5": "💎 Itens do Minecraft",
                 "modulo_6": "🎮 Jogos gratuitos",
                 "auto_desativado": "Seus módulos foram desativados!\nGaranta que tenha Bufunfas em sua conta do Alonsal para poder ativar recursos como este!\n\nVocê pode ganhar bufunfas com o comando </daily:1020794974377353338> ou através de depósitos e games",
-                "modulo_inexistente": "Esse `módulo` não existe mais!\nPor favor, utilize o comando novamente com um outro módulo."
+                "modulo_inexistente": "Esse `módulo` não existe mais!\nPor favor, utilize o comando novamente com um outro módulo.",
+                "confirmar_exclusao": "Você confirma a exclusão do módulo selecionado?"
             },
             "b_historico": {
                 "movimentacoes": "Suas últimas movimentações",

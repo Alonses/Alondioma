@@ -107,7 +107,7 @@
                 "ativacao_min_8": "on Thursdays at",
                 "ativacao_min_9": "on Fridays at",
                 "ativacao_min_10": "on Saturdays at",
-                "descricao": "This module will discount `B$ auto_repl`, the more modules you activate,\nthe more Bufunfas will be deducted from your bank per day.\n\nCurrently the value for operating your modules is `B$ auto_repl.`\n----------------------------------------------------------------------------",
+                "descricao": "This module will discount `B$ auto_repl`, the more modules you activate,\nthe more Bufunfas will be deducted from your bank per day.\n\nCurrently the value for operating your modules is `B$ auto_repl`\n----------------------------------------------------------------------------",
                 "modulo_ativado": "Module activated! Your module will be sent auto_repl `auto_repl`",
                 "modulo_0": "🌩️ Weather",
                 "modulo_1": "🖊️ Phrases",
@@ -117,7 +117,8 @@
                 "modulo_5": "💎 Minecraft Items",
                 "modulo_6": "🎮 Free games",
                 "auto_desativado": "Your modules have been deactivated!\nMake sure you have Bufunfas in your Alonsal account to be able to activate features like this!\n\nYou can earn Bufunfas with the command </daily:1020794974377353338> or through deposits and games",
-                "modulo_inexistente": "This `module` no longer exists!\nPlease reuse the command with another module."
+                "modulo_inexistente": "This `module` no longer exists!\nPlease reuse the command with another module.",
+                "confirmar_exclusao": "Do you confirm the deletion of the selected module?"
             },
             "b_historico": {
                 "movimentacoes": "Your last bank transactions",

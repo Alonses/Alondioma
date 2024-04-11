@@ -90,7 +90,7 @@
                 "ativacao_min_0": "nei giorni lavorativi alle",
                 "ativacao_min_1": "nei finesettimana alle",
                 "ativacao_min_2": "ogni giorno alle",
-                "descricao": "Questo modulo avrà un costo `B$ auto_repl`, più moduli sono attivi,\npiù Bufunfas verranno detratti dalla tua banca al giorno.\n\nAttualmente il valore per il funzionamento dei tuoi moduli è `B$ auto_repl.`\n----------------------------------------------------------------------------",
+                "descricao": "Questo modulo avrà un costo `B$ auto_repl`, più moduli sono attivi,\npiù Bufunfas verranno detratti dalla tua banca al giorno.\n\nAttualmente il valore per il funzionamento dei tuoi moduli è `B$ auto_repl`\n----------------------------------------------------------------------------",
                 "modulo_ativado": "Modulo attivato! Il tuo modulo verrà inviato auto_repl `auto_repl`",
                 "modulo_1": "🖊️ Frasi",
                 "modulo_2": "🏯 Eventi storici",
