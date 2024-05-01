@@ -390,7 +390,7 @@
                 "nao_compartilha_badges": "Este usuário não compartilha suas badges publicamente!\nNão é possível ver as badges do mesmo...",
                 "links_externos": "Links externos",
                 "nota_servidores": "Servidores desconhecidos são servidores onde você ganhou experiências e eu não faço mais parte! 😢",
-                "tipo_dado": "Selecione um tipo de dado",
+                "tipo_dado": "Selecione um tipo de dado abaixo",
                 "exclusao_dados": "> Exclusão de dados",
                 "rodape": "Use os botões abaixo por sua conta e risco, não será possível desfazer caso prossiga o uso do comando.",
                 "descricao_embed": "Seus dados serão excluídos definitivamente utilizando este comando.\n\nPor sua segurança e total controle de sua parte, eu não crio backups dos dados, isso significa que os dados uma vez excluídos não podem ser recuperados.\n\nVocê escolheu: auto_repl```fix\nO que será excluído:\nauto_repl```",
@@ -1475,6 +1475,7 @@
                 "escolher_timeout": "Defina o tempo padrão de mute!",
                 "escolher_expiracao": "Defina o tempo de exclusão",
                 "escolher_inatividade": "Defina o tempo de inatividade",
+                "escolher_tempo_remocao": "Defina o tempo para remoção",
                 "escolher_cor": "Escolha uma cor!",
                 "escolher_canal": "Escolha um canal de avisos!",
                 "escolher_categoria": "Escolha uma categoria!",
@@ -1487,7 +1488,9 @@
                 "escolher_numero": "Escolha um número!",
                 "escolher_dia_modulo": "Selecione quando esse módulo será ativado!",
                 "escolher_link": "Escolha um link suspeito!",
-                "escolher_frequencia": "Escolha uma frequência!"
+                "escolher_frequencia": "Escolha uma frequência!",
+                "escolher_tarefa": "Escolha uma tarefa!",
+                "escolher_tipo_dado": "Escolha um tipo de dado!"
             },
             "events": {
                 "message_edit": "Edição de mensagens",
