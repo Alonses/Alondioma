@@ -676,7 +676,7 @@
                 "descricao_network": "Este reporte está sendo anunciado apenas nos servidores que fazem parte de um networking, como este!!"
             },
             "network": {
-                "descricao": "```🧻 Funcionamento do networking\n\nO networking do servidor faz a comunicação dos eventos moderativos deste servidor com outros servidores externos, quando um usuário for castigado por aqui e outros servidores fizerem parte do mesmo network deste servidor, e estiverem com o recurso ativo, o usuário também será castigado por lá!```",
+                "descricao": "```🧻 Funcionamento do networking\n\nO networking do servidor faz a comunicação dos eventos moderativos deste servidor com outros servidores externos, quando um usuário for castigado por aqui e outros servidores fizerem parte do mesmo network deste servidor, e estiverem com o recurso ativo, o usuário também será castigado por lá!\n\n💡 | Ao banir um membro num servidor você pode replicar o banimento com a remoção das mensagens do membro em outros servidores por X tempo. Todos os banimentos que forem gerados em servidores de um network usarão o mesmo tempo configurado abaixo de forma global na sincronização do evento.```",
                 "servidores": "Servidores",
                 "eventos_sincronizados": "Eventos sincronizados",
                 "permissoes_no_servidor": "Permissões neste servidor",
@@ -1546,6 +1546,18 @@
                 "7257600": "3 meses",
                 "14515200": "6 meses",
                 "29030400": "1 ano"
+            },
+            "network": {
+                "0": "Sem exclusão",
+                "1": "Última hora",
+                "2": "Últimas 2 horas",
+                "3": "Últimas 6 horas",
+                "4": "Últimas 12 horas",
+                "5": "Últimas 24 horas",
+                "6": "Últimos 2 dias",
+                "7": "Últimos 3 dias",
+                "8": "Últimos 5 dias",
+                "9": "Últimas 7 dias"
             }
         },
         "modu": {
