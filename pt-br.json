@@ -552,7 +552,7 @@
                 "permissao": "Eu não posso fazer isso sem a permissão de `Gerenciar mensagens`",
                 "apagado_1": "mensagens` foram removidas",
                 "apagado_2": "mensagem` foi removida",
-                "purge_user": "As mensagens de <@auto_repl> foram apagadas!",
+                "purge_user": "As mensagens dos últimos 20 minutos de <@auto_repl> estão sendo apagadas!",
                 "purge_error": "Não foi possível excluir as mensagens desse usuário, talvez ele tenha fixado uma mensagem, ou essas mensagens sejam muito antigas!",
                 "error": "Não foi possível executar este comando, pois há mensagens fixadas ou muito antigas, por favor, diminua a quantidade e tente novamente"
             },
