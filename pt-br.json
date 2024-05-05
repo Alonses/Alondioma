@@ -2,6 +2,7 @@
     "data": {
         "inic": {
             "inicio": {
+                "apresentacao": "Aoba! Notei que me pingou...\nCaso tenha dúvidas sobre meus comandos e no que podemos trabalhar juntos...\nUse o </help:1018609879512006787 para que possamos começar!\n\nNota: Não consegue ver meus comandos? Me convide novamente clicando no botão abaixo! Também verifique se meus comandos estão habilitados para todos nas integrações do servidor em `Integrações -> Alonsal -> Comandos`",
                 "slash_commands": "Os comandos tradicionais foram desativados, continue usando o Alonsal pelos comandos de `/barra` ( </help:1018609879512006787> )! Experimente agora mesmo ;D\n\nNota: Não consegue ver meus comandos? Me convide novamente clicando no botão abaixo! Também verifique se meus comandos estão habilitados para todos nas integrações do servidor em `Integrações -> Alonsal -> Comandos`",
                 "convidar": "Convidar!",
                 "suporte": "Suporte"
