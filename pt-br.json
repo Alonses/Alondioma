@@ -219,13 +219,6 @@
                 "consoantes": "Consoantes:",
                 "numeros": "Números:",
                 "sem_emoji": "Você precisa incluir um emoji para executar esse comando, por favor, tente novamente"
-            },
-            "speaker": {
-                "canais_permitidos": "canais permitidos",
-                "sem_canal": "nenhum canal selecionado",
-                "descricao": "```🧻 Como funciona\n\nO Alonsal falador é um recurso que poder ser usado para conversar com o bot através do servidor de forma dinâmica, os retornos que ele te mostrará não são filtrados, sendo assim, nós não temos controle do que ele dirá e não nos reponsabilizamos pelo que sairá!\n\nVocê pode limitar esse recurso para funcionar em apenas alguns canais, ou ativar no servidor inteiro!```",
-                "limitar_canais": "Limitar canais",
-                "canais_conversacao": "Canais de conversação"
             }
         },
         "game": {
@@ -479,7 +472,8 @@
                 "descricao_quebra_link": "**Ao confirmar a quebra de link este servidor será removido do grupo do network**.\n\nOs servidores listados abaixo continuarão com o link ativo, porém este servidor não fará mais parte do mesmo.",
                 "excluir_apos": "Excluir dados após `auto_repl dias`\n",
                 "resumo_expandido": "```fix\nAo ser removido do servidor, o Alonsal irá desativar a maioria dos recursos listados abaixo.\n\nA exclusão dos dados será realizada após um período de forma automática, você pode definir esse tempo através dos botões abaixo.\n\nAo apagar os dados, o Alonsal irá remover completamente os dados salvos do servidor, incluindo o registro de ranking, a redefinição da origem de reportes e links suspeitos e remoção de advertências salvas.```auto_repl\n**Recursos do servidor:**",
-                "remover_canal": "Remover canal"
+                "remover_canal": "Remover canal",
+                "remover_cargo": "Remover cargo"
             },
             "telemetria": {
                 "titulo": "> Dados de telemetria",
@@ -501,8 +495,6 @@
                 "desc_badges_publicas": "Exibir suas badges para outros usuários.",
                 "desc_clima_resumido": "`Retornar` </weather:1018653229128622187> `de forma resumida.`",
                 "desc_tarefas_globais": "Ver suas tarefas e listas em qualquer servidor.",
-                "alonsal_falador": "Alonsal Falador",
-                "permitir_broadcast": "Permitir Broadcast",
                 "anuncio_games": "Anúncio de Games",
                 "denuncias_server": "Denúncias In-server",
                 "reports_externos": "Reports externos",
@@ -510,8 +502,6 @@
                 "anti_spam": "Anti-spam",
                 "visibilidade_global": "Visível Globalmente",
                 "misterioso": "Misterioso",
-                "desc_falador": "O Alonsal poderá responder outros usuários se incluirem seu nome em alguma mensagem",
-                "desc_broadcast": "`Usuários do servidor podem conversar com o Slondo usando o Alonsal neste servidor através do comando`\n</broadcast:1114316224663396472>",
                 "desc_games": "O Alonsal enviará anúncios de jogos gratuitos automaticamente.",
                 "desc_denuncias": "Usuários podem usar o Alonsal para fazer denúncias dentro do próprio servidor.",
                 "desc_reports": "Reportes de usuários mau comportados serão enviados no servidor.",
@@ -651,7 +641,9 @@
                 "status": "Status",
                 "aviso_de_entradas": "Aviso de entradas",
                 "canal_de_avisos": "Canal de avisos",
-                "funcionamento_reportes": "```🧻 Funcionamento dos reportes\n\nOs reportes externos são registrados por moderadores de qualquer servidor onde o Alonsal estiver, um moderador ao registrar um reporte por meio do /report create, poderá compartilhar essa adição com outros servidores!\n\nAo compartilhar, o Alonsal irá enviar uma notificação sobre essa adição no canal especificado abaixo.\n\n📛 Funcionamento do AutoBan\n\nO AutoBan é um recurso extra ao /report create, com ele estando ativo, todos os reportes que forem criados no servidor também implicarão no banimento do usuário que for reportado!\n\n📣 Funcionamento do Anúncio de entradas\n\nO Anúncio de entradas serve para notificar os moderadores do servidor caso algum usuário que tenha sido reportado entre no servidor, eu irei avisar vocês sobre esse usuário e seu histórico de denúncias.```",
+                "funcionamento_reportes": "```🧻 Funcionamento dos reportes\n\nOs reportes externos são registrados por moderadores de qualquer servidor onde o Alonsal estiver, um moderador ao registrar um reporte por meio do /report create, poderá compartilhar essa adição com outros servidores!\n\nAo compartilhar, o Alonsal irá enviar uma notificação sobre essa adição no canal especificado abaixo.```",
+                "funcionamento_autoban": "```📛 Funcionamento do AutoBan\n\nO AutoBan é um recurso extra ao /report create, com ele ativo, todos os reportes que forem criados no servidor também implicarão no banimento do usuário que for reportado!\n\nDefina um tempo abaixo para que eu também possa excluir as mensagens enviadas pelo membro reportado após o banimento.```",
+                "funcionamento_aviso_entradas": "```📣 Funcionamento do Anúncio de entradas\n\nO Anúncio de entradas serve para notificar os moderadores do servidor caso algum usuário que tenha sido reportado anteriormente entre no servidor, eu irei avisar vocês sobre esse usuário e seu histórico de denúncias.\n\nDefina um cargo abaixo para que eu possa mencionar um cargo específico.```",
                 "apelido_desconhecido": "Apelido desconhecido",
                 "entrada_desconhecida": "Entrada desconhecida",
                 "historico_usuario": "> Histórico do usuário",
@@ -750,18 +742,6 @@
                 "emoji_removido": "O emoji `auto_repl` foi removido do servidor!",
                 "figurinha_criada": "Figurinha `auto_repl` criada com sucesso!"
             },
-            "broadcast": {
-                "desligado": "O Broadcast está desligado neste servidor.",
-                "canal_invalido": "Eu não posso enviar mensagens neste canal, não é possível iniciar um Broadcast aqui!",
-                "solicitando": "> Solicitando um Broadcast",
-                "descricao": "Clique abaixo para informar ao Solondo de que você quer fazer um Broadcast.\n\nAo solicitar um Broadcast, o Solondo poderá visualizar o ID deste chat e se conectar para conversar com você de forma remota através de mim!\nTodas as mensagens que forem enviadas neste canal, poderão ser vistas pelo Solondo também.\n\nÉ possível anexar imagens e arquivos no chat também! (aqui tem muita tecnologia)\n\nCaso você desative o Broadcast do servidor, ou o Solondo fique 5 minutos offline, este vinculo será automaticamente desligado.",
-                "solicitacao_aberta": "Uma nova solicitação de Broadcast foi aberta",
-                "solicitante": "Solicitante",
-                "nova_solicitacao": "> Nova solicitação de Broadcast!",
-                "pedido_registrado": "Seu pedido de Broadcast foi registrado!",
-                "ativado_button": "Agora é possível realizar Broadcasts neste servidor.",
-                "desativado_button": "O Broadcast entre servidores foi desligado."
-            },
             "logger": {
                 "ativado": "O log de eventos do servidor agora está ativo, todos os eventos serão enviados no canal auto_repl",
                 "desativado": "O log de eventos do servidor agora está desativado\nUse o </panel guild:1107163338930126869>, ou o comando </conf guild:1094346210636214304> mencionando um canal para ativar novamente!",
@@ -856,7 +836,7 @@
                 "falta_permissoes_4": "@here\nNão foi possível banir o usuário auto_repl devido a falta de permissões\nGaranta que eu tenha a permissão `Banir membros` e que meu cargo esteja acima dos demais cargos na lista de cargos, para que eu possa previnir spam's indesejados.",
                 "strikes": "📜 Strikes",
                 "punicoes_niveis": "Punições por níveis",
-                "descricao_funcionamento": "🧻 Como funciona:\n\nO Anti-spam checa por mensagens estranhas que são enviadas no servidor, caso uma atividade suspeita seja detectada. O Alonsal irá classificar como Spam e aplicar penalidades ao membro que gerou essa estranheza, removendo as mensagens consideradas malíciosas em sequência.",
+                "descricao_funcionamento": "🧻 Como funciona:\n\nO Anti-spam checa por mensagens estranhas que são enviadas no servidor, caso uma atividade suspeita seja detectada. Eu irá classificar como Spam e aplicar penalidades ao membro que gerou essa estranheza, removendo as mensagens consideradas malíciosas em sequência.",
                 "strikes_ativo": "\n\n⚾ | Os strikes estão ativos nesse servidor.",
                 "strikes_desativado": "\n\n🔇 | Os strikes estão desativados neste servidor.\nAtive ele para poder utilizar penalidades customizadas!",
                 "moderadores_ativo": "\n\n💂‍♂️ | O gerenciamento de moderadores está ativo neste servidor! Moderadores que fizerem spam serão penalizados também.",
@@ -885,8 +865,8 @@
                 "spam_titulo_user": "Parado ai!",
                 "expulsao_em": "Expulsão em",
                 "gerenciar_moderadores": "Gerenciar moderadores",
-                "posicionamento": "**Posição do Alonsal auto_repl° cargo**",
-                "posicionamento_cargo": "Para que o Alonsal possa gerenciar moderadores neste servidor, é aconselhado posicionar o cargo dele no topo de todos os outros cargos."
+                "posicionamento": "**Posição minha no auto_repl° cargo**",
+                "posicionamento_cargo": "Para que eu possa gerenciar moderadores neste servidor, é aconselhado posicionar o cargo dele no topo de todos os outros cargos."
             },
             "warn": {
                 "advertencias": "Advertências",
@@ -930,6 +910,7 @@
                 "verificar_warn": "Selecione qual área deseja visualizar com os botões abaixo.",
                 "descricao_advertencias": "```🧻 Funcionamento do sistema de advertências\n\nEsse sistema registra advertências a longo prazo criado pelos moderadores do servidor!\n\nVocê pode definir qual será a penalidade, a quantidade de advertências do servidor e as penalidades pelos botões abaixo.\n\n🧻 Advertência com validade:\nAo ativar esse recurso, as advertências serão removidas após um tempo definido de forma automática, você pode usar esse recurso de modo a não precisar verificar um usuário toda vez, removendo suas advertências manualmente.```",
                 "expulsao_na": "Expulsão na",
+                "expulsao_no": "Expulsão no",
                 "com_validade": "Com validade",
                 "validade": "Validade",
                 "expira_em": "Expira em",
@@ -940,7 +921,7 @@
                 "sem_cargo": "`Sem cargo`",
                 "sem_penalidade": "`Sem penalidade`",
                 "editar_advertencia": "Defina as notificações para as advertências pelos botões abaixo.",
-                "descricao_notificacao_advertencia": "```📣 Notificações em advertências\n\nDefina se eu irei notificar as novas advertências com um ping @here\nE se irei exibir quando as advertências forem apagadas!```",
+                "descricao_notificacao_advertencia": "```📣 Notificações em advertências\n\nDefina se eu irei notificar as novas advertências com um ping @here\n\nE se irei exibir quando as advertências forem apagadas!```",
                 "motivo_remocao": "Motivo para remoção",
                 "descricao_advertencia": "```fix\n📠 | Descrição fornecida:\n\nauto_repl```\n",
                 "bloqueio_minimo": "É necessário definir pelo menos duas advertências customizadas para poder ativar esse recurso.",
@@ -979,7 +960,7 @@
                 "anuncio_publico": "Anúncio público",
                 "anunciar_publicamente": "Anunciar publicamente",
                 "canal_publico": "Canal público",
-                "descricao_adv_publica": "```fix\n🧙‍♀️ O Anúncio público está ativo!\n\nTodas as advertências que forem criadas agora serão enviadas no canal específico para advertências públicas, e o membro que foi advertido será mencionado por lá!```",
+                "descricao_adv_publica": "```🧙‍♀️ O Anúncio público está ativo!\n\nTodas as advertências que forem criadas serão enviadas no canal específico para advertências públicas, e o membro que foi advertido será mencionado por lá!```",
                 "anuncio_temporario": "<@auto_repl> recebeu uma nova advertência! ( `auto_repl` )\n\nauto_repl\n\n:hotsprings: Esta mensagem será removida <t:auto_repl:R>"
             },
             "link_suspeito": {
@@ -1463,7 +1444,8 @@
                 "nenhum_cargo": "Nenhum cargo",
                 "novo_strike": "Novo strike",
                 "recursos": "Recursos",
-                "pagina": "Página"
+                "pagina": "Página",
+                "exclusao": "Exclusão"
             },
             "menus": {
                 "escolher_esse": "Escolher esse",
