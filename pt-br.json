@@ -964,11 +964,21 @@
                 "anuncio_temporario": "<@auto_repl> recebeu uma nova advertência! ( `auto_repl` )\n\nauto_repl\n\n:hotsprings: Esta mensagem será removida <t:auto_repl:R>"
             },
             "link_suspeito": {
-                "titulo": "> Navegando por links suspeitos 🔗",
-                "detectado": "Um novo link suspeito foi detectado neste servidor!\nMensagens que forem enviadas futuramente e contiverem esse link serão apagadas, e seus autores penalizados.\n( `auto_repl` )",
+                "titulo": [
+                    "> Navegando por links suspeitos 🔗",
+                    "> Navegando por links sus 🔗",
+                    "> Navegando por links maliciosos 🔗"
+                ],
+                "detectado": [
+                    "Um novo link suspeito foi detectado neste servidor!\nMensagens que forem enviadas futuramente e contiverem esse link serão apagadas, e seus autores penalizados.\n( `auto_repl` )",
+                    "Um novo link suspeito foi avistado neste servidor!\nMensagens enviadas no futuro que contiverem esse link serão removidas.\n( `auto_repl` )"
+                ],
                 "descricao_link": "O Link descrito abaixo foi identificado como suspeito.```fix\nauto_repl```",
                 "link_nao_encontrado": "O link selecionado não foi encontrado!\nPor favor, tente novamente com um outro link.",
-                "identificado": "Identificado",
+                "identificado": [
+                    "Identificado",
+                    "Avistado"
+                ],
                 "rodape_dica": "Use os botões abaixo para gerenciar este link",
                 "aviso_adicao": "O Link suspeito informado foi registrado!\n\nUm relatório foi enviado ao <#auto_repl> avisando sobre a adição.",
                 "adicionado_manualmente": "Um novo link suspeito foi adicionado manualmente neste servidor!\n( `auto_repl` )",
@@ -980,7 +990,10 @@
                 "navegando_titulo": "> Navegando por links suspeitos 🔗",
                 "descricao_links_suspeitos": "Links suspeitos são links que consideramos maliciosos e que podem trazer problemas para usuários que clicarem.\n\nGeralmente esses links são usados para conceder acesso a sua conta Discord ou de outras redes para pessoas má intencionadas, sem o consentimento do usuário que veio a clicar por engano, acreditando ser um link oficial.\n\nPor aqui, nos registramos links de forma automática sempre que um Spam é detectado no servidor, e o recurso de `🔗 Links suspeitos` está ativo.\n\n🛑 Não clique em hipótese alguma em um link listado abaixo! Nós não nos responsabilizamos por atitudes que terceiros podem realizar em sua conta, caso seja vitima de hackemento.",
                 "navegar_links": "Use o menu abaixo para navegar pelos links suspeitos do servidor!",
-                "registrado_em": "Registrado em",
+                "registrado_em": [
+                    "Registrado em",
+                    "Salvo em"
+                ],
                 "link_invalido": "O texto informado não é um link!\nNão é possível salvar esse valor como um link suspeito.",
                 "link_ja_registrado": "O link informado já está registrado por aqui!\nNão é possível salvar esse link novamente.",
                 "registrando_link_titulo": "> Registrando um novo link suspeito :link:",
@@ -988,9 +1001,16 @@
                 "rodape_opcoes": "Use os botões abaixo para confirmar a intenção."
             },
             "roles": {
-                "titulo_atribuidor": "> Atribuindo cargos",
+                "titulo_atribuidor": [
+                    "> Atribuindo cargos",
+                    "> Atribuir cargos"
+                ],
                 "descricao_atribuidor": "Este é um atribuidor de cargos, selecione os cargos que serão atribuídos de forma automática para os membros desse servidor, e se membros que possuem determinados cargos serão ignorados.",
-                "nenhum": "`Nenhum`",
+                "nenhum": [
+                    "`Nenhum`",
+                    "`Nada`",
+                    "`Vazio`"
+                ],
                 "cargo_selecionado": "Cargo selecionado",
                 "atribuir_selecionados": "Atribuir selecionados",
                 "ignorando_nenhum": "Ignorando nenhum",
