@@ -130,7 +130,38 @@
             },
             "gado": {
                 "gado": "OH TU GANADO",
-                "error_2": "¡Que es eso! tu GANA :cow: DO, prueba esto con otro usuario"
+                "error_2": "¡Que es eso! tu GANA :cow: DO, prueba esto con otro usuario",
+                "permissao": "¡¡No puedo enviar mensajes en este canal, prueba con otro!!",
+                "teste_revela": "Y la prueba revela...",
+                "frases": [
+                    "¡auto_repl Es ganado con cuernos y todo! :cow2:",
+                    "auto_repl no es ganado",
+                    "auto_repl es parte del rebaño.",
+                    "auto_repl..., ¿Cuento yo o cuentas tú? :cow:",
+                    "auto_repl es una persona simpática, agradable, que sin embargo... es :cow2:",
+                    "auto_repl es :cow2:",
+                    "auto_repl, la regla es clara! muu, si :cow:",
+                    "auto_repl, ¡roncando y gritando, este :cow: ya ha sido marcado!",
+                    "auto_repl no es ganado, pero sigue siendo :cow2:",
+                    "auto_repl raspa el cuerno en el suelo todos los días :cow2:",
+                    "auto_repl hay que bajar la cabeza para pasar el claxon por la puerta :cow:",
+                    "auto_repl especializado en deshierbe :cow2:",
+                    "auto_repl es un campeón de rodeo de quinto grado. :cow:",
+                    "auto_repl es :cow2: de cartón y todo.",
+                    "auto_repl no un ciudadano. :cow: ¡formado!",
+                    "auto_repl tiene 4 kg de termita. :cow2:",
+                    "auto_repl digamos.. Te daré una pista: comienza con GA y termina con NADO. :cow:",
+                    "auto_repl eres un herbívoro oficial",
+                    "auto_repl, Muuuuuuuuu. :cow:",
+                    "auto_repl asistió a la facultad de veterinaria, pero no era estudiante. :cow2:",
+                    "auto_repl sí, si el buey fuera una flor, ésta sería un jardín. :cow:",
+                    "auto_repl no es ganado, pero el de arriba es :cow:",
+                    "auto_repl aun es un ternero pero tiene futuro :cow2:",
+                    "auto_repl si escuchas una bocina crees que le toca a el :cow2:",
+                    "auto_repl si ordenas a pastar, lo hará :cow2:",
+                    "auto_repl apareció en Canal do Boi",
+                    "auto_repl si te enfermas ve al veterinario :cow:"
+                ]
             },
             "peao": {
                 "peao": "Rueda el peón"

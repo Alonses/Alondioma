@@ -134,7 +134,36 @@
             },
             "gado": {
                 "gado": "VOTRE BÉTAIL",
-                "error_2": "sortez votre BÉ :cow: TAIL, testez ceci avec un autre utilisateur"
+                "error_2": "sortez votre BÉ :cow: TAIL, testez ceci avec un autre utilisateur",
+                "permissao": "Je ne peux pas envoyer de messages sur cette chaîne, essayez-en une autre !!",
+                "teste_revela": "Et le test révèle...",
+                "frases": [
+                    "auto_repl c'est du bétail avec des cornes et tout ! :cow2:",
+                    "auto_repl ce n'est pas du bétail.",
+                    "auto_repl fait partie du troupeau.",
+                    "auto_repl..., je compte ou tu comptes? :cow:",
+                    "auto_repl est une personne agréable, qui néanmoins... est :cow2:",
+                    "auto_repl c'est du bétail! :cow:",
+                    "auto_repl est :cow2:",
+                    "auto_repl, la règle est claire ! meuh, ouais :cow:",
+                    "auto_repl, en ronflant et en criant, cette :cow: a déjà été marquée!",
+                    "auto_repl Ce n'est pas du bétail, mais c'est quand même :cow2:",
+                    "auto_repl gratte la corne sur le sol tous les jours :cow2:",
+                    "auto_repl baisse la tête pour franchir la porte :cow:",
+                    "auto_repl spécialisé dans les pâturages :cow2:",
+                    "auto_repl c'est du bétail, du bétail ! très sucré!",
+                    "auto_repl est un champion de rodéo de cinquième année. :cow:",
+                    "auto_repl est :cow2: avec document et tout.",
+                    "auto_repl pas un citoyen. :cow: émancipé!",
+                    "auto_repl a 4 kg de termite. :cow2:",
+                    "auto_repl disons... je vais vous donner un indice : ça commence par BO et se termine par VINS. :cow:",
+                    "auto_repl a fréquenté une école vétérinaire mais n'était pas étudiant. :cow2:",
+                    "auto_repl oui, si le boeuf était une fleur, ce serait un jardin. :cow:",
+                    "auto_repl ce n'est pas du bétail, mais celui du dessus l'est :cow:",
+                    "auto_repl est encore un veau mais a un avenir :cow2:",
+                    "auto_repl a été présenté sur la chaîne ox",
+                    "auto_repl si tu tombes malade va chez le vétérinaire :cow:"
+                ]
             },
             "peao": {
                 "peao": "Tourner le pion"
