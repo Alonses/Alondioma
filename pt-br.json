@@ -318,7 +318,7 @@
             },
             "dado": {
                 "error_1": "Não é possível rodar mais que 50 dados ao mesmo tempo.",
-                "error_2": "Não é possível rodar sólidos geométricos com mais de 10|000 faces.",
+                "error_2": "Não é possível rodar sólidos geométricos com mais de 10.000 faces.",
                 "error_3": "Não é possível rodar sólidos geométricos com menos de 4 faces."
             },
             "gta": {
@@ -1632,7 +1632,7 @@
                     "A derrota de hoje foi ruim, mas a de amanhã será bem pior\nBoa noite!",
                     "Boa noite caralho",
                     "Boa noite para todos, menos para alguns",
-                    "https://i.pinimg.com/originals/f2/a0/f4/f2a0f41e7836c8f71f18b66ce4c22440|jpg"
+                    "https://i.pinimg.com/originals/f2/a0/f4/f2a0f41e7836c8f71f18b66ce4c22440.jpg"
                 ]
             }
         }
