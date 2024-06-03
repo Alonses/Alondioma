@@ -881,7 +881,7 @@
                 "justificativa_mute": "Fazendo spam no servidor",
                 "ping_spam": "auto_repl foi colocado de castigo devido a spam",
                 "ping_expulsao": "auto_repl foi expulso devido a repetidos strikes de spam",
-                "silenciado": "Você foi silenciado no servidor `auto_repl` devido a várias mensagens consideradas como spam\nAs mensagens que foram consideradas como spam são as seguintes:",
+                "silenciado": "Você foi silenciado no servidor `auto_repl` devido a várias mensagens consideradas como spam.\n\nAs mensagens que foram consideradas são as seguintes:",
                 "aviso_links": "Sua conta pode estar nas mãos de outras pessoas, caso veja esta mensagem, verifique suas configurações de segurança, alterando sua senha, ativando verificações em 2 etapas e desconectando sua conta de aparelhos desconhecidos para que não perca o acesso a conta.",
                 "falta_permissoes_1": "@here\nNão foi possível interromper um spam do usuário auto_repl por falta de permissões do bot.\nAs mensagens enviadas consideradas spam são as seguintes.",
                 "falta_permissoes_2": "@here\nNão foi possível silenciar o usuário auto_repl devido a falta de permissões\nGaranta que eu tenha a permissão `Membros de castigo` e que meu cargo esteja acima dos demais cargos na lista de cargos, para que eu possa previnir spam's indesejados.",
@@ -915,7 +915,12 @@
                 "configurando_strikes": "> Configurando Strikes",
                 "sem_permissao_cargos": "Um strike com cargos foi acionado, porém eu não possuo permissões para `Gerenciar cargos`,\no cargo não foi atribuído ao membro que recebeu o strike. @here",
                 "cargo_acrescentado": "Cargo vinculado",
-                "spam_titulo_user": "Parado ai!",
+                "spam_titulo_user": [
+                    "Parado ai!",
+                    "Espera ai!",
+                    "Um momento amigo",
+                    "Para para para para"
+                ],
                 "expulsao_em": "Expulsão em",
                 "gerenciar_moderadores": "Gerenciar moderadores",
                 "posicionamento": "**Posição minha no auto_repl° cargo**",
@@ -1622,17 +1627,29 @@
                     "Bom dia!!! A vida é uma caixinha de surpresas, hoje tamo na merda, amanhã tamo na bosta",
                     "Bom dia flor do dia",
                     "Bom dia cacete",
-                    "ACCOOOORDDAAAAAAAAAAAAAAAAAAAAAAAAAaa"
+                    "ACCOOOORDDAAAAAAAAAAAAAAAAAAAAAAAAAaa",
+                    "Quem cedo madruga, com certeza, é com muito sono que vai encarar o dia.\n\nBom dia!",
+                    "E para tristeza das inimigas, hoje acordei limda demais.\n\nBom dia!",
+                    "Toda manhã é aquilo: acordar cedo para se atrasar com calma.\n\nBom dia!",
+                    "https://tenor.com/view/bom-dia-valtatui-good-morning-dove-heart-gif-17677277",
+                    "https://tenor.com/view/bom-dia-valtatu%C3%AD-bom-dia-gif-22262558",
+                    ""
                 ],
                 "tarde": [
                     "Boa tarde cacete",
-                    "https://images3.memedroid.com/images/UPLOADED119/5d1536a273737.jpeg"
+                    "https://images3.memedroid.com/images/UPLOADED119/5d1536a273737.jpeg",
+                    "6 e 🚌",
+                    "https://tenor.com/view/good-afternoon-flower-boa-tarde-gif-14996812"
                 ],
                 "noite": [
                     "A derrota de hoje foi ruim, mas a de amanhã será bem pior\nBoa noite!",
                     "Boa noite caralho",
                     "Boa noite para todos, menos para alguns",
-                    "https://i.pinimg.com/originals/f2/a0/f4/f2a0f41e7836c8f71f18b66ce4c22440.jpg"
+                    "https://i.pinimg.com/originals/f2/a0/f4/f2a0f41e7836c8f71f18b66ce4c22440.jpg",
+                    "Partiu festa do japa! Japacama 😎🛏💤",
+                    "https://tenor.com/view/boa-noite-amor-goodnight-rose-gif-15694341",
+                    "https://tenor.com/view/boa-noite-goodnight-%E0%A4%B6%E0%A5%81%E0%A4%AD%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF-%E0%A4%B6%E0%A5%81%E0%A4%AD-%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF-gif-14974878",
+                    "https://tenor.com/view/boa-noite-good-night-sleep-tight-gif-7324037"
                 ]
             }
         }
