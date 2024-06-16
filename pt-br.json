@@ -1115,8 +1115,6 @@
                 "proxima_warn": "Próxima advertência concede",
                 "descricao_anotacao": "Esse membro recebeu anotações de advertência neste servidor, futuras anotações podem acionar novas advertências.",
                 "verificando_anotacao_titulo": "> Verificando anotações",
-                "descricao_painel": "```🧻 Como funciona:\n\nOs cargos temporários podem ser vinculados aos membros do servidor.\n\nEsses cargos permanecerão com o membro até que um moderador o remova, ou que o tempo definido expire.\n\n💡 | Você pode configurar um canal de avisos para que eu envie notificações para os membros que ganharem um cargo temporário abaixo!```",
-                "titulo_painel_config": "> Advertências com hierarquia",
                 "descricao_painel_config": "```🧻 Advertências hierárquicas\n\nSão mini-advertências que funcionam como anotações. Ative elas para poder registrar anotações sem penalidades, defina o número de anotações que cada advertência precisará para ser ativa e deixe com que o Alonsal registre durante o tempo os casos que ocorrerem.\n\nVocê pode definir uma quantidade fixa de anotações que cada advertência nova precisará, definir um canal onde eu irei enviar a solicitação de aplicação da penalidade, e escolher se as anotações também irão se expirar após um tempo.```"
             },
             "anotacoes": {
@@ -1157,7 +1155,8 @@
                 "rodape_warn": "Cargo temporário atribuído por meio das advertências na auto_repl° Advertência",
                 "aplicado_warn": "auto_repl recebeu um cargo temporário neste servidor através das advertências.auto_repl",
                 "rodape_spam": "Cargo temporário atribuído por meio do sistema Anti-Spam no auto_repl° Strike",
-                "aplicado_spam": "auto_repl recebeu um cargo temporário neste servidor devido a spam.auto_repl"
+                "aplicado_spam": "auto_repl recebeu um cargo temporário neste servidor devido a spam.auto_repl",
+                "descricao_painel": "```🧻 Como funciona:\n\nOs cargos temporários podem ser vinculados aos membros do servidor.\n\nEsses cargos permanecerão com o membro até que um moderador o remova, ou que o tempo definido expire.\n\n💡 | Você pode configurar um canal de avisos para que eu envie notificações para os membros que ganharem um cargo temporário abaixo!```"
             }
         },
         "util": {
