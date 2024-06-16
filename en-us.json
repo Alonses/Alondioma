@@ -972,7 +972,7 @@
                 "editar_advertencia": "Set notifications for warns using the buttons below.",
                 "descricao_notificacao_advertencia": "```📣 Notifications on warns\n\nDefine whether I will notify new warns with a ping @here\nAnd whether I will display when the warns are deleted!```",
                 "motivo_remocao": "Reason for removal",
-                "descricao_advertencia": "```fix\n📠 | Description provided:\n\nauto_repl```\n",
+                "descricao_advertencia": "```fix\n📠 | Description provided:\n\nauto_repl```\nauto_repl",
                 "bloqueio_minimo": "You must define at least two custom warns to enable this feature.",
                 "sem_usuarios": "There are no users with warns on the server!",
                 "usuarios_advertidos_titulo": "> Users with warns",

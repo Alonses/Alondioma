@@ -568,11 +568,14 @@
                 "salvo_sem_permissao": "Eu salvei as suas entradas para esse comando, porém não ativei ele por falta de permissões!\nConsulte minhas permissões requeridas através do </panel guild:1107163338930126869> na guia respectiva ao recurso para poder ativar esse recurso.",
                 "user_sem_permissao": "Você não possui as permissões requeridas para essa função!",
                 "convites_rastreados": "Convites rastreados",
-                "desc_convites_rastreados": "Apaga os convites de membros quando forem banidos e expulsos.",
+                "desc_convites_rastreados": "Apaga os convites de membros quando forem banidos ou expulsos.",
                 "modo_compacto": "Modo compacto",
                 "desc_modo_compacto": "O modo compacto remove todos os emojis do inicio das frases.",
                 "servidores_conhecidos": "Servidores conhecidos",
-                "desc_servidores_conhecidos": "Sincroniza os servidores conhecidos quando você entra ou sai."
+                "desc_servidores_conhecidos": "Sincroniza os servidores conhecidos quando você entra ou sai.",
+                "cargos_temporarios": "Cargos temporários",
+                "desc_cargos_temporarios": "Defina cargos temporários aos membros do servidor.",
+                "excluir_banidos": "Excluir mensagens de membros banidos pelo AutoBan:"
             }
         },
         "mode": {
@@ -730,6 +733,7 @@
                 "castigar_membros": "Castigar membros",
                 "banir_membros": "Banir membros",
                 "expulsar_membros": "Expulsar membros",
+                "moderar_membros": "Moderar membros",
                 "gerenciar_canais": "Gerenciar canais",
                 "gerenciar_cargos": "Gerenciar cargos",
                 "gerenciar_mensagens": "Gerenciar mensagens",
@@ -748,7 +752,8 @@
                 "falta_serviores": "O Networking precisa de mais servidores no mesmo link para ser ativo.",
                 "sem_canal": "Sem canal definido",
                 "cargo_vinculado": "O cargo mencionado acima será atribuído ao usuário que receber essa advertência.",
-                "cargo_permissao": "Não é possível definir um cargo através das advertências sem a permissão de \"Gerenciar cargos\" concedida."
+                "cargo_permissao": "Não é possível definir um cargo através das advertências sem a permissão de \"Gerenciar cargos\" concedida.",
+                "excluir_banidos": "Excluir mensagens de membros banidos:"
             },
             "xp": {
                 "permissao": "Você não pode gerenciar os membros deste servidor",
@@ -801,6 +806,7 @@
                 "falta_vinculo": "É preciso configurar um canal com o comando </conf guild:1094346210636214304> antes de poder ativar pelo painel.",
                 "permissao": "@here\nEu não possuo permissão para `Ver o registro de auditoria`, eu preciso dessa permissão para fornecer detalhes mais refinados dos eventos do log.",
                 "falta_escrita_visualizacao": "Eu não posso ver e nem enviar mensagens nesse canal! Por favor, verifique minhas permissões para poder ativar este recurso neste canal.",
+                "falta_registro_auditoria": "Para utilizar o Log de eventos, o Alonsal deve ser capaz de Ver o registro de auditoria do servidor.",
                 "mencao_canal": "Você não mencionou nenhum canal, e não possuo um canal salvo em cache!\nPor favor, utilize o comando novamente mencionando um canal",
                 "canal_excluido": "O canal salvo em cache não existe mais!\nUse o comando novamente mencionando um canal válido para poder ver retornos automáticos.",
                 "categoria_excluida": "A categoria salva em cache não existe mais!\nUse o comando novamente mencionando uma categoria válida para poder receber tickets de denúncias pelo servidor.",
@@ -825,6 +831,7 @@
                 "cargo_removido": "Removido",
                 "alterador": "Alterado por",
                 "autor": "Autor",
+                "anexos": "Anexos",
                 "excluido": "Excluído por",
                 "mensagem_excluida": "> Mensagem Excluída",
                 "mensagem_editada": "> Mensagem Editada",
@@ -833,7 +840,7 @@
                 "resumo_atualizado": "Uma [mensagem](auto_repl) foi atualizada por <@auto_repl>\n\n**Mensagem antiga:** ```auto_repl```\n**Mensagem atualizada:** ```auto_repl```",
                 "auto_exclusao": "<@auto_repl> excluiu uma [mensagem](auto_repl)",
                 "mode_exclusao": "Uma [mensagem](auto_repl) de <@auto_repl> foi excluída",
-                "sem_texto": "Sem texto incluso",
+                "sem_texto": "❌ Sem texto incluso anteriormente",
                 "conteudo_excluido": "Conteúdo excluído",
                 "eventos_ouvidos": "Eventos ouvidos",
                 "motivo_ban": "Motivo do banimento",
@@ -924,7 +931,11 @@
                 "expulsao_em": "Expulsão em",
                 "gerenciar_moderadores": "Gerenciar moderadores",
                 "posicionamento": "**Posição minha no auto_repl° cargo**",
-                "posicionamento_cargo": "Para que eu possa gerenciar moderadores neste servidor, é aconselhado posicionar o cargo dele no topo de todos os outros cargos."
+                "posicionamento_cargo": "Para que eu possa gerenciar moderadores neste servidor, é aconselhado posicionar o cargo dele no topo de todos os outros cargos.",
+                "permissoes_anti_spam": "Para utilizar o Anti-spam, o Alonsal deve ser capaz de Castigar membros e Gerenciar mensagens.",
+                "tipo_varredura": "Estilo de varredura",
+                "apenas_links": "🔗 Considerar apenas mensagens com links",
+                "qualquer_entrada": "🌟 Considerar todas as mensagens"
             },
             "warn": {
                 "advertencias": "Advertências",
@@ -981,7 +992,7 @@
                 "editar_advertencia": "Defina as notificações para as advertências pelos botões abaixo.",
                 "descricao_notificacao_advertencia": "```📣 Notificações em advertências\n\nDefina se eu irei notificar as novas advertências com um ping @here\n\nE se irei exibir quando as advertências forem apagadas!```",
                 "motivo_remocao": "Motivo para remoção",
-                "descricao_advertencia": "```fix\n📠 | Descrição fornecida:\n\nauto_repl```\n",
+                "descricao_advertencia": "```fix\n📠 | Descrição fornecida:\n\nauto_repl```\nauto_repl",
                 "bloqueio_minimo": "É necessário definir pelo menos duas advertências customizadas para poder ativar esse recurso.",
                 "sem_usuarios": "Não há usuários com advertências no servidor!",
                 "usuarios_advertidos_titulo": "> Usuários com advertências",
@@ -1019,7 +1030,11 @@
                 "anunciar_publicamente": "Anunciar publicamente",
                 "canal_publico": "Canal público",
                 "descricao_adv_publica": "```🧙‍♀️ O Anúncio público está ativo!\n\nTodas as advertências que forem criadas serão enviadas no canal específico para advertências públicas, e o membro que foi advertido será mencionado por lá!```",
-                "anuncio_temporario": "<@auto_repl> recebeu uma nova advertência! ( `auto_repl` )\n\nauto_repl\n\n:hotsprings: Esta mensagem será removida <t:auto_repl:R>"
+                "anuncio_temporario": "<@auto_repl> recebeu uma nova advertência! ( `auto_repl` )\n\nauto_repl\n\n:hotsprings: Esta mensagem será removida <t:auto_repl:R>",
+                "expiracao_status": "Advertências com expiração",
+                "expiracao_desligada": "🛑 Sem expiração automática",
+                "excluir_banidos": "Excluir mensagens de membros banidos pelas Advertências:",
+                "titulo_verificando_advertencia": "> Verificando advertência :inbox_tray:"
             },
             "link_suspeito": {
                 "titulo": [
@@ -1089,6 +1104,60 @@
                 "sem_permissao": "Eu não posso ver a lista de convites sem a permissão `Gerenciar servidor` concedida.",
                 "sem_permissao_2": "Eu não tenho permissões para `Gerenciar servidor`, não é possível ver a lista de convites sem essa permissão concedida!\nA exclusão automática dos convites de um membro que foi expulso/banido não foi realizada. @here",
                 "exclusao": "O módulo de convites rastreados excluiu `auto_repl`."
+            },
+            "hierarquia": {
+                "hierarquia": "Hierarquia",
+                "status_ativacao": "Advertências com hierarquia",
+                "ativo": "✅ Ativas",
+                "desativado": "🛑 Desativadas",
+                "anotacoes_ativacao": "anotações para acionar",
+                "criador_ultima_anotacao": "Criador da última anotação",
+                "proxima_warn": "Próxima advertência concede",
+                "descricao_anotacao": "Esse membro recebeu anotações de advertência neste servidor, futuras anotações podem acionar novas advertências.",
+                "verificando_anotacao_titulo": "> Verificando anotações",
+                "descricao_painel": "```🧻 Como funciona:\n\nOs cargos temporários podem ser vinculados aos membros do servidor.\n\nEsses cargos permanecerão com o membro até que um moderador o remova, ou que o tempo definido expire.\n\n💡 | Você pode configurar um canal de avisos para que eu envie notificações para os membros que ganharem um cargo temporário abaixo!```",
+                "titulo_painel_config": "> Advertências com hierarquia",
+                "descricao_painel_config": "```🧻 Advertências hierárquicas\n\nSão mini-advertências que funcionam como anotações. Ative elas para poder registrar anotações sem penalidades, defina o número de anotações que cada advertência precisará para ser ativa e deixe com que o Alonsal registre durante o tempo os casos que ocorrerem.\n\nVocê pode definir uma quantidade fixa de anotações que cada advertência nova precisará, definir um canal onde eu irei enviar a solicitação de aplicação da penalidade, e escolher se as anotações também irão se expirar após um tempo.```"
+            },
+            "anotacoes": {
+                "titulo": "> Anotações de auto_repl",
+                "titulo_nova_anotacao": "> Uma nova anotação de advertência!",
+                "descricao_rodape_selecao": "Selecione umas das anotações de advertência abaixo para poder gerenciar!",
+                "titulo_selecao": "> Usuários com anotações de advertências",
+                "descricao_selecionar_membro": "Todos os membros com anotações advertências ativas no momento estão listados abaixo\n\nSelecione um para gerenciar as advertências que o membro recebeu.",
+                "selecionar_usuario": "Selecione um membro abaixo para gerenciar suas anotações de advertências neste servidor.",
+                "sem_anotacoes": "Sem anotações",
+                "ping_anotacao": "<@auto_repl> Recebeu uma nova anotação de advertência!\n\nNo momento ele possui `auto_repl de auto_repl` anotações neste servidor.\n\n:hotsprings: Essa mensagem será removida <t:auto_repl:R>",
+                "aplicar_advertencia": "> Aplicar advertência 👑",
+                "descricao_advertencia": "Um membro do servidor atingiu o limite de anotações ( `auto_repl` ) para a auto_repl° advertência!",
+                "reiniciadas": "> Anotações reiniciadas :inbox_tray:",
+                "reiniciadas_descricao": "As anotações de advertências de <@auto_repl> foram reiniciadas!\nO usuário agora não possui mais anotações neste servidor.",
+                "verificando": "> Verificando anotação :inbox_tray:",
+                "gerenciar_rodape": "Escolha as opções abaixo para gerenciar essa anotação.",
+                "permissao_moderador": "Você não pode utilizar esses botões pois não tem as permissões listadas na penalidade da advertência.",
+                "advertencia_cancelada": "A aplicação da advertência foi cancelada.",
+                "advertencia_aplicada": "A advertência foi aplicada ao membro!"
+            },
+            "timed_roles": {
+                "titulo_painel": "> Cargos temporários",
+                "titulo": "> Atribuindo um cargo temporário",
+                "descricao": "Você está atribuindo um cargo temporário a um membro deste servidor.\n\nUse os botões abaixo para configurar as preferências do cargo conforme desejar.",
+                "sem_expiracao": "❌ Sem expiração definida",
+                "canal_avisos_temporario": "Canal de avisos temporários:",
+                "enviando": ":incoming_envelope: _Enviando ao_ <#auto_repl>",
+                "sem_canal_temporario": "❌ Sem canal definido",
+                "cargo_moderativo": "Selecione um cargo que não contenha permissões de moderação para poder atribuir ao membro.",
+                "cargo_ja_concedido": "Este membro já possui o cargo informado, tente novamente com um cargo que ele ainda não possua.",
+                "cargo_superior": "O cargo mencionado é maior que o meu! Não posso atribuir este cargo ao membro.",
+                "nota_moderador": "Nota do moderador:",
+                "titulo_cargo_concedido": "> Um cargo temporário! :military_medal:",
+                "descricao_cargo_concedido": "auto_repl ganhou um cargo temporário neste servidor!auto_repl",
+                "cargo_concedido": "O Cargo temporário ( <@&auto_repl> ) foi adicionado ao <@auto_repl>!\n\nEste cargo ficará vinculado ao membro até <t:auto_repl:f>, ou até que um moderador remova manualmente.",
+                "valida_por": "Válida por",
+                "rodape_warn": "Cargo temporário atribuído por meio das advertências na auto_repl° Advertência",
+                "aplicado_warn": "auto_repl recebeu um cargo temporário neste servidor através das advertências.auto_repl",
+                "rodape_spam": "Cargo temporário atribuído por meio do sistema Anti-Spam no auto_repl° Strike",
+                "aplicado_spam": "auto_repl recebeu um cargo temporário neste servidor devido a spam.auto_repl"
             }
         },
         "util": {
@@ -1523,7 +1592,24 @@
                 "novo_strike": "Novo strike",
                 "recursos": "Recursos",
                 "pagina": "Página",
-                "exclusao": "Exclusão"
+                "exclusao": "Exclusão",
+                "expirar": "Expirar",
+                "usar_hierarquia": "Usar hierarquia",
+                "anotacoes": "Anotações",
+                "cargo_temporario": "Cargo temporário",
+                "expiracao_cargo": "Expiração do cargo",
+                "gerenciar_anotacoes": "Gerenciar anotações",
+                "conceder": "Conceder",
+                "canal_temporario": "Canal temporário",
+                "painel_de_controle": "Painel de controle",
+                "avisos_previos": "Avisos prévios",
+                "varredura": "Varredura",
+                "repeticoes": "Repetições",
+                "conceder_advertencia": "Conceder advertência",
+                "cancelar_advertencia": "Cancelar advertência",
+                "remover_anotacoes": "Remover anotações",
+                "remover_anotacao": "Remover anotação",
+                "manter_motivo": "Manter motivo"
             },
             "menus": {
                 "escolher_esse": "Escolher esse",
@@ -1619,7 +1705,21 @@
                 "259200": "Últimos 3 dias",
                 "432000": "Últimos 5 dias",
                 "604800": "Últimos 7 dias"
+            },
+            "invalid": {
+                "role": "Não há cargos para selecionar no momento...",
+                "channel": "Não há canais para selecionar no momento...",
+                "category": "Não há canais para selecionar no momento...",
+                "events": "Não há eventos para selecionar no momento...",
+                "action": "Não há ações para selecionar no momento...",
+                "description": "Sem descrição...",
+                "servidor_desconhecido": "Servidor desconhecido"
             }
+        },
+        "status": {
+            "ativo": "✅ Ativo",
+            "desativado": "❌ Desativado",
+            "proxima": "Próxima"
         },
         "modu": {
             "frases": {
