@@ -2,6 +2,7 @@
     "data": {
         "inic": {
             "inicio": {
+                "apresentacao": "Aoba! Notei que me pingou...\n\nCaso tenha dúvidas sobre meus comandos e no que podemos trabalhar juntos...\nUse o </help:1018609879512006787> para podermos começar!\n\nNota: Não consegue ver meus comandos `/slash`? Me convide novamente clicando no botão abaixo!\nTambém verifique se meus comandos estão habilitados para todos nas integrações do servidor em `Integrações -> Alonsal -> Comandos`",
                 "slash_commands": "Traditional commands have been disabled, keep using Alonsal by `/slash` ( </help:1018609879512006787> ) commands! Try it now ;D\n\nNote: Can't see my commands? Invite me again by clicking the button below! Also make sure my commands are enabled for all in server integrations under `Integrations -> Alonsal -> Commands`",
                 "convidar": "To invite!",
                 "suporte": "Support"
@@ -30,7 +31,8 @@
                 "encerrada_votador": "Thanks for voting!",
                 "rodape_encerrado": "This poll has been closed! Thanks to everyone who participated!!",
                 "votacao_encerrada_1": "***This poll is now closed!***\n\nMany thanks to everyone who participated!\nWe received `auto_repl` votes while the poll was open!\nTo the participants, you now have the auto_repl `Voter` badge!",
-                "votacao_encerrada_2": "**With `auto_repl` votes, the language that received the most votes was auto_repl!!! auto_repl auto_repl**\nIt will be added fully to Alonsal in the coming days!\nUse the command </language:1018632996787589284> anytime to change yours!"
+                "votacao_encerrada_2": "**With `auto_repl` votes, the language that received the most votes was auto_repl!!! auto_repl auto_repl**\nIt will be added fully to Alonsal in the coming days!\nUse the command </language:1018632996787589284> anytime to change yours!",
+                "votacao_encerrada_3": "Às <t:1692462600:f> ( <t:1692462600:R> )\nesse card será atualizado com o vencedor!"
             }
         },
         "misc": {
@@ -75,7 +77,7 @@
                 "ativacao": "Activation",
                 "valor": "Price",
                 "sem_bufunfa": "You don't have enough Bufunfas to use modules, get some with the command </daily:1020794974377353338> before!",
-                "sem_locale": "To activate the weather module it is necessary to define a default location with the command </link:1020561785620803674> before!",
+                "sem_locale": "To activate the weather module it is necessary to define a default location with the command </profile link:1209687272501420052> before!",
                 "limite_modulos": "It is possible to activate only 3 modules of each type!",
                 "excluido": "Your module has been deleted",
                 "desativado": "Your module has been disabled",
@@ -255,13 +257,6 @@
                 "consoantes": "Consonants:",
                 "numeros": "Numbers:",
                 "sem_emoji": "To execute this command you need to add an emoji. Try again."
-            },
-            "speaker": {
-                "canais_permitidos": "allowed channels",
-                "sem_canal": "no channels selected",
-                "descricao": "```🧻 How it works\n\nAlonsal talker is a resource that can be used to talk to the bot through the server dynamically, the feedback it will show you is not filtered, therefore, we have no control over what it will say and we do not We are responsible for what comes out!\n\nYou can limit this feature to work on just a few channels, or activate it on the entire server!```",
-                "limitar_canais": "Limit channels",
-                "canais_conversacao": "Conversation channels"
             }
         },
         "game": {
@@ -276,7 +271,7 @@
                 "rodape": "The game may not run properly on mobile phones.",
                 "jogar_agora": "Play now!",
                 "vinculo": "This user has not yet linked his Discord account to Pula Prédios:tm:!",
-                "sem_vinculo": "You don't link to Pula Prédios:tm: yet!\nEnter the game, copy your token and paste it here using </link:1020561785620803674> ( in the option `🚀 Pula Prédios` ), to be able to use this command!",
+                "sem_vinculo": "You don't link to Pula Prédios:tm: yet!\nEnter the game, copy your token and paste it here using </profile link:1209687272501420052> ( in the option `🚀 Pula Prédios` ), to be able to use this command!",
                 "error_1": "There was an error with the Token, we are checking what the problem was, please try again later",
                 "error_2": "There was an error with APISAL, it was not possible to perform this function at the moment, please try again later",
                 "estatisticas_pula": "> Your statistics in Pula",
@@ -515,7 +510,8 @@
                 "descricao_quebra_link": "**When confirming the link break, this server will be removed from the network** group.\n\nThe servers listed below will continue to have the active link, but this server will no longer be part of it.",
                 "excluir_apos": "Delete data after `auto_repl days`\n",
                 "resumo_expandido": "```fix\nWhen removed from the server, Alonsal will disable most of the features listed below.\n\nData deletion will be performed after a period automatically, you can set this time using the buttons below.\n\nWhen deleting data, Alonsal will completely remove saved data from the server, including ranking registration, re-origination of suspicious reports and suspect links, and removal of saved warns.```auto_repl\n**Server features:**",
-                "remover_canal": "Remove channel"
+                "remover_canal": "Remove channel",
+                "remover_cargo": "Remover cargo"
             },
             "telemetria": {
                 "titulo": "> Telemetry data",
@@ -535,24 +531,18 @@
                 "desc_notificacoes": "Control the notifications I send you via DM.",
                 "desc_ranking": "Control your XP gain in my ranking.",
                 "desc_badges_publicas": "Show your badges to other users.",
-                "desc_clima_resumido": "`Return` </weather:1018653229128622187> `in summary form.`",
+                "desc_clima_resumido": "Return /weather in summary form.",
                 "desc_tarefas_globais": "View your tasks and lists on any server.",
-                "alonsal_falador": "Talkative Alonsal",
-                "permitir_broadcast": "Allow Broadcast",
                 "anuncio_games": "Games Announcement",
                 "denuncias_server": "In-server complaints",
                 "reports_externos": "External reports",
                 "log_eventos": "Event Log",
-                "visibilidade_global": "Visible Globally",
                 "misterioso": "Mysterious",
-                "desc_falador": "Alonsal will be able to reply to other users if they include their name in any message",
-                "desc_broadcast": "`Server users can chat with Slondo using Alonsal on this server via the command`\n</broadcast:1114316224663396472>",
                 "desc_games": "Alonsal will send free game advertisements automatically.",
                 "desc_denuncias": "Users can use Alonsal to make complaints within the server itself.",
                 "desc_reports": "Reports of misbehaving users will be sent on the server.",
                 "desc_logger": "Server event log.",
                 "desc_spam": "Messages considered spam will be deleted and the author will be punished.",
-                "desc_global": "`The server name will be displayed in the command`\n</rank:1018609879562334383> ( `🌐 Global` )",
                 "desc_misterioso": "A mystery wax will be included here soon",
                 "desc_autoban": "Automatically ban a reported user and delete their posts.",
                 "desc_network": "Networking synchronizes moderation actions between servers that are part of a group.",
@@ -564,15 +554,18 @@
                 "modo_compacto": "Compact mode",
                 "desc_modo_compacto": "Compact mode removes all emojis from the beginning of sentences.",
                 "servidores_conhecidos": "Known servers",
-                "desc_servidores_conhecidos": "Synchronizes known servers when you join or leave."
+                "desc_servidores_conhecidos": "Synchronizes known servers when you join or leave.",
+                "cargos_temporarios": "Cargos temporários",
+                "desc_cargos_temporarios": "Defina cargos temporários aos membros do servidor.",
+                "excluir_banidos": "Excluir mensagens de membros banidos pelo AutoBan:"
             }
         },
         "mode": {
             "idiomas": {
                 "titulo_idioma": "Available languages",
                 "idioma_server": "All automatic messages will now be sent in the language:",
+                "idioma_secundario_removido": "O idioma secundário foi removido com sucesso.",
                 "siglas": {
-                    "al-br": "Alonsês",
                     "de-de": "German",
                     "en-us": "English",
                     "es-es": "Spanish",
@@ -735,7 +728,8 @@
                 "falta_serviores": "Networking needs more servers on the same link to be active.",
                 "sem_canal": "No defined channel",
                 "cargo_vinculado": "The role mentioned above will be assigned to the user who receives this warn.",
-                "cargo_permissao": "It is not possible to define a role through warns without the \"Manage roles\" permission granted."
+                "cargo_permissao": "It is not possible to define a role through warns without the \"Manage roles\" permission granted.",
+                "excluir_banidos": "Excluir mensagens de membros banidos:"
             },
             "xp": {
                 "permissao_1": "You cannot manage members of this server",
@@ -780,18 +774,6 @@
                 "emoji_criado": "Emoji `auto_repl` successfully created!",
                 "emoji_removido": "The `auto_repl` emoji has been removed from the server!",
                 "figurinha_criada": "Sticker `auto_repl` successfully created!"
-            },
-            "broadcast": {
-                "desligado": "Broadcast is turned off on this server.",
-                "canal_invalido": "I can't send messages on this channel, it's not possible to start a Broadcast here!",
-                "solicitando": "> Requesting a Broadcast",
-                "descricao": "Click below to let Solondo know you want to Broadcast.\n\nBy requesting a Broadcast, Solondo will be able to see this chat ID and connect to chat with you remotely through me!\nAll messages that are sent sent in this channel, can be seen by Solondo as well.\n\nIt is possible to attach images and files in the chat too! (there's a lot of technology here)\n\nIf you disable the server's Broadcast, or Solondo is offline for 5 minutes, this link will be automatically turned off.",
-                "solicitacao_aberta": "A new Broadcast request has been opened",
-                "solicitante": "Requester",
-                "nova_solicitacao": "> New Broadcast request!",
-                "pedido_registrado": "Your Broadcast request has been registered!",
-                "ativado_button": "It is now possible to perform Broadcasts on this server.",
-                "desativado_button": "Broadcast between servers has been turned off."
             },
             "logger": {
                 "ativado": "Server event log is now active, all events will be sent on auto_repl channel",
@@ -1153,9 +1135,9 @@
                 "termino": ", ends in",
                 "termino_hoje": ", ends today",
                 "equador": "This location is close to the equator, the current season may not reflect your current climate",
-                "new_link": "Now I'm going to use your entry ( `auto_repl` ) as the search pattern in the command </weather:1018653229128622187>!\nUse the command </link:1020561785620803674> again if you want to change the pinned location",
-                "error_locale": "There is no default locale defined, use the command </link:1020561785620803674> to define one, or use the command </weather:1018653229128622187> again informing an input value",
-                "modulo_sem_locale": "You must set a default location using the command </link:1020561785620803674> to activate this module",
+                "new_link": "Now I'm going to use your entry ( `auto_repl` ) as the search pattern in the command </weather:1018653229128622187>!\nUse the command </profile link:1209687272501420052> again if you want to change the pinned location",
+                "error_locale": "There is no default locale defined, use the command </profile link:1209687272501420052> to define one, or use the command </weather:1018653229128622187> again informing an input value",
+                "modulo_sem_locale": "You must set a default location using the command </profile link:1209687272501420052> to activate this module",
                 "sem_local": "I didn't find any location with this name, please try again."
             },
             "minecraft": {
