@@ -776,9 +776,6 @@
                 "sem_icone": "Der Server hat kein benutzerdefiniertes Symbol!",
                 "error_1": "Dieser Avatar kann derzeit nicht abgerufen werden. Bitte versuchen Sie es später noch einmal"
             },
-            "reverso": {
-                "reverso": "Ihre umgekehrte Nachricht"
-            },
             "tempo": {
                 "aviso_2": "Ich konnte keinen Ort mit diesem Namen finden gefunden `auto_repl`, versuche es noch einmal",
                 "aviso_3": "In der Wetter-API ist ein Fehler aufgetreten und wir können das Wetter derzeit nicht abrufen",

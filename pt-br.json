@@ -751,7 +751,10 @@
                 "sem_canal": "Sem canal definido",
                 "cargo_vinculado": "O cargo mencionado acima será atribuído ao usuário que receber essa advertência.",
                 "cargo_permissao": "Não é possível definir um cargo através das advertências sem a permissão de \"Gerenciar cargos\" concedida.",
-                "excluir_banidos": "Excluir mensagens de membros banidos:"
+                "excluir_banidos": "Excluir mensagens de membros banidos:",
+                "filtro_acoes": "Filtro de ações moderativas",
+                "filtro_apenas_humanos": "Apenas ações geradas por humanos",
+                "filtro_todas_fontes": "Todas as ações, incluindo de outros bots"
             },
             "xp": {
                 "permissao": "Você não pode gerenciar os membros deste servidor",
@@ -1201,9 +1204,6 @@
                 "sem_icone": "O servidor não possui um icone customizado!",
                 "error_1": "Não foi possível buscar este avatar no momento, tente novamente mais tarde"
             },
-            "reverso": {
-                "reverso": "Sua mensagem ao contrário"
-            },
             "tempo": {
                 "aviso_2": "Não encontrei nenhum local chamado `auto_repl`, tente novamente",
                 "aviso_3": "Houve algum erro com a API de clima e não é possível pesquisar por climas no momento",
@@ -1606,7 +1606,9 @@
                 "cancelar_advertencia": "Cancelar advertência",
                 "remover_anotacoes": "Remover anotações",
                 "remover_anotacao": "Remover anotação",
-                "manter_motivo": "Manter motivo"
+                "manter_motivo": "Manter motivo",
+                "ver_network": "Ver network",
+                "filtro_acoes": "Filtro de ações"
             },
             "menus": {
                 "escolher_esse": "Escolher esse",

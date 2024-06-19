@@ -772,9 +772,6 @@
                 "sem_icone": "Il server non ha un'icona personalizzata!",
                 "error_1": "Non è stato possibile recuperare questo avatar in questo momento. Riprovare più tardi"
             },
-            "reverso": {
-                "reverso": "Il tuo testo invertito"
-            },
             "tempo": {
                 "aviso_2": "Non ho trovato nessun posto chiamato `auto_repl`, riprova",
                 "aviso_3": "Si è verificato un errore con l'API meteo e il meteo non è attualmente ricercabile",

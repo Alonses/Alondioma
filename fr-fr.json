@@ -806,9 +806,6 @@
                 "sem_icone": "Le serveur n'a pas d'icône personnalisée!",
                 "error_1": "Impossible de récupérer cet avatar pour le moment, veuillez réessayer plus tard"
             },
-            "reverso": {
-                "reverso": "Votre message inversé"
-            },
             "tempo": {
                 "aviso_2": "Je n'ai pas trouvé d'endroit appelé `auto_repl`, réessayer",
                 "aviso_3": "Il y a eu une erreur avec l'API météo et il n'est pas possible de rechercher la météo pour le moment",

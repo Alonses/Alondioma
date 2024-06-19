@@ -776,9 +776,6 @@
                 "sem_icone": "¡El servidor no tiene un icono personalizado!",
                 "error_1": "No se puede obtener este avatar en este momento, inténtalo de nuevo más tarde"
             },
-            "reverso": {
-                "reverso": "Tu mensaje al revés"
-            },
             "tempo": {
                 "aviso_2": "Não encontrei nenhum local chamado `auto_repl`, inténtalo de nuevo",
                 "aviso_3": "Hubo un error con la API del clima y no es posible buscar el clima en este momento",

@@ -1088,9 +1088,6 @@
                 "sem_icone": "The server does not have a custom icon!",
                 "error_1": "Unable to fetch this avatar at the moment, please try again later"
             },
-            "reverso": {
-                "reverso": "Your message in reverse"
-            },
             "tempo": {
                 "aviso_2": "I didn't find any place called `auto_repl`, try again",
                 "aviso_3": "There was an error with the weather API and it is not possible to search for weather at the moment",
