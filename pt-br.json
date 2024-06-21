@@ -754,7 +754,8 @@
                 "excluir_banidos": "Excluir mensagens de membros banidos:",
                 "filtro_acoes": "Filtro de ações moderativas",
                 "filtro_apenas_humanos": "Apenas ações geradas por humanos",
-                "filtro_todas_fontes": "Todas as ações, incluindo de outros bots"
+                "filtro_todas_fontes": "Todas as ações, incluindo de outros bots",
+                "servidores_link": "Servidores no link"
             },
             "xp": {
                 "permissao": "Você não pode gerenciar os membros deste servidor",
@@ -871,7 +872,8 @@
                 "apelido_alterado_moderador": "Um membro teve o seu apelido atualizado por um moderador!",
                 "apelido": "O Apelido",
                 "apelido_novo": "Novo",
-                "apelido_antigo": "Antigo"
+                "apelido_antigo": "Antigo",
+                "sem_permissoes_vinculadas": "Não há permissões diferentes vinculados neste cargo"
             },
             "death_note": {
                 "ativado": "O Death note foi ativado! auto_repl\n\nTodos os eventos relacionados a penalização de membros do servidor, que não forem originados pelo `📡 Networking` serão enviados no canal mencionado!\n\nVocê pode definir quais eventos serão ouvidos pelo Death note através do </panel guild:1107163338930126869> dentro da guia `📜 Log de eventos > Death note`",
@@ -1135,7 +1137,13 @@
                 "gerenciar_rodape": "Escolha as opções abaixo para gerenciar essa anotação.",
                 "permissao_moderador": "Você não pode utilizar esses botões pois não tem as permissões listadas na penalidade da advertência.",
                 "advertencia_cancelada": "A aplicação da advertência foi cancelada.",
-                "advertencia_aplicada": "A advertência foi aplicada ao membro!"
+                "advertencia_aplicada": "A advertência foi aplicada ao membro!",
+                "dica_rodape": "Essa anotação de advertência possui expiração, você pode configurar prazos através do /panel guild, em advertências -> hierarquia.",
+                "penalidades": "Penalidades",
+                "adv_concessao": "Advertência a ser concedida",
+                "anotacoes_requeridas": "Anotações requeridas",
+                "nova_anotacao": "> Registrando uma anotação",
+                "descricao_nova_anotacao": "Ao prosseguir com essa inclusão, o usuário receberá uma nova anotação neste servidor.```fix\n📃 Descrição fornecida:\n\nauto_repl```auto_repl | Após diversas anotações, um card para aplicar as penalidades da auto_repl° advertência será disponibilizado."
             },
             "timed_roles": {
                 "titulo_painel": "> Cargos temporários",
@@ -1608,7 +1616,8 @@
                 "remover_anotacao": "Remover anotação",
                 "manter_motivo": "Manter motivo",
                 "ver_network": "Ver network",
-                "filtro_acoes": "Filtro de ações"
+                "filtro_acoes": "Filtro de ações",
+                "local_atual": "Usar local atual"
             },
             "menus": {
                 "escolher_esse": "Escolher esse",
