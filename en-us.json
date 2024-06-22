@@ -147,12 +147,8 @@
                 "error_1": "An error occurred and we are unable to change your nickname at the moment!\nPlease try again later.",
                 "apelido": "Your nickname has been changed to `auto_repl`!\nUse the command again to scramble even more!"
             },
-            "baidu": {
-                "baidu": "Praise be to!!"
-            },
-            "esfiha": {
-                "asf": "Do you want a sfiha?"
-            },
+            "baidu": "Praise be to!!",
+            "esfiha": "Do you want a sfiha?",
             "gado": {
                 "gado": "YOUR CATTLE",
                 "error_2": "get out of here your CA :cow: TTLE, test it with another user",
@@ -196,9 +192,6 @@
                     "auto_repl if get sick go to the vet :cow:"
                 ]
             },
-            "peao": {
-                "peao": "Rotate the pawn"
-            },
             "anagrama": {
                 "anagrama": "Your anagram",
                 "entrada": "Original entry",
@@ -208,9 +201,7 @@
                 "combinacoes": "combinations!",
                 "sorte": "There was a repetition of words! Lucky you?"
             },
-            "jaja": {
-                "nsfw_jaja": "Due to the excess of delight, this command can only be used on an NSFW channel."
-            },
+            "jaja": "Due to the excess of delight, this command can only be used on an NSFW channel.",
             "rank": {
                 "rank_sv": "> Rank of",
                 "rank_rc": "> Command classification",
@@ -810,7 +801,7 @@
                 "mensagem_editada": "> Edited Message",
                 "mensagem_antiga": "Old message:",
                 "mensagem_atualizada": "Updated message:",
-                "resumo_atualizado": "A [message](auto_repl) was updated by <@auto_repl>\n\n**Old message:** ```auto_repl```\n**Updated message:** ```auto_repl```",
+                "resumo_atualizado": "<@auto_repl> edited a [message](auto_repl)\n\n**Old message:** ```auto_repl```\n**Updated message:** ```auto_repl```",
                 "auto_exclusao": "<@auto_repl> deleted a [message](auto_repl)",
                 "mode_exclusao": "A [message](auto_repl) from <@auto_repl> was deleted",
                 "sem_texto": "No text included",

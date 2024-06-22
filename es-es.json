@@ -122,12 +122,8 @@
                 "error_1": "¡Ocurrió un error y no podemos cambiar tu apodo en este momento!\nPor favor, inténtalo de nuevo más tarde.",
                 "apelido": "¡Tu apodo ha sido cambiado a `auto_repl`!\n¡Usa el comando nuevamente para codificar aún más!"
             },
-            "baidu": {
-                "baidu": "¡¡Alabado sea!!"
-            },
-            "esfiha": {
-                "asf": "¿Hay una esfiha allí?"
-            },
+            "baidu": "¡¡Alabado sea!!",
+            "esfiha": "¿Hay una esfiha allí?",
             "gado": {
                 "gado": "OH TU GANADO",
                 "error_2": "¡Que es eso! tu GANA :cow: DO, prueba esto con otro usuario",
@@ -163,9 +159,6 @@
                     "auto_repl si te enfermas ve al veterinario :cow:"
                 ]
             },
-            "peao": {
-                "peao": "Rueda el peón"
-            },
             "anagrama": {
                 "anagrama": "Tu anagrama",
                 "lista_combinacoes": "Posibles combinaciones",
@@ -174,9 +167,7 @@
                 "combinacoes": "combinaciones!",
                 "sorte": "¡Hubo una repetición de palabras! ¿Fue suerte?"
             },
-            "jaja": {
-                "nsfw_jaja": "Debido al exceso de placer, este comando solo se puede usar en un canal NSFW"
-            },
+            "jaja": "Debido al exceso de placer, este comando solo se puede usar en un canal NSFW",
             "rank": {
                 "rank_sv": "> Rango de",
                 "rank_rc": "> Clasificación de comandos",
@@ -656,7 +647,7 @@
                 "mensagem_editada": "> Mensaje editado",
                 "mensagem_antiga": "Mensaje antiguo:",
                 "mensagem_atualizada": "Mensaje actualizado:",
-                "resumo_atualizado": "Un [mensaje](auto_repl) fue actualizado por <@auto_repl>\n\n**Mensaje antiguo:** ```auto_repl```\n**Mensaje actualizado:** ```auto_repl```",
+                "resumo_atualizado": "<@auto_repl> editó un [mensaje](auto_repl)\n\n**Mensaje antiguo:** ```auto_repl```\n**Mensaje actualizado:** ```auto_repl```",
                 "auto_exclusao": "<@auto_repl> eliminó un [mensaje](auto_repl)",
                 "mode_exclusao": "Se eliminó un [mensaje](auto_repl) de <@auto_repl>",
                 "sem_texto": "No incluye texto",

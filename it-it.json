@@ -125,18 +125,11 @@
                 "error_1": "Si è verificato un errore e al momento non siamo in grado di modificare il tuo nickname!\nRiprova più tardi.",
                 "apelido": "Il tuo nickname è stato cambiato in `auto_repl`!\nUsa di nuovo il comando per rimescolare ancora di più!"
             },
-            "baidu": {
-                "baidu": "Lode sia!!"
-            },
-            "esfiha": {
-                "asf": "C'è un esfiha lì?"
-            },
+            "baidu": "Lode sia!!",
+            "esfiha": "C'è un esfiha lì?",
             "gado": {
                 "gado": "AH TU BOVINO",
                 "error_2": "Non sono un BOVI :cow: NO, prova con un altro utente"
-            },
-            "peao": {
-                "peao": "Girare il pedone"
             },
             "anagrama": {
                 "anagrama": "Il tuo anagramma",
@@ -147,9 +140,7 @@
                 "combinacoes": "combinazioni!",
                 "sorte": "C'era una ripetizione di parole! È stata fortuna?"
             },
-            "jaja": {
-                "nsfw_jaja": "A causa del piacere eccessivo, questo comando può essere utilizzato solo su un canale NSFW"
-            },
+            "jaja": "A causa del piacere eccessivo, questo comando può essere utilizzato solo su un canale NSFW",
             "rank": {
                 "rank_sv": "> Cassificazione di",
                 "rank_rc": "> Classificazione dei comandi",
@@ -653,7 +644,7 @@
                 "mensagem_editada": "> Messaggio modificato",
                 "mensagem_antiga": "Vecchio messaggio:",
                 "mensagem_atualizada": "Messaggio aggiornato:",
-                "resumo_atualizado": "Un [messaggio](auto_repl) è stato aggiornato da <@auto_repl>\n\n**Vecchio messaggio:** ```auto_repl```\n**Messaggio aggiornato:** ```auto_repl```",
+                "resumo_atualizado": "<@auto_repl> ha modificato un [messaggio](auto_repl)\n\n**Vecchio messaggio:** ```auto_repl```\n**Messaggio aggiornato:** ```auto_repl```",
                 "auto_exclusao": "<@auto_repl> ha eliminato un [messaggio](auto_repl)",
                 "mode_exclusao": "Un [messaggio](auto_repl) da <@auto_repl> è stato eliminato",
                 "sem_texto": "Nessun testo incluso",

@@ -62,12 +62,6 @@
                     "Kifflom!"
                 ]
             },
-            "amor": {
-                "teste": "Deu issaq"
-            },
-            "peao": {
-                "peao": "Roda o pião dona maria"
-            },
             "anagrama": {
                 "anagrama": "O Anagrama",
                 "entrada": "Sua entrada",
@@ -77,9 +71,7 @@
                 "combinacoes": "combinações!",
                 "sorte": "Repetiu umas palavras! Cagado!"
             },
-            "jaja": {
-                "nsfw_jaja": "Devido ao excesso de delícia esse comando só pode ser usado num knel NSFW"
-            },
+            "jaja": "Devido ao excesso de delícia esse comando só pode ser usado num knel NSFW",
             "rank": {
                 "rank_sv": "> Rank de",
                 "rank_rc": "> Ranking de comandos",

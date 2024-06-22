@@ -126,12 +126,8 @@
                 "error_1": "Une erreur s'est produite et nous ne sommes pas en mesure de modifier votre pseudonyme pour le moment!\nVeuillez réessayer ultérieurement.",
                 "apelido": "Votre surnom a été changé en `auto_repl`!\nUtilisez à nouveau la commande pour brouiller encore plus!"
             },
-            "baidu": {
-                "baidu": "Louange à être!!"
-            },
-            "esfiha": {
-                "asf": "Voulez-vous un sfiha?"
-            },
+            "baidu": "Louange à être!!",
+            "esfiha": "Voulez-vous un sfiha?",
             "gado": {
                 "gado": "VOTRE BÉTAIL",
                 "error_2": "sortez votre BÉ :cow: TAIL, testez ceci avec un autre utilisateur",
@@ -165,9 +161,6 @@
                     "auto_repl si tu tombes malade va chez le vétérinaire :cow:"
                 ]
             },
-            "peao": {
-                "peao": "Tourner le pion"
-            },
             "anagrama": {
                 "anagrama": "Votre anagramme",
                 "entrada": "Entrée originale",
@@ -177,9 +170,7 @@
                 "combinacoes": "combinaisons!",
                 "sorte": "Il y avait une répétition de mots! Quel chanceux êtes-vous?"
             },
-            "jaja": {
-                "nsfw_jaja": "En raison de l'excès de plaisir, cette commande ne peut être utilisée que sur un canal NSFW."
-            },
+            "jaja": "En raison de l'excès de plaisir, cette commande ne peut être utilisée que sur un canal NSFW.",
             "rank": {
                 "rank_sv": "> Rang de",
                 "rank_rc": "> Classement des commandes",
@@ -686,7 +677,7 @@
                 "mensagem_editada": "> Message modifié",
                 "mensagem_antiga": "Ancien message:",
                 "mensagem_atualizada": "Message mis à jour:",
-                "resumo_atualizado": "Un [message](auto_repl) a été mis à jour par <@auto_repl>\n\n**Ancien message:** ```auto_repl```\n**Message mis à jour:** ```auto_repl```",
+                "resumo_atualizado": "<@auto_repl> a édité un [message](auto_repl)\n\n**Ancien message:** ```auto_repl```\n**Message mis à jour:** ```auto_repl```",
                 "auto_exclusao": "<@auto_repl> supprimé un [message](auto_repl)",
                 "mode_exclusao": "Un [message](auto_repl) de <@auto_repl> a été supprimé",
                 "sem_texto": "Aucun texte inclus",

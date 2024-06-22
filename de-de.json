@@ -126,18 +126,11 @@
                 "error_1": "Es ist ein Fehler aufgetreten und wir können Ihren Spitznamen derzeit nicht ändern!\nBitte versuchen Sie es später erneut.",
                 "apelido": "Ihr Spitzname wurde in `auto_repl` geändert!\nVerwenden Sie den Befehl erneut, um noch mehr zu verschlüsseln!"
             },
-            "baidu": {
-                "baidu": "Lob sei!!"
-            },
-            "esfiha": {
-                "asf": "Willst du einen Sfiha?"
-            },
+            "baidu": "Lob sei!!",
+            "esfiha": "Willst du einen Sfiha?",
             "gado": {
                 "gado": "IHR VIEH",
                 "error_2": "Verschwinde hier mit deinem VI :cow: EH, teste es mit einem anderen User"
-            },
-            "peao": {
-                "peao": "Drehe den Bauern um"
             },
             "anagrama": {
                 "anagrama": "Dein Anagramm",
@@ -148,9 +141,7 @@
                 "combinacoes": "kombinationen!",
                 "sorte": "Es gab eine Wortwiederholung! Glück gehabt?"
             },
-            "jaja": {
-                "nsfw_jaja": "Aufgrund übermäßiger Freude kann dieser Befehl nur auf einem NSFW-Kanal verwendet werden."
-            },
+            "jaja": "Aufgrund übermäßiger Freude kann dieser Befehl nur auf einem NSFW-Kanal verwendet werden.",
             "rank": {
                 "rank_sv": "> Rang von",
                 "rank_rc": "> Command classification",
@@ -656,7 +647,7 @@
                 "mensagem_editada": "> bearbeitete Nachricht",
                 "mensagem_antiga": "Alte Nachricht:",
                 "mensagem_atualizada": "Aktualisierte Nachricht:",
-                "resumo_atualizado": "Eine [Nachricht](auto_repl) wurde von <@auto_repl> aktualisiert\n\n**Alte Nachricht:** ```auto_repl```\n**Aktualisierte Nachricht:** ```auto_repl```",
+                "resumo_atualizado": "<@auto_repl> hat eine [Nachricht](auto_repl) aktualisiert\n\n**Alte Nachricht:** ```auto_repl```\n**Aktualisierte Nachricht:** ```auto_repl```",
                 "auto_exclusao": "<@auto_repl> hat eine [Nachricht](auto_repl) gelöscht",
                 "mode_exclusao": "Eine [Nachricht](auto_repl) von <@auto_repl> wurde gelöscht",
                 "sem_texto": "kein Text enthalten",

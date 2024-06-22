@@ -148,12 +148,8 @@
                 "error_1": "Ocorreu um erro e não foi possível alterar seu apelido no momento!\nPor favor, tente novamente mais tarde.",
                 "apelido": "Seu apelido foi alterado para `auto_repl`!\nUse o comando novamente para embaralhar mais ainda!"
             },
-            "baidu": {
-                "baidu": "Louvado seja!!"
-            },
-            "esfiha": {
-                "asf": "Vai uma esfiha ae?"
-            },
+            "baidu": "Louvado seja!!",
+            "esfiha": "Vai uma esfiha ae?",
             "gado": {
                 "gado": "Ô SEU GADO",
                 "error_2": [
@@ -211,9 +207,6 @@
                     "0|auto_repl é gado de nascença :cow:"
                 ]
             },
-            "peao": {
-                "peao": "Roda o pião"
-            },
             "anagrama": {
                 "anagrama": "Seu anagrama",
                 "entrada": "Entrada original",
@@ -223,9 +216,7 @@
                 "combinacoes": "combinações!",
                 "sorte": "Houve uma repetição de palavras! Seria sorte?"
             },
-            "jaja": {
-                "nsfw_jaja": "Devido ao excesso de delícia este comando só pode ser usado num canal NSFW"
-            },
+            "jaja": "Devido ao excesso de delícia este comando só pode ser usado num canal NSFW",
             "rank": {
                 "rank_sv": "> Rank de",
                 "rank_rc": "> Ranking de comandos",
@@ -399,9 +390,6 @@
                 "sucesso_1": "Mensagem enviada para o Alonsal :incoming_envelope:\nDespachei mais informações no seu privado :mailbox_with_mail:",
                 "conteudo_1": "Sua mensagem foi entregue para o/a",
                 "conteudo_2": "O Conteúdo da mensagem é"
-            },
-            "help": {
-                "comandos": "Veja os comandos, me convide ou acesse meu servidor pelo site!"
             },
             "apoio": {
                 "apoie": "> Apoie o Alonsal!",
@@ -839,7 +827,7 @@
                 "mensagem_editada": "> Mensagem Editada",
                 "mensagem_antiga": "Mensagem antiga:",
                 "mensagem_atualizada": "Mensagem atualizada:",
-                "resumo_atualizado": "Uma [mensagem](auto_repl) foi atualizada por <@auto_repl>\n\n**Mensagem antiga:** ```auto_repl```\n**Mensagem atualizada:** ```auto_repl```",
+                "resumo_atualizado": "<@auto_repl> editou uma [mensagem](auto_repl)\n\n**Mensagem antiga:** ```auto_repl```\n**Mensagem atualizada:** ```auto_repl```",
                 "auto_exclusao": "<@auto_repl> excluiu uma [mensagem](auto_repl)",
                 "mode_exclusao": "Uma [mensagem](auto_repl) de <@auto_repl> foi excluída",
                 "sem_texto": "❌ Sem texto incluso anteriormente",
