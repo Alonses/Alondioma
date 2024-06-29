@@ -19,7 +19,7 @@
                 "boas_vindas": "Olá! Obrigado por me adicionar ao servidor!\n\nDeixo em anexo abaixo o meu site, com todos os comandos caso necessário ;D",
                 "boas_vindas_tutorial": "Olá! O que faremos hoje?\n\nDeixo em anexo abaixo o meu site, com todos os comandos caso necessário ;D",
                 "idioma_dica": "Do not speak Portuguese? No problems! Change my language right now with the </language:1018632996787589284> command!",
-                "idioma_dica_server": "Do not speak Portuguese? No problem! You can change my language on the server using the `/language` command!",
+                "idioma_dica_server": "Do not speak Portuguese? No problem! You can change my language using the </language:1018632996787589284> command!",
                 "site": "Site Alonsal"
             },
             "vote": {
@@ -219,7 +219,6 @@
             "jaja": "Devido ao excesso de delícia este comando só pode ser usado num canal NSFW",
             "rank": {
                 "rank_sv": "> Rank de",
-                "rank_rc": "> Ranking de comandos",
                 "rank_global": "> Ranking Global",
                 "rodape": "páginas, use os botões abaixo para ver outras páginas",
                 "paginas": "Informe um número menor para a página",
@@ -227,14 +226,8 @@
                 "enceirados": "Enceirados",
                 "experiencia": "Experiência",
                 "nivel": "Nível",
-                "comandos": "Comandos",
-                "ativacoes": "Ativações",
-                "historia_alonsal": "Estes são os comandos ativados durante toda a história do Alonsal",
-                "aliase_faltando": "aliase faltando",
-                "nome_faltando": "Nome faltando",
                 "error_1": "Informe um número da página menor para isto",
-                "error_2": "Não há dados suficientes para gerar o ranking no momento, tente novamente mais tarde",
-                "error_rc": "Não foi possível carregar o ranking de comandos no momento, tente novamente mais tarde"
+                "error_2": "Não há dados suficientes para gerar o ranking no momento, tente novamente mais tarde"
             },
             "badges": {
                 "error_1": "Você não possui nenhuma badge para visualizar!",
@@ -400,11 +393,6 @@
                 "hub_alonsal": "> Hub do Alonsal",
                 "info": "Entre agora mesmo no meu servidor, seja para tirar dúvidas, ou usar os comandos, o server é liberado para todos!",
                 "conectar": "Conecte-se!"
-            },
-            "help_comando": {
-                "traducao_faltando": "Este comando ainda não possui uma tradução para o seu idioma, aguarde!",
-                "usos": "Usos",
-                "nao_encontrado": "Não encontrei nenhum comando com este nome ou aliase, tente novamente"
             },
             "data": {
                 "ranking_guilds": "Ranking nos seguintes servidores",
@@ -1070,6 +1058,7 @@
                     "> Atribuir cargos"
                 ],
                 "descricao_atribuidor": "Este é um atribuidor de cargos, selecione os cargos que serão atribuídos de forma automática para os membros desse servidor, e se membros que possuem determinados cargos serão ignorados.",
+                "descricao_atribuidor_join": "Este é um atribuidor de cargos para membros que entrarem no servidor.\nSelecione os cargos que deseja conceder aos novos membros de forma automática!",
                 "nenhum": [
                     "`Nenhum`",
                     "`Nada`",
@@ -1544,11 +1533,11 @@
                 "ver_usuarios": "Ver outros usuários",
                 "moderacao": "Moderação",
                 "estatisticas": "Estatísticas",
-                "excluir_strike": "Excluir strike",
-                "gerenciar_strikes": "Gerenciar strikes",
                 "remover_strikes": "Remover Strikes",
                 "remover_warns": "Remover Warns",
                 "penalidade": "Penalidade",
+                "excluir_strike": "Excluir strike",
+                "gerenciar_strikes": "Gerenciar strikes",
                 "expiracao": "Expiração",
                 "expirando": "Expirando",
                 "alterar_dia": "Alterar dia",
@@ -1605,7 +1594,8 @@
                 "manter_motivo": "Manter motivo",
                 "ver_network": "Ver network",
                 "filtro_acoes": "Filtro de ações",
-                "local_atual": "Usar local atual"
+                "local_atual": "Usar local atual",
+                "atribuir": "Atribuir"
             },
             "menus": {
                 "escolher_esse": "Escolher esse",
@@ -1705,7 +1695,7 @@
             "invalid": {
                 "role": "Não há cargos para selecionar no momento...",
                 "channel": "Não há canais para selecionar no momento...",
-                "category": "Não há canais para selecionar no momento...",
+                "category": "Não há categorias para selecionar no momento...",
                 "events": "Não há eventos para selecionar no momento...",
                 "action": "Não há ações para selecionar no momento...",
                 "description": "Sem descrição...",
