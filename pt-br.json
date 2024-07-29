@@ -711,6 +711,7 @@
                 "gerenciar_canais": "Gerenciar canais",
                 "gerenciar_cargos": "Gerenciar cargos",
                 "gerenciar_mensagens": "Gerenciar mensagens",
+                "gerenciar_servidor": "Gerenciar o servidor",
                 "quebrar_vinculo": "Quebrar vinculo",
                 "sem_servidores": "Você não é moderador em outros servidores, você deve ser moderador em um outro servidor para ter acesso a essa guia!",
                 "selecionar_servidores": "Selecione os servidores para se vincularem a este",
@@ -1083,7 +1084,11 @@
                 "convites": "convites",
                 "sem_permissao": "Eu não posso ver a lista de convites sem a permissão `Gerenciar servidor` concedida.",
                 "sem_permissao_2": "Eu não tenho permissões para `Gerenciar servidor`, não é possível ver a lista de convites sem essa permissão concedida!\nA exclusão automática dos convites de um membro que foi expulso/banido não foi realizada. @here",
-                "exclusao": "O módulo de convites rastreados excluiu `auto_repl`."
+                "exclusao": "O módulo de convites rastreados excluiu `auto_repl`.",
+                "descricao_funcionamento": "```🧻 Funcionamento dos convites rastreados\n\nOs convites rastreados podem ser utilizados para excluir convites criados por membros que forem expulsos ou saírem do servidor de forma automática.\n\nVocê pode alterar o funcionamento dele para remover todos os convites criados por membros quando sairem, ou quando forem expulsos/banidos.```",
+                "remover_convites": "Remover convites",
+                "apenas_banidos": "👟 Apenas de membros que forem banidos ou expulsos",
+                "todas_saidas": "🌟 De qualquer membro que sair do servidor"
             },
             "hierarquia": {
                 "hierarquia": "Hierarquia",
