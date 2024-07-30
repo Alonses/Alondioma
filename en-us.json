@@ -2,7 +2,7 @@
     "data": {
         "inic": {
             "inicio": {
-                "apresentacao": "Aoba! Notei que me pingou...\n\nCaso tenha dúvidas sobre meus comandos e no que podemos trabalhar juntos...\nUse o </help:1018609879512006787> para podermos começar!\n\nNota: Não consegue ver meus comandos `/slash`? Me convide novamente clicando no botão abaixo!\nTambém verifique se meus comandos estão habilitados para todos nas integrações do servidor em `Integrações -> Alonsal -> Comandos`",
+                "apresentacao": "Hey! I noticed you pinged me...\n\nIf you have any questions about my commands and what we can work on together...\nUse </help:1018609879512006787> so we can get started!\n\nNote: You can't see my commands `/slash`? Invite me again by clicking the button below!\nAlso check that my commands are enabled for everyone in the server integrations in `Integrations -> Alonsal -> Commands`",
                 "slash_commands": "Traditional commands have been disabled, keep using Alonsal by `/slash` ( </help:1018609879512006787> ) commands! Try it now ;D\n\nNote: Can't see my commands? Invite me again by clicking the button below! Also make sure my commands are enabled for all in server integrations under `Integrations -> Alonsal -> Commands`",
                 "convidar": "To invite!",
                 "suporte": "Support"
@@ -32,7 +32,7 @@
                 "rodape_encerrado": "This poll has been closed! Thanks to everyone who participated!!",
                 "votacao_encerrada_1": "***This poll is now closed!***\n\nMany thanks to everyone who participated!\nWe received `auto_repl` votes while the poll was open!\nTo the participants, you now have the auto_repl `Voter` badge!",
                 "votacao_encerrada_2": "**With `auto_repl` votes, the language that received the most votes was auto_repl!!! auto_repl auto_repl**\nIt will be added fully to Alonsal in the coming days!\nUse the command </language:1018632996787589284> anytime to change yours!",
-                "votacao_encerrada_3": "Às <t:1692462600:f> ( <t:1692462600:R> )\nesse card será atualizado com o vencedor!"
+                "votacao_encerrada_3": "At <t:1692462600:f> ( <t:1692462600:R> )\this card will be updated with the winner!"
             }
         },
         "misc": {
@@ -204,7 +204,6 @@
             "jaja": "Due to the excess of delight, this command can only be used on an NSFW channel.",
             "rank": {
                 "rank_sv": "> Rank of",
-                "rank_rc": "> Command classification",
                 "rank_global": "> Global Ranking",
                 "rodape": "pages, use /rank pagina:<num> to see other pages",
                 "paginas": "Enter a lower number for the page",
@@ -212,14 +211,8 @@
                 "enceirados": "Users",
                 "experiencia": "Experience",
                 "nivel": "Level",
-                "comandos": "Commands",
-                "ativacoes": "Activations",
-                "historia_alonsal": "These are the commands activated throughout the history of Alonsal",
-                "aliase_faltando": "alias absent",
-                "nome_faltando": "Missing name",
                 "error_1": "Please enter a smaller page number for this",
-                "error_2": "There is not enough data to generate the ranking at this time, please try again later",
-                "error_rc": "Could not load command rating at this time, please try again later"
+                "error_2": "There is not enough data to generate the ranking at this time, please try again later"
             },
             "badges": {
                 "error_1": "You don't have any badges to view!",
@@ -280,7 +273,6 @@
                 "guardadas": "Bank",
                 "eventos": "Events",
                 "aquatico": "Aquatic",
-                "lava": "Lava",
                 "zona_densa": "Dense zone",
                 "parque": "Park",
                 "pisoes": "Bonus",
@@ -293,7 +285,7 @@
                 "errou": "You missed!"
             },
             "dado": {
-                "error_1": "It is not possible to take more than 50 dice at the same time..",
+                "error_1": "It is not possible to take more than 50 dice at the same time.",
                 "error_2": "It is not possible to draw geometric solids with more than 10,000 faces.",
                 "error_3": "It is not possible to rotate geometric solids with less than 4 faces."
             },
@@ -376,9 +368,6 @@
                 "conteudo_1": "Your message has been delivered to the",
                 "conteudo_2": "The content of the message is"
             },
-            "help": {
-                "comandos": "See the commands, invite me or access my server through the website!"
-            },
             "apoio": {
                 "apoie": "> Support Alonsal!",
                 "contribua": "Contribute",
@@ -388,11 +377,6 @@
                 "hub_alonsal": "> Alonsal Hub",
                 "info": "Enter my server right now, whether to ask questions, or use the commands, the server is free for everyone!",
                 "conectar": "To enter!"
-            },
-            "help_comando": {
-                "traducao_faltando": "This command doesn't have a translation for your language yet, wait!",
-                "usos": "Uses",
-                "nao_encontrado": "I didn't find any command with this name or aliase, try again"
             },
             "data": {
                 "ranking_guilds": "Ranking on the following servers",
@@ -410,7 +394,7 @@
                 "badges_publicas": "Public Badges",
                 "clima_resumido": "Weather overview",
                 "tarefas_globais": "Global Tasks",
-                "nao_compartilha_badges": "This user does not share their badges publicly!\nUnable to view their badges...",
+                "nao_compartilha_badges": "This user does not share their badges publicly!\nUnable to view their badges.",
                 "links_externos": "External Links",
                 "nota_servidores": "Unknown servers are servers where you gained experiences and I am no longer a part of it! 😢",
                 "tipo_dado": "Select a data type",
@@ -455,15 +439,11 @@
                         "6": "Current server ranking",
                         "7": "Global ranking",
                         "8": "Tasks",
-                        "9": "Modules",
-                        "10": "Bufunfas"
+                        "9": "Modules"
                     },
                     "combo": {
                         "1": "External Links and Locale",
-                        "2": "Embeds e Badges",
-                        "3": "Rankings",
                         "4": "Tasks and modules",
-                        "5": "Bufunfas",
                         "6": "All data"
                     }
                 },
@@ -502,7 +482,7 @@
                 "excluir_apos": "Delete data after `auto_repl days`\n",
                 "resumo_expandido": "```fix\nWhen removed from the server, Alonsal will disable most of the features listed below.\n\nData deletion will be performed after a period automatically, you can set this time using the buttons below.\n\nWhen deleting data, Alonsal will completely remove saved data from the server, including ranking registration, re-origination of suspicious reports and suspect links, and removal of saved warns.```auto_repl\n**Server features:**",
                 "remover_canal": "Remove channel",
-                "remover_cargo": "Remover cargo"
+                "remover_cargo": "Remove role"
             },
             "telemetria": {
                 "titulo": "> Telemetry data",
@@ -546,16 +526,16 @@
                 "desc_modo_compacto": "Compact mode removes all emojis from the beginning of sentences.",
                 "servidores_conhecidos": "Known servers",
                 "desc_servidores_conhecidos": "Synchronizes known servers when you join or leave.",
-                "cargos_temporarios": "Cargos temporários",
-                "desc_cargos_temporarios": "Defina cargos temporários aos membros do servidor.",
-                "excluir_banidos": "Excluir mensagens de membros banidos pelo AutoBan:"
+                "cargos_temporarios": "Temporary roles",
+                "desc_cargos_temporarios": "Assign temporary roles to server members.",
+                "excluir_banidos": "Delete messages from members banned by AutoBan:"
             }
         },
         "mode": {
             "idiomas": {
                 "titulo_idioma": "Available languages",
                 "idioma_server": "All automatic messages will now be sent in the language:",
-                "idioma_secundario_removido": "O idioma secundário foi removido com sucesso.",
+                "idioma_secundario_removido": "The secondary language was successfully removed.",
                 "siglas": {
                     "de-de": "German",
                     "en-us": "English",
@@ -578,6 +558,7 @@
             "anuncio": {
                 "permissao": "You cannot use this command as you cannot `manage channels` from the server!",
                 "permissao_envio": "I don't have permission to post messages on this channel, please check my permissions and try again.",
+                "permissao_cargos": "It is not possible to choose roles through the menus without \"Manage roles\" permission granted.\nPlease grant permission, or configure it using the command </notify config:1018632996787589283>",
                 "anuncio_games": "From now on, the auto_repl channel will receive updates when free games are available\nUse the command without parameters to disable these updates.",
                 "anuncio_off": "Game notifications turned off for this server",
                 "ativos": "Currently active",
@@ -589,14 +570,13 @@
                 "configuracao": "You need to configure a channel and role to receive notifications for free games\nUse the command </notify config:1018632996787589283> to configure and activate the free games module.",
                 "anuncio_enviado_duplicatas": "A new ad has been uploaded in auto_repl, games ad is active on this server.\nCheck the channel for duplicate ads",
                 "anuncio_enviado": "A new advertisement has been sent in auto_repl, games advertisement is not currently active on this server.\nUse the server panel to enable the feature, or the command </notify config:1018632996787589283> again.",
+                "anuncio_nao_enviado": "The announcement module was active, but I didn't send anything at the moment as there are no free games available at the moment!\nI will notify the mentioned role when there are free games for a limited time!",
                 "cargo": "Role",
                 "idioma": "Language",
                 "ficara_pago": "Will become paid",
                 "sem_games": "There are currently no free games!\nSet up an ads module with </notify config:1018632996787589283> to automatically receive ads when free games appear!",
                 "games_gratuitos": "There are games available to redeem for a limited time! auto_repl\n\nRedeem the titles below before the date to guarantee **completely free** copies in your account on the respective platform.",
                 "descricao": "```🧻 How it works\n\nIf you enable this feature, I will send you ads for games that are available for free for a limited time. You can change channels, positions and receive notifications using the buttons below!```",
-                "permissao_cargos": "It is not possible to choose roles through the menus without \"Manage roles\" permission granted.\nPlease grant permission, or configure it using the command </notify config:1018632996787589283>",
-                "anuncio_nao_enviado": "The announcement module was active, but I didn't send anything at the moment as there are no free games available at the moment!\nI will notify the mentioned role when there are free games for a limited time!",
                 "jogos_disponiveis_rodape": "There are several games currently available to collect, go to /games on a server to see them all!"
             },
             "canal": {
@@ -649,6 +629,7 @@
                 "usuario_bot": "You cannot report other bots!",
                 "sem_usuarios": "No users were added, as they have no justification for banning or there are no bans on the server.",
                 "sem_reportes_guild": "There are no externally reported users on this server!",
+                "com_reportes_guild": "There are reported users present on the server!",
                 "identificador": "Identifier",
                 "id_invalido": "The entered ID is invalid!",
                 "rodape": "pages, use /verify guild page:<num> to see other pages",
@@ -663,11 +644,15 @@
                 "novo_reporte": "New report",
                 "reporte_registrado": "User reported",
                 "historico": "This user has already received reports on other servers previously!",
+                "rodape_historico": "This is a reported member tracker warning, you can turn off warnings like this in the /panel guild via the External Reports tab.",
                 "reportes_externos": "> External reports",
                 "aviso_de_entradas": "Entry notice",
                 "canal_de_avisos": "Warn channel",
-                "funcionamento_reportes": "```🧻 How reports work\n\nExternal reports are registered by moderators of any server where Alonsal is located, a moderator, when registering a report through /report create, can share this addition with other servers!\n\nWhen sharing, Alonsal will send a notification about this addition in the channel specified below.\n\n📛 How AutoBan works\n\nAutoBan is an extra feature to /report create, with it being active, all reports that are created on the server will also result in the banning of the user who is reported!\n\n📣 How the Entry Announcement works\n\nThe Entry Announcement serves to notify the server moderators if a user who has been reported enters the server, I will notify you about that user and their reporting history.```",
+                "funcionamento_reportes": "```🧻 How reports work\n\nExternal reports are registered by moderators of any server where Alonsal is located, a moderator, when registering a report through /report create, can share this addition with other servers!\n\nWhen sharing, Alonsal will send a notification about this addition in the channel specified below.```",
+                "funcionamento_autoban": "```📛 How AutoBan works\n\nAutoBan is an extra feature to /report create, with it being active, all reports that are created on the server will also result in the banning of the user who is reported!```",
+                "funcionamento_aviso_entradas": "```📣 How the Entry Announcement works\n\nThe Entry Announcement serves to notify the server moderators if a user who has been reported enters the server, I will notify you about that user and their reporting history.```",
                 "apelido_desconhecido": "Unknown nickname!",
+                "entrada_desconhecida": "Unknown join",
                 "historico_usuario": "> User History",
                 "varias_paginas": "pages, use the buttons below to manage reported members",
                 "uma_pagina": "1 page, use the buttons below to manage reported members",
@@ -675,12 +660,10 @@
                 "escolher_usuario_gerencia": "Choose a user below to be able to manage",
                 "usuario_sem_reportes": "This server does not have any registered reports!",
                 "usuario_removido": "The user has been removed from the server's reporting list, thank you!!",
-                "operacao_cancelada": "The operation was cancelled, no effects were applied...",
+                "operacao_cancelada": "The operation was cancelled, no effects were applied.",
                 "remover_reporte": "> Remove report",
                 "remover_reporte_desc": "```📃 | Description provided: auto_repl```\nRevoking this user's report will clear your history on this server, you can confirm this operation or cancel using the buttons below.",
                 "reporte_neste_servidor": "Server report:",
-                "com_reportes_guild": "There are reported users present on the server!",
-                "rodape_historico": "This is a reported member tracker warning, you can turn off warnings like this in the /panel guild via the External Reports tab.",
                 "com_registro": "There are warnings created for this member!",
                 "sem_usuarios_report": "There are no reported users present on the server.",
                 "usuarios_reportados_titulo": "> Reported users",
@@ -701,8 +684,11 @@
                 "castigar_membros": "Moderate members",
                 "banir_membros": "Ban members",
                 "expulsar_membros": "Kick members",
+                "moderar_membros": "Moderate members",
                 "gerenciar_canais": "Manage channels",
                 "gerenciar_cargos": "Manage roles",
+                "gerenciar_mensagens": "Manage messages",
+                "gerenciar_servidor": "Gerenciar o servidor",
                 "quebrar_vinculo": "Break the link",
                 "sem_servidores": "You are not a moderator on other servers, you must be a moderator on another server to have access to this tab!",
                 "selecionar_servidores": "Select servers to link to this",
@@ -713,14 +699,17 @@
                 "motivo": ", Reason:",
                 "linkado": "Linked server",
                 "nao_linkado": "Not linked",
-                "gerenciar_mensagens": "Manage messages",
                 "sem_permissao": "I do not have permissions to view the server's `Audit Log`, cannot view penalty applications!\nNetworking synchronization was not completed. @here",
                 "falta_permissao": "You cannot set a role for the ad without \"Manage roles\" permission granted.",
                 "falta_serviores": "Networking needs more servers on the same link to be active.",
                 "sem_canal": "No defined channel",
                 "cargo_vinculado": "The role mentioned above will be assigned to the user who receives this warn.",
                 "cargo_permissao": "It is not possible to define a role through warns without the \"Manage roles\" permission granted.",
-                "excluir_banidos": "Excluir mensagens de membros banidos:"
+                "excluir_banidos": "Delete messages from banned members:",
+                "filtro_acoes": "Moderate actions filter",
+                "filtro_apenas_humanos": "Only human-generated actions",
+                "filtro_todas_fontes": "All actions, including from other bots",
+                "servidores_link": "Servers in the link"
             },
             "xp": {
                 "permissao_1": "You cannot manage members of this server",
@@ -772,6 +761,7 @@
                 "falta_vinculo": "It is necessary to configure a channel with the command </conf guild:1094346210636214304> before being able to activate it through the panel.",
                 "permissao": "I do not have permission to `View Audit Log`, I need this permission to provide finer details of log events.",
                 "falta_escrita_visualizacao": "I can't see or send messages on this channel! Please check my permissions so I can enable event logging for this channel.",
+                "falta_registro_auditoria": "To use the Event Log, Alonsal must be able to view the server's audit log.",
                 "mencao_canal": "You didn't mention any channel, and I don't have a cached channel!\nPlease use the command again mentioning a channel",
                 "canal_excluido": "The cached channel no longer exists!\nUse the command again and specify a valid channel to see automatic returns.",
                 "categoria_excluida": "The cached category no longer exists!\nUse the command again with a valid category to be able to receive report tickets through the server.",
@@ -796,6 +786,7 @@
                 "cargo_removido": "Removed",
                 "alterador": "Changed by",
                 "autor": "Author",
+                "anexos": "Attachments",
                 "excluido": "Deleted by",
                 "mensagem_excluida": "> Deleted Message",
                 "mensagem_editada": "> Edited Message",
@@ -834,7 +825,8 @@
                 "apelido_alterado_moderador": "A member had their nickname updated by a moderator!",
                 "apelido": "The nickname",
                 "apelido_novo": "New",
-                "apelido_antigo": "Old"
+                "apelido_antigo": "Old",
+                "sem_permissoes_vinculadas": "There are no different permissions linked to this role"
             },
             "death_note": {
                 "ativado": "The Death note has been activated! auto_repl\n\nAll events related to server member penalties that are not originated by `📡 Networking` will be sent in the mentioned channel!\n\nYou can define which events will be heard by Death note through the </panel guild: 1107163338930126869> inside the `📜 Event log > Death note` tab",
@@ -847,6 +839,7 @@
                 "ativado": "The anti-spam module has been activated! auto_repl\nChannel mentioned will be used for logger ( </conf guild:1094346210636214304> ) also if it is activated.\n\nIf you use logger command mentioning another channel, anti-spam will send all reports on the same logger channel, and vice versa\n(both modules use the same auto_repl channel)",
                 "desativado": "The anti-spam module has been disabled.",
                 "spam_aplicado": "User auto_repl has been muted for `auto_repl` due to repeated\nmessages sent in approximate times.",
+                "spam_detectado": "Spam was detected on this server created by auto_repl, but the member did not receive a penalty.",
                 "vigencia": "Validity",
                 "justificativa_mute": "Spamming the server",
                 "ping_spam": "auto_repl got punished for spam",
@@ -856,20 +849,19 @@
                 "falta_permissoes_1": "@here\nUnable to stop spam from user auto_repl due to lack of bot permissions.\nThe messages sent considered spam are as follows.",
                 "falta_permissoes_2": "@here\nUnable to mute user auto_repl due to lack of permissions\nMake sure I have the `Members of Punishment` permission and that my role is above the other roles in the role list so I can avoid user spam below of the level.",
                 "falta_permissoes_3": "@here\nUnable to kick user auto_repl due to lack of permissions\nPlease make sure I have the `Kick members` permission and that my role is higher than the other roles in the role list so that I can avoid spam from the users below.",
-                "strikes": "📜 Strikes",
+                "falta_permissoes_4": "@here\nUnable to ban user auto_repl due to lack of permissions\nPlease ensure that I have the `Ban Members` permission and that my role is above the other roles in the role list, so that I can prevent unwanted spam.",
                 "punicoes_niveis": "Punishments by levels",
+                "descricao_funcionamento": "🧻 How it works:\n\nAnti-spam checks for strange messages that are sent on the server, if suspicious activity is detected. Alonsal will classify it as Spam and apply penalties to the member who generated this strangeness, removing messages considered malicious in sequence.",
                 "strikes_ativo": "\n\nThe strike system is active on this server! Recurrent anti-spam users will be punished in the order described below.\n\n1st Occurrence -> 2 hours\n2nd Occurrence -> 6 hours\n3rd Occurrence -> 2 days\n4th Occurrence -> 7 days\n5th Occurrence -> Expulsion",
                 "strikes_desativado": "```🔇 The strike system is deactivated on this server!\n\nActivate it to be able to define punishments with times that increase according to the number of infractions that spam promoters carry out on the server!```\n",
+                "moderadores_ativo": "\n\n💂‍♂️ | Moderator management is active on this server! Moderators who send spam will also be penalized.",
+                "moderadores_desativado": "\n\n💂‍♂️ | Moderator management is turned off on this server! Moderators who spam will not be penalized.",
                 "tempo": "Time",
                 "tempo_minimo": "Minimum time",
                 "strikes_desc": "A member was kicked off the server via the Strikes system!",
                 "strikes_kick": "Kicked from the server by the Anti-spam Strike system",
+                "strikes_ban": "Banned from the server by the Anti-spam Strike system",
                 "justificativa_kick": "You have been kicked off the auto_repl server due to repeated spam.\nYour most recent messages that were classified as spam are as follows:",
-                "spam_detectado": "Spam was detected on this server created by auto_repl, but the member did not receive a penalty.",
-                "falta_permissoes_4": "@here\nUnable to ban user auto_repl due to lack of permissions\nPlease ensure that I have the `Ban Members` permission and that my role is above the other roles in the role list, so that I can prevent unwanted spam.",
-                "descricao_funcionamento": "🧻 How it works:\n\nAnti-spam checks for strange messages that are sent on the server, if suspicious activity is detected. Alonsal will classify it as Spam and apply penalties to the member who generated this strangeness, removing messages considered malicious in sequence.",
-                "moderadores_ativo": "\n\n💂‍♂️ | Moderator management is active on this server! Moderators who send spam will also be penalized.",
-                "moderadores_desativado": "\n\n💂‍♂️ | Moderator management is turned off on this server! Moderators who spam will not be penalized.",
                 "justificativa_ban": "You have been banned from the auto_repl server for spamming multiple times.\nYour last messages considered spam are the following:",
                 "links_suspeitos": "Suspicious links",
                 "mencoes": "Mentions",
@@ -889,11 +881,16 @@
                 "expulsao_em": "Expulsion in",
                 "gerenciar_moderadores": "Manage moderators",
                 "posicionamento": "**Alonsal's role auto_repl° position**",
-                "posicionamento_cargo": "In order for Alonsal to manage moderators on this server, it is advisable to position his role at the top of all other roles."
+                "posicionamento_cargo": "In order for Alonsal to manage moderators on this server, it is advisable to position his role at the top of all other roles.",
+                "permissoes_anti_spam": "To use Anti-spam, Alonsal must be able to Punish members and Manage messages.",
+                "tipo_varredura": "Sweep Style",
+                "apenas_links": "🔗 Only consider messages with links",
+                "qualquer_entrada": "🌟 Consider all messages"
             },
             "warn": {
                 "advertencias": "Warns",
                 "advertidos": "Warned",
+                "proxima_penalidade": "Next penalty",
                 "desc_advertencias": "Create custom warns and penalize members",
                 "advertencia_registrada": "The warn has been registered on the server!",
                 "advertencia_cancelada": "The inclusion of the warn has been canceled",
@@ -922,8 +919,7 @@
                 "mod_sem_permissao": "You cannot create a warn on this server!\nThe punishment for warns on this server is set to `auto_repl` and you don't have it...",
                 "mod_sem_hierarquia": "You cannot create a warn for a user who has more permissions than you!",
                 "bot_sem_hierarquia": "I cannot create a warn for this user, as I have fewer permissions than the user informed!",
-                "bot_sem_permissao": "I cannot create a warn for this user, as I do not have permissions for `auto_repl` as per the server's default punishment...",
-                "proxima_penalidade": "Next penalty",
+                "bot_sem_permissao": "I cannot create a warn for this user, as I do not have permissions for `auto_repl` as per the server's default punishment.",
                 "sem_advertencia": "The mentioned user does not have any warns on this server!",
                 "gerenciar_advertencia": "Select one of the warns below to manage!",
                 "advertencia_titulo": "> Warns of",
@@ -933,6 +929,7 @@
                 "verificar_warn": "Select which area you want to view with the buttons below.",
                 "descricao_advertencias": "```🧻 How the warn system works\n\nThis system records long-term warns created by the server moderators!\n\nYou can define what the penalty will be, the number of server warns and the penalties using the buttons below.\n\n🧻 Warn with expiration:\nBy activating this feature, the warns will be removed after a set time automatically, you can use this feature so that you don't have to check a user every time by removing their warns manually.```",
                 "expulsao_na": "Expulsion in",
+                "expulsao_no": "Expulsion in",
                 "com_validade": "With expiration",
                 "validade": "Validity",
                 "expira_em": "Expires in",
@@ -983,7 +980,11 @@
                 "anunciar_publicamente": "Advertise publicly",
                 "canal_publico": "Public channel",
                 "descricao_adv_publica": "```fix\n🧙‍♀️ The Public Announcement is active!\n\nAll warns that are created will now be sent in the specific channel for public warns, and the member who was warned will be mentioned there!```",
-                "anuncio_temporario": "<@auto_repl> received a new warn! ( `auto_repl` )\n\nauto_repl\n\n:hotsprings: This message will be removed <t:auto_repl:R>"
+                "anuncio_temporario": "<@auto_repl> received a new warn! ( `auto_repl` )\n\nauto_repl\n\n:hotsprings: This message will be removed <t:auto_repl:R>",
+                "expiracao_status": "Warns with expiration",
+                "expiracao_desligada": "🛑 No automatic expiration",
+                "excluir_banidos": "Delete messages from members banned by Warns:",
+                "titulo_verificando_advertencia": "> Checking warn :inbox_tray:"
             },
             "link_suspeito": {
                 "titulo": "> Browsing suspicious links 🔗",
@@ -1012,6 +1013,7 @@
             "roles": {
                 "titulo_atribuidor": "> Granting roles",
                 "descricao_atribuidor": "This is a role assigner, select the roles that will be automatically granted to the members of this server, and whether members who have certain roles will be ignored.",
+                "descricao_atribuidor_join": "This is a role assigner for members who join the server.\nSelect the roles you want to automatically assign to new members!",
                 "nenhum": "`Nenhum`",
                 "cargo_selecionado": "Selected role",
                 "atribuir_selecionados": "Grant selected",
@@ -1032,7 +1034,70 @@
                 "convites": "invitations",
                 "sem_permissao": "I cannot see the invite list without `Manage Server` permission granted.",
                 "sem_permissao_2": "I do not have permissions to `Manage Server`, it is not possible to see the invitation list without this permission granted!\nAutomatic deletion of invitations from a member who has been kicked/banned has not been performed. @here",
-                "exclusao": "Tracked invitations module deleted `auto_repl`."
+                "exclusao": "Tracked invitations module deleted `auto_repl`.",
+                "descricao_funcionamento": "```🧻 How tracked invites work\n\nTracked invites can be used to delete invites created by members who are automatically kicked or leave the server.\n\nYou can change how it works to remove all invites created by members when they leave, or when they are kicked/banned.```",
+                "remover_convites": "Remove invitations",
+                "apenas_banidos": "👟 Only from members who are banned or kicked",
+                "todas_saidas": "🌟 From any member who leaves the server"
+            },
+            "hierarquia": {
+                "hierarquia": "Hierarchy",
+                "status_ativacao": "Warns with hierarchy",
+                "ativo": "✅ Active",
+                "desativado": "🛑 Disabled",
+                "anotacoes_ativacao": "notes to trigger",
+                "criador_ultima_anotacao": "Last Note Creator",
+                "proxima_warn": "Next warn grants",
+                "descricao_anotacao": "This member received warn notes on this server, future notes may trigger new warn.",
+                "verificando_anotacao_titulo": "> Checking notes",
+                "descricao_painel_config": "```🧻 Hierarchical warns\n\nThese are mini-warnings that work like annotations. Activate them to be able to record notes without penalties, define the number of notes that each warn will need to be active and let Alonsal record the cases that occur over time.\n\nYou can define a fixed amount of notes that each new warning will need, define a channel where I will send the request to apply the penalty, and choose whether the notes will also expire after a while.```"
+            },
+            "anotacoes": {
+                "titulo": "> auto_repl's notes",
+                "titulo_nova_anotacao": "> A new warn note!",
+                "descricao_rodape_selecao": "Select one of the warning notes below to manage!!",
+                "titulo_selecao": "> Users with warning notes",
+                "descricao_selecionar_membro": "All members with currently active warning notes are listed below\n\nSelect one to manage the warnings the member has received.",
+                "selecionar_usuario": "Select a member below to manage your warning notes on this server.",
+                "sem_anotacoes": "No notes",
+                "ping_anotacao": "<@auto_repl> Received a new warning note!\n\nHe currently has `auto_repl of auto_repl` notes on this server.\n\n:hotsprings: This message will be removed <t:auto_repl:R>",
+                "aplicar_advertencia": "> Apply warning 👑",
+                "descricao_advertencia": "A server member has reached the annotation limit ( `auto_repl` ) for the auto_replth warning!",
+                "reiniciadas": "> Notes reset :inbox_tray:",
+                "reiniciadas_descricao": "<@auto_repl>'s warning annotations have been reset!\nUser now no longer has annotations on this server.",
+                "verificando": "> Checking annotation :inbox_tray:",
+                "gerenciar_rodape": "Choose the options below to manage this note.",
+                "permissao_moderador": "You cannot use these buttons because you do not have the permissions listed in the warning penalty.",
+                "advertencia_cancelada": "The application of the warning has been cancelled.",
+                "advertencia_aplicada": "The warning has been issued to the member!",
+                "dica_rodape": "This warning note has an expiration date, you can configure deadlines through the /panel guild, in warns -> hierarchy.",
+                "penalidades": "Penalties",
+                "adv_concessao": "Warning to be given",
+                "anotacoes_requeridas": "Required notes",
+                "nova_anotacao": "> Recording a note",
+                "descricao_nova_anotacao": "When proceeding with this inclusion, the user will receive a new note on this server.```fix\n📃 Description provided:\n\nauto_repl```auto_repl | After several notes, a card to apply the penalties of the auto_replth warning will be made available."
+            },
+            "timed_roles": {
+                "titulo_painel": "> Temporary roles",
+                "titulo": "> Assigning a temporary role",
+                "descricao": "You are assigning a temporary role to a member of this server.\n\nUse the buttons below to configure the role preferences as desired.",
+                "sem_expiracao": "No defined expiration",
+                "canal_avisos_temporario": "Temporary warning channel:",
+                "enviando": ":incoming_envelope: _Sending to_ <#auto_repl>",
+                "sem_canal_temporario": "No defined channel",
+                "cargo_moderativo": "Select a role that does not contain moderation permissions to assign to the member.",
+                "cargo_ja_concedido": "This member already has the role entered, try again with a role he does not yet have.",
+                "cargo_superior": "The mentioned role is bigger than mine! I cannot assign this role to the member.",
+                "nota_moderador": "Moderator's note:",
+                "titulo_cargo_concedido": "> A temporary role! :military_medal:",
+                "descricao_cargo_concedido": "auto_repl gained a temporary role on this server!auto_repl",
+                "cargo_concedido": "The Temporary Role ( <@&auto_repl> ) has been added to <@auto_repl>!\n\nThis role will be linked to the member until <t:auto_repl:f>, or until a moderator manually removes it.",
+                "valida_por": "Valid for",
+                "rodape_warn": "Temporary role assigned through warnings in the auto_replth Warn",
+                "aplicado_warn": "auto_repl was given a temporary role on this server through warns.auto_repl",
+                "rodape_spam": "Temporary position assigned through the Anti-Spam system at auto_replth Strike",
+                "aplicado_spam": "auto_repl received a temporary role on this server due to spam.auto_repl",
+                "descricao_painel": "```🧻 How it works:\n\nTemporary roles can be linked to server members.\n\nThese roles will remain with the member until a moderator removes them, or the defined time expires.\n\n💡 | You can set up a notification channel so I can send notifications to members who earn a temporary role below!```"
             }
         },
         "util": {
@@ -1450,7 +1515,6 @@
                 "estatisticas": "Statistics",
                 "remover_strikes": "Remove Strikes",
                 "remover_warns": "Remove Warns",
-                "advertencias": "Warns",
                 "penalidade": "Penalty",
                 "excluir_strike": "Delete strike",
                 "gerenciar_strikes": "Manage strikes",
@@ -1489,7 +1553,29 @@
                 "nenhum_cargo": "No role",
                 "novo_strike": "New strike",
                 "recursos": "Resources",
-                "pagina": "Page"
+                "pagina": "Page",
+                "exclusao": "Exclusion",
+                "expirar": "Expire",
+                "usar_hierarquia": "Use hierarchy",
+                "anotacoes": "Notes",
+                "cargo_temporario": "Temporary role",
+                "expiracao_cargo": "Role expiration",
+                "gerenciar_anotacoes": "Manage notes",
+                "conceder": "Grant",
+                "canal_temporario": "Temporary channel",
+                "painel_de_controle": "Control panel",
+                "avisos_previos": "Advance notices",
+                "varredura": "Scan",
+                "repeticoes": "Repetitions",
+                "conceder_advertencia": "Grant warn",
+                "cancelar_advertencia": "Cancel warn",
+                "remover_anotacoes": "Remove annotations",
+                "remover_anotacao": "Remove annotation",
+                "manter_motivo": "Keep the reason",
+                "ver_network": "See network",
+                "filtro_acoes": "Moderation filter",
+                "local_atual": "Use current location",
+                "atribuir": "Assign"
             },
             "menus": {
                 "escolher_esse": "Choose this",
@@ -1500,6 +1586,9 @@
                 "escolher_frase": "Choose one of the phrases below!",
                 "selecionar_profile": "Select one below to get started",
                 "escolher_timeout": "Set the default mute duration!",
+                "escolher_expiracao": "Set the deletion time",
+                "escolher_inatividade": "Set downtime",
+                "escolher_tempo_remocao": "Set the time for removal",
                 "escolher_cor": "Choose a color!",
                 "escolher_canal": "Choose an announcement channel!",
                 "escolher_categoria": "Choose a category!",
@@ -1507,14 +1596,14 @@
                 "escolher_idioma": "Choose a language!",
                 "escolher_eventos": "Choose the events!",
                 "escolher_usuario": "Choose a user!",
+                "escolher_acao": "Choose an action!",
                 "escolher_guilds": "Choose the servers!",
                 "escolher_numero": "Choose a number!",
                 "escolher_dia_modulo": "Select when this module will be activated!",
                 "escolher_link": "Choose a suspicious link!",
-                "escolher_expiracao": "Set the deletion time",
-                "escolher_inatividade": "Set downtime",
-                "escolher_acao": "Choose an action!",
-                "escolher_frequencia": "Choose a frequency!"
+                "escolher_frequencia": "Choose a frequency!",
+                "escolher_tarefa": "Choose a task!",
+                "escolher_tipo_dado": "Choose a data type!"
             },
             "events": {
                 "message_edit": "Edited messages",
@@ -1570,7 +1659,33 @@
                 "7257600": "3 months",
                 "14515200": "6 months",
                 "29030400": "1 year"
+            },
+            "network": {
+                "0": "No deletion",
+                "3600": "Last hour",
+                "7200": "Last 2 hours",
+                "21700": "Last 6 hours",
+                "43200": "Last 12 hours",
+                "86400": "Last 24 hours",
+                "172800": "Last 2 days",
+                "259200": "Last 3 days",
+                "432000": "Last 5 days",
+                "604800": "Last 7 days"
+            },
+            "invalid": {
+                "role": "There are no roles to select at this time...",
+                "channel": "There are no channels to select at this time...",
+                "category": "There are no categories to select at this time...",
+                "events": "There are no events to select at this time...",
+                "action": "There are no actions to select at this time...",
+                "description": "Without description...",
+                "servidor_desconhecido": "Unknown server"
             }
+        },
+        "status": {
+            "ativo": "✅ Active",
+            "desativado": "❌ Disabled",
+            "proxima": "Next"
         },
         "modu": {
             "frases": {
