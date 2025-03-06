@@ -862,7 +862,7 @@
                 "titulo": "> Prevenção de Spam",
                 "ativado": "O módulo anti-spam foi ativado! auto_repl\nO Canal mencionado será usado para o logger ( </conf guild:1094346210636214304> ) também caso ele seja ativado.\n\nSe você usar o comando do logger mencionando um outro canal, o anti-spam enviará todos os relatórios no mesmo canal do logger, e vice-versa\n(ambos os módulos utilizam o mesmo canal auto_repl)",
                 "desativado": "O módulo anti-spam foi desativado.",
-                "spam_aplicado": "O usuário auto_repl foi mutado por `auto_repl` devido à repetidas\nmensagens enviadas em tempos aproximados.",
+                "spam_aplicado": "O usuário auto_repl foi mutado por `auto_repl` devido à repetidas mensagens estranhas.",
                 "spam_detectado": "Um spam foi detectado neste servidor criado por auto_repl, porém o membro não recebeu penalidade.",
                 "vigencia": "Vigência",
                 "justificativa_mute": "Fazendo spam no servidor",
@@ -1022,10 +1022,7 @@
                     "> Navegando por links sus 🔗",
                     "> Navegando por links maliciosos 🔗"
                 ],
-                "detectado": [
-                    "Um novo link suspeito foi detectado neste servidor!\nMensagens que forem enviadas futuramente e contiverem esse link serão apagadas, e seus autores penalizados.\n( `auto_repl` )",
-                    "Um novo link suspeito foi avistado neste servidor!\nMensagens enviadas no futuro que contiverem esse link serão removidas.\n( `auto_repl` )"
-                ],
+                "detectado": "Um novo link suspeito foi salvo!\nMensagens futuras com o mesmo serão removidas.\n( `auto_repl` )",
                 "descricao_link": "O Link descrito abaixo foi identificado como suspeito.```fix\nauto_repl```",
                 "link_nao_encontrado": "O link selecionado não foi encontrado!\nPor favor, tente novamente com um outro link.",
                 "identificado": [
