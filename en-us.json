@@ -419,7 +419,7 @@
                 "de_inatividade": "of inactivity.\n( Plus another `14 days` after confirmation of inactivity )",
                 "inatividade_2": "of inactivity on the server.\n( Plus another `7 days` after confirmation of inactivity )\n",
                 "aviso_movido_exclusao": "Your data has been marked for deletion <t:auto_repl:R>\n\nUntil then, you will be ignored in Alonsal's XP ranking, if you wish to keep the data, you will have to use a command again before the time expires.",
-                "descricao_tempo_inatividade": "All your data will be marked for deletion.\n\nAfter confirmation, Alonsal will move your data to a 14-day quarantine, after which all data related to you will be removed from our database.\n\nBefore the deadline expires, you must use a command from us again to prevent your data from being removed.\n\nBy default, all users have an inactivity time that triggers this expiration functionality, if you wish to keep your data for longer , consider returning and increasing downtime.",
+                "descricao_tempo_inatividade": "All your data will be marked for deletion.\n\nAfter confirmation, Alonsal will move your data to a 14-day quarantine, after which all data related to you will be removed from our database.\n\nBefore the deadline expires, you must use a command from us again to prevent your data from being removed.\n\nBy default, all users have an inactivity time that triggers this expiration functionality, if you wish to keep your data for longer, consider returning and increasing downtime.",
                 "hoster_alonsal": "Added me to the server",
                 "aviso_movido_exclusao_dm": "Hello! We hope this message reaches you well\nThis is a prior notice that we are sending about your data that was saved on Alonsal!\n\nWe noticed that you haven't interacted with us for a long time now...\nThat's why we are moving everyone the data related to you that we have collected for deletion!\n\nWe will be deleting everything <t:auto_repl:R> ( <t:auto_repl:f> ).\nIf you want to stop this action, you need to use some command with us first time is up!\n\nWe hope you had a good time with Alonsal, thank you for your trust and see you next time!! ;D",
                 "aviso_remocao_exclusao": "Hello! Due to your interaction with me, I have removed you from the data exclusion list!\n\nIf this was an error, please use the command </data:1018609879470047260> again on a server.",
@@ -513,7 +513,7 @@
                 "desc_denuncias": "Users can use Alonsal to make complaints within the server itself.",
                 "desc_reports": "Reports of misbehaving users will be sent on the server.",
                 "desc_logger": "Server event log.",
-                "desc_spam": "Messages considered spam will be deleted and the author will be punished.",
+                "desc_spam": "Automatically delete messages considered spam.",
                 "desc_misterioso": "A mystery wax will be included here soon",
                 "desc_autoban": "Automatically ban a reported user and delete their posts.",
                 "desc_network": "Networking synchronizes moderation actions between servers that are part of a group.",
@@ -1458,7 +1458,7 @@
         "events": {
             "ban": {
                 "falta_permissao": "<@auto_repl>'s punishment was not applied because the moderator who created the warn does not have permissions to `Ban members` or the hierarchy of the user who was warned is higher than that of the moderator!",
-                "sem_permissao_ban": "I cannot ban the member <@auto_repl> due to lack of permissions, the server warns are set to `Ban Member`, however I cannot ban a user without this permission granted!\nThe warn system will not work without this permission .",
+                "sem_permissao_ban": "I cannot ban the member <@auto_repl> due to lack of permissions, the server warns are set to `Ban Member`, however I cannot ban a user without this permission granted!\nThe warn system will not work without this permission.",
                 "sem_permissao_ban_hierarquia": "I can't ban the member <@auto_repl> because he has more hierarchy than me!\nThe warn system will not work if my position is below the warned user in the server's job list!"
             },
             "kick": {
@@ -1643,6 +1643,12 @@
                 "desativado": "Disabled"
             },
             "times": {
+                "5": "5 seconds",
+                "10": "10 seconds",
+                "15": "15 seconds",
+                "30": "30 seconds",
+                "45": "45 seconds",
+                "60": "1 minute",
                 "3600": "1 hour",
                 "7200": "2 hours",
                 "21700": "6 hours",
@@ -1658,7 +1664,9 @@
                 "2419200": "1 month",
                 "7257600": "3 months",
                 "14515200": "6 months",
-                "29030400": "1 year"
+                "29030400": "1 year",
+                "58060800": "2 years",
+                "87091200": "3 years"
             },
             "network": {
                 "0": "No deletion",

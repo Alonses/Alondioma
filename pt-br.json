@@ -496,7 +496,7 @@
                 "network_unico": "Faz networking com um outro servidor",
                 "outros_servidores": "Outros servidores no link",
                 "sem_servidores": "`Sem servidores`",
-                "resumo_dados": "Este é um resumo dos dados que salvei sobre o servidor e seus membros\nauto_repl\n**Recursos do servidor:**",
+                "resumo_dados": "Este é um resumo dos dados que salvei sobre o servidor, seus membros e recursos configurados.\nauto_repl\n**Recursos do servidor:**",
                 "tempo_exclusao": "Tempo de exclusão",
                 "descricao_quebra_link": "**Ao confirmar a quebra de link este servidor será removido do grupo do network**.\n\nOs servidores listados abaixo continuarão com o link ativo, porém este servidor não fará mais parte do mesmo.",
                 "excluir_apos": "Excluir dados após `auto_repl dias`\n",
@@ -1665,6 +1665,12 @@
                 "desativado": "Desativado"
             },
             "times": {
+                "5": "5 segundos",
+                "10": "10 segundos",
+                "15": "15 segundos",
+                "30": "30 segundos",
+                "45": "45 segundos",
+                "60": "1 minuto",
                 "3600": "1 hora",
                 "7200": "2 horas",
                 "21700": "6 horas",
