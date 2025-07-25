@@ -502,7 +502,8 @@
                 "excluir_apos": "Excluir dados após `auto_repl dias`\n",
                 "resumo_expandido": "```fix\nO Alonsal irá se desconectar de forma automática do servidor após o tempo de inatividade definido abaixo ser alcançado. Para isto, nenhum comando do Alonsal deve ser utilizado e nenhuma interação automática, como strikes do anti-spam, advertências temporárias expirando e movimentações do network que o servidor faz parte devem acontecer no período selecionado.\n--------------------------\nAo ser removido do servidor, o Alonsal irá desativar a maioria dos recursos listados abaixo.\n\nA exclusão dos dados será realizada após um período de forma automática, você pode definir esse tempo através dos botões abaixo.\n\nAo apagar os dados, o Alonsal irá remover completamente os dados salvos do servidor, incluindo o registro de ranking, a redefinição da origem de reportes e links suspeitos e remoção de advertências salvas.```auto_repl\n**Recursos do servidor:**",
                 "remover_canal": "Remover canal",
-                "remover_cargo": "Remover cargo"
+                "remover_cargo": "Remover cargo",
+                "saida_automatica": "Sair automaticamente do servidor após**:\n`auto_repl` de inatividade do bot no servidor"
             },
             "telemetria": {
                 "titulo": "> Dados de telemetria",
@@ -549,7 +550,10 @@
                 "desc_servidores_conhecidos": "Sincroniza os servidores conhecidos quando você entra ou sai.",
                 "cargos_temporarios": "Cargos temporários",
                 "desc_cargos_temporarios": "Defina cargos temporários aos membros do servidor.",
-                "excluir_banidos": "Excluir mensagens de membros banidos pelo AutoBan:"
+                "excluir_banidos": "Excluir mensagens de membros banidos pelo AutoBan:",
+                "rankeamento": "Rankeamento",
+                "desc_guild_ranking": "Membros do servidor podem ganhar XP ao interagir com o bot e enviar mensagens.",
+                "desc_voice_channels": "Membros podem criar canais de voz dinâmicos ao se conectarem em um canal específico."
             }
         },
         "mode": {
@@ -575,7 +579,13 @@
                 "apagado_2": "mensagem` foi removida",
                 "purge_user": "As mensagens dos últimos 20 minutos de <@auto_repl> estão sendo apagadas!",
                 "purge_error": "Não foi possível excluir as mensagens desse usuário, talvez ele tenha fixado uma mensagem, ou essas mensagens sejam muito antigas!",
-                "error": "Não foi possível executar este comando, pois há mensagens fixadas ou muito antigas, por favor, diminua a quantidade e tente novamente"
+                "error": "Não foi possível executar este comando, pois há mensagens fixadas ou muito antigas, por favor, diminua a quantidade e tente novamente",
+                "error_1": "Houve um erro ao tentar excluir as mensagens.",
+                "marcacao_bot": "Use este comando através de uma mensagem que eu enviei!",
+                "chat_vazio": "Esse chat já está vazio!",
+                "erro_msgs_diretas": "Houve um erro ao procurar esse canal de mensagens diretas.",
+                "erro_cache_msgs": "Houve um erro ao procurar você pelo meu cache de mensagens diretas.",
+                "mensagens_deletadas": "`auto_repl mensagens` foram removidas com sucesso!"
             },
             "anuncio": {
                 "permissao": "Você não pode usar este comando, pois não pode `gerenciar os canais` do servidor!",
@@ -1145,6 +1155,15 @@
                 "rodape_spam": "Cargo temporário atribuído por meio do sistema Anti-Spam no auto_repl° Strike",
                 "aplicado_spam": "auto_repl recebeu um cargo temporário neste servidor devido a spam.auto_repl",
                 "descricao_painel": "```🧻 Como funciona:\n\nOs cargos temporários podem ser vinculados aos membros do servidor.\n\nEsses cargos permanecerão com o membro até que um moderador o remova, ou que o tempo definido expire.\n\n💡 | Você pode configurar um canal de avisos para que eu envie notificações para os membros que ganharem um cargo temporário abaixo!```"
+            },
+            "voice_channels": {
+                "title_voice": "Faladeros dinâmicos",
+                "faladeros": "Faladeros",
+                "canal_ativador": "Canal ativador",
+                "mover_membros": "Mover membros",
+                "descricao_modulo": "```🧻 | Este módulo concede a possibilidade dos membros do servidor criarem canais de voz dinâmicos ao ingressarem em um canal especifico.\n\nDefina um canal de voz padrão e uma categoria fixa, após isso, todos os membros que conectarem a este canal serão transferidos para um novo canal criado no mesmo instante na categoria selecionada, cada membro diferente que conectar no canal ativador gerará um canal separado.\n\nQuando todos os membros saírem de seus canais, os mesmos serão excluído após o tempo de expiração definido abaixo.```",
+                "canal_errado_voz": "O canal definido precisa ser do tipo voz, tente novamente",
+                "canal_errado_categoria": "O canal definido precisa ser do tipo categoria, tente novamente"
             }
         },
         "util": {
@@ -1613,6 +1632,7 @@
                 "escolher_tempo_remocao": "Defina o tempo para remoção",
                 "escolher_cor": "Escolha uma cor!",
                 "escolher_canal": "Escolha um canal de avisos!",
+                "escolher_canal_voz": "Escolha um canal de voz!",
                 "escolher_categoria": "Escolha uma categoria!",
                 "escolher_cargo": "Escolha um cargo!",
                 "escolher_idioma": "Escolha um idioma!",

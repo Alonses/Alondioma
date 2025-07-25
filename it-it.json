@@ -168,7 +168,7 @@
                 "rank_sv": "> Cassificazione di",
                 "rank_global": "> Classifica globale",
                 "rodape": "pagine, utilizzare il comando /rank page:<numero> per vedere altre pagine",
-                "paginas": "Informe um número menor para a página",
+                "paginas": "Inserisci un numero più piccolo per la pagina",
                 "nivel_descricao": "livello = esperienza / 1000",
                 "enceirados": "Ceratos",
                 "experiencia": "Esperienza",
@@ -447,7 +447,8 @@
                 "excluir_apos": "Elimina i dati dopo `auto_repl giorni`\n",
                 "resumo_expandido": "```fix\nUna volta rimosso dal server, Alonsal disabiliterà la maggior parte delle funzionalità elencate di seguito.\n\nL'eliminazione dei dati avverrà automaticamente dopo un periodo di tempo; puoi impostare questo intervallo di tempo utilizzando i pulsanti sottostanti.\n\nQuando elimini i dati, Alonsal rimuoverà completamente i dati salvati dal server, inclusa la registrazione della classifica, la ri-generazione di report e link sospetti e la rimozione degli avvisi salvati.```auto_repl\n**Funzionalità del server:**",
                 "remover_canal": "Rimuovi canale",
-                "remover_cargo": "Rimuovi ruolo"
+                "remover_cargo": "Rimuovi ruolo",
+                "saida_automatica": "Abbandona automaticamente il server dopo**:\n`auto_repl` di inattività del bot sul server"
             },
             "telemetria": {
                 "titulo": "> Dati di telemetria",
@@ -492,7 +493,10 @@
                 "desc_servidores_conhecidos": "Sincronizza i server noti quando ti unisci o ti allontani.",
                 "cargos_temporarios": "Ruoli temporanei",
                 "desc_cargos_temporarios": "Assegnare ruoli temporanei ai membri del server.",
-                "excluir_banidos": "Elimina i messaggi dei membri bannati da AutoBan:"
+                "excluir_banidos": "Elimina i messaggi dei membri bannati da AutoBan:",
+                "rankeamento": "Classifica",
+                "desc_guild_ranking": "I membri del server possono guadagnare punti esperienza interagendo con il bot e inviando messaggi.",
+                "desc_voice_channels": "I membri possono creare canali vocali dinamici accedendo a un canale specifico."
             }
         },
         "mode": {
@@ -516,7 +520,13 @@
                 "apagado_2": "messaggio` è stato rimosso",
                 "purge_user": "I messaggi di <@auto_repl> sono stati cancellati!",
                 "purge_error": "Non siamo riusciti a eliminare i messaggi di questo utente, forse ha bloccato un messaggio o questi messaggi sono troppo vecchi!",
-                "error": "Impossibile eseguire questo comando perché ci sono messaggi bloccati o troppo vecchi, riduci il numero e riprova"
+                "error": "Impossibile eseguire questo comando perché ci sono messaggi bloccati o troppo vecchi, riduci il numero e riprova",
+                "error_1": "Si è verificato un errore durante il tentativo di eliminare i messaggi.",
+                "marcacao_bot": "Utilizza questo comando tramite un messaggio che ti ho inviato!",
+                "chat_vazio": "Questa chat è già vuota!",
+                "erro_msgs_diretas": "Si è verificato un errore durante la ricerca di questo canale di messaggi diretti.",
+                "erro_cache_msgs": "Si è verificato un errore durante la ricerca del tuo nome nella cache dei miei messaggi diretti.",
+                "mensagens_deletadas": "`auto_repl messaggi` sono stati rimossi con successo!"
             },
             "anuncio": {
                 "permissao": "Non puoi usare questo comando in quanto non puoi `gestire i canali` dal server!",
@@ -1057,6 +1067,15 @@
                 "rodape_spam": "Ruolo temporaneo assegnato tramite sistema Anti-Spam nel auto_replth Strike",
                 "aplicado_spam": "auto_repl ha ricevuto un ruolo temporaneo su questo server a causa dello spam.auto_repl",
                 "descricao_painel": "```🧻 Come funziona:\n\nI ruoli temporanei possono essere collegati ai membri del server.\n\nQuesti ruoli rimarranno al membro finché un moderatore non li rimuoverà o finché non scadrà il tempo definito.\n\n💡 | Puoi impostare un canale di notifica in modo che io possa inviare notifiche ai membri che ottengono un ruolo temporaneo qui sotto!```"
+            },
+            "voice_channels": {
+                "title_voice": "Parlatori dinamici",
+                "faladeros": "Loquace",
+                "canal_ativador": "Canale attivatore",
+                "mover_membros": "Muovere gli arti",
+                "descricao_modulo": "```🧻 | Questo modulo offre ai membri del server la possibilità di creare canali vocali dinamici quando si uniscono a un canale specifico.\n\nImposta un canale vocale predefinito e una categoria fissa, dopodiché tutti i membri che si connettono a questo canale verranno trasferiti a un nuovo canale creato contemporaneamente nella categoria selezionata; ogni membro diverso che si connette al canale di attivazione genererà un canale separato.\n\nQuando tutti i membri abbandonano i loro canali, verranno eliminati dopo il tempo di scadenza definito di seguito.```",
+                "canal_errado_voz": "Il canale definito deve essere di tipo vocale. Riprova.",
+                "canal_errado_categoria": "Il canale definito deve essere di tipo categoria, riprova."
             }
         },
         "util": {
@@ -1549,6 +1568,7 @@
                 "escolher_tempo_remocao": "Imposta l'ora di rimozione",
                 "escolher_cor": "Scegli un colore!",
                 "escolher_canal": "Scegli un canale di annuncio!",
+                "escolher_canal_voz": "Scegli un canale vocale!",
                 "escolher_categoria": "Scegli una categoria!",
                 "escolher_cargo": "Scegli un ruolo!",
                 "escolher_idioma": "Scegli una lingua!",

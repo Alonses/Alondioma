@@ -482,7 +482,8 @@
                 "excluir_apos": "Delete data after `auto_repl days`\n",
                 "resumo_expandido": "```fix\nWhen removed from the server, Alonsal will disable most of the features listed below.\n\nData deletion will be performed after a period automatically, you can set this time using the buttons below.\n\nWhen deleting data, Alonsal will completely remove saved data from the server, including ranking registration, re-origination of suspicious reports and suspect links, and removal of saved warns.```auto_repl\n**Server features:**",
                 "remover_canal": "Remove channel",
-                "remover_cargo": "Remove role"
+                "remover_cargo": "Remove role",
+                "saida_automatica": "Automatically leave server after**:\n`auto_repl` bot inactivity on server"
             },
             "telemetria": {
                 "titulo": "> Telemetry data",
@@ -528,7 +529,10 @@
                 "desc_servidores_conhecidos": "Synchronizes known servers when you join or leave.",
                 "cargos_temporarios": "Temporary roles",
                 "desc_cargos_temporarios": "Assign temporary roles to server members.",
-                "excluir_banidos": "Delete messages from members banned by AutoBan:"
+                "excluir_banidos": "Delete messages from members banned by AutoBan:",
+                "rankeamento": "Ranking",
+                "desc_guild_ranking": "Server members can earn XP by interacting with the bot and sending messages.",
+                "desc_voice_channels": "Members can create dynamic voice channels by logging into a specific channel."
             }
         },
         "mode": {
@@ -553,7 +557,13 @@
                 "apagado_2": "message` has been removed",
                 "purge_user": "Messages from <@auto_repl> have been deleted!",
                 "purge_error": "We were unable to delete messages from this user, perhaps they pinned a message, or these messages are too old!",
-                "error": "Unable to run this command because there are pinned or too old messages, decrease the value and try again"
+                "error": "Unable to run this command because there are pinned or too old messages, decrease the value and try again",
+                "error_1": "There was an error trying to delete messages.",
+                "marcacao_bot": "Use this command through a message I sent!",
+                "chat_vazio": "This chat is already empty!",
+                "erro_msgs_diretas": "There was an error searching for this direct message channel.",
+                "erro_cache_msgs": "There was an error searching for you in my direct message cache.",
+                "mensagens_deletadas": "`auto_repl messages` were successfully removed!"
             },
             "anuncio": {
                 "permissao": "You cannot use this command as you cannot `manage channels` from the server!",
@@ -1098,6 +1108,15 @@
                 "rodape_spam": "Temporary position assigned through the Anti-Spam system at auto_replth Strike",
                 "aplicado_spam": "auto_repl received a temporary role on this server due to spam.auto_repl",
                 "descricao_painel": "```🧻 How it works:\n\nTemporary roles can be linked to server members.\n\nThese roles will remain with the member until a moderator removes them, or the defined time expires.\n\n💡 | You can set up a notification channel so I can send notifications to members who earn a temporary role below!```"
+            },
+            "voice_channels": {
+                "title_voice": "Dynamic talkers",
+                "faladeros": "Talkative",
+                "canal_ativador": "Activator channel",
+                "mover_membros": "Move members",
+                "descricao_modulo": "```🧻 | This module grants the possibility for server members to create dynamic voice channels when joining a specific channel.\n\nSet a default voice channel and a fixed category, after that, all members who connect to this channel will be transferred to a new channel created at the same time in the selected category, each different member who connects to the activating channel will generate a separate channel.\n\nWhen all members leave their channels, they will be deleted after the expiration time defined below.```",
+                "canal_errado_voz": "The defined channel must be voice type, please try again.",
+                "canal_errado_categoria": "The defined channel must be of category type, please try again."
             }
         },
         "util": {
@@ -1591,6 +1610,7 @@
                 "escolher_tempo_remocao": "Set the time for removal",
                 "escolher_cor": "Choose a color!",
                 "escolher_canal": "Choose an announcement channel!",
+                "escolher_canal_voz": "Choose a voice channel!",
                 "escolher_categoria": "Choose a category!",
                 "escolher_cargo": "Choose a role!",
                 "escolher_idioma": "Choose a language!",
