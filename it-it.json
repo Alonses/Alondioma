@@ -318,6 +318,7 @@
                 "menus_abertos": "Menu utilizzati",
                 "historico": "dalla storia",
                 "comandos_usados": "Comandi utilizzati",
+                "canais_gerados": "Canali generati",
                 "spams_freados": "Spam neutralizzato",
                 "ultimo_comando": "Ultimo comando",
                 "ativo_desde": "Attivo dal"
@@ -799,7 +800,10 @@
                 "apelido": "Il soprannome",
                 "apelido_novo": "Nuovo",
                 "apelido_antigo": "Vecchio",
-                "sem_permissoes_vinculadas": "Non ci sono autorizzazioni diverse collegate a questo ruolo"
+                "sem_permissoes_vinculadas": "Non ci sono autorizzazioni diverse collegate a questo ruolo",
+                "canal_dinamico": "Canale dinamico.",
+                "canal_dinamico_remocao": "Verrà eliminato dopo auto_repl secondi, quando diventerà vuoto.",
+                "canal_dinamico_excluido": "È stato eliminato dopo auto_repl secondi di inutilizzo."
             },
             "death_note": {
                 "ativado": "Il Death Note è stato attivato! auto_repl\n\nTutti gli eventi relativi alle penalità dei membri del server che non sono originati da `📡 Networking` verranno inviati al canale indicato!\n\nPuoi definire quali eventi saranno ascoltati dal Death Note tramite </panel guild: 1107163338930126869> nella scheda `📜 Registro eventi > Death Note`",

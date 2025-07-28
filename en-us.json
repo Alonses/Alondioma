@@ -349,12 +349,13 @@
                 "miscelania": "Miscellaneous",
                 "jogos_free": "Free games",
                 "modulos_ativos": "Active modules",
-                "de_hoje": "Of today",
+                "de_hoje": "From today",
                 "botoes_clicados": "Buttons clicked",
                 "xp_gerado": "XP generated",
                 "menus_abertos": "Menus used",
                 "historico": "From history",
                 "comandos_usados": "Commands used",
+                "canais_gerados": "Generated channels",
                 "spams_freados": "Neutralized spams",
                 "ultimo_comando": "Last command",
                 "ativo_desde": "Active since"
@@ -836,7 +837,10 @@
                 "apelido": "The nickname",
                 "apelido_novo": "New",
                 "apelido_antigo": "Old",
-                "sem_permissoes_vinculadas": "There are no different permissions linked to this role"
+                "sem_permissoes_vinculadas": "There are no different permissions linked to this role",
+                "canal_dinamico": "Dynamic channel.",
+                "canal_dinamico_remocao": "It will be deleted after auto_repl seconds when it becomes empty.",
+                "canal_dinamico_excluido": "It was deleted after auto_repl seconds of being empty."
             },
             "death_note": {
                 "ativado": "The Death note has been activated! auto_repl\n\nAll events related to server member penalties that are not originated by `📡 Networking` will be sent in the mentioned channel!\n\nYou can define which events will be heard by Death note through the </panel guild: 1107163338930126869> inside the `📜 Event log > Death note` tab",
@@ -1112,7 +1116,7 @@
             "voice_channels": {
                 "title_voice": "Dynamic talkers",
                 "faladeros": "Talkative",
-                "canal_ativador": "Activator channel",
+                "canal_ativador": "Trigger channel",
                 "mover_membros": "Move members",
                 "descricao_modulo": "```🧻 | This module grants the possibility for server members to create dynamic voice channels when joining a specific channel.\n\nSet a default voice channel and a fixed category, after that, all members who connect to this channel will be transferred to a new channel created at the same time in the selected category, each different member who connects to the activating channel will generate a separate channel.\n\nWhen all members leave their channels, they will be deleted after the expiration time defined below.```",
                 "canal_errado_voz": "The defined channel must be voice type, please try again.",
@@ -1526,7 +1530,7 @@
                 "central_exclusao": "Exclusion center",
                 "telemetria": "Telemetry",
                 "ouvir_tambem": "Also listen",
-                "atualizar": "To update",
+                "atualizar": "Update",
                 "escolher_cor": "Choose another color",
                 "remover_reporte": "Remove report",
                 "ver_usuarios": "See other users",
