@@ -74,7 +74,6 @@
             "jaja": "Devido ao excesso de delícia esse comando só pode ser usado num knel NSFW",
             "rank": {
                 "rank_sv": "> Rank de",
-                "rank_rc": "> Ranking de comandos",
                 "rank_global": "> Ranking Global",
                 "rodape": "páginas, escreva /rank pagina:<num> ai pra navegar entre elas",
                 "paginas": "Não tem tudo isso de páginas",
@@ -82,14 +81,8 @@
                 "enceirados": "Enceirados",
                 "experiencia": "Experiência",
                 "nivel": "Nível",
-                "comandos": "Comandos",
-                "ativacoes": "Ativações",
-                "historia_alonsal": "Esses aqui foram ativos desde meu nascimento",
-                "aliase_faltando": "aliase faltando",
-                "nome_faltando": "Nome faltando",
                 "error_1": "Bota um número menor ae meo",
-                "error_2": "Tô sem dados pra criar o rank agora, tenta dnv dps",
-                "error_rc": "Tô com preguiça pra carregar o rank de comandos agr, tenta dnv dps"
+                "error_2": "Tô sem dados pra criar o rank agora, tenta dnv dps"
             },
             "badges": {
                 "error_1": "Ocê não tem nenhuma badge pra ver!",
@@ -157,18 +150,11 @@
                 "sucesso_1": "Mensagem enviada pra o Alonsal :incoming_envelope:\nDespachei mais informações no seu privado :mailbox_with_mail:",
                 "conteudo_1": "Sua mensagem foi entregue pro/a"
             },
-            "help": {
-                "comandos": "Veja os comandos, me convide ou acesse meu server pelo site!"
-            },
             "apoio": {
                 "escaneie": "Scaneie ou clique no Titulo acima pra doar\ne ajudar a manter e desenvolver o Alonsal!\nToda ajuda é ultra Bem-Vinda ;D"
             },
             "hub": {
                 "info": "Entre agora mesmo no meu server, seja pra tirar dúvidas, ou usar os comandos, o server é liberado pra todos!"
-            },
-            "help_comando": {
-                "traducao_faltando": "Esse comando ainda não possui uma tradução pra o seu idioma, guentaí!",
-                "nao_encontrado": "Não encontrei nenhum comando com esse nome ou aliase, xora"
             },
             "data": {
                 "ranking_guilds": "Ranking nos seguintes serveres",

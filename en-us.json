@@ -1120,7 +1120,16 @@
                 "mover_membros": "Move members",
                 "descricao_modulo": "```🧻 | This module grants the possibility for server members to create dynamic voice channels when joining a specific channel.\n\nSet a default voice channel and a fixed category, after that, all members who connect to this channel will be transferred to a new channel created at the same time in the selected category, each different member who connects to the activating channel will generate a separate channel.\n\nWhen all members leave their channels, they will be deleted after the expiration time defined below.```",
                 "canal_errado_voz": "The defined channel must be voice type, please try again.",
-                "canal_errado_categoria": "The defined channel must be of category type, please try again."
+                "canal_errado_categoria": "The defined channel must be of category type, please try again.",
+                "titulo_controle_canal": "> auto_repl channel controls",
+                "painel_configuracao_canal": "Use the buttons below to configure this channel!",
+                "limite_usuarios": "User limit",
+                "usuarios": "users",
+                "limite_usuario_atualizado": "User limit updated!",
+                "canal_desconhecido": "This channel no longer exists!",
+                "usuario_proibido": "You cannot change the settings of this channel!",
+                "erro_alterar_limite": "Unable to set a user limit for this channel...",
+                "dados_perdidos": "The data from the previous message was lost, a new card was sent in the chat for configuration."
             }
         },
         "util": {
@@ -1598,7 +1607,9 @@
                 "ver_network": "See network",
                 "filtro_acoes": "Moderation filter",
                 "local_atual": "Use current location",
-                "atribuir": "Assign"
+                "atribuir": "Assign",
+                "limitar_canal": "User limit",
+                "remover_limite": "Remove user limit"
             },
             "menus": {
                 "escolher_esse": "Choose this",
@@ -1608,6 +1619,7 @@
                 "escolha_mais_detalhes": "Choose to see more information",
                 "escolher_frase": "Choose one of the phrases below!",
                 "selecionar_profile": "Select one below to get started",
+                "escolher_limite_usuarios": "Set the user limit!",
                 "escolher_timeout": "Set the default mute duration!",
                 "escolher_expiracao": "Set the deletion time",
                 "escolher_inatividade": "Set downtime",

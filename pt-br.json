@@ -1167,7 +1167,16 @@
                 "mover_membros": "Mover membros",
                 "descricao_modulo": "```🧻 | Este módulo concede a possibilidade dos membros do servidor criarem canais de voz dinâmicos ao ingressarem em um canal especifico.\n\nDefina um canal de voz padrão e uma categoria fixa, após isso, todos os membros que conectarem a este canal serão transferidos para um novo canal criado no mesmo instante na categoria selecionada, cada membro diferente que conectar no canal ativador gerará um canal separado.\n\nQuando todos os membros saírem de seus canais, os mesmos serão excluído após o tempo de expiração definido abaixo.```",
                 "canal_errado_voz": "O canal definido precisa ser do tipo voz, tente novamente",
-                "canal_errado_categoria": "O canal definido precisa ser do tipo categoria, tente novamente"
+                "canal_errado_categoria": "O canal definido precisa ser do tipo categoria, tente novamente",
+                "titulo_controle_canal": "> Controles do canal auto_repl",
+                "painel_configuracao_canal": "Utilize os botões abaixo para configurar este canal!",
+                "limite_usuarios": "Limite de usuários",
+                "usuarios": "usuários",
+                "limite_usuario_atualizado": "Limite de usuários atualizado!",
+                "canal_desconhecido": "Este canal não existe mais!",
+                "usuario_proibido": "Você não pode alterar as configurações deste canal!",
+                "erro_alterar_limite": "Não foi possível definir um limite de membros para este canal...",
+                "dados_perdidos": "Os dados da mensagem anterior foram perdidos, um novo card foi enviado no chat para configuração."
             }
         },
         "util": {
@@ -1620,7 +1629,9 @@
                 "ver_network": "Ver network",
                 "filtro_acoes": "Filtro de ações",
                 "local_atual": "Usar local atual",
-                "atribuir": "Atribuir"
+                "atribuir": "Atribuir",
+                "limitar_canal": "Limitar canal",
+                "remover_limite": "Remover limite"
             },
             "menus": {
                 "escolher_esse": "Escolher esse",
@@ -1631,6 +1642,7 @@
                 "escolher_frase": "Escolha uma das frases abaixo!",
                 "selecionar_profile": "Selecione um abaixo para começar",
                 "escolher_timeout": "Defina o tempo padrão de mute!",
+                "escolher_limite_usuarios": "Defina o limite de usuários!",
                 "escolher_expiracao": "Defina o tempo de exclusão",
                 "escolher_inatividade": "Defina o tempo de inatividade",
                 "escolher_tempo_remocao": "Defina o tempo para remoção",
