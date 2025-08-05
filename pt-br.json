@@ -325,7 +325,9 @@
                 "tentativas": "Tentativas restantes:",
                 "acertou": "Você acertou! Parabéns!\nA palavra era",
                 "errou": "Você errou!\nA palava era",
-                "bufunfas": "Você ganhou `B$ 50` Bufunfas pelo acerto!"
+                "bufunfas": "Você ganhou `B$ 50` Bufunfas pelo acerto!",
+                "jogo_iniciado": "Um jogo novo foi iniciado! Escreva seus chutes no chat para tentar acertar a palavra!",
+                "sessao_andamento": "Já existe um jogo em andamento!"
             },
             "portal": {
                 "titulo": "> Coordenadas de portais",
@@ -1163,8 +1165,10 @@
             "voice_channels": {
                 "title_voice": "Faladeros dinâmicos",
                 "faladeros": "Faladeros",
-                "canal_ativador": "Canal ativador",
+                "canal_ativador": "Canal gatilho",
                 "mover_membros": "Mover membros",
+                "conectar_canal": "Conectar em canais",
+                "falar_canal": "Falar em canais",
                 "descricao_modulo": "```🧻 | Este módulo concede a possibilidade dos membros do servidor criarem canais de voz dinâmicos ao ingressarem em um canal especifico.\n\nDefina um canal de voz padrão e uma categoria fixa, após isso, todos os membros que conectarem a este canal serão transferidos para um novo canal criado no mesmo instante na categoria selecionada, cada membro diferente que conectar no canal ativador gerará um canal separado.\n\nQuando todos os membros saírem de seus canais, os mesmos serão excluído após o tempo de expiração definido abaixo.```",
                 "canal_errado_voz": "O canal definido precisa ser do tipo voz, tente novamente",
                 "canal_errado_categoria": "O canal definido precisa ser do tipo categoria, tente novamente",
@@ -1176,7 +1180,11 @@
                 "canal_desconhecido": "Este canal não existe mais!",
                 "usuario_proibido": "Você não pode alterar as configurações deste canal!",
                 "erro_alterar_limite": "Não foi possível definir um limite de membros para este canal...",
-                "dados_perdidos": "Os dados da mensagem anterior foram perdidos, um novo card foi enviado no chat para configuração."
+                "dados_perdidos": "Os dados da mensagem anterior foram perdidos, um novo card foi enviado no chat para configuração.",
+                "restricao_voz_ativa": "🔈 Restrição de voz ativada.",
+                "canal_privado": "```🐱‍👤 Este canal se encontra privado no momento```\n:passport_control: **Usuários com acesso ao canal:**\nauto_repl\n\n\n",
+                "converter_canal": "🎇 Promovendo canal de voz```fix\nAo confirmar o botão abaixo o canal onde você está conectado atualmente será convertido em um canal de voz dinâmico.\n\nCanais de voz dinâmicos possuem prazo de expiração e serão removidos da lista de canais do servidor assim que ficarem vazios.\n\n🕵️‍♂️ O dono do novo canal dinâmico será você e todos os controles do canal serão liberados assim que confirmado a atualização.```",
+                "falha_converter_canal": "Não foi possível converter o canal atual em um canal de voz dinâmico."
             }
         },
         "util": {
@@ -1631,7 +1639,12 @@
                 "local_atual": "Usar local atual",
                 "atribuir": "Atribuir",
                 "limitar_canal": "Limitar canal",
-                "remover_limite": "Remover limite"
+                "remover_limite": "Remover limite",
+                "privar_canal": "Privar canal",
+                "juntar_se": "Juntar-se",
+                "sair_da_sessao": "Sair da sessão",
+                "mute_popup": "Som ao mutar",
+                "converter_canal": "Converter canal"
             },
             "menus": {
                 "escolher_esse": "Escolher esse",
@@ -1648,8 +1661,10 @@
                 "escolher_tempo_remocao": "Defina o tempo para remoção",
                 "escolher_cor": "Escolha uma cor!",
                 "escolher_canal": "Escolha um canal de avisos!",
+                "escolher_canal_ativador": "Escolha um canal ativador!",
                 "escolher_canal_voz": "Escolha um canal de voz!",
                 "escolher_categoria": "Escolha uma categoria!",
+                "escolher_categoria_canais": "Escolha uma categoria para os canais!",
                 "escolher_cargo": "Escolha um cargo!",
                 "escolher_idioma": "Escolha um idioma!",
                 "escolher_eventos": "Escolha os eventos!",
