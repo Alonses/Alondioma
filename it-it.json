@@ -1581,7 +1581,9 @@
                 "juntar_se": "Giuntura",
                 "sair_da_sessao": "Partire",
                 "mute_popup": "Disattivazione audio",
-                "converter_canal": "Converti canale"
+                "converter_canal": "Converti canale",
+                "mutar": "Mutare",
+                "desmutar": "Attiva il suono"
             },
             "menus": {
                 "escolher_esse": "Scegli questo",

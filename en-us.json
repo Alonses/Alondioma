@@ -1638,7 +1638,9 @@
                 "juntar_se": "Join",
                 "sair_da_sessao": "Leave",
                 "mute_popup": "Sound on muting",
-                "converter_canal": "Convert channel"
+                "converter_canal": "Convert channel",
+                "mutar": "Mute",
+                "desmutar": "Unmute"
             },
             "menus": {
                 "escolher_esse": "Choose this",

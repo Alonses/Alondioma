@@ -1649,7 +1649,9 @@
                 "juntar_se": "Juntar-se",
                 "sair_da_sessao": "Sair da sessão",
                 "mute_popup": "Som ao mutar",
-                "converter_canal": "Converter canal"
+                "converter_canal": "Converter canal",
+                "mutar": "Mutar",
+                "desmutar": "Desmutar"
             },
             "menus": {
                 "escolher_esse": "Escolher esse",

@@ -1590,7 +1590,9 @@
                 "juntar_se": "Verbinden",
                 "sair_da_sessao": "Verlassen",
                 "mute_popup": "Ton stummschalten",
-                "converter_canal": "Kanal konvertieren"
+                "converter_canal": "Kanal konvertieren",
+                "mutar": "Mutieren",
+                "desmutar": "Ton aktivieren"
             },
             "menus": {
                 "escolher_esse": "Wählen Sie diese",
