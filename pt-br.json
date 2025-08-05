@@ -321,13 +321,18 @@
             "forca": {
                 "titulo": "> Jogo da forca :skull:",
                 "usado": "Letras já usadas",
+                "letras": "letras",
                 "comando": "Use </forca:1069762590294687905> com uma letra ou a palavra toda para tentar acertar!",
                 "tentativas": "Tentativas restantes:",
                 "acertou": "Você acertou! Parabéns!\nA palavra era",
                 "errou": "Você errou!\nA palava era",
                 "bufunfas": "Você ganhou `B$ 50` Bufunfas pelo acerto!",
                 "jogo_iniciado": "Um jogo novo foi iniciado! Escreva seus chutes no chat para tentar acertar a palavra!",
-                "sessao_andamento": "Já existe um jogo em andamento!"
+                "sessao_andamento": "Já existe um jogo em andamento!",
+                "sessao_desconhecida": "Ixi, essa sessão não existe mais... Mas você pode iniciar uma nova com o </forca:1069762590294687905>!",
+                "sem_permissao": "Não podemos iniciar esse jogo nesse canal! Para isso, preciso de permissões para Anexar arquivos, ver o canal e enviar mensagens.",
+                "jogadores_sessao": "auto_repl jogadores na sessão atual",
+                "jogador_sessao": "1 jogador na sessão atual"
             },
             "portal": {
                 "titulo": "> Coordenadas de portais",

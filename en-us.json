@@ -309,11 +309,18 @@
             "forca": {
                 "titulo": "> Hangman game :skull:",
                 "usado": "Lyrics already used",
+                "letras": "letters",
                 "comando": "Use </forca:1069762590294687905> with a letter or the whole word to try to get it right!",
                 "tentativas": "Attempts remaining:",
                 "acertou": "You're right! Congratulations!\nThe word was",
                 "errou": "You made a mistake!\nThe word was",
-                "bufunfas": "You won `B$ 50` Bufunfas for getting it right!"
+                "bufunfas": "You won `B$ 50` Bufunfas for getting it right!",
+                "jogo_iniciado": "A new game has started! Write your guesses in the chat to try to guess the word!",
+                "sessao_andamento": "There is already a game in progress!",
+                "sessao_desconhecida": "Oops, that session no longer exists... But you can start a new one with the </forca:1069762590294687905>!",
+                "sem_permissao": "We can't start this game on this channel! To do so, I need permissions to attach files, view the channel, and send messages..",
+                "jogadores_sessao": "auto_repl players in the current session",
+                "jogador_sessao": "1 player in current session"
             },
             "portal": {
                 "titulo": "> Portal coordinates",
@@ -894,7 +901,11 @@
                 "configurando_strikes": "> Configuring Strikes",
                 "sem_permissao_cargos": "A strike with roles was triggered, but I do not have permissions to `Manage roles`,\nThe role was not assigned to the member who received the strike. @here",
                 "cargo_acrescentado": "Linked role",
-                "spam_titulo_user": "Stop right there!",
+                "spam_titulo_user": [
+                    "Stop right there!",
+                    "Wait a minute!",
+                    "Stop stop stop stop"
+                ],
                 "expulsao_em": "Expulsion in",
                 "gerenciar_moderadores": "Manage moderators",
                 "posicionamento": "**Alonsal's role auto_repl° position**",
@@ -1031,7 +1042,11 @@
                 "titulo_atribuidor": "> Granting roles",
                 "descricao_atribuidor": "This is a role assigner, select the roles that will be automatically granted to the members of this server, and whether members who have certain roles will be ignored.",
                 "descricao_atribuidor_join": "This is a role assigner for members who join the server.\nSelect the roles you want to automatically assign to new members!",
-                "nenhum": "`Nenhum`",
+                "nenhum": [
+                    "`None`",
+                    "`Nothing`",
+                    "`Empty`"
+                ],
                 "cargo_selecionado": "Selected role",
                 "atribuir_selecionados": "Grant selected",
                 "ignorando_nenhum": "Ignoring none",
@@ -1121,6 +1136,8 @@
                 "faladeros": "Talkative",
                 "canal_ativador": "Trigger channel",
                 "mover_membros": "Move members",
+                "conectar_canal": "Connect to channels",
+                "falar_canal": "Speak in channels",
                 "descricao_modulo": "```🧻 | This module grants the possibility for server members to create dynamic voice channels when joining a specific channel.\n\nSet a default voice channel and a fixed category, after that, all members who connect to this channel will be transferred to a new channel created at the same time in the selected category, each different member who connects to the activating channel will generate a separate channel.\n\nWhen all members leave their channels, they will be deleted after the expiration time defined below.```",
                 "canal_errado_voz": "The defined channel must be voice type, please try again.",
                 "canal_errado_categoria": "The defined channel must be of category type, please try again.",
@@ -1132,7 +1149,11 @@
                 "canal_desconhecido": "This channel no longer exists!",
                 "usuario_proibido": "You cannot change the settings of this channel!",
                 "erro_alterar_limite": "Unable to set a user limit for this channel...",
-                "dados_perdidos": "The data from the previous message was lost, a new card was sent in the chat for configuration."
+                "dados_perdidos": "The data from the previous message was lost, a new card was sent in the chat for configuration.",
+                "restricao_voz_ativa": "🔈 Voice restriction activated.",
+                "canal_privado": "```🐱‍👤 This channel is currently private```\n:passport_control: **Users with access to the channel:**\nauto_repl\n\n\n",
+                "converter_canal": "🎇 Promoting voice channel```fix\nBy confirming the button below, the channel you are currently connected to will be converted to a dynamic voice channel.\n\nDynamic voice channels have an expiration date and will be removed from the server's channel list as soon as they become empty.\n\n🕵️‍♂️ The owner of the new dynamic channel will be you and all channel controls will be released as soon as the update is confirmed.```",
+                "falha_converter_canal": "Unable to convert current channel to a dynamic voice channel."
             }
         },
         "util": {
@@ -1612,7 +1633,12 @@
                 "local_atual": "Use current location",
                 "atribuir": "Assign",
                 "limitar_canal": "User limit",
-                "remover_limite": "Remove user limit"
+                "remover_limite": "Remove user limit",
+                "privar_canal": "Private channel",
+                "juntar_se": "Join",
+                "sair_da_sessao": "Leave",
+                "mute_popup": "Sound on muting",
+                "converter_canal": "Convert channel"
             },
             "menus": {
                 "escolher_esse": "Choose this",
@@ -1622,14 +1648,16 @@
                 "escolha_mais_detalhes": "Choose to see more information",
                 "escolher_frase": "Choose one of the phrases below!",
                 "selecionar_profile": "Select one below to get started",
-                "escolher_limite_usuarios": "Set the user limit!",
                 "escolher_timeout": "Set the default mute duration!",
+                "escolher_limite_usuarios": "Set the user limit!",
                 "escolher_expiracao": "Set the deletion time",
                 "escolher_inatividade": "Set downtime",
                 "escolher_tempo_remocao": "Set the time for removal",
                 "escolher_cor": "Choose a color!",
                 "escolher_canal": "Choose an announcement channel!",
+                "escolher_canal_ativador": "Choose a trigger channel!",
                 "escolher_canal_voz": "Choose a voice channel!",
+                "escolher_categoria_canais": "Choose a category for your channels!",
                 "escolher_categoria": "Choose a category!",
                 "escolher_cargo": "Choose a role!",
                 "escolher_idioma": "Choose a language!",

@@ -272,7 +272,13 @@
                 "tentativas": "Verbleibende Versuche:",
                 "acertou": "Sie haben Recht! Herzlichen Glückwunsch!\nDas Wort war",
                 "errou": "Du hast einen Fehler gemacht!\nDas Wort war",
-                "bufunfas": "Du hast Bufunfas im Wert von `B$ 50` gewonnen, weil du es richtig gemacht hast!"
+                "bufunfas": "Du hast Bufunfas im Wert von `B$ 50` gewonnen, weil du es richtig gemacht hast!",
+                "jogo_iniciado": "Ein neues Spiel hat begonnen! Schreibe deine Vermutungen in den Chat, um zu versuchen, das Wort zu erraten!",
+                "sessao_andamento": "Es läuft bereits ein Spiel!",
+                "sessao_desconhecida": "Ups, diese Sitzung existiert nicht mehr ... Aber Sie können mit </forca:1069762590294687905> eine neue starten!",
+                "sem_permissao": "Wir können dieses Spiel auf diesem Kanal nicht starten! Dazu benötige ich Berechtigungen zum Anhängen von Dateien, Anzeigen des Kanals und Senden von Nachrichten...",
+                "jogadores_sessao": "auto_repl Spieler in der aktuellen Sitzung",
+                "jogador_sessao": "1 Spieler in der aktuellen Sitzung"
             },
             "portal": {
                 "titulo": "> Portalkoordinaten",
@@ -1082,6 +1088,8 @@
                 "faladeros": "Gesprächig",
                 "canal_ativador": "Triggerkanal",
                 "mover_membros": "Mitglieder verschieben",
+                "conectar_canal": "Mit Kanälen verbinden",
+                "falar_canal": "Sprechen in Kanälen",
                 "descricao_modulo": "```🧻 | Dieses Modul ermöglicht es Servermitgliedern, dynamische Sprachkanäle zu erstellen, wenn sie einem bestimmten Kanal beitreten.\n\nLegen Sie einen Standard-Sprachkanal und eine feste Kategorie fest. Danach werden alle Mitglieder, die sich mit diesem Kanal verbinden, in einen neuen Kanal übertragen, der zur gleichen Zeit in der ausgewählten Kategorie erstellt wird. Jedes andere Mitglied, das sich mit dem aktivierenden Kanal verbindet, generiert einen separaten Kanal.\n\nWenn alle Mitglieder ihre Kanäle verlassen, werden sie nach der unten definierten Ablaufzeit gelöscht.```",
                 "canal_errado_voz": "Der definierte Kanal muss vom Typ Sprache sein. Bitte versuchen Sie es erneut.",
                 "canal_errado_categoria": "Der definierte Kanal muss vom Kategorietyp sein. Bitte versuchen Sie es erneut.",
@@ -1093,7 +1101,11 @@
                 "canal_desconhecido": "Dieser Kanal existiert nicht mehr!",
                 "usuario_proibido": "Sie können die Einstellungen dieses Kanals nicht ändern!",
                 "erro_alterar_limite": "Für diesen Kanal kann kein Benutzerlimit festgelegt werden ...",
-                "dados_perdidos": "Die Daten der vorherigen Nachricht gingen verloren, zur Konfiguration wurde im Chat eine neue Karte gesendet."
+                "dados_perdidos": "Die Daten der vorherigen Nachricht gingen verloren, zur Konfiguration wurde im Chat eine neue Karte gesendet.",
+                "restricao_voz_ativa": "🔈 Sprachbeschränkung aktiviert.",
+                "canal_privado": "```🐱‍👤 Dieser Kanal ist derzeit privat```\n:passport_control: **Benutzer mit Zugriff auf den Kanal:**\nauto_repl\n\n\n",
+                "converter_canal": "🎇 Sprachkanal bewerben```Fix\nDurch Bestätigen der Schaltfläche unten wird der Kanal, mit dem Sie aktuell verbunden sind, in einen dynamischen Sprachkanal umgewandelt.\n\nDynamische Sprachkanäle haben ein Ablaufdatum und werden aus der Kanalliste des Servers entfernt, sobald sie leer sind.\n\n🕵️‍♂️ Der Besitzer des neuen dynamischen Kanals sind Sie und alle Kanalkontrollen werden freigegeben, sobald das Update bestätigt ist.```",
+                "falha_converter_canal": "Der aktuelle Kanal kann nicht in einen dynamischen Sprachkanal umgewandelt werden.."
             }
         },
         "util": {
@@ -1573,7 +1585,12 @@
                 "local_atual": "Aktuellen Standort verwenden",
                 "atribuir": "Zuweisen",
                 "limitar_canal": "Benutzerlimit",
-                "remover_limite": "Benutzerlimit entfernen"
+                "remover_limite": "Benutzerlimit entfernen",
+                "privar_canal": "Privater Kanal",
+                "juntar_se": "Verbinden",
+                "sair_da_sessao": "Verlassen",
+                "mute_popup": "Ton stummschalten",
+                "converter_canal": "Kanal konvertieren"
             },
             "menus": {
                 "escolher_esse": "Wählen Sie diese",
@@ -1583,14 +1600,16 @@
                 "escolha_mais_detalhes": "Wählen Sie, um weitere Informationen anzuzeigen",
                 "escolher_frase": "Wählen Sie einen der folgenden Sätze!",
                 "selecionar_profile": "Wählen Sie unten eine aus, um zu beginnen",
-                "escolher_limite_usuarios": "Legen Sie das Benutzerlimit fest!",
                 "escolher_timeout": "Legen Sie die Standard-Stummschaltzeit fest!",
+                "escolher_limite_usuarios": "Legen Sie das Benutzerlimit fest!",
                 "escolher_expiracao": "Löschzeitpunkt festlegen",
                 "escolher_inatividade": "Ausfallzeit festlegen",
                 "escolher_tempo_remocao": "Stellen Sie die Zeit für die Entfernung ein",
                 "escolher_cor": "Wähle eine Farbe!",
                 "escolher_canal": "Wählen Sie einen Werbekanal!",
+                "escolher_canal_ativador": "Wählen Sie einen Triggerkanal!",
                 "escolher_canal_voz": "Wählen Sie einen Sprachkanal!",
+                "escolher_categoria_canais": "Wählen Sie eine Kategorie für Ihre Kanäle!",
                 "escolher_categoria": "Wähle eine Kategorie!",
                 "escolher_cargo": "Wähle eine Rolle!",
                 "escolher_idioma": "Wählen Sie eine Sprache!",

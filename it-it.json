@@ -1080,6 +1080,8 @@
                 "faladeros": "Loquace",
                 "canal_ativador": "Canale attivatore",
                 "mover_membros": "Muovere gli arti",
+                "conectar_canal": "Connettiti ai canali",
+                "falar_canal": "Parlare nei canali",
                 "descricao_modulo": "```🧻 | Questo modulo offre ai membri del server la possibilità di creare canali vocali dinamici quando si uniscono a un canale specifico.\n\nImposta un canale vocale predefinito e una categoria fissa, dopodiché tutti i membri che si connettono a questo canale verranno trasferiti a un nuovo canale creato contemporaneamente nella categoria selezionata; ogni membro diverso che si connette al canale di attivazione genererà un canale separato.\n\nQuando tutti i membri abbandonano i loro canali, verranno eliminati dopo il tempo di scadenza definito di seguito.```",
                 "canal_errado_voz": "Il canale definito deve essere di tipo vocale. Riprova.",
                 "canal_errado_categoria": "Il canale definito deve essere di tipo categoria, riprova.",
@@ -1091,7 +1093,11 @@
                 "canal_desconhecido": "Questo canale non esiste più!",
                 "usuario_proibido": "Non puoi modificare le impostazioni di questo canale!",
                 "erro_alterar_limite": "Impossibile impostare un limite di membri per questo canale...",
-                "dados_perdidos": "I dati del messaggio precedente sono andati persi, è stata inviata una nuova scheda nella chat per la configurazione."
+                "dados_perdidos": "I dati del messaggio precedente sono andati persi, è stata inviata una nuova scheda nella chat per la configurazione.",
+                "restricao_voz_ativa": "🔈 Limitazione vocale attivata.",
+                "canal_privado": "```🐱‍👤 Questo canale è attualmente privato```\n:passport control: **Utenti con accesso al canale:**\nauto_repl\n\n\n",
+                "converter_canal": "🎇 Promozione del canale vocale```fix\nConfermando il pulsante qui sotto, il canale a cui sei attualmente connesso verrà convertito in un canale vocale dinamico.\n\nI canali vocali dinamici hanno una data di scadenza e verranno rimossi dall'elenco dei canali del server non appena diventeranno vuoti.\n\n🕵️‍♂️ Il proprietario del nuovo canale dinamico sarai tu e tutti i controlli del canale verranno rilasciati non appena l'aggiornamento sarà confermato.```",
+                "falha_converter_canal": "Impossibile convertire il canale corrente in un canale vocale dinamico."
             }
         },
         "util": {
@@ -1570,7 +1576,12 @@
                 "local_atual": "Utilizza la posizione attuale",
                 "atribuir": "Attribuire",
                 "limitar_canal": "Limita il canale",
-                "remover_limite": "Rimuovi limite"
+                "remover_limite": "Rimuovi limite",
+                "privar_canal": "Canale privato",
+                "juntar_se": "Giuntura",
+                "sair_da_sessao": "Partire",
+                "mute_popup": "Disattivazione audio",
+                "converter_canal": "Converti canale"
             },
             "menus": {
                 "escolher_esse": "Scegli questo",
@@ -1587,7 +1598,9 @@
                 "escolher_tempo_remocao": "Imposta l'ora di rimozione",
                 "escolher_cor": "Scegli un colore!",
                 "escolher_canal": "Scegli un canale di annuncio!",
+                "escolher_canal_ativador": "Scegli un canale di attivazione!",
                 "escolher_canal_voz": "Scegli un canale vocale!",
+                "escolher_categoria_canais": "Scegli una categoria per i tuoi canali!",
                 "escolher_categoria": "Scegli una categoria!",
                 "escolher_cargo": "Scegli un ruolo!",
                 "escolher_idioma": "Scegli una lingua!",
