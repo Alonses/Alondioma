@@ -1103,7 +1103,7 @@
                 "erro_alterar_limite": "Für diesen Kanal kann kein Benutzerlimit festgelegt werden ...",
                 "dados_perdidos": "Die Daten der vorherigen Nachricht gingen verloren, zur Konfiguration wurde im Chat eine neue Karte gesendet.",
                 "restricao_voz_ativa": "🔈 Sprachbeschränkung aktiviert.",
-                "canal_privado": "```🐱‍👤 Dieser Kanal ist derzeit privat```\n:passport_control: **Benutzer mit Zugriff auf den Kanal:**\nauto_repl\n\n\n",
+                "canal_privado": "```🐱‍👤 Dieser Kanal ist derzeit privat```\n:passport_control: **Benutzer mit Zugriff auf den Kanal:**\nauto_repl\n\n",
                 "converter_canal": "🎇 Sprachkanal bewerben```Fix\nDurch Bestätigen der Schaltfläche unten wird der Kanal, mit dem Sie aktuell verbunden sind, in einen dynamischen Sprachkanal umgewandelt.\n\nDynamische Sprachkanäle haben ein Ablaufdatum und werden aus der Kanalliste des Servers entfernt, sobald sie leer sind.\n\n🕵️‍♂️ Der Besitzer des neuen dynamischen Kanals sind Sie und alle Kanalkontrollen werden freigegeben, sobald das Update bestätigt ist.```",
                 "falha_converter_canal": "Der aktuelle Kanal kann nicht in einen dynamischen Sprachkanal umgewandelt werden.."
             }
@@ -1587,6 +1587,7 @@
                 "limitar_canal": "Benutzerlimit",
                 "remover_limite": "Benutzerlimit entfernen",
                 "privar_canal": "Privater Kanal",
+                "tornar_publico": "Öffentlicher Kanal",
                 "juntar_se": "Verbinden",
                 "sair_da_sessao": "Verlassen",
                 "mute_popup": "Ton stummschalten",

@@ -1095,7 +1095,7 @@
                 "erro_alterar_limite": "Impossibile impostare un limite di membri per questo canale...",
                 "dados_perdidos": "I dati del messaggio precedente sono andati persi, è stata inviata una nuova scheda nella chat per la configurazione.",
                 "restricao_voz_ativa": "🔈 Limitazione vocale attivata.",
-                "canal_privado": "```🐱‍👤 Questo canale è attualmente privato```\n:passport control: **Utenti con accesso al canale:**\nauto_repl\n\n\n",
+                "canal_privado": "```🐱‍👤 Questo canale è attualmente privato```\n:passport control: **Utenti con accesso al canale:**\nauto_repl\n\n",
                 "converter_canal": "🎇 Promozione del canale vocale```fix\nConfermando il pulsante qui sotto, il canale a cui sei attualmente connesso verrà convertito in un canale vocale dinamico.\n\nI canali vocali dinamici hanno una data di scadenza e verranno rimossi dall'elenco dei canali del server non appena diventeranno vuoti.\n\n🕵️‍♂️ Il proprietario del nuovo canale dinamico sarai tu e tutti i controlli del canale verranno rilasciati non appena l'aggiornamento sarà confermato.```",
                 "falha_converter_canal": "Impossibile convertire il canale corrente in un canale vocale dinamico."
             }
@@ -1578,6 +1578,7 @@
                 "limitar_canal": "Limita il canale",
                 "remover_limite": "Rimuovi limite",
                 "privar_canal": "Canale privato",
+                "tornar_publico": "Canale pubblico",
                 "juntar_se": "Giuntura",
                 "sair_da_sessao": "Partire",
                 "mute_popup": "Disattivazione audio",
