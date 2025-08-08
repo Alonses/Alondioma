@@ -1189,7 +1189,10 @@
                 "restricao_voz_ativa": "🔈 Restrição de voz ativada.",
                 "canal_privado": "```🐱‍👤 Este canal se encontra privado no momento```\n:passport_control: **Usuários com acesso ao canal:**\nauto_repl\n\n",
                 "converter_canal": "🎇 Promovendo canal de voz```fix\nAo confirmar o botão abaixo o canal onde você está conectado atualmente será convertido em um canal de voz dinâmico.\n\nCanais de voz dinâmicos possuem prazo de expiração e serão removidos da lista de canais do servidor assim que ficarem vazios.\n\n🕵️‍♂️ O dono do novo canal dinâmico será você e todos os controles do canal serão liberados assim que confirmado a atualização.```",
-                "falha_converter_canal": "Não foi possível converter o canal atual em um canal de voz dinâmico."
+                "falha_converter_canal": "Não foi possível converter o canal atual em um canal de voz dinâmico.",
+                "canal_publico": "O canal virou público novamente.\nTodos os usuários podem ver ele agora.",
+                "canal_mutado": "Todos os membros do canal foram mutados.",
+                "canal_desmutado": "Todos os membros do canal agora estão liberados para falar."
             }
         },
         "util": {
