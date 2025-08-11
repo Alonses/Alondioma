@@ -897,7 +897,7 @@
                 "falta_permissoes_4": "@here\nNão foi possível banir o usuário auto_repl devido a falta de permissões\nGaranta que eu tenha a permissão `Banir membros` e que meu cargo esteja acima dos demais cargos na lista de cargos, para que eu possa previnir spam's indesejados.",
                 "strikes": "📜 Strikes",
                 "punicoes_niveis": "Punições por níveis",
-                "descricao_funcionamento": "🧻 Como funciona:\n\nO Anti-spam checa por mensagens estranhas que são enviadas no servidor, caso uma atividade suspeita seja detectada. Eu irá classificar como Spam e aplicar penalidades ao membro que gerou essa estranheza, removendo as mensagens consideradas malíciosas em sequência.",
+                "descricao_funcionamento": "🧻 Como funciona:\n\nO Anti-spam checa por mensagens estranhas que são enviadas no servidor, caso uma atividade suspeita seja detectada. Eu irei classificar como Spam e aplicar penalidades ao membro que gerou essa estranheza, removendo as mensagens consideradas malíciosas em sequência.",
                 "strikes_ativo": "\n\n⚾ | Os strikes estão ativos nesse servidor.",
                 "strikes_desativado": "\n\n🔇 | Os strikes estão desativados neste servidor.\nAtive ele para poder utilizar penalidades customizadas!",
                 "moderadores_ativo": "\n\n💂‍♂️ | O gerenciamento de moderadores está ativo neste servidor! Moderadores que fizerem spam serão penalizados também.",
