@@ -917,10 +917,10 @@
                 "cargo_permissao": "Não é possível definir um cargo através dos strikes sem a permissão de \"Gerenciar cargos\" concedida.",
                 "sem_tempo_definido": "Sem tempo definido",
                 "descricao_edicao_strike": "```💂‍♂️ Defina regras para esse strike, membros que forem identificados como causadores de spam no servidor receberão o que estiver definido por aqui!```",
-                "verificando_strike": "> Verificando strike",
+                "verificando_strike": "> 🔎 Verificando strike",
                 "strikes_registrados": "Esse usuário recebeu strikes neste servidor, o próximo strike que receber pode resultar em uma nova penalidade!",
                 "descricao_configuracao_strike": "Selecione um strike abaixo para ter acesso a customizações!\n\nCada Strike concedido pode aplicar efeitos distintos nos membros do servidor.\n\nPor padrão, os strikes são concedidos de forma automática aos membros que realizam Spam no servidor. Crie vários strikes para personalizar, ou deixe apenas um, a escolha é sua!",
-                "configurando_strikes": "> Configurando Strikes",
+                "configurando_strikes": "> 🛑 Configurando Strikes",
                 "sem_permissao_cargos": "Um strike com cargos foi acionado, porém eu não possuo permissões para `Gerenciar cargos`,\no cargo não foi atribuído ao membro que recebeu o strike. @here",
                 "cargo_acrescentado": "Cargo vinculado",
                 "spam_titulo_user": [
@@ -936,7 +936,8 @@
                 "permissoes_anti_spam": "Para utilizar o Anti-spam, o Alonsal deve ser capaz de Castigar membros e Gerenciar mensagens.",
                 "tipo_varredura": "Estilo de varredura",
                 "apenas_links": "🔗 Considerar apenas mensagens com links",
-                "qualquer_entrada": "🌟 Considerar todas as mensagens"
+                "qualquer_entrada": "🌟 Considerar todas as mensagens",
+                "indice_matriz": "\n\n```🐱‍👤 Há um strike configurado para banir membros antes do último strike, strikes posteriores destacados em vermelho podem ser editados, porém não terão efeito prático caso um membro ultrapasse um Strike que cause expulsão ou banimento e retorne caso venha a ser desbanido no futuro.```"
             },
             "warn": {
                 "advertencias": "Advertências",
@@ -1192,7 +1193,8 @@
                 "falha_converter_canal": "Não foi possível converter o canal atual em um canal de voz dinâmico.",
                 "canal_publico": "O canal virou público novamente.\nTodos os usuários podem ver ele agora.",
                 "canal_mutado": "Todos os membros do canal foram mutados.",
-                "canal_desmutado": "Todos os membros do canal agora estão liberados para falar."
+                "canal_desmutado": "Todos os membros do canal agora estão liberados para falar.",
+                "aviso_exclusao": "Este canal será excluído <t:auto_repl:R>"
             }
         },
         "util": {

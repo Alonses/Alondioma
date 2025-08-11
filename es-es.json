@@ -855,10 +855,10 @@
                 "cargo_permissao": "No es posible definir un rol a través de strikes sin el permiso \"Administrar roles\" otorgado.",
                 "sem_tempo_definido": "Sin tiempo definido",
                 "descricao_edicao_strike": "```💂‍♂️ ¡Defina reglas para esta huelga, los miembros que sean identificados como causantes de spam en el servidor recibirán lo que se defina aquí!```",
-                "verificando_strike": "> Ajuste de la huelga",
+                "verificando_strike": "> 🔎 Ajuste de la huelga",
                 "strikes_registrados": "¡Este usuario recibió strikes en este servidor, el próximo strike que reciba puede resultar en una nueva penalización!",
                 "descricao_configuracao_strike": "Selecciona un huelga a continuación para acceder a las personalizaciones. Cada huelga otorgado puede aplicar diferentes efectos a los miembros del servidor. Por defecto, las huelgas se otorgan automáticamente a los miembros que inundan el servidor. Crea varios huelgas para personalizarlos o deja solo uno. ¡Tú decides!",
-                "configurando_strikes": "> Configuración de huelgas",
+                "configurando_strikes": "> 🛑 Configuración de huelgas",
                 "sem_permissao_cargos": "Se activó una huelga con roles, pero no tengo permisos para `Administrar roles`,\nEl rol no fue asignado al miembro que recibió la huelga. @here",
                 "cargo_acrescentado": "Rol vinculado",
                 "spam_titulo_user": "¡Detente ahí!",
@@ -869,7 +869,8 @@
                 "permissoes_anti_spam": "Para utilizar Anti-spam, Alonsal debe poder Sancionar a miembros y Administrar mensajes.",
                 "tipo_varredura": "Estilo de barrido",
                 "apenas_links": "🔗 Sólo considere mensajes con enlaces",
-                "qualquer_entrada": "🌟 Considere todos los mensajes"
+                "qualquer_entrada": "🌟 Considere todos los mensajes",
+                "indice_matriz": "\n\n```🐱‍👤 Hay una huelga configurada para banear a miembros antes de la última huelga, las huelgas posteriores resaltadas en rojo se pueden editar, pero no tendrán ningún efecto práctico si un miembro excede una huelga que causa expulsión o destierro y regresa si se le desbloquea en el futuro.```"
             },
             "warn": {
                 "advertencias": "Advertencias",
@@ -1104,7 +1105,8 @@
                 "falha_converter_canal": "No se puede convertir el canal actual a un canal de voz dinámico.",
                 "canal_publico": "El canal se ha vuelto público nuevamente. Todos los usuarios pueden verlo ahora.",
                 "canal_mutado": "Todos los miembros del canal han sido silenciados.",
-                "canal_desmutado": "Todos los miembros del canal ahora son libres de hablar."
+                "canal_desmutado": "Todos los miembros del canal ahora son libres de hablar.",
+                "aviso_exclusao": "Este canal será eliminado <t:auto_repl:R>"
             }
         },
         "util": {

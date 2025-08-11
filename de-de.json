@@ -855,10 +855,10 @@
                 "cargo_permissao": "Es ist nicht möglich, eine Rolle durch Streiks zu definieren, ohne dass die Berechtigung \"Rollen verwalten\" erteilt wurde.",
                 "sem_tempo_definido": "Keine definierte Zeit",
                 "descricao_edicao_strike": "```💂‍♂️ Definieren Sie Regeln für diesen Strike. Mitglieder, die als Spam-Verursacher auf dem Server identifiziert werden, erhalten alles, was hier definiert ist!```",
-                "verificando_strike": "> Kontrollstreik",
+                "verificando_strike": "> 🔎 Kontrollstreik",
                 "strikes_registrados": "Dieser Benutzer hat auf diesem Server Verwarnungen erhalten. Die nächste Verwarnung kann zu einer neuen Strafe führen!",
                 "descricao_configuracao_strike": "Wähle unten einen Strike aus, um auf Anpassungen zuzugreifen!\n\nJeder gewährte Strike kann unterschiedliche Effekte auf die Servermitglieder haben.\n\nStandardmäßig werden Strikes automatisch an Mitglieder vergeben, die den Server spammen. Erstelle mehrere Strikes zur Anpassung oder belasse es bei nur einem – du hast die Wahl!",
-                "configurando_strikes": "> Konfigurieren von Streiks",
+                "configurando_strikes": "> 🛑 Konfigurieren von Streiks",
                 "sem_permissao_cargos": "Es wurde eine Verwarnung mit Rollen ausgelöst, aber ich habe keine Berechtigung zum `Verwalten von Rollen`.\nDie Rolle wurde dem Mitglied, das die Verwarnung erhalten hat, nicht zugewiesen. @here",
                 "cargo_acrescentado": "Verknüpfte Rolle",
                 "spam_titulo_user": "Bleiben Sie stehen!",
@@ -869,7 +869,8 @@
                 "permissoes_anti_spam": "Um Anti-Spam verwenden zu können, muss Alonsal in der Lage sein, Mitglieder zu bestrafen und Nachrichten zu verwalten.",
                 "tipo_varredura": "Sweep-Stil",
                 "apenas_links": "🔗 Nur Nachrichten mit Links berücksichtigen",
-                "qualquer_entrada": "🌟 Alle Nachrichten berücksichtigen"
+                "qualquer_entrada": "🌟 Alle Nachrichten berücksichtigen",
+                "indice_matriz": "\n\n```🐱‍👤 Es gibt einen Strike, der so konfiguriert ist, dass Mitglieder vor dem letzten Strike gesperrt werden. Nachfolgende Strikes, die rot hervorgehoben sind, können bearbeitet werden, haben aber keine praktische Auswirkung, wenn ein Mitglied einen Strike überschreitet, der zum Ausschluss oder zur Verbannung führt, und kehrt zurück, wenn sein Bann in der Zukunft aufgehoben wird.```"
             },
             "warn": {
                 "advertencias": "Warnungen",
@@ -1108,7 +1109,8 @@
                 "falha_converter_canal": "Der aktuelle Kanal kann nicht in einen dynamischen Sprachkanal umgewandelt werden.",
                 "canal_publico": "Der Kanal ist wieder öffentlich.\nAlle Benutzer können ihn jetzt anzeigen.",
                 "canal_mutado": "Alle Kanalmitglieder wurden stummgeschaltet.",
-                "canal_desmutado": "Alle Kanalmitglieder können jetzt frei sprechen."
+                "canal_desmutado": "Alle Kanalmitglieder können jetzt frei sprechen.",
+                "aviso_exclusao": "Dieser Kanal wird gelöscht <t:auto_repl:R>"
             }
         },
         "util": {

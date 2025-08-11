@@ -895,10 +895,10 @@
                 "cargo_permissao": "It is not possible to define a role through strikes without the \"Manage roles\" permission granted.",
                 "sem_tempo_definido": "No defined time",
                 "descricao_edicao_strike": "```💂‍♂️ Define rules for this strike, members who are identified as causing spam on the server will receive whatever is defined here!```",
-                "verificando_strike": "> Checking strike",
+                "verificando_strike": "> 🔎 Checking strike",
                 "strikes_registrados": "This user received strikes on this server, the next strike they receive may result in a new penalty!",
                 "descricao_configuracao_strike": "Select a strike below to access customizations!\n\nEach Strike granted can apply different effects to the server's members.\n\nBy default, strikes are automatically granted to members who spam the server. Create several strikes to customize, or leave just one, the choice is yours!",
-                "configurando_strikes": "> Configuring Strikes",
+                "configurando_strikes": "> 🛑 Configuring Strikes",
                 "sem_permissao_cargos": "A strike with roles was triggered, but I do not have permissions to `Manage roles`,\nThe role was not assigned to the member who received the strike. @here",
                 "cargo_acrescentado": "Linked role",
                 "spam_titulo_user": [
@@ -913,7 +913,8 @@
                 "permissoes_anti_spam": "To use Anti-spam, Alonsal must be able to Punish members and Manage messages.",
                 "tipo_varredura": "Sweep Style",
                 "apenas_links": "🔗 Only consider messages with links",
-                "qualquer_entrada": "🌟 Consider all messages"
+                "qualquer_entrada": "🌟 Consider all messages",
+                "indice_matriz": "\n\n```🐱‍👤 There is a strike configured to ban members before the last strike, subsequent strikes highlighted in red can be edited, but will have no practical effect if a member exceeds a Strike that causes expulsion or banishment and returns if he is unbanned in the future.```"
             },
             "warn": {
                 "advertencias": "Warns",
@@ -1156,7 +1157,8 @@
                 "falha_converter_canal": "Unable to convert current channel to a dynamic voice channel.",
                 "canal_publico": "The channel has become public again.\nAll users can view it now.",
                 "canal_mutado": "All channel members have been muted.",
-                "canal_desmutado": "All channel members are now free to speak."
+                "canal_desmutado": "All channel members are now free to speak.",
+                "aviso_exclusao": "This channel will be deleted <t:auto_repl:R>"
             }
         },
         "util": {

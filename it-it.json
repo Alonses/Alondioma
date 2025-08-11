@@ -847,10 +847,10 @@
                 "cargo_permissao": "Non è possibile definire un ruolo tramite avvertimenti senza l'autorizzazione \"Gestisci ruoli\" concessa.",
                 "sem_tempo_definido": "Nessun tempo definito",
                 "descricao_edicao_strike": "```💂‍♂️ Definisci le regole per questo sciopero: i membri identificati come causa di spam sul server riceveranno tutto ciò che è definito qui!```",
-                "verificando_strike": "> Controllo dello sciopero",
+                "verificando_strike": "> 🔎 Controllo dello sciopero",
                 "strikes_registrados": "Questo utente ha ricevuto degli avvertimenti su questo server, il prossimo avvertimento che riceverà potrebbe comportare una nuova penalità!",
                 "descricao_configuracao_strike": "Seleziona un avvertimento qui sotto per accedere alle personalizzazioni!\n\nOgni avvertimento concesso può avere effetti diversi sui membri del server.\n\nPer impostazione predefinita, gli avvertimenti vengono assegnati automaticamente ai membri che inviano spam sul server. Crea diversi avvertimenti da personalizzare o lasciane solo uno: la scelta è tua!",
-                "configurando_strikes": "> Configurazione degli scioperi",
+                "configurando_strikes": "> 🛑 Configurazione degli scioperi",
                 "sem_permissao_cargos": "È stato attivato un avvertimento con i ruoli, ma non ho le autorizzazioni per `Gestire i ruoli`,\nIl ruolo non è stato assegnato al membro che ha ricevuto l'avvertimento. @here",
                 "cargo_acrescentado": "Ruolo collegato",
                 "spam_titulo_user": "Fermati subito!",
@@ -861,7 +861,8 @@
                 "permissoes_anti_spam": "Per utilizzare l'antispam, Alonsal deve poter punire i membri e gestire i messaggi.",
                 "tipo_varredura": "Stile spazzato",
                 "apenas_links": "🔗 Considera solo i messaggi con link",
-                "qualquer_entrada": "🌟 Considera tutti i messaggi"
+                "qualquer_entrada": "🌟 Considera tutti i messaggi",
+                "indice_matriz": "\n\n```🐱‍👤 È stato configurato uno strike per bannare i membri prima dell'ultimo strike; gli strike successivi evidenziati in rosso possono essere modificati, ma non avranno alcun effetto pratico se un membro supera uno strike che causa l'espulsione o il ban e ritorna se viene sbloccato in futuro.```"
             },
             "warn": {
                 "advertencias": "Avvertenze",
@@ -1100,7 +1101,8 @@
                 "falha_converter_canal": "Impossibile convertire il canale corrente in un canale vocale dinamico.",
                 "canal_publico": "Il canale è tornato pubblico.\nOra tutti gli utenti possono visualizzarlo.",
                 "canal_mutado": "Tutti i membri del canale sono stati disattivati.",
-                "canal_desmutado": "Ora tutti gli iscritti al canale sono liberi di esprimersi."
+                "canal_desmutado": "Ora tutti gli iscritti al canale sono liberi di esprimersi.",
+                "aviso_exclusao": "Questo canale verrà eliminato <t:auto_repl:R>"
             }
         },
         "util": {
