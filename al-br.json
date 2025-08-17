@@ -21,10 +21,7 @@
             },
             "color": {
                 "cor_ativa": "Ocê já tá usando essa cor!",
-                "titulo": "> Esse é um Embed demonstração :tada:",
-                "descricao": "Alguma descrição aleatória por aqui...",
                 "footer": "Seus embeds irão aparecer assim e ao verem seu perfil com o Alonsal",
-                "rand_color": "Suas cores serão aleatórias a cada comando",
                 "cor_att": "Cor alterada! Agora seus _epic embed fails_ serão na nova cor",
                 "sem_money": "Ocê n tem `B$ auto_repl` Bufunfas pra ter essa cor!"
             },

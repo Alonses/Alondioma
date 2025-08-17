@@ -44,7 +44,7 @@
             "color": {
                 "cor_ativa": "Você já está usando essa cor!",
                 "titulo": "> Este é um Embed demonstração :tada:",
-                "descricao": "Alguma descrição aleatória por aqui...",
+                "descricao": "```Alguma descrição aleatória por aqui...```",
                 "footer": "Seus embeds irão aparecer assim e ao verem seu perfil com o Alonsal",
                 "rand_color": "Suas cores serão aleatórias a cada comando",
                 "cor_att": "Cor atualizada! Agora seus embeds serão na cor selecionada",
@@ -294,7 +294,7 @@
                 "pisoes": "Pisões",
                 "concluidos": "Concluídos",
                 "progresso": "Progresso",
-                "recorde": "🏆 Recorde de auto_repl pontos numa partida!\n🏃 auto_repl km's percorridos no total"
+                "recorde": "```🏆 Recorde de auto_repl pontos numa partida!\n🏃 auto_repl km's percorridos no total```"
             },
             "cara": {
                 "acertou": "Você acertou! Parabéns!",
@@ -923,6 +923,13 @@
                 "configurando_strikes": "> 🛑 Configurando Strikes",
                 "sem_permissao_cargos": "Um strike com cargos foi acionado, porém eu não possuo permissões para `Gerenciar cargos`,\no cargo não foi atribuído ao membro que recebeu o strike. @here",
                 "cargo_acrescentado": "Cargo vinculado",
+                "verificando_servidor": "> Verificando servidor",
+                "ver_canal": "Ver canal",
+                "enviar_mensagens": "Enviar mensagens",
+                "ver_historico": "Ver histórico de mensagens",
+                "descricao_canais_desconfigurados": "Abaixo estão listados os canais que possuem falta de permissões para que o Anti-spam possa funcionar corretamente, conceda essas permissões ao Alonsal para que não haja erros durante as ocorrências, caso ocorrerem.",
+                "sem_canais_desconfigurados": "```Não há canais no servidor com falta de permissões de leitura, envio de mensagens e acesso ao histórico de mensagens para o Alonsal.```",
+                "sem_categoria": "Sem categoria",
                 "spam_titulo_user": [
                     "Parado ai!",
                     "Espera ai!",
@@ -1657,7 +1664,8 @@
                 "mute_popup": "Som ao mutar",
                 "converter_canal": "Converter canal",
                 "mutar": "Mutar",
-                "desmutar": "Desmutar"
+                "desmutar": "Desmutar",
+                "verificar_servidor": "Verificar servidor"
             },
             "menus": {
                 "escolher_esse": "Escolher esse",

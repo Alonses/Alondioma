@@ -43,7 +43,7 @@
             "color": {
                 "cor_ativa": "¡Ya estás usando este color!",
                 "titulo": "> Esta es una demostración incrustada :tada:",
-                "descricao": "Alguna descripción aleatoria por aquí...",
+                "descricao": "```Alguna descripción aleatoria por aquí...```",
                 "footer": "Tus incrustaciones aparecerán así y cuando vean tu perfil con Alonsal",
                 "rand_color": "Tus colores serán aleatorios con cada comando.",
                 "cor_att": "¡Color actualizado! Ahora sus embeds estarán en el color seleccionado",
@@ -252,7 +252,7 @@
                 "aquatico": "Acuático",
                 "concluidos": "Terminado",
                 "progresso": "Progreso",
-                "recorde": "🏆 ¡Récord de auto_repl puntos en un partido!\n🏃 auto_repl km recorridos en total"
+                "recorde": "```🏆 ¡Récord de auto_repl puntos en un partido!\n🏃 auto_repl km recorridos en total```"
             },
             "cara": {
                 "acertou": "¡Eres afortunado!",
@@ -861,6 +861,12 @@
                 "configurando_strikes": "> 🛑 Configuración de huelgas",
                 "sem_permissao_cargos": "Se activó una huelga con roles, pero no tengo permisos para `Administrar roles`,\nEl rol no fue asignado al miembro que recibió la huelga. @here",
                 "cargo_acrescentado": "Rol vinculado",
+                "verificando_servidor": "> Comprobando el servidor",
+                "enviar_mensagens": "Enviar mensajes",
+                "ver_historico": "Ver historial de mensajes",
+                "descricao_canais_desconfigurados": "A continuación se listan los canales que carecen de permisos para que Anti-spam funcione correctamente, otorga estos permisos a Alonsal para que no haya errores durante las ocurrencias, si es que ocurren.",
+                "sem_canais_desconfigurados": "```No hay canales en el servidor que carezcan de permisos de lectura, envío e historial de mensajes para Alonsal.```",
+                "sem_categoria": "Sin categorizar",
                 "spam_titulo_user": "¡Detente ahí!",
                 "expulsao_em": "Expulsión en",
                 "gerenciar_moderadores": "Administrar moderadores",
@@ -1538,7 +1544,8 @@
                 "mute_popup": "Sonido al silenciar",
                 "converter_canal": "Convertir canal",
                 "mutar": "Silencio",
-                "desmutar": "Habilitar sonido"
+                "desmutar": "Habilitar sonido",
+                "verificar_servidor": "Comprobar servidor"
             },
             "menus": {
                 "escolher_esse": "Elige esto",

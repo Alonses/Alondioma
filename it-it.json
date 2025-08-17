@@ -43,7 +43,7 @@
             "color": {
                 "cor_ativa": "Stai già usando questo colore!",
                 "titulo": "> Questa è una dimostrazione di incorporazione :tada:",
-                "descricao": "Qualche descrizione casuale qui intorno...",
+                "descricao": "```Qualche descrizione casuale qui intorno...```",
                 "footer": "I tuoi incorporamenti appariranno in questo modo e quando vedranno il tuo profilo con Alonsal",
                 "rand_color": "I tuoi colori saranno casuali su ogni comando",
                 "cor_att": "Colore aggiornato! I tuoi incorporamenti saranno ora nel colore selezionato",
@@ -241,7 +241,7 @@
                 "pisoes": "Bonus",
                 "concluidos": "Completato",
                 "progresso": "Progresso",
-                "recorde": "🏆 Hai ottenuto auto_repl punti in una partita!\n🏃 auto_repl km percorsi in totale"
+                "recorde": "```🏆 Hai ottenuto auto_repl punti in una partita!\n🏃 auto_repl km percorsi in totale```"
             },
             "cara": {
                 "acertou": "Hai ragione! Congratulazioni!",
@@ -853,6 +853,13 @@
                 "configurando_strikes": "> 🛑 Configurazione degli scioperi",
                 "sem_permissao_cargos": "È stato attivato un avvertimento con i ruoli, ma non ho le autorizzazioni per `Gestire i ruoli`,\nIl ruolo non è stato assegnato al membro che ha ricevuto l'avvertimento. @here",
                 "cargo_acrescentado": "Ruolo collegato",
+                "verificando_servidor": "> Controllo del server",
+                "ver_canal": "Guarda il canale",
+                "enviar_mensagens": "Invia messaggi",
+                "ver_historico": "Visualizza la cronologia dei messaggi",
+                "descricao_canais_desconfigurados": "Di seguito sono elencati i canali che non dispongono delle autorizzazioni necessarie affinché l'Anti-spam funzioni correttamente. È necessario concedere queste autorizzazioni ad Alonsal in modo che non si verifichino errori durante gli eventi, se si verificano.",
+                "sem_canais_desconfigurados": "```Non ci sono canali sul server privi di autorizzazioni di lettura, invio e cronologia dei messaggi per Alonsal.```",
+                "sem_categoria": "Non categorizzato",
                 "spam_titulo_user": "Fermati subito!",
                 "expulsao_em": "Espulsione in",
                 "gerenciar_moderadores": "Gestisci moderatori",
@@ -1160,13 +1167,11 @@
                 "de": "in",
                 "na": "a",
                 "terra": "sul nostro pianeta",
-                "vento": "Vento",
                 "nuvens": "Nuvole",
                 "chuva": "Pioggia",
                 "direcao": "Direzione",
                 "velocidade": "Velocità",
                 "ceu_momento": "Paradiso adesso",
-                "temperatura": "Temperatura",
                 "por_sol": "Tramonto",
                 "nas_sol": "Alba",
                 "sensacao_termica": "Sensazione Ter.",
@@ -1188,7 +1193,6 @@
                 "outono": "Autunno",
                 "verao": "Estate",
                 "primavera": "Molla",
-                "inverno": "Inverno",
                 "comeco": "Iniziato il",
                 "termino": ", finisce in",
                 "termino_hoje": ", finisce oggi",
@@ -1205,7 +1209,6 @@
                 "versao_add": "Versione aggiunta",
                 "empilhavel": "Impilabile",
                 "renovavel": "Rinnovabile",
-                "nome_interno": "Nome interno",
                 "construcao": "Costruzione",
                 "pocoes": "Pozioni",
                 "efeitos_aplicados": "Effetti applicati",
@@ -1589,7 +1592,8 @@
                 "mute_popup": "Disattivazione audio",
                 "converter_canal": "Converti canale",
                 "mutar": "Mutare",
-                "desmutar": "Attiva il suono"
+                "desmutar": "Attiva il suono",
+                "verificar_servidor": "Controlla il server"
             },
             "menus": {
                 "escolher_esse": "Scegli questo",
