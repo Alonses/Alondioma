@@ -1165,7 +1165,16 @@
                 "canal_publico": "The channel has become public again.\nAll users can view it now.",
                 "canal_mutado": "All channel members have been muted.",
                 "canal_desmutado": "All channel members are now free to speak.",
-                "aviso_exclusao": "This channel will be deleted <t:auto_repl:R>"
+                "aviso_exclusao": "This channel will be deleted <t:auto_repl:R>",
+                "nicknames": {
+                    "all": "Use all",
+                    "nicknames": "Nicknames",
+                    "precious_gems": "Precious gems",
+                    "phonetic": "Phonetic Alphabet",
+                    "cities": "City names",
+                    "aliens": "Alien names",
+                    "villains": "Famous villains"
+                }
             }
         },
         "util": {
@@ -1784,6 +1793,52 @@
                     "https://i.imgflip.com/2b6cus.jpg"
                 ]
             }
+        },
+        "voice_channels": {
+            "precious_gems": [
+                "Diamond",
+                "Emerald",
+                "Ruby",
+                "Sapphire",
+                "Amethyst",
+                "Topaz",
+                "Pearl",
+                "Tourmaline",
+                "Garnet",
+                "Opal",
+                "Jade",
+                "Aquamarine",
+                "Zircon",
+                "Alexandrite",
+                "Tanzanite",
+                "Spinel",
+                "LapisLazuli",
+                "Citrine",
+                "Heliodor"
+            ],
+            "cities": [
+                "Bangor",
+                "BatonRouge",
+                "Chattanooga",
+                "Eau Claire",
+                "Eureka",
+                "Fargo",
+                "Fayetteville",
+                "Gainesville",
+                "Huntsville",
+                "Kalamazoo",
+                "Knoxville",
+                "Lafayette",
+                "Muskogee",
+                "Nacogdoches",
+                "Pensacola",
+                "Racine",
+                "Schenectady",
+                "Tuscaloosa",
+                "Walla Walla",
+                "Yakima",
+                "Zanesville"
+            ]
         }
     }
 }
