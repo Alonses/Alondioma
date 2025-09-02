@@ -1117,7 +1117,17 @@
                 "canal_publico": "Der Kanal ist wieder öffentlich.\nAlle Benutzer können ihn jetzt anzeigen.",
                 "canal_mutado": "Alle Kanalmitglieder wurden stummgeschaltet.",
                 "canal_desmutado": "Alle Kanalmitglieder können jetzt frei sprechen.",
-                "aviso_exclusao": "Dieser Kanal wird gelöscht <t:auto_repl:R>"
+                "aviso_exclusao": "Dieser Kanal wird gelöscht <t:auto_repl:R>",
+                "descricao_edicao_canais": "```fix\n👾 Die folgenden Regeln ändern die Art und Weise, wie dynamische Kanäle generiert werden.\n\nSie können Benutzerbeschränkungen festlegen, festlegen, ob Kanäle privat generiert werden (immer nur für den Eigentümer), Themen für Kanalnamen festlegen und ob Servereinstellungen die Einstellungen pro Benutzer überschreiben.```",
+                "temas_nomes": "Themen benennen",
+                "nicknames": {
+                    "all": "Verwenden Sie alle",
+                    "nicknames": "Spitznamen",
+                    "precious_gems": "Edelsteine",
+                    "cities": "Städtenamen",
+                    "aliens": "Außerirdische Namen",
+                    "villains": "Namen berühmter Bösewichte"
+                }
             }
         },
         "util": {
@@ -1638,7 +1648,8 @@
                 "escolher_link": "Wählen Sie einen verdächtigen Link!",
                 "escolher_frequencia": "Wählen Sie eine Frequenz!",
                 "escolher_tarefa": "Wähle eine Aufgabe!",
-                "escolher_tipo_dado": "Wählen Sie einen Datentyp!"
+                "escolher_tipo_dado": "Wählen Sie einen Datentyp!",
+                "escolher_nome_canais": "Wählen Sie das Namensthema!"
             },
             "events": {
                 "message_edit": "Nachrichten bearbeiten",
@@ -1729,6 +1740,29 @@
             "ativo": "✅ Aktiv",
             "desativado": "❌ Deaktiviert",
             "proxima": "Nächste"
+        },
+        "voice_channels": {
+            "precious_gems": [
+                "Alexandrit",
+                "Amethyst",
+                "Aquamarin",
+                "Citrin",
+                "Diamant",
+                "Granat",
+                "Heliodor",
+                "Jade",
+                "Lapislazuli",
+                "Opal",
+                "Perle",
+                "Rubin",
+                "Saphir",
+                "Smaragd",
+                "Spinelio",
+                "Tansanit",
+                "Topas",
+                "Turmalin",
+                "Zirkonia"
+            ]
         }
     }
 }

@@ -1712,7 +1712,8 @@
                 "escolher_link": "Escolha um link suspeito!",
                 "escolher_frequencia": "Escolha uma frequência!",
                 "escolher_tarefa": "Escolha uma tarefa!",
-                "escolher_tipo_dado": "Escolha um tipo de dado!"
+                "escolher_tipo_dado": "Escolha um tipo de dado!",
+                "escolher_nome_canais": "Escolha o tema de nomes!"
             },
             "events": {
                 "message_edit": "Edição de mensagens",

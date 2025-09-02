@@ -1112,7 +1112,17 @@
                 "canal_publico": "El canal se ha vuelto público nuevamente. Todos los usuarios pueden verlo ahora.",
                 "canal_mutado": "Todos los miembros del canal han sido silenciados.",
                 "canal_desmutado": "Todos los miembros del canal ahora son libres de hablar.",
-                "aviso_exclusao": "Este canal será eliminado <t:auto_repl:R>"
+                "aviso_exclusao": "Este canal será eliminado <t:auto_repl:R>",
+                "descricao_edicao_canais": "```fix\n👾 Las reglas a continuación cambian cómo se generan los canales dinámicos.\n\nPuede establecer límites de usuarios, si los canales se generan de forma privada (siempre solo para el propietario), temas de nombres de canales y si las preferencias del servidor anularán las configuraciones de cada usuario.```",
+                "temas_nomes": "Temas de nombres",
+                "nicknames": {
+                    "all": "Utilizar todo",
+                    "nicknames": "Apodos",
+                    "precious_gems": "Piedras preciosas",
+                    "cities": "Nombres de ciudades",
+                    "aliens": "Nombres extraterrestres",
+                    "villains": "Nombres de villanos famosos"
+                }
             }
         },
         "util": {
@@ -1575,7 +1585,8 @@
                 "escolher_link": "¡Elige un enlace sospechoso!",
                 "escolher_frequencia": "¡Elige una frecuencia!",
                 "escolher_tarefa": "¡Elige una tarea!",
-                "escolher_tipo_dado": "¡Elige un tipo de datos!"
+                "escolher_tipo_dado": "¡Elige un tipo de datos!",
+                "escolher_nome_canais": "¡Elige el tema del nombre!"
             },
             "events": {
                 "message_edit": "Mensajes editados",
@@ -1647,6 +1658,45 @@
             "ativo": "✅ Activo",
             "desativado": "❌ Desactivado",
             "proxima": "Próximo"
+        },
+        "voice_channels": {
+            "precious_gems": [
+                "Aguamarina",
+                "Alejandrita",
+                "Amatista",
+                "Circón",
+                "Citrino",
+                "Diamante",
+                "Esmeralda",
+                "Espinela",
+                "Granate",
+                "Heliodoro",
+                "Jade",
+                "Lapislázuli",
+                "Ópalo",
+                "Perla",
+                "Rubí",
+                "Tanzanita",
+                "Topacio",
+                "Turmalina",
+                "Zafiro"
+            ],
+            "cities": [
+                "Albarracín",
+                "Besalú",
+                "Cudillero",
+                "Cadaqués",
+                "Frigiliana",
+                "Guadix",
+                "Mogarraz",
+                "Morella",
+                "Peñíscola",
+                "Ronda",
+                "Sigüenza",
+                "Trujillo",
+                "Úbeda",
+                "Valldemossa"
+            ]
         }
     }
 }

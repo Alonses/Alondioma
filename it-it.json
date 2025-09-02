@@ -1109,7 +1109,18 @@
                 "canal_publico": "Il canale è tornato pubblico.\nOra tutti gli utenti possono visualizzarlo.",
                 "canal_mutado": "Tutti i membri del canale sono stati disattivati.",
                 "canal_desmutado": "Ora tutti gli iscritti al canale sono liberi di esprimersi.",
-                "aviso_exclusao": "Questo canale verrà eliminato <t:auto_repl:R>"
+                "aviso_exclusao": "Questo canale verrà eliminato <t:auto_repl:R>",
+                "descricao_edicao_canais": "```fix\n👾 Le regole seguenti modificano il modo in cui vengono generati i canali dinamici.\n\nÈ possibile impostare limiti utente, se i canali vengono generati privatamente (sempre solo per il proprietario), temi per i nomi dei canali e se le preferenze del server sovrascriveranno le impostazioni di ciascun utente.```",
+                "temas_nomes": "Temi dei nomi",
+                "nicknames": {
+                    "all": "Usa tutto",
+                    "nicknames": "Soprannomi",
+                    "precious_gems": "Pietre preziose",
+                    "phonetic": "Alfabeto fonetico",
+                    "cities": "Nomi di città",
+                    "aliens": "Nomi alieni",
+                    "villains": "Nomi di cattivi famosi"
+                }
             }
         },
         "util": {
@@ -1625,7 +1636,8 @@
                 "escolher_link": "Scegli un link sospetto!",
                 "escolher_frequencia": "Scegli una frequenza!",
                 "escolher_tarefa": "Scegli un compito!",
-                "escolher_tipo_dado": "Scegli un tipo di dati!"
+                "escolher_tipo_dado": "Scegli un tipo di dati!",
+                "escolher_nome_canais": "Scegli il tema del nome!"
             },
             "events": {
                 "message_edit": "Messaggi modificati",
@@ -1716,5 +1728,46 @@
             "desativado": "❌ Disabili",
             "proxima": "Prossimo"
         }
+    },
+    "voice_channels": {
+        "precious_gems": [
+            "Acquamarina",
+            "Alessandrite",
+            "Ametista",
+            "Citrino",
+            "Diamante",
+            "Eliodoro",
+            "Giada",
+            "Granato",
+            "Lapislazzuli",
+            "Opale",
+            "Perla",
+            "Rubino",
+            "Smeraldo",
+            "Spinello",
+            "Tanzanite",
+            "Topazio",
+            "Tormalina",
+            "Zaffiro",
+            "Zircone"
+        ],
+        "cities": [
+            "Alberobello",
+            "Atrani",
+            "Bellagio",
+            "Bosa",
+            "Camogli",
+            "Dolceacqua",
+            "Manarola",
+            "Matera",
+            "Ostuni",
+            "Positano",
+            "Riomaggiore",
+            "San Gimignano",
+            "Sperlonga",
+            "Taormina",
+            "Tropea",
+            "Vernazza"
+        ]
     }
 }

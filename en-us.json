@@ -1166,6 +1166,8 @@
                 "canal_mutado": "All channel members have been muted.",
                 "canal_desmutado": "All channel members are now free to speak.",
                 "aviso_exclusao": "This channel will be deleted <t:auto_repl:R>",
+                "descricao_edicao_canais": "```fix\n👾 The rules below change how dynamic channels are generated.\n\nYou can set user limits, whether channels are generated privately (always for the owner only), channel name themes, and whether server preferences will override each user's settings.```",
+                "temas_nomes": "Name themes",
                 "nicknames": {
                     "all": "Use all",
                     "nicknames": "Nicknames",
@@ -1695,7 +1697,8 @@
                 "escolher_link": "Choose a suspicious link!",
                 "escolher_frequencia": "Choose a frequency!",
                 "escolher_tarefa": "Choose a task!",
-                "escolher_tipo_dado": "Choose a data type!"
+                "escolher_tipo_dado": "Choose a data type!",
+                "escolher_nome_canais": "Choose the name theme!"
             },
             "events": {
                 "message_edit": "Edited messages",
