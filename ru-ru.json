@@ -470,6 +470,7 @@
                 "desc_badges_publicas": "Покажите свои значки другим пользователям.",
                 "desc_clima_resumido": "Возвращение /погода в краткой форме.",
                 "desc_tarefas_globais": "Просматривайте свои задачи и списки на любом сервере.",
+                "desc_user_faladeros": "Измените свои настройки при создании динамических голосовых каналов.",
                 "anuncio_games": "Объявление об играх",
                 "denuncias_server": "Жалобы на сервер",
                 "reports_externos": "Внешние отчеты",
@@ -1552,7 +1553,14 @@
                 "filtro_acoes": "Фильтр модерации",
                 "local_atual": "Используйте здесь",
                 "atribuir": "Назначить",
-                "verificar_servidor": "Проверить сервер"
+                "verificar_servidor": "Проверить сервер",
+                "sempre_privado": "Конфиденциально",
+                "canal_privado": "Частный канал",
+                "limpar_membros": "Удалить пользователей",
+                "customizacoes": "Настройки",
+                "nomes": "Имена",
+                "permitir_texto": "Разрешить текст",
+                "preferencias": "Настройки"
             },
             "menus": {
                 "escolher_esse": "Выберите это",
