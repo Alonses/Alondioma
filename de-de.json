@@ -327,7 +327,8 @@
                 "canais_gerados": "Generierte Kanäle",
                 "spams_freados": "Neutralisierter Spam",
                 "ultimo_comando": "Letzter Befehl",
-                "ativo_desde": "Aktiv seit"
+                "ativo_desde": "Aktiv seit",
+                "restricoes_ativas": "```⚠️ Derzeit gibt es Einschränkungen bei einigen Funktionen und die damit verbundenen Funktionen werden möglicherweise nicht richtig synchronisiert.\n\nDie betroffenen Funktionen sind unten aufgeführt:\nauto_repl```"
             },
             "mail": {
                 "aviso_1": "Ihre Nachricht enthält einen Fehler. Versuchen Sie es erneut.",
@@ -1125,8 +1126,8 @@
                 "confirmar_canal_publico": "Bestätigen Sie, dass der Kanal allen Servermitgliedern angezeigt wird?",
                 "confirmar_reset_users_server": "Bestätigen Sie die Entfernung aller auf diesem Server vorhandenen autorisierten Benutzer?",
                 "confirmar_reset_users_global": "Bestätigen Sie die Entfernung aller autorisierten Benutzer weltweit?",
-                "custom_on": "✅ Dieser Server ermöglicht persönliche Anpassungen.",
-                "custom_off": "❌ Dieser Server ignoriert persönliche Anpassungen.",
+                "custom_on": "```fix\n✅ Dieser Server ermöglicht persönliche Anpassungen.```",
+                "custom_off": "```fix\n❌ Dieser Server ignoriert persönliche Anpassungen.```",
                 "usuarios_autorizados": "Autorisierte Benutzer",
                 "nicknames": {
                     "all": "Verwenden Sie alle",

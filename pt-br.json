@@ -381,7 +381,8 @@
                 "canais_gerados": "Canais gerados",
                 "spams_freados": "Spams freados",
                 "ultimo_comando": "Último comando",
-                "ativo_desde": "Ativo desde"
+                "ativo_desde": "Ativo desde",
+                "restricoes_ativas": "```⚠️ Há restrições de funcionamento para alguns recursos ocorrendo atualmente, pode ser que funções relacionadas a eles não sincronizem como deveriam no momento.\n\nOs recursos afetados são os seguintes:\nauto_repl```"
             },
             "mail": {
                 "aviso_1": "Há um erro em sua mensagem, tente novamente.",
@@ -1210,8 +1211,8 @@
                 "confirmar_canal_publico": "Confirma a exibição do canal para todos os membros do servidor?",
                 "confirmar_reset_users_server": "Você confirma a remoção de todos os usuários autorizados presentes neste servidor?",
                 "confirmar_reset_users_global": "Você confirma a remoção de todos os usuários autorizados globalmente?",
-                "custom_on": "✅ Este servidor permite customizações pessoais.",
-                "custom_off": "❌ Este servidor ignora customizações pessoais.",
+                "custom_on": "```fix\n✅ Este servidor permite customizações pessoais.```",
+                "custom_off": "```fix\n❌ Este servidor ignora customizações pessoais.```",
                 "usuarios_autorizados": "Usuários autorizados",
                 "nicknames": {
                     "all": "Usar todos",
