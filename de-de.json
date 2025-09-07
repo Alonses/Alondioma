@@ -1626,13 +1626,14 @@
                 "mutar": "Mutieren",
                 "desmutar": "Ton aktivieren",
                 "verificar_servidor": "Server prüfen",
-                "sempre_privado": "Sempre privado",
-                "canal_privado": "Canal privado",
-                "limpar_membros": "Limpar membros",
-                "customizacoes": "Customizações",
-                "nomes": "Nomes",
-                "permitir_texto": "Permitir texto",
-                "preferencias": "Preferências"
+                "sempre_privado": "Immer privat",
+                "canal_privado": "Privater Kanal",
+                "global": "Allgemein",
+                "limpar_membros": "Benutzer löschen",
+                "customizacoes": "Anpassungen",
+                "nomes": "Namen",
+                "permitir_texto": "Text zulassen",
+                "preferencias": "Einstellungen"
             },
             "menus": {
                 "escolher_esse": "Wählen Sie diese",
