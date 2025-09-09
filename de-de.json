@@ -275,7 +275,7 @@
                 "bufunfas": "Du hast Bufunfas im Wert von `B$ 50` gewonnen, weil du es richtig gemacht hast!",
                 "jogo_iniciado": "Ein neues Spiel hat begonnen! Schreibe deine Vermutungen in den Chat, um zu versuchen, das Wort zu erraten!",
                 "sessao_andamento": "Es läuft bereits ein Spiel!",
-                "sessao_desconhecida": "Ups, diese Sitzung existiert nicht mehr ... Aber Sie können mit </forca:1069762590294687905> eine neue starten!",
+                "sessao_desconhecida": "Ups, diese Sitzung existiert nicht mehr... Aber Sie können mit </forca:1069762590294687905> eine neue starten!",
                 "sem_permissao": "Wir können dieses Spiel auf diesem Kanal nicht starten! Dazu benötige ich Berechtigungen zum Anhängen von Dateien, Anzeigen des Kanals und Senden von Nachrichten...",
                 "jogadores_sessao": "auto_repl Spieler in der aktuellen Sitzung",
                 "jogador_sessao": "1 Spieler in der aktuellen Sitzung"
@@ -851,7 +851,7 @@
                 "links_suspeitos": "Verdächtige Links",
                 "mencoes": "Erwähnungen",
                 "ping_capturado": "auto_repl wurde beim Spammen des Servers erwischt, er wurde nicht bestraft.",
-                "capturado": "Sie haben den Auto-Repl-Server mit Spam überflutet. Ihre letzten als Spam eingestuften Nachrichten wurden automatisch entfernt. Die folgenden Nachrichten gelten als Spam.:",
+                "capturado": "Sie haben den Auto-Repl-Server mit Spam überflutet. Ihre letzten als Spam eingestuften Nachrichten wurden automatisch entfernt. Die folgenden Nachrichten gelten als Spam:",
                 "cargo_vinculado": "Die oben genannte Rolle wird dem Benutzer zugewiesen, der diesen Strike erhält.",
                 "cargo_permissao": "Es ist nicht möglich, eine Rolle durch Streiks zu definieren, ohne dass die Berechtigung \"Rollen verwalten\" erteilt wurde.",
                 "sem_tempo_definido": "Keine definierte Zeit",
@@ -994,13 +994,13 @@
                 "operacao_cancelada_exclusao": "Der ausgewählte Link wurde nicht gelöscht, Vorgang abgebrochen.",
                 "sem_links": "Auf diesem Server wurden keine verdächtigen Links identifiziert und gemeldet!\nSie können mit dem Befehl </link add:1020561785620803674> einen verdächtigen Link hinzufügen, wenn Sie glauben, dass dieser bösartig ist!",
                 "navegando_titulo": "> Durchsuchen verdächtiger Links 🔗",
-                "descricao_links_suspeitos": "Verdächtige Links sind Links, die wir als bösartig betrachten und die Benutzern, die darauf klicken, Probleme bereiten können.\n\nIm Allgemeinen werden diese Links verwendet, um Personen mit schlechten Absichten Zugriff auf Ihr Discord-Konto oder andere Netzwerke zu gewähren, ohne die Zustimmung des Benutzers, der versehentlich darauf geklickt hat und glaubte, es handele sich um einen offiziellen Link.\n\nHier registrieren wir Links automatisch, wenn Spam auf dem Server erkannt wird und die Funktion `🔗 Verdächtige Links` aktiviert ist.\n\n🛑 Klicken Sie unter keinen Umständen auf einen der unten aufgeführten Links! Wir sind nicht verantwortlich für Maßnahmen, die Dritte möglicherweise an Ihrem Konto ergreifen, wenn Sie Opfer eines Hacks sind.",
+                "descricao_links_suspeitos": "Verdächtige Links sind Links, die wir als bösartig betrachten und die Benutzern, die darauf klicken, Probleme bereiten können.\n\nDiese Links werden normalerweise verwendet, um böswilligen Personen Zugriff auf Ihr Discord-Konto oder andere Netzwerke zu gewähren, ohne die Zustimmung des Benutzers, der versehentlich darauf geklickt hat, weil er glaubte, es handele sich um einen offiziellen Link.\n\nHier registrieren wir Links automatisch, wenn Spam auf dem Server erkannt wird. Aktivieren Sie die Funktion `🔗 Verdächtige Links`, um Benachrichtigungen zu erhalten, wenn Links dieses Typs gespeichert werden.\n\n🛑 Klicken Sie unter keinen Umständen auf einen der unten aufgeführten Links! Wir sind nicht verantwortlich für Maßnahmen, die Dritte möglicherweise an Ihrem Konto ergreifen, wenn Sie Opfer eines Hacks sind.",
                 "navegar_links": "Verwenden Sie das Menü unten, um durch verdächtige Server-Links zu navigieren!",
                 "registrado_em": "Registriert im",
                 "link_invalido": "Der eingegebene Text ist kein Link!\nEs ist nicht möglich, diesen Wert als verdächtigen Link zu speichern..",
                 "link_ja_registrado": "Der angegebene Link ist hier bereits registriert!\nEs ist nicht möglich, diesen Link erneut zu speichern.",
                 "registrando_link_titulo": "> Registrieren eines neuen verdächtigen Links :link:",
-                "registrando_link_descricao": "Sie melden, dass der folgende Link bösartig ist:```fix\nauto_repl```\nWenn Sie diesen Link an Alonsal melden, werden alle Nachrichten, die gesendet werden und diesen Link auf einem Server enthalten, auf dem die Funktion `🔗 Verdächtige Links` aktiviert ist...\n\nDies führte zur sofortigen Löschung der gesendeten Nachricht und zur Bestrafung des Autors basierend auf der Behandlung des `📛 Anti-Spam` des Servers.",
+                "registrando_link_descricao": "Sie melden, dass der folgende Link bösartig ist:```fix\nauto_repl```\nWenn Sie diesen Link an Alonsal melden, werden alle gesendeten Nachrichten, die diesen Link auf einem Server enthalten, gelöscht...\n\nFührt zur sofortigen Löschung der gesendeten Nachricht und einer Bestrafung des Autors basierend auf der `📛 Anti-Spam`-Verarbeitung des Servers.\n\nVerwenden Sie diesen Befehl im Bewusstsein, dass Sie möglicherweise bestraft werden, wenn Sie einen Link melden, der kein Risiko birgt, um andere Mitglieder zu „kontrollieren“.",
                 "rodape_opcoes": "Verwenden Sie die Schaltflächen unten, um Ihre Absicht zu bestätigen."
             },
             "roles": {
@@ -1753,10 +1753,10 @@
             },
             "invalid": {
                 "role": "Zurzeit können keine Rollen ausgewählt werden...",
-                "channel": "Zurzeit stehen keine Kanäle zur Auswahl ...",
-                "category": "Zurzeit stehen keine Kategorien zur Auswahl ...",
+                "channel": "Zurzeit stehen keine Kanäle zur Auswahl...",
+                "category": "Zurzeit stehen keine Kategorien zur Auswahl...",
                 "events": "Zur Zeit stehen keine Veranstaltungen zur Auswahl...",
-                "action": "Zurzeit stehen keine Aktionen zur Auswahl ...",
+                "action": "Zurzeit stehen keine Aktionen zur Auswahl...",
                 "description": "Ohne Beschreibung...",
                 "servidor_desconhecido": "Unbekannter Server"
             }

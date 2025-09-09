@@ -25,7 +25,9 @@
         "removidos": "apagados",
         "também": "tbm",
         "ativo": "ligado",
+        "ativados": "ligados",
         "usuário": "corno",
-        "idioma": "lingua"
+        "idioma": "lingua",
+        "idiomas": "linguas"
     }
 }
