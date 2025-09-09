@@ -444,7 +444,6 @@
                 "exclusao_dm_servidor": "Hello, look here again :v\nWe deleted your data on one of the servers where you were inactive...,\nNow, all your data linked to the auto_repl server is no longer with us and we will stop count your ranking on this server.",
                 "selects": {
                     "uni": {
-                        "1": "Locale",
                         "2": "External Links",
                         "3": "Embed colors",
                         "4": "Pinned badge",
@@ -456,6 +455,7 @@
                     },
                     "combo": {
                         "1": "External Links and Locale",
+                        "2": "Embeds and Badges",
                         "4": "Tasks and modules",
                         "6": "All data"
                     }
@@ -878,8 +878,8 @@
                 "falta_permissoes_4": "@here\nUnable to ban user auto_repl due to lack of permissions\nPlease ensure that I have the `Ban Members` permission and that my role is above the other roles in the role list, so that I can prevent unwanted spam.",
                 "punicoes_niveis": "Punishments by levels",
                 "descricao_funcionamento": "🧻 How it works:\n\nAnti-spam checks for strange messages that are sent on the server, if suspicious activity is detected. Alonsal will classify it as Spam and apply penalties to the member who generated this strangeness, removing messages considered malicious in sequence.",
-                "strikes_ativo": "\n\nThe strike system is active on this server! Recurrent anti-spam users will be punished in the order described below.\n\n1st Occurrence -> 2 hours\n2nd Occurrence -> 6 hours\n3rd Occurrence -> 2 days\n4th Occurrence -> 7 days\n5th Occurrence -> Expulsion",
-                "strikes_desativado": "```🔇 The strike system is deactivated on this server!\n\nActivate it to be able to define punishments with times that increase according to the number of infractions that spam promoters carry out on the server!```\n",
+                "strikes_ativo": "\n\n⚾ | Strikes are active on this server.",
+                "strikes_desativado": "\n\n🔇 | Strikes are disabled on this server.\nEnable it to use custom penalties!",
                 "moderadores_ativo": "\n\n💂‍♂️ | Moderator management is active on this server! Moderators who send spam will also be penalized.",
                 "moderadores_desativado": "\n\n💂‍♂️ | Moderator management is turned off on this server! Moderators who spam will not be penalized.",
                 "tempo": "Time",
@@ -1816,25 +1816,25 @@
         },
         "voice_channels": {
             "precious_gems": [
+                "Alexandrite",
+                "Amethyst",
+                "Aquamarine",
+                "Citrine",
                 "Diamond",
                 "Emerald",
+                "Garnet",
+                "Heliodor",
+                "Jade",
+                "Lapis-Lazuli",
+                "Opal",
+                "Pearl",
                 "Ruby",
                 "Sapphire",
-                "Amethyst",
-                "Topaz",
-                "Pearl",
-                "Tourmaline",
-                "Garnet",
-                "Opal",
-                "Jade",
-                "Aquamarine",
-                "Zircon",
-                "Alexandrite",
-                "Tanzanite",
                 "Spinel",
-                "LapisLazuli",
-                "Citrine",
-                "Heliodor"
+                "Tanzanite",
+                "Topaz",
+                "Tourmaline",
+                "Zircon"
             ],
             "cities": [
                 "Bangor",
