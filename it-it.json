@@ -1168,6 +1168,10 @@
                 "codificado": ":symbols: Il tuo messaggio codificato in geroglifici",
                 "decodificado": ":symbols: Il tuo messaggio decodificato dai geroglifici"
             },
+            "idioma_secundario": {
+                "code": "Il tuo messaggio è codificato in auto_repl",
+                "deco": "Il tuo messaggio è stato decodificato da auto_repl"
+            },
             "avatar": {
                 "download_avatar": "Fare clic sul pulsante in basso per scaricare l'avatar",
                 "download_banner": "Fare clic sul pulsante in basso per scaricare il banner",

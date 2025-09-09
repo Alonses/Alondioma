@@ -1224,6 +1224,10 @@
                 "codificado": ":symbols: Your message encoded in hieroglyphs",
                 "decodificado": ":symbols: Your message decoded from the hieroglyphs"
             },
+            "idioma_secundario": {
+                "code": "Your message coded in auto_repl",
+                "deco": "Your message decoded from auto_repl"
+            },
             "avatar": {
                 "download_avatar": "Click the button below to download the avatar",
                 "download_banner": "Click the button below to download the banner",

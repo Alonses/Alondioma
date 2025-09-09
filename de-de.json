@@ -1175,6 +1175,10 @@
                 "codificado": ":symbols: Ihre Nachricht in Hieroglyphen kodiert",
                 "decodificado": ":symbols: Ihre Nachricht wurde aus den Hieroglyphen entschlüsselt"
             },
+            "idioma_secundario": {
+                "code": "Ihre Nachricht ist in auto_repl kodiert",
+                "deco": "Ihre entschlüsselte Nachricht von auto_repl"
+            },
             "avatar": {
                 "download_avatar": "Klicken Sie auf die Schaltfläche unten, um den Avatar herunterzuladen",
                 "download_banner": "Klicken Sie auf die Schaltfläche unten, um das Banner herunterzuladen",

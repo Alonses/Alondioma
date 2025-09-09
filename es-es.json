@@ -1169,6 +1169,10 @@
                 "codificado": ":symbols: Tu mensaje codificado en jeroglíficos",
                 "decodificado": ":symbols: Tu mensaje decodificado de los jeroglíficos."
             },
+            "idioma_secundario": {
+                "code": "Tu mensaje codificado en auto_repl",
+                "deco": "Tu mensaje decodificado de auto_repl"
+            },
             "avatar": {
                 "download_avatar": "Haga clic en el botón de abajo para descargar el avatarr",
                 "download_banner": "Haga clic en el botón de abajo para descargar el banner",

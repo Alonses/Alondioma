@@ -1260,6 +1260,10 @@
                 "codificado": ":symbols: Sua mensagem codificada em hieróglifos",
                 "decodificado": ":symbols: Sua mensagem decodificada dos hieróglifos"
             },
+            "idioma_secundario": {
+                "code": "Sua mensagem codificada em auto_repl",
+                "deco": "Sua mensagem decodificada do auto_repl"
+            },
             "avatar": {
                 "download_avatar": "Clique no botão abaixo para baixar o avatar",
                 "download_banner": "Clique no botão abaixo para baixar o banner",

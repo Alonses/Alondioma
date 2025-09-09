@@ -1204,6 +1204,10 @@
                 "codificado": ":symbols: Votre message codé en hiéroglyphes",
                 "decodificado": ":symbols: Votre message décodé des hiéroglyphes"
             },
+            "idioma_secundario": {
+                "code": "Votre message codé en auto_repl",
+                "deco": "Votre message décodé par auto_repl"
+            },
             "avatar": {
                 "download_avatar": "Cliquez sur le bouton ci-dessous pour télécharger l'avatar",
                 "download_banner": "Cliquez sur le bouton ci-dessous pour télécharger la bannière",
