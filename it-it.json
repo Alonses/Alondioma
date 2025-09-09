@@ -1496,7 +1496,7 @@
             },
             "mute": {
                 "falta_permissao": "La punizione di <@auto_repl> non è stata applicata perché il moderatore che ha creato l'avviso non ha i permessi per `Punire i membri` oppure la gerarchia dell'utente che è stato avvisato è più alta di quella del moderatore!",
-                "sem_permissao_mute": "Non posso silenziare questo membro per mancanza di permessi, gli avvisi del server sono impostati su `Disattiva membro`, ma non posso silenziare un utente senza il permesso `Punisci membri`.!\nIl sistema di avvisi non funzionerà senza questo permesso.",
+                "sem_permissao_mute": "Non posso silenziare questo membro per mancanza di permessi, gli avvisi del server sono impostati su `Disattiva membro`, ma non posso silenziare un utente senza il permesso `Punisci membri`!\nIl sistema di avvisi non funzionerà senza questo permesso.",
                 "sem_permissao_mute_2": "Non posso silenziare questo membro perché ha una gerarchia più alta della mia!\nIl sistema di avviso non funzionerà se la mia posizione è inferiore a quella dell'utente avvisato nell'elenco dei ruoli del server!"
             }
         },

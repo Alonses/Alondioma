@@ -1557,7 +1557,7 @@
             },
             "mute": {
                 "falta_permissao": "<@auto_repl>'s punishment was not applied because the moderator who created the warn does not have permissions to `Punish members` or the hierarchy of the user who was warned is higher than that of the moderator!",
-                "sem_permissao_mute": "I cannot mute this member due to lack of permissions, the server warns are set to `Mute Member`, but I cannot mute a user without the `Punish Members` permission.!\nThe warn system will not work without this permission.",
+                "sem_permissao_mute": "I cannot mute this member due to lack of permissions, the server warns are set to `Mute Member`, but I cannot mute a user without the `Punish Members` permission!\nThe warn system will not work without this permission.",
                 "sem_permissao_mute_2": "I can't mute this member because he has more hierarchy than me!\nThe warn system will not work if my position is below the warned user in the server's role list!"
             }
         },

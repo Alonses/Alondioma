@@ -1568,7 +1568,7 @@
             },
             "mute": {
                 "falta_permissao": "A punição de <@auto_repl> não foi aplicada pois o moderador que criou a advertência não possui permissões para `Castigar membros` ou a hierarquia do usuário que foi advertido é maior que a do moderador!",
-                "sem_permissao_mute": "Eu não posso silenciar esse membro por falta de permissões, as advertências do servidor estão definidas como `Mutar membro`, porém eu não posso mutar um usuário sem a permissão `Castigar membros`.!\nO sistema de advertências não irá funcionar sem essa permissão.",
+                "sem_permissao_mute": "Eu não posso silenciar esse membro por falta de permissões, as advertências do servidor estão definidas como `Mutar membro`, porém eu não posso mutar um usuário sem a permissão `Castigar membros`!\nO sistema de advertências não irá funcionar sem essa permissão.",
                 "sem_permissao_mute_2": "Eu não posso silenciar esse membro pois ele possui mais hierarquia que eu!\nO sistema de advertências não irá funcionar se meu cargo estiver abaixo do usuário advertido na lista de cargos do servidor!"
             }
         },

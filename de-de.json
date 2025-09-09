@@ -1018,7 +1018,7 @@
                 "concluido": "Rollenzuweisung abgeschlossen!```fix\n👤Benutzer aktualisiert: auto_repl\n🚯Ignorierte Benutzer: auto_repl (haben die Rolle bereits)\n🚯Ignorierte Benutzer: auto_repl (Rollenbeschränkungen definiert)\n🤖Ignorierte Bots: auto_repl```",
                 "atualizando_usuarios": "Benutzer werden aktualisiert: `auto_repl von auto_repl`\n(Voraussichtliches Ende <t:auto_repl:R> )",
                 "pin_segundo_plano": "Wir aktualisieren die Benutzer im Hintergrund.\n(Voraussichtliches Ende <t:auto_repl:R> )",
-                "movido_segundo_plano": "Hallo! Wir verschieben die Benutzeraktualisierung in den Hintergrund.\nWir warten auf den Abschluss des Rollenzuweisungsprozesses <t:auto_repl:R>.\nWir informieren Sie, wenn er abgeschlossen ist.!",
+                "movido_segundo_plano": "Hallo! Wir verschieben die Benutzeraktualisierung in den Hintergrund.\nWir warten auf den Abschluss des Rollenzuweisungsprozesses <t:auto_repl:R>.\nWir informieren Sie, wenn er abgeschlossen ist!",
                 "operacao_cancelada": "Vorgang abgebrochen```Fix\n👤Benutzer aktualisiert: auto_repl\n🚯Ignorierte Benutzer: auto_repl (haben die Rolle bereits)\n🚯Ignorierte Benutzer: auto_repl (Rollenbeschränkungen definiert)\n🤖Ignorierte Bots: auto_repl```",
                 "sem_permissao": "Ich habe keine Berechtigung zum `Rollen verwalten` auf dem Server.\nit ist notwendig, diese Berechtigung zu erteilen, damit ich Benutzern automatisch Rollen zuweisen kann."
             },
@@ -1511,7 +1511,7 @@
             },
             "mute": {
                 "falta_permissao": "Die Strafe von <@auto_repl> wurde nicht angewendet, da der Moderator, der die Verwarnung ausgesprochen hat, nicht die Berechtigung hat, `Mitglieder bestrafen`, oder die Hierarchie des verwarnten Benutzers höher ist als die des Moderators!",
-                "sem_permissao_mute": "Ich kann dieses Mitglied aufgrund fehlender Berechtigungen nicht stummschalten. Die Serverwarnungen sind auf `Mitglied stummschalten` eingestellt, aber ich kann einen Benutzer ohne die Berechtigung `Mitglieder bestrafen` nicht stummschalten.!\nDas Warnsystem funktioniert ohne diese Berechtigung nicht.",
+                "sem_permissao_mute": "Ich kann dieses Mitglied aufgrund fehlender Berechtigungen nicht stummschalten. Die Serverwarnungen sind auf `Mitglied stummschalten` eingestellt, aber ich kann einen Benutzer ohne die Berechtigung `Mitglieder bestrafen` nicht stummschalten!\nDas Warnsystem funktioniert ohne diese Berechtigung nicht.",
                 "sem_permissao_mute_2": "Ich kann dieses Mitglied nicht stummschalten, da es in der Hierarchie höher steht als ich!\nDas Warnsystem funktioniert nicht, wenn meine Position in der Rollenliste des Servers unter der des gewarnten Benutzers liegt!"
             }
         },
