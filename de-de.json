@@ -129,8 +129,8 @@
                 "auto_desativado": "Ihre Module wurden deaktiviert!\nStellen Sie sicher, dass Sie Bufunfas in Ihrem Alonsal-Konto haben, um solche Funktionen aktivieren zu können!\n\nSie können Bufunfas mit dem Befehl </daily:1020794974377353338> oder durch Einzahlungen und Spiele verdienen",
                 "modulo_inexistente": "Dieses `modul` existiert nicht mehr!\nBitte verwenden Sie den Befehl erneut mit einem anderen Modul.",
                 "confirmar_exclusao": "Löschen des ausgewählten Moduls bestätigen?",
-                "titulo": "> Seus módulos ⚡",
-                "modulos_configurados": "5 Module` konfigurierte.",
+                "titulo": "> Seine Module ⚡",
+                "modulos_configurados": "Module` konfigurierte.",
                 "modulo_configurado": "`1 Modul` konfiguriert.",
                 "descricao_lista": "Nachfolgend sind alle Module und die jeweils konfigurierten Beträge aufgelistet!\n:gear: Derzeit gibt es auto_repl\n:bank: Der Wert in Bufunfas ist `B$ auto_repl` unter Berücksichtigung der aktiven Module.\n----------------------------------------------------------------------------\nauto_repl"
             },

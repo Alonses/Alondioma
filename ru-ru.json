@@ -129,10 +129,10 @@
                 "auto_desativado": "Ваши модули были деактивированы!\nУбедитесь, что у вас есть Bufunfas в вашей учетной записи Alonsal, чтобы иметь возможность активировать эти функции!\n\nВы можете зарабатывать Bufunfas с помощью команды </daily:1020794974377353338> или с помощью депозитов и игр.",
                 "modulo_inexistente": "Этот `модуль` больше не существует!\nПожалуйста, используйте команду еще раз с другим модулем.",
                 "confirmar_exclusao": "Подтвердить удаление выбранного модуля?",
-                "titulo": "> Seus módulos ⚡",
-                "modulos_configurados": "módulos` configurados.",
-                "modulo_configurado": "`1 módulo` configurado.",
-                "descricao_lista": "Abaixo estão listados todos os módulos, e suas quantias configuradas de cada!\n:gear: Atualmente há auto_repl\n:bank: O valor em bufunfas é de `B$ auto_repl` somando todos os módulos ativos.\n----------------------------------------------------------------------------\nauto_repl"
+                "titulo": "> Его модули ⚡",
+                "modulos_configurados": "модулей`.",
+                "modulo_configurado": "`1 модуль`.",
+                "descricao_lista": "Ниже перечислены все модули и их настроенное количество для каждого из них!\n:gear: В настоящее время их auto_repl\n:bank: Значение в Bufunfas `B$ auto_repl` для всех активных модулей.\n----------------------------------------------------------------------------\nauto_repl"
             },
             "b_historico": {
                 "movimentacoes": "Ваши последние банковские операции",
