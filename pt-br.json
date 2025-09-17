@@ -71,6 +71,13 @@
                 "dica_rodape": "Você pode usar Bufunfas em customizações, como o /color por exemplo!",
                 "rank_titulo": "> Ranking de Bufunfas"
             },
+            "assinante": {
+                "assinatura_infinita": "o infinito e além!",
+                "vitalicia": "Vitalícia",
+                "frase_assinante": "\n🌟 **Você é um assinante!**\nSua assinatura está válida até auto_repl\n💸 Aproveite `auto_repl% OFF` em recursos que gastam Bufunfas!",
+                "frase_nao_assinante": "\n🌟 **Você ainda não é um assinante!**\nAjude o Alonsal monetariamente e torne-se um assinante!\n🎇 Ao ser assinante, você poderá aproveitar `auto_repl% OFF` em recursos que gastam Bufunfas, ter limites de recursos expandidos e benefícios especiais!",
+                "notifica_user": "Aoba! Agora você é um assinante Alonsal! Sua assinatura estará válida até auto_repl, aproveite!!!"
+            },
             "modulo": {
                 "cabecalho_menu": "> Criando um módulo",
                 "visualizar_modulo": "> Seu módulo",
@@ -80,6 +87,7 @@
                 "sem_bufunfa": "Você não possui Bufunfas o suficiente para usar módulos, consiga algumas com o comando </daily:1020794974377353338> antes!",
                 "sem_locale": "Para ativar o módulo de clima é necessário definir um local padrão com o comando </profile link:1209687272501420052> antes!",
                 "limite_modulos": "É possivel ativar apenas 3 módulos de cada tipo!",
+                "limite_modulos_subscriber": "É possivel ativar apenas 10 módulos de cada tipo!",
                 "excluido": "Seu módulo foi apagado",
                 "desativado": "Seu módulo foi desativado",
                 "ativado": "Seu módulo foi ativado novamente!",
@@ -121,7 +129,11 @@
                 "modulo_6": "🎮 Jogos gratuitos",
                 "auto_desativado": "Seus módulos foram desativados!\nGaranta que tenha Bufunfas em sua conta do Alonsal para poder ativar recursos como este!\n\nVocê pode ganhar bufunfas com o comando </daily:1020794974377353338> ou através de depósitos e games",
                 "modulo_inexistente": "Esse `módulo` não existe mais!\nPor favor, utilize o comando novamente com um outro módulo.",
-                "confirmar_exclusao": "Você confirma a exclusão do módulo selecionado?"
+                "confirmar_exclusao": "Você confirma a exclusão do módulo selecionado?",
+                "titulo": "> Seus módulos ⚡",
+                "modulos_configurados": "módulos` configurados.",
+                "modulo_configurado": "`1 módulo` configurado.",
+                "descricao_lista": "Abaixo estão listados todos os módulos, e suas quantias configuradas de cada!\n:gear: Atualmente há auto_repl\n:bank: O valor em bufunfas é de `B$ auto_repl` considerando todos os módulos ativos.\n----------------------------------------------------------------------------\nauto_repl"
             },
             "b_historico": {
                 "movimentacoes": "Suas últimas movimentações",

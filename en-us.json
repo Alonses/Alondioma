@@ -70,6 +70,13 @@
                 "dica_rodape": "You can use Bufunfas in customizations, like /color for example!",
                 "rank_titulo": "> Bufunfas Ranking"
             },
+            "assinante": {
+                "assinatura_infinita": "infinity and beyond!",
+                "vitalicia": "Lifetime",
+                "frase_assinante": "\n🌟 **You are a subscriber!**\nYour subscription is valid until auto_repl\n💸 Enjoy `auto_repl% OFF` on features that spend Bufunfas!",
+                "frase_nao_assinante": "\n🌟 **You are not a subscriber yet!**\nHelp Alonsal monetarily and become a subscriber!\n🎇 By becoming a subscriber, you will be able to enjoy `auto_repl% OFF` on resources that spend Bufunfas, have expanded resource limits and special benefits!",
+                "notifica_user": "Hello! You are now an Alonsal subscriber! Your subscription will be valid until auto_repl, enjoy!!!"
+            },
             "modulo": {
                 "cabecalho_menu": "> Creating a module",
                 "visualizar_modulo": "> Your module",
@@ -79,6 +86,7 @@
                 "sem_bufunfa": "You don't have enough Bufunfas to use modules, get some with the command </daily:1020794974377353338> before!",
                 "sem_locale": "To activate the weather module it is necessary to define a default location with the command </profile link:1209687272501420052> before!",
                 "limite_modulos": "It is possible to activate only 3 modules of each type!",
+                "limite_modulos_subscriber": "It is possible to activate only 10 modules of each type!",
                 "excluido": "Your module has been deleted",
                 "desativado": "Your module has been disabled",
                 "ativado": "Your module has been activated again!",
@@ -120,7 +128,11 @@
                 "modulo_6": "🎮 Free games",
                 "auto_desativado": "Your modules have been deactivated!\nMake sure you have Bufunfas in your Alonsal account to be able to activate features like this!\n\nYou can earn Bufunfas with the command </daily:1020794974377353338> or through deposits and games",
                 "modulo_inexistente": "This `module` no longer exists!\nPlease reuse the command with another module.",
-                "confirmar_exclusao": "Do you confirm the deletion of the selected module?"
+                "confirmar_exclusao": "Do you confirm the deletion of the selected module?",
+                "titulo": "> Your modules ⚡",
+                "modulos_configurados": "modules` configured.",
+                "modulo_configurado": "`1 module` configured.",
+                "descricao_lista": "Below are listed all modules, and their configured amounts for each!\n:gear: Currently there is auto_repl\n:bank: The value in Bufunfas is `B$ auto_repl` for all active modules.\n----------------------------------------------------------------------------\nauto_repl"
             },
             "b_historico": {
                 "movimentacoes": "Your last bank transactions",

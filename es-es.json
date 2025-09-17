@@ -70,6 +70,13 @@
                 "dica_rodape": "¡Puedes usar Bufunfas en personalizaciones, como /color por ejemplo!",
                 "rank_titulo": "> Clasificación de Bufunfas"
             },
+            "assinante": {
+                "assinatura_infinita": "¡Infinito y más allá!",
+                "vitalicia": "Infinito",
+                "frase_assinante": "\n🌟 **¡Eres suscriptor!**\nTu suscripción es válida hasta auto_repl\n💸 ¡Disfruta de `auto_repl% OFF` en funciones que gastan Bufunfas!",
+                "frase_nao_assinante": "\n🌟 **¡Aún no eres suscriptor!**\n¡Ayuda a Alonsal económicamente y conviértete en suscriptor!\n🎇 ¡Al convertirte en suscriptor, podrás disfrutar de `auto_repl% OFF` en recursos que gasten Bufunfas, tendrás límites de recursos ampliados y beneficios especiales!",
+                "notifica_user": "¡Hola! ¡Ya eres suscriptor de Alonsal! Tu suscripción será válida hasta la auto_repl. ¡Disfrútala!"
+            },
             "modulo": {
                 "cabecalho_menu": "> Creando un modulo",
                 "visualizar_modulo": "> Tu modulo",
@@ -78,6 +85,7 @@
                 "sem_bufunfa": "No tiene suficientes Bufunfas para usar módulos, ¡consiga algunos con </daily:1020794974377353338> primero!",
                 "sem_locale": "¡Para activar el módulo meteorológico es necesario definir una ubicación predeterminada con el comando </profile link:1209687272501420052> primero!",
                 "limite_modulos": "¡Es posible activar solo 3 módulos de cada tipo!",
+                "limite_modulos_subscriber": "¡Es posible activar solo 10 módulos de cada tipo!",
                 "excluido": "Su módulo ha sido eliminado",
                 "desativado": "Su módulo ha sido deshabilitado",
                 "ativado": "¡Tu módulo ha sido activado nuevamente!",
@@ -114,7 +122,9 @@
                 "modulo_6": "🎮 Juegos gratis",
                 "auto_desativado": "¡Tus módulos han sido desactivados!\n¡Asegúrate de tener Bufunfas en tu cuenta de Alonsal para poder activar funciones como esta!\n\nPuedes ganar Bufunfas con el comando </daily:1020794974377353338> o a través de depósitos y juegos",
                 "modulo_inexistente": "¡Este `módulo` ya no existe!\nReutilice el comando con otro módulo.",
-                "confirmar_exclusao": "Löschen des ausgewählten Moduls bestätigen?"
+                "confirmar_exclusao": "Löschen des ausgewählten Moduls bestätigen?",
+                "titulo": "> Sus módulos ⚡",
+                "descricao_lista": "A continuación se enumeran todos los módulos y sus cantidades configuradas para cada uno.\n:gear: Actualmente hay auto_repl\n:bank: La cantidad en Bufunfas es `B$ auto_repl` para todos los módulos activos.\n----------------------------------------------------------------------------\nauto_repl"
             },
             "b_historico": {
                 "movimentacoes": "Tus últimas transacciones bancarias",

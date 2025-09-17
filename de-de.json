@@ -70,6 +70,13 @@
                 "dica_rodape": "Sie können Bufunfas in Anpassungen verwenden, z. z.B. /color!",
                 "rank_titulo": "> Bufunfas-Rangliste"
             },
+            "assinante": {
+                "assinatura_infinita": "Unendlichkeit und darüber hinaus!",
+                "vitalicia": "Unendlich",
+                "frase_assinante": "\n🌟 **Sie sind Abonnent!**\nIhr Abonnement ist gültig bis auto_repl\n💸 Genießen Sie `auto_repl% OFF` auf Funktionen, die Bufunfas kosten!",
+                "frase_nao_assinante": "\n🌟 **Sie sind noch kein Abonnent!**\nHelfen Sie Alonsal finanziell und werden Sie Abonnent!\n🎇 Als Abonnent erhalten Sie `auto_repl % OFF` auf Ressourcen, die Bufunfas ausgeben, haben erweiterte Ressourcenlimits und besondere Vorteile!",
+                "notifica_user": "Hallo! Du bist jetzt Alonsal-Abonnent! Dein Abonnement ist bis zum auto_repl gültig, viel Spaß!!!"
+            },
             "modulo": {
                 "cabecalho_menu": "> Erstellen Sie ein Modul",
                 "visualizar_modulo": "> Ihr Modul",
@@ -79,6 +86,7 @@
                 "sem_bufunfa": "Du hast nicht genügend Buffunfas, um Module zu verwenden, besorge dir vorher welche mit dem Befehl </daily:1020794974377353338>!",
                 "sem_locale": "Um das Wettermodul zu aktivieren, ist es notwendig, zuvor mit dem Befehl </profile link:1209687272501420052> einen Standardstandort zu definieren!",
                 "limite_modulos": "Es können nur 3 Module jedes Typs aktiviert werden!",
+                "limite_modulos_subscriber": "Es können nur 10 Module jedes Typs aktiviert werden!",
                 "excluido": "Ihr Modul wurde gelöscht",
                 "desativado": "Ihr Modul wurde deaktiviert",
                 "ativado": "Ihr Modul wurde wieder aktiviert!",
@@ -120,7 +128,11 @@
                 "modulo_6": "🎮 Gratis Spiele",
                 "auto_desativado": "Ihre Module wurden deaktiviert!\nStellen Sie sicher, dass Sie Bufunfas in Ihrem Alonsal-Konto haben, um solche Funktionen aktivieren zu können!\n\nSie können Bufunfas mit dem Befehl </daily:1020794974377353338> oder durch Einzahlungen und Spiele verdienen",
                 "modulo_inexistente": "Dieses `modul` existiert nicht mehr!\nBitte verwenden Sie den Befehl erneut mit einem anderen Modul.",
-                "confirmar_exclusao": "Löschen des ausgewählten Moduls bestätigen?"
+                "confirmar_exclusao": "Löschen des ausgewählten Moduls bestätigen?",
+                "titulo": "> Seus módulos ⚡",
+                "modulos_configurados": "5 Module` konfigurierte.",
+                "modulo_configurado": "`1 Modul` konfiguriert.",
+                "descricao_lista": "Nachfolgend sind alle Module und die jeweils konfigurierten Beträge aufgelistet!\n:gear: Derzeit gibt es auto_repl\n:bank: Der Wert in Bufunfas ist `B$ auto_repl` unter Berücksichtigung der aktiven Module.\n----------------------------------------------------------------------------\nauto_repl"
             },
             "b_historico": {
                 "movimentacoes": "Ihre letzten Banktransaktionen",
