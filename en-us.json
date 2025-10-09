@@ -75,7 +75,16 @@
                 "vitalicia": "Lifetime",
                 "frase_assinante": "\n🌟 **You are a subscriber!**\nYour subscription is valid until auto_repl\n💸 Enjoy `auto_repl% OFF` on features that spend Bufunfas!",
                 "frase_nao_assinante": "\n🌟 **You are not a subscriber yet!**\nHelp Alonsal monetarily and become a subscriber!\n🎇 By becoming a subscriber, you will be able to enjoy `auto_repl% OFF` on resources that spend Bufunfas, have expanded resource limits and special benefits!",
-                "notifica_user": "Hello! You are now an Alonsal subscriber! Your subscription will be valid until auto_repl, enjoy!!!"
+                "notifica_user": "Hello! You are now an Alonsal subscriber! Your subscription will be valid until auto_repl, enjoy!!!",
+                "impulso_servidor": "> Server Boost ⚡",
+                "servidor_impulsionado": "```⚡ This server is currently being boosted by Alonsal!```",
+                "servidor_sem_impulso": "```❌ This server is not currently being boosted by Alonsal...\nBoost it!! 👩‍🚀⚡```",
+                "descricao_impulso_servidor": "This server is being boosted to auto_repl!\n\nThe currently active benefits of the boost are as follows:",
+                "descricao_sem_impulso_servidor": "As an Alonsal subscriber, you can bind your subscription to a server!\n\nBoosted servers gain increased Alonsal resource limits,\nboost this server to unlock the following features for all members!",
+                "recursos_impulso": "\n\n**⚡ Server Modules**\n- 🌐 Server module limit changed from `2` to `10` for all types.\n- 📣 Access to self-editing modules, similar to showcases.\n\n**🔊 Dynamic Voice Channels**\n- 🧛‍♀️ Authorized user limit changed from `10` to `30` per server.\n- 💂‍♂️ Multi-activators as moderator changed from `2` to `10`.\n\n**🌐 Network**\n- 🌐 Network server limit changed from `10` to `30`.",
+                "vinculado_servidor": "Boost has been added to the server!",
+                "vinculo_removido": "The boost has been removed from the server!",
+                "validade_impulso_servidor": "⚡ **Alonsal Boost**\nValid until "
             },
             "modulo": {
                 "cabecalho_menu": "> Creating a module",
@@ -117,7 +126,7 @@
                 "ativacao_min_8": "on Thursdays at",
                 "ativacao_min_9": "on Fridays at",
                 "ativacao_min_10": "on Saturdays at",
-                "descricao": "This module will discount `B$ auto_repl`, the more modules you activate,\nthe more Bufunfas will be deducted from your bank per day.\n\nCurrently the value for operating your modules is `B$ auto_repl`\n----------------------------------------------------------------------------",
+                "descricao": "This module will discount `B$ auto_repl`, the more modules you activate,\nthe more Bufunfas will be deducted from your bank per day.\n\nCurrently the value for operating your modules is `B$ auto_repl`\n----------------------------------------------------------------------------auto_repl",
                 "modulo_ativado": "Module activated! Your module will be sent auto_repl `auto_repl`",
                 "modulo_0": "🌩️ Weather",
                 "modulo_1": "🖊️ Phrases",
@@ -132,11 +141,13 @@
                 "titulo": "> Your modules ⚡",
                 "modulos_configurados": "modules` configured.",
                 "modulo_configurado": "`1 module` configured.",
-                "descricao_lista": "Below are listed all modules, and their configured amounts for each!\n:gear: Currently there is auto_repl\n:bank: The value in Bufunfas is `B$ auto_repl` for all active modules.\n----------------------------------------------------------------------------\nauto_repl"
+                "descricao_lista": "Below are listed all modules, and their configured amounts for each!\n:gear: Currently there is auto_repl\n:bank: The value in Bufunfas is `B$ auto_repl` for all active modules.\n----------------------------------------------------------------------------\nauto_repl",
+                "modulo_vitrine": "\n```📣 This module will edit the previous message whenever it is triggered, updating its content without creating new messages.```"
             },
             "b_historico": {
                 "movimentacoes": "Your last bank transactions",
                 "daily": "Received from /daily",
+                "daily_rendimento": "Income from Bufunfas on weekdays",
                 "nivel": "Bonus for leveling up",
                 "nivel_descricao": "You've leveled up!\nAs a reward, `B$ 250` Bufunfas has been credited to your account, use the command </bank statement:1020854564657844234> to check your transaction history.",
                 "modulos": "Module maintenance (auto_repl)",
@@ -1160,7 +1171,7 @@
                 "mover_membros": "Move members",
                 "conectar_canal": "Connect to channels",
                 "falar_canal": "Speak in channels",
-                "descricao_modulo": "```🧻 | This module grants the possibility for server members to create dynamic voice channels when joining a specific channel.\n\nSet a default voice channel and a fixed category, after that, all members who connect to this channel will be transferred to a new channel created at the same time in the selected category, each different member who connects to the activating channel will generate a separate channel.\n\nWhen all members leave their channels, they will be deleted after the expiration time defined below.```",
+                "descricao_modulo": "```🧻 | This module allows server members to create dynamic voice channels when joining a specific channel. Define one or more default voice channels and one or more categories. After that, all members who connect to the trigger channels will be transferred to new channels created at the same time in the selected category. Each different member who connects to a trigger channel will generate a separate channel.\n\nWhen all members leave their channels and they become empty, they will be deleted after the expiration time defined below.```",
                 "canal_errado_voz": "The defined channel must be voice type, please try again.",
                 "canal_errado_categoria": "The defined channel must be of category type, please try again.",
                 "titulo_controle_canal": "> auto_repl channel controls",
@@ -1698,7 +1709,17 @@
                 "customizacoes": "Customizations",
                 "nomes": "Names",
                 "permitir_texto": "Allow text",
-                "preferencias": "Preferences"
+                "preferencias": "Preferences",
+                "impulso": "Boost",
+                "impulsionar": "Boost",
+                "remover_impulso": "Remove boost",
+                "impulsionar_servidor": "Boost server",
+                "virar_assinante": "Become a subscriber",
+                "vitrine": "Showcase",
+                "ativadores": "Activators",
+                "novo_ativador": "New activator",
+                "escolher_canal": "Choose channel",
+                "modo_resumido": "Summary mode"
             },
             "menus": {
                 "escolher_esse": "Choose this",

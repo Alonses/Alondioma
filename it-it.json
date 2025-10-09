@@ -75,7 +75,16 @@
                 "vitalicia": "Tutta la vita",
                 "frase_assinante": "\n🌟 **Sei un abbonato!**\nIl tuo abbonamento è valido fino al momento dell'auto_repl\n💸 Approfitta dello `auto_repl% DI SCONTO` sulle funzionalità che richiedono l'acquisto di Bufunfas!",
                 "frase_nao_assinante": "**Non sei ancora un abbonato!**\nAiuta Alonsal finanziariamente e diventa un abbonato!\n🎇 Diventando un abbonato, potrai usufruire dello sconto `auto_repl% OFF` sulle risorse che costano Bufunfas, oltre a ricevere limiti di risorse estesi e vantaggi speciali!",
-                "notifica_user": "Ciao! Ora sei un abbonato di Alonsal! Il tuo abbonamento sarà valido fino al auto_repl, buon divertimento!!!"
+                "notifica_user": "Ciao! Ora sei un abbonato di Alonsal! Il tuo abbonamento sarà valido fino al auto_repl, buon divertimento!!!",
+                "impulso_servidor": "> Potenziamento del server ⚡",
+                "servidor_impulsionado": "```⚡ Questo server è attualmente alimentato da Alonsal!```",
+                "servidor_sem_impulso": "```❌ Al momento questo server non è potenziato da Alonsal...\nPotenziatelo!! 👩‍🚀⚡```",
+                "descricao_impulso_servidor": "Questo server è stato potenziato ad auto_repl!\n\nI vantaggi attualmente attivi del potenziamento sono i seguenti:",
+                "descricao_sem_impulso_servidor": "Come abbonato ad Alonsal, puoi associare il tuo abbonamento a un server!\n\nI server potenziati ottengono limiti di risorse Alonsal aumentati.\nPotenzia questo server per sbloccare le seguenti funzionalità per tutti i membri!",
+                "recursos_impulso": "\n\n**⚡ Moduli server**\n- 🌐 Limite dei moduli server modificato da `2` a `10` per tutti i tipi.\n- 📣 Accesso a moduli auto-modificabili, simili alle vetrine.\n\n**🔊 Canali vocali dinamici**\n- 🧛‍♀️ Limite degli utenti autorizzati modificato da `10` a `30` per server.\n- 💂‍♂️ Multi-attivatori come moderatore modificati da `2` a `10`.\n\n**🌐 Rete**\n- 🌐 Limite del server di rete modificato da `10` a `30`.",
+                "vinculado_servidor": "Boost è stato aggiunto al server!",
+                "vinculo_removido": "Il boost è stato rimosso dal server!",
+                "validade_impulso_servidor": "⚡ **Alonsal Boost**\nValido fino a "
             },
             "modulo": {
                 "cabecalho_menu": "> Creazione di un modulo",
@@ -132,11 +141,13 @@
                 "titulo": "> I suoi moduli ⚡",
                 "modulos_configurados": "moduli` configurati.",
                 "modulo_configurado": "`1 modulo` configurato.",
-                "descricao_lista": "Di seguito sono riportati tutti i moduli e i valori configurati!\n:gear: Attualmente c'è auto_repl\n:bank: Il valore in Bufunfas è `B$ auto_repl` tenendo conto dei moduli attivi.\n----------------------------------------------------------------------------\nauto_repl"
+                "descricao_lista": "Di seguito sono riportati tutti i moduli e i valori configurati!\n:gear: Attualmente c'è auto_repl\n:bank: Il valore in Bufunfas è `B$ auto_repl` tenendo conto dei moduli attivi.\n----------------------------------------------------------------------------\nauto_repl",
+                "modulo_vitrine": "\n```📣 Questo modulo modificherà il messaggio precedente ogni volta che verrà attivato, aggiornandone il contenuto senza creare nuovi messaggi.```"
             },
             "b_historico": {
                 "movimentacoes": "Le tue ultime transazioni bancarie",
                 "daily": "Ricevuto da /daily",
+                "daily_rendimento": "Entrate da Bufunfas nei giorni feriali",
                 "nivel": "Bonus per salire di livello",
                 "nivel_descricao": "Sei salito di livello!\nCome ricompensa, `B$250` Bufunfas sono stati accreditati sul tuo conto, usa il comando </bank statement:1020854564657844234> per controllare la cronologia delle tue transazioni.\n\n||Do not speak Italian? No problems! Change my language right now with the </language:1018632996787589284> command!||",
                 "modulos": "Manutenzione del modulo (auto_repl)",
@@ -348,7 +359,7 @@
             "apoio": {
                 "apoie": "> Supporta Alonsal!",
                 "contribuir": "Contribuire",
-                "escaneie": "Scansiona il codice QR o fai clic sul pulsante qui sotto per donare\ne aiutare a mantenere e sviluppare Alonsal!\n\nTutto l'aiuto è estremamente gradito ;D"
+                "escaneie": "Aiutando Alonsal economicamente, verrai ricompensato con lo stato di `👑 Abbonato Alonsal`.\nCome abbonato, avrai diversi vantaggi nelle risorse bot, come sconti Bufunfas su `⚡ moduli` e `🎨 personalizzazioni`, limiti più alti di `⚡ moduli` configurati, server in `🌎 Rete`, membri autorizzati in `🔊 canali vocali dinamici` e altro ancora!\n\nScansiona il codice QR o clicca sul pulsante qui sotto per donare\n e aiutare a mantenere e sviluppare Alonsal!\n\nOgni aiuto è molto gradito ;D\n\n\n**🌟 Vantaggi per gli abbonati**\n\n**⚡ Moduli**\n- 🕵️‍♂️ Il limite del modulo personale cambia da `3` a `10` per ogni tipo.\n- 🌐 Il limite del modulo server cambia da `2` a `10` tra tutti i tipi.\n- 📣 Accesso a moduli auto-modificabili, simili alle vetrine.\n\n**🔊 Canali vocali dinamici**\n- 🧛‍♀️ Il limite degli utenti autorizzati cambia da `10` a `30` per server.\n- 💂‍♂️ I trigger multipli come moderatore cambiano da `2` a `10`.\n\n**🌐 Rete**\n- 🌐 Il limite del server di rete cambia da `10` a `30`.\n- \n\n**👑 Cosmetici**\n- 🏆 Distintivo di aiuto esclusivo.\n- 💸 Sconto del `75% ++` su tutto ciò su cui spendi denaro."
             },
             "hub": {
                 "hub_alonsal": "> Hub di Alonsal",
@@ -358,7 +369,7 @@
             "data": {
                 "ranking_guilds": "Classifica sui seguenti server",
                 "dados_conhecidos": "> I tuoi dati conosciuti",
-                "resumo_dados": "Questo è un riepilogo dei dati che ho salvato su di te",
+                "resumo_dados": "Questo è un riepilogo dei dati che ho salvato su di te\nauto_repl\n**Risorse configurate:**",
                 "dica_rodape": "Puoi eliminare tutti i tuoi dati con il comando /data delete",
                 "dados_removidos": "I tuoi dati sono stati rimossi da",
                 "sem_dados": "Non hai dati salvati qui ;)",
@@ -449,7 +460,6 @@
                 "reportes": "rapporti",
                 "advertencia": "avviso",
                 "advertencias": "avvisi",
-                "membro": "membro",
                 "membros": "membri",
                 "network_servidores": "Rete con altri auto_repl server",
                 "network_unico": "Rete con un altro server",
@@ -459,14 +469,14 @@
                 "tempo_exclusao": "Tempo di cancellazione",
                 "descricao_quebra_link": "**Dopo aver confermato l'interruzione del collegamento, questo server verrà rimosso dal gruppo di rete**.\n\nI server elencati di seguito continueranno ad avere il collegamento attivo, ma questo server non ne farà più parte.",
                 "excluir_apos": "Elimina i dati dopo `auto_repl giorni`\n",
-                "resumo_expandido": "```fix\nUna volta rimosso dal server, Alonsal disabiliterà la maggior parte delle funzionalità elencate di seguito.\n\nL'eliminazione dei dati avverrà automaticamente dopo un periodo di tempo; puoi impostare questo intervallo di tempo utilizzando i pulsanti sottostanti.\n\nQuando elimini i dati, Alonsal rimuoverà completamente i dati salvati dal server, inclusa la registrazione della classifica, la ri-generazione di report e link sospetti e la rimozione degli avvisi salvati.```auto_repl\n**Funzionalità del server:**",
+                "resumo_expandido": "```fix\nAlonsal si disconnetterà automaticamente dal server una volta raggiunto il tempo di inattività definito di seguito. Per ottenere ciò, non si devono utilizzare comandi Alonsal e non si devono verificare interazioni automatiche, come avvisi anti-spam, avvisi temporanei in scadenza o movimenti di rete di cui il server fa parte, durante il periodo selezionato.\n--------------------------\nQuando viene rimosso dal server, Alonsal disabiliterà la maggior parte delle funzionalità elencate di seguito.\n\nL'eliminazione dei dati verrà eseguita automaticamente dopo un periodo di tempo; è possibile impostare questo intervallo di tempo utilizzando i pulsanti sottostanti.\n\nQuando si eliminano i dati, Alonsal rimuoverà completamente i dati salvati dal server, inclusi i record di classifica, la reimpostazione dell'origine dei report e dei link sospetti e la rimozione degli avvisi salvati.```auto_repl\n**Funzionalità del server:****",
                 "remover_canal": "Rimuovi canale",
                 "remover_cargo": "Rimuovi ruolo",
                 "saida_automatica": "Abbandona automaticamente il server dopo**:\n`auto_repl` di inattività del bot sul server"
             },
             "telemetria": {
                 "titulo": "> Dati di telemetria",
-                "descricao": "Per un migliore funzionamento di Alonsal, utilizziamo vari dati resi anonimi per decidere quali funzionalità prestare maggiore attenzione e migliorare in futuro.\n\nQuesti dati possono provenire da tutte le funzioni del bot, i più importanti sono i comandi, quando si utilizza un comando come come questo da /telemetria, il bot registra l'interazione nella sua cronologia dei comandi attivati ​​e visualizza un breve riepilogo del server in cui è stato utilizzato il comando, come nella stampa allegata di seguito.\n\nAnche altri dati vengono raccolti e sono elencati di seguito:\n`Server in entrata e in uscita (bot)`, `Server totali, canali e utenti che il bot può visualizzare`, `Errori che si verificano durante un comando`, `Messaggi di testo per esperienza/livello`, `Movimenti di sbuffo`, `Canali che ricevono aggiornamenti gratuiti del gioco`, e infine gli ultimi che vengono aggiornati quotidianamente:\n\n`Comandi rilasciati, errori, esperienza concessa, messaggi validi per xp, b uffons distribuiti e spostati e server, canali e \"conosciuti utenti\".`",
+                "descricao": "Per far funzionare meglio Alonsal, utilizziamo vari dati anonimizzati per decidere a quali funzionalità prestare maggiore attenzione e migliorare in futuro. Questi dati possono provenire da varie funzioni del bot. Altri dati che raccogliamo sono elencati di seguito: Entrate e uscite dal server (dal bot), Numero totale di server, canali e utenti che il bot può vedere, Errori che si verificano durante un comando, Messaggi di testo per esperienza/livello, Spostamenti di denaro, Canali che ricevono aggiornamenti di gioco gratuiti e infine questi ultimi, che vengono aggiornati quotidianamente, solo in numeri: Comandi eseguiti, errori, esperienza concessa, messaggi validi per xp, denaro distribuito e spostato, pulsanti, menu e canali dinamici utilizzati e, infine, server, canali e utenti \"conosciuti\". Tutti questi dati possono essere visualizzati anche tramite il comando `/Alonsal` in `📏 Statistiche`.`",
                 "rodape": "🔰 | Vale la pena notare che anche le voci di testo sono nascoste, rendendo il contenuto digitato non visibile per la tua privacy."
             },
             "traduz": {
@@ -1104,7 +1114,7 @@
                 "mover_membros": "Muovere gli arti",
                 "conectar_canal": "Connettiti ai canali",
                 "falar_canal": "Parlare nei canali",
-                "descricao_modulo": "```🧻 | Questo modulo offre ai membri del server la possibilità di creare canali vocali dinamici quando si uniscono a un canale specifico.\n\nImposta un canale vocale predefinito e una categoria fissa, dopodiché tutti i membri che si connettono a questo canale verranno trasferiti a un nuovo canale creato contemporaneamente nella categoria selezionata; ogni membro diverso che si connette al canale di attivazione genererà un canale separato.\n\nQuando tutti i membri abbandonano i loro canali, verranno eliminati dopo il tempo di scadenza definito di seguito.```",
+                "descricao_modulo": "```🧻 | Questo modulo consente ai membri del server di creare canali vocali dinamici quando si uniscono a un canale specifico. È possibile definire uno o più canali vocali predefiniti e una o più categorie. Successivamente, tutti i membri che si connettono ai canali trigger verranno trasferiti ai nuovi canali creati contemporaneamente nella categoria selezionata. Ogni membro diverso che si connette a un canale trigger genererà un canale separato.\n\nQuando tutti i membri abbandonano i propri canali e questi diventano vuoti, questi verranno eliminati dopo il periodo di tempo definito di seguito.```",
                 "canal_errado_voz": "Il canale definito deve essere di tipo vocale. Riprova.",
                 "canal_errado_categoria": "Il canale definito deve essere di tipo categoria, riprova.",
                 "titulo_controle_canal": "> Controlli del canale auto_repl",
@@ -1134,6 +1144,16 @@
                 "custom_on": "```fix\n✅ Questo server consente personalizzazioni personali.```",
                 "custom_off": "```fix\n❌ Questo server ignora le personalizzazioni personali.```",
                 "usuarios_autorizados": "Utenti autorizzati",
+                "limite_usuarios_autorizados": "Hai selezionato più membri di quelli consentiti. I seguenti membri non sono stati aggiunti:\nauto_repl",
+                "configurando_ativadores": "> Configurazione dei trigger",
+                "descricao_ativadores": "```fix\n🔊 Configura trigger vocali aggiuntivi per il server qui sotto!\n\nCon i trigger aggiuntivi, puoi definire funzioni diverse per ogni trigger, con canali dinamici ancora più specializzati per una determinata funzione.\n\nAd esempio, canali limitati per squadre, coppie e qualsiasi altra cosa ti venga in mente!\n\nauto_repl```",
+                "title_trigger": "Impostazione di un attivatore",
+                "descricao_trigger": "```fix\n🔊 Definisci di seguito le impostazioni speciali per questo trigger.\n\nCon un trigger personalizzato puoi definire come funzioneranno i canali vocali dinamici generati ogni volta che un membro si connette al canale trigger specificato di seguito.auto_repl",
+                "ativadores_duplicados": "\n\n🕵️‍♂️ Su questo server sono presenti trigger configurati con lo stesso canale di trigger!\nPer impostazione predefinita, utilizzerò solo il primo trigger che ha questo canale di trigger configurato, nell'ordine in cui è stato creato il trigger.",
+                "limite_triggers": "È stato raggiunto il limite di trigger su questo server!\nConfigura i trigger esistenti o eliminane alcuni per crearne di nuovi.",
+                "limite_habilitar": "È stato raggiunto il limite di attivatori abilitati. Questo attivatore non può essere abilitato.",
+                "habilitado": "Abilitato",
+                "desligado": "Disabili",
                 "nicknames": {
                     "all": "Usa tutto",
                     "nicknames": "Soprannomi",
@@ -1317,7 +1337,6 @@
                 "NONE": ":white_large_square: Qualsiasi cosa",
                 "LOW": ":blue_square: Basso",
                 "MEDIUM": ":green_square: Medio",
-                "HIGH": ":orange_square: Alto",
                 "HIGHEST": ":red_square: Massimo",
                 "descricao_verificacao": "I nuovi membri devono soddisfare i seguenti requisiti:",
                 "sem_verificacao": "Nessuna regola di verifica richiesta",
@@ -1349,7 +1368,6 @@
                 "horas": " ore",
                 "hora": " ora",
                 "minutos": " minuti",
-                "minuto": " minuto",
                 "segundos": " secondi",
                 "segundo": " secondo",
                 "e": "e"
@@ -1383,7 +1401,6 @@
                 "suspeito": "Questo utente può utilizzare mezzi illegali per ottenere conquiste, non considerare questo come una conferma",
                 "jogo_favorito": "Gioco preferito",
                 "capturas": "Catture",
-                "nome": "Nome",
                 "tempo_jogado": "Tempo giocato",
                 "hours": "ore",
                 "minutes": "minuti",
@@ -1438,7 +1455,6 @@
                 "albuns": "Albuns",
                 "artistas": "Artisti",
                 "faixas_favoritas": "Canzoni preferite",
-                "geral": "Geral",
                 "perfil_musical": "Il profilo musicale di auto_repl",
                 "em_scrobble": "Su Scrobble ora",
                 "obsessao": "Ossessione del momento",
@@ -1638,7 +1654,16 @@
                 "customizacoes": "Personalizzazioni",
                 "nomes": "Nomi",
                 "permitir_texto": "Consenti testo",
-                "preferencias": "Preferenze"
+                "preferencias": "Preferenze",
+                "impulsionar": "Aumento",
+                "remover_impulso": "Rimuovere l'impulso",
+                "impulsionar_servidor": "Potenzia il server",
+                "virar_assinante": "Diventa un abbonato",
+                "vitrine": "Vetrina",
+                "ativadores": "Attivatori",
+                "novo_ativador": "Nuovo attivatore",
+                "escolher_canal": "Scegli il canale",
+                "modo_resumido": "Modalità di riepilogo"
             },
             "menus": {
                 "escolher_esse": "Scegli questo",

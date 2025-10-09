@@ -75,7 +75,16 @@
                 "vitalicia": "Unendlich",
                 "frase_assinante": "\n🌟 **Sie sind Abonnent!**\nIhr Abonnement ist gültig bis auto_repl\n💸 Genießen Sie `auto_repl% OFF` auf Funktionen, die Bufunfas kosten!",
                 "frase_nao_assinante": "\n🌟 **Sie sind noch kein Abonnent!**\nHelfen Sie Alonsal finanziell und werden Sie Abonnent!\n🎇 Als Abonnent erhalten Sie `auto_repl % OFF` auf Ressourcen, die Bufunfas ausgeben, haben erweiterte Ressourcenlimits und besondere Vorteile!",
-                "notifica_user": "Hallo! Du bist jetzt Alonsal-Abonnent! Dein Abonnement ist bis zum auto_repl gültig, viel Spaß!!!"
+                "notifica_user": "Hallo! Du bist jetzt Alonsal-Abonnent! Dein Abonnement ist bis zum auto_repl gültig, viel Spaß!!!",
+                "impulso_servidor": "> Server-Boost ⚡",
+                "servidor_impulsionado": "```⚡ Dieser Server wird derzeit von Alonsal betrieben!```",
+                "servidor_sem_impulso": "```❌ Dieser Server wird derzeit nicht von Alonsal geboostet...\nBoosten Sie ihn!! 👩‍🚀⚡```",
+                "descricao_impulso_servidor": "Dieser Server wird auf auto_repl hochgestuft!\n\nDie derzeit aktiven Vorteile der Steigerung sind wie folgt:",
+                "descricao_sem_impulso_servidor": "Als Alonsal-Abonnent können Sie Ihr Abonnement an einen Server binden!\n\nGeboostete Server erhalten erhöhte Alonsal-Ressourcenlimits.\niBoosten Sie diesen Server, um die folgenden Funktionen für alle Mitglieder freizuschalten!",
+                "recursos_impulso": "\n\n**⚡ Servermodule**\n- 🌐 Servermodullimit von `2` auf `10` für alle Typen geändert.\n- 📣 Zugriff auf selbstbearbeitbare Module, ähnlich wie Showcases.\n\n**🔊 Dynamische Sprachkanäle**\n- 🧛‍♀️ Autorisiertes Benutzerlimit von `10` auf `30` pro Server geändert.\n- 💂‍♂️ Multi-Aktivatoren als Moderator von `2` auf `10` geändert.\n\n**🌐 Netzwerk**\n- 🌐 Netzwerkserverlimit von `10` auf `30` geändert..",
+                "vinculado_servidor": "Boost wurde zum Server hinzugefügt!",
+                "vinculo_removido": "Der Boost wurde vom Server entfernt!",
+                "validade_impulso_servidor": "⚡ **Alonsal Boost**\nGültig bis "
             },
             "modulo": {
                 "cabecalho_menu": "> Erstellen Sie ein Modul",
@@ -117,7 +126,7 @@
                 "ativacao_min_8": "donnerstags um",
                 "ativacao_min_9": "freitags um",
                 "ativacao_min_10": "samstags um",
-                "descricao": "Dieses Modul vergünstigt `B$ auto_repl`. Je mehr Module Sie aktivieren,\n desto mehr Bufunfas werden pro Tag von Ihrer Bank abgebucht.\n\nDerzeit beträgt der Wert für die Ausführung Ihrer Module `B$ auto_repl`\n----------------------------------------------------------------------------",
+                "descricao": "Dieses Modul vergünstigt `B$ auto_repl`. Je mehr Module Sie aktivieren,\n desto mehr Bufunfas werden pro Tag von Ihrer Bank abgebucht.\n\nDerzeit beträgt der Wert für die Ausführung Ihrer Module `B$ auto_repl`\n----------------------------------------------------------------------------auto_repl",
                 "modulo_ativado": "Modul aktiviert! Ihr Modul wird auto_repl `auto_repl` gesendet",
                 "modulo_0": "🌩️ Wetter",
                 "modulo_1": "🖊️ Phrasen",
@@ -132,11 +141,13 @@
                 "titulo": "> Seine Module ⚡",
                 "modulos_configurados": "Module` konfigurierte.",
                 "modulo_configurado": "`1 Modul` konfiguriert.",
-                "descricao_lista": "Nachfolgend sind alle Module und die jeweils konfigurierten Beträge aufgelistet!\n:gear: Derzeit gibt es auto_repl\n:bank: Der Wert in Bufunfas ist `B$ auto_repl` unter Berücksichtigung der aktiven Module.\n----------------------------------------------------------------------------\nauto_repl"
+                "descricao_lista": "Nachfolgend sind alle Module und die jeweils konfigurierten Beträge aufgelistet!\n:gear: Derzeit gibt es auto_repl\n:bank: Der Wert in Bufunfas ist `B$ auto_repl` unter Berücksichtigung der aktiven Module.\n----------------------------------------------------------------------------\nauto_repl",
+                "modulo_vitrine": "\n```📣 Dieses Modul bearbeitet die vorherige Nachricht, wenn es ausgelöst wird, und aktualisiert ihren Inhalt, ohne neue Nachrichten zu erstellen.```"
             },
             "b_historico": {
                 "movimentacoes": "Ihre letzten Banktransaktionen",
                 "daily": "Erhalten von /daily",
+                "daily_rendimento": "Einnahmen aus Bufunfas an Wochentagen",
                 "nivel": "Bonus für den Levelaufstieg",
                 "nivel_descricao": "Du bist aufgestiegen!\nAls Belohnung wurden deinem Konto Bufunfas im Wert von `B$250` hinzugefügt. Verwenden Sie den Befehl </bank statement:1020854564657844234>, um Ihren Transaktionsverlauf zu überprüfen.",
                 "modulos": "Modulwartung (auto_repl)",
@@ -704,7 +715,8 @@
                 "filtro_acoes": "Filter für moderate Aktionen",
                 "filtro_apenas_humanos": "Nur vom Menschen verursachte Aktionen",
                 "filtro_todas_fontes": "Alle Aktionen, auch von anderen Bots",
-                "servidores_link": "Server im Link"
+                "servidores_link": "Server im Link",
+                "limite_servidores": "Sie haben mehr Server ausgewählt als zulässig. Die folgenden Server wurden nicht verknüpft:\nauto_repl"
             },
             "xp": {
                 "permissao_1": "Sie können keine Mitglieder dieses Servers verwalten",
@@ -1111,7 +1123,7 @@
                 "mover_membros": "Mitglieder verschieben",
                 "conectar_canal": "Mit Kanälen verbinden",
                 "falar_canal": "Sprechen in Kanälen",
-                "descricao_modulo": "```🧻 | Dieses Modul ermöglicht es Servermitgliedern, dynamische Sprachkanäle zu erstellen, wenn sie einem bestimmten Kanal beitreten.\n\nLegen Sie einen Standard-Sprachkanal und eine feste Kategorie fest. Danach werden alle Mitglieder, die sich mit diesem Kanal verbinden, in einen neuen Kanal übertragen, der zur gleichen Zeit in der ausgewählten Kategorie erstellt wird. Jedes andere Mitglied, das sich mit dem aktivierenden Kanal verbindet, generiert einen separaten Kanal.\n\nWenn alle Mitglieder ihre Kanäle verlassen, werden sie nach der unten definierten Ablaufzeit gelöscht.```",
+                "descricao_modulo": "```🧻 | Mit diesem Modul können Servermitglieder dynamische Sprachkanäle erstellen, wenn sie einem bestimmten Kanal beitreten. Definieren Sie einen oder mehrere Standard-Sprachkanäle und eine oder mehrere Kategorien. Anschließend werden alle Mitglieder, die sich mit den Trigger-Kanälen verbinden, in neue Kanäle weitergeleitet, die gleichzeitig in der ausgewählten Kategorie erstellt werden. Jedes Mitglied, das sich mit einem Trigger-Kanal verbindet, generiert einen separaten Kanal.\n\nWenn alle Mitglieder ihre Kanäle verlassen und diese leer sind, werden sie nach der unten definierten Ablaufzeit gelöscht.```",
                 "canal_errado_voz": "Der definierte Kanal muss vom Typ Sprache sein. Bitte versuchen Sie es erneut.",
                 "canal_errado_categoria": "Der definierte Kanal muss vom Kategorietyp sein. Bitte versuchen Sie es erneut.",
                 "titulo_controle_canal": "> auto_repl-Kanalsteuerungen",
@@ -1653,7 +1665,17 @@
                 "customizacoes": "Anpassungen",
                 "nomes": "Namen",
                 "permitir_texto": "Text zulassen",
-                "preferencias": "Einstellungen"
+                "preferencias": "Einstellungen",
+                "impulso": "Impuls",
+                "impulsionar": "Schub",
+                "remover_impulso": "Impuls entfernen",
+                "impulsionar_servidor": "Boost-Server",
+                "virar_assinante": "Abonnent werden",
+                "vitrine": "Schaufenster",
+                "ativadores": "Aktivatoren",
+                "novo_ativador": "Neuer Aktivator",
+                "escolher_canal": "Kanal auswählen",
+                "modo_resumido": "Zusammenfassung"
             },
             "menus": {
                 "escolher_esse": "Wählen Sie diese",

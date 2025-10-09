@@ -76,7 +76,16 @@
                 "vitalicia": "Vitalícia",
                 "frase_assinante": "\n🌟 **Você é um assinante!**\nSua assinatura está válida até auto_repl\n💸 Aproveite `auto_repl% OFF` em recursos que gastam Bufunfas!",
                 "frase_nao_assinante": "\n🌟 **Você ainda não é um assinante!**\nAjude o Alonsal monetariamente e torne-se um assinante!\n🎇 Ao ser assinante, você poderá aproveitar `auto_repl% OFF` em recursos que gastam Bufunfas, ter limites de recursos expandidos e benefícios especiais!",
-                "notifica_user": "Aoba! Agora você é um assinante Alonsal! Sua assinatura estará válida até auto_repl, aproveite!!!"
+                "notifica_user": "Aoba! Agora você é um assinante Alonsal! Sua assinatura estará válida até auto_repl, aproveite!!!",
+                "impulso_servidor": "> Impulso de servidor ⚡",
+                "servidor_impulsionado": "```⚡ Este servidor está sendo impulsinado pelo Alonsal atualmente!```",
+                "servidor_sem_impulso": "```❌ Este servidor não está sendo impulsinado pelo Alonsal no momento...\nImpulsione!! 👩‍🚀⚡```",
+                "descricao_impulso_servidor": "Este servidor está sendo impulsionado até auto_repl!\n\nOs benefícios ativos no momento pelo impulso são os seguintes:",
+                "descricao_sem_impulso_servidor": "Como assinante do Alonsal, você pode vincular sua assinatura a um servidor!\n\nServidores impulsionados ganham limites maiores de recursos do Alonsal,\nimpulsione este servidor para desbloquear os seguintes recursos a todos os membros!",
+                "recursos_impulso": "\n\n**⚡ Módulos em servidores**\n- 🌐 Limite de módulos em servidor altera de `2` para `10` entre todos os tipos.\n- 📣 Acesso a módulos auto-editáveis, semelhante a vitrines.\n\n**🔊 Canais de voz dinâmicos**\n- 🧛‍♀️ Limite de usuários autorizados altera de `10` para `30` por servidor.\n- 💂‍♂️ Multi-ativadores como moderador altera de `2` para `10`.\n\n**🌐 Network**\n- 🌐 Limite de servidores do Network altera de `10` para `30`.",
+                "vinculado_servidor": "O impulso foi adicionado ao servidor!",
+                "vinculo_removido": "O impulso foi removido do servidor!",
+                "validade_impulso_servidor": "⚡ **Impulso do Alonsal**\nVálido até "
             },
             "modulo": {
                 "cabecalho_menu": "> Criando um módulo",
@@ -85,7 +94,7 @@
                 "ativacao": "Ativação",
                 "valor": "Valor",
                 "sem_bufunfa": "Você não possui Bufunfas o suficiente para usar módulos, consiga algumas com o comando </daily:1020794974377353338> antes!",
-                "sem_locale": "Para ativar o módulo de clima é necessário definir um local padrão com o comando </profile link:1209687272501420052> antes!",
+                "sem_locale": "Para ativar o módulo de clima é necessário definir um local padrão com o comando </profile link:1209687272501420052> antes ou informar o local ao executar este comando!",
                 "limite_modulos": "É possivel ativar apenas 3 módulos de cada tipo!",
                 "limite_modulos_subscriber": "É possivel ativar apenas 10 módulos de cada tipo!",
                 "excluido": "Seu módulo foi apagado",
@@ -118,7 +127,7 @@
                 "ativacao_min_8": "nas quintas-feiras às",
                 "ativacao_min_9": "nas sextas-feiras às",
                 "ativacao_min_10": "nos sábados às",
-                "descricao": "Este módulo irá descontar `B$ auto_repl`, quanto mais módulos ativar,\nmais bufunfas serão descontadas do seu banco por dia.\n\nAtualmente o valor por operar seus módulos é `B$ auto_repl`\n----------------------------------------------------------------------------",
+                "descricao": "Este módulo irá descontar `B$ auto_repl`, quanto mais módulos ativar,\nmais bufunfas serão descontadas do seu banco por dia.\n\nAtualmente o valor por operar seus módulos é `B$ auto_repl`\n----------------------------------------------------------------------------auto_repl",
                 "modulo_ativado": "Módulo ativado! Seu módulo será enviado auto_repl `auto_repl`",
                 "modulo_0": "🌩️ Clima",
                 "modulo_1": "🖊️ Frases",
@@ -133,11 +142,13 @@
                 "titulo": "> Seus módulos ⚡",
                 "modulos_configurados": "módulos` configurados.",
                 "modulo_configurado": "`1 módulo` configurado.",
-                "descricao_lista": "Abaixo estão listados todos os módulos, e suas quantias configuradas de cada!\n:gear: Atualmente há auto_repl\n:bank: O valor em bufunfas é de `B$ auto_repl` considerando todos os módulos ativos.\n----------------------------------------------------------------------------\nauto_repl"
+                "descricao_lista": "Abaixo estão listados todos os módulos, e suas quantias configuradas de cada!\n:gear: Atualmente há auto_repl\n:bank: O valor em bufunfas é de `B$ auto_repl` considerando todos os módulos ativos.\n----------------------------------------------------------------------------\nauto_repl",
+                "modulo_vitrine": "\n```📣 Este módulo irá editar a mensagem anterior sempre que for acionado, atualizando seu conteúdo sem criar novas mensagens.```"
             },
             "b_historico": {
                 "movimentacoes": "Suas últimas movimentações",
                 "daily": "Recebido do /daily",
+                "daily_rendimento": "Renda de Bufunfas em dias úteis",
                 "nivel": "Bônus por subir de nível",
                 "nivel_descricao": "Você subiu de nível!\nComo recompensa, foram creditadas `B$ 250` Bufunfas em sua conta, use o comando </bank statement:1020854564657844234> para verificar seu histórico de transações.\n\n||Do not speak Portuguese? No problems! Change my language right now with the </language:1018632996787589284> command!||",
                 "modulos": "Manutenção de módulos (auto_repl)",
@@ -408,7 +419,7 @@
             "apoio": {
                 "apoie": "> Apoie o Alonsal!",
                 "contribua": "Contribuir",
-                "escaneie": "Escaneie o código QR ou clique no botão abaixo para doar\ne ajudar a manter e desenvolver o Alonsal!\n\nToda ajuda é ultra Bem-vinda ;D"
+                "escaneie": "Ao ajudar o Alonsal monetariamente você será recompensado com o status de `👑 Assinante Alonsal`.\nComo assinante, você terá diversos benefícios em recursos do bot, como desconto de Bufunfas em `⚡ módulos` e `🎨 customizações`, limites maiores de `⚡ módulos` configurados, servidores em `🌎 Network`, membros autorizados em `🔊 canais de voz dinâmicos` e mais!\n\nScaneie o código QR ou clique no botão abaixo para doar\ne ajudar a manter e desenvolver o Alonsal!\n\nToda ajuda é ultra Bem-vinda ;D\n\n\n**🌟 Benefícios para assinantes**\n\n**⚡ Módulos**\n- 🕵️‍♂️ Limite de módulos pessoais altera de `3` para `10` por cada tipo.\n- 🌐 Limite de módulos em servidor altera de `2` para `10` entre todos os tipos.\n- 📣 Acesso a módulos auto-editáveis, semelhante a vitrines.\n\n**🔊 Canais de voz dinâmicos**\n- 🧛‍♀️ Limite de usuários autorizados altera de `10` para `30` por servidor.\n- 💂‍♂️ Multi-ativadores como moderador altera de `2` para `10`.\n\n**🌐 Network**\n- 🌐 Limite de servidores do Network altera de `10` para `30`.\n- \n\n**👑 Cosméticos**\n- 🏆 Badge exclusiva de ajudante.\n- 💸 Desconto `75% ++` em tudo que gaste Bufunfas."
             },
             "hub": {
                 "hub_alonsal": "> Hub do Alonsal",
@@ -528,8 +539,8 @@
             },
             "telemetria": {
                 "titulo": "> Dados de telemetria",
-                "descricao": "Para um melhor funcionamento do Alonsal utilizamos de vários dados anonimizados para decidir em quais recursos prover mais atenção e melhorar no futuro.\n\nDados esses podem vir de todas as funções do bot, o mais destacado deles é o de comandos, ao usar um comando, como este do /telemetria, o bot registra a interação em seu histórico de comandos disparados e exibe um pequeno resumo de qual servidor o comando foi usado, como na print em anexo abaixo.\n\nOutros dados que também coletamos estão listados abaixo:\n`Entrada e saída (do bot) de servidores`, `Total de servidores, canais e usuários que o bot consegue visualizar`, `Erros que ocorrerem durante um comando`, `Mensagens de texto para as experiências/nível`, `Movimentações de Bufunfas`, `Canais que recebem atualizações de jogos gratuitos`, e por fim estes últimos que são atualizados diariamente:\n\n`Comandos disparados, erros, experiência concedida, mensagens válidas para xp, bufunfas distribuídas e movimentadas, e servidores, canais e usuários \"conhecidos\".`",
-                "rodape": "🔰 | Vale ressaltar que entradas de texto são escondidas também, tornando o conteúdo digitado não visível para sua privacidade."
+                "descricao": "Para um melhor funcionamento do Alonsal utilizamos de vários dados anonimizados para decidir em quais recursos prover mais atenção e melhorar no futuro.\n\nDados esses podem vir de várias as funções do bot.\n\nOutros dados que também coletamos estão listados abaixo:\n`Entrada e saída (do bot) de servidores`, `Total de servidores, canais e usuários que o bot consegue visualizar`, `Erros que ocorrerem durante um comando`, `Mensagens de texto para as experiências/nível`, `Movimentações de Bufunfas`, `Canais que recebem atualizações de jogos gratuitos`, e por fim estes últimos que são atualizados diariamente, apenas em números:\n\n`Comandos disparados, erros, experiência concedida, mensagens válidas para xp, bufunfas distribuídas e movimentadas, botões, menus e canais dinâmicos utilizados, e por fim, servidores, canais e usuários \"conhecidos\".\n\nTodos esses dados também podem ser vistos através do comando `/Alonsal` em `📏 Estatísticas`.",
+                "rodape": "🔰 | Vale ressaltar que entradas de texto são escondidas também, tornando o conteúdo digitado não visível para a segurança de todos."
             },
             "traduz": {
                 "titulo": "> Banco de traduções Alonsianas",
@@ -764,7 +775,8 @@
                 "filtro_acoes": "Filtro de ações moderativas",
                 "filtro_apenas_humanos": "Apenas ações geradas por humanos",
                 "filtro_todas_fontes": "Todas as ações, incluindo de outros bots",
-                "servidores_link": "Servidores no link"
+                "servidores_link": "Servidores no link",
+                "limite_servidores": "Você selecionou mais servidores além do permitido, os seguintes servidores não foram vinculados:\nauto_repl"
             },
             "xp": {
                 "permissao": "Você não pode gerenciar os membros deste servidor",
@@ -1196,7 +1208,7 @@
                 "mover_membros": "Mover membros",
                 "conectar_canal": "Conectar em canais",
                 "falar_canal": "Falar em canais",
-                "descricao_modulo": "```🧻 | Este módulo concede a possibilidade dos membros do servidor criarem canais de voz dinâmicos ao ingressarem em um canal especifico.\n\nDefina um canal de voz padrão e uma categoria fixa, após isso, todos os membros que conectarem a este canal serão transferidos para um novo canal criado no mesmo instante na categoria selecionada, cada membro diferente que conectar no canal ativador gerará um canal separado.\n\nQuando todos os membros saírem de seus canais, os mesmos serão excluído após o tempo de expiração definido abaixo.```",
+                "descricao_modulo": "```🧻 | Este módulo concede a possibilidade dos membros do servidor criarem canais de voz dinâmicos ao ingressarem em um canal especifico.\n\nDefina um ou mais canais de voz padrão e uma ou mais categorias, após isso, todos os membros que conectarem aos canais ativadores serão transferidos para novos canais criados no mesmo instante na categoria selecionada, cada membro diferente que conectar em um canal ativador gerará um canal separado.\n\nQuando todos os membros saírem de seus canais e esses ficarem vazios, os mesmos serão excluído após o tempo de expiração definido abaixo.```",
                 "canal_errado_voz": "O canal definido precisa ser do tipo voz, tente novamente",
                 "canal_errado_categoria": "O canal definido precisa ser do tipo categoria, tente novamente",
                 "titulo_controle_canal": "> Controles do canal auto_repl",
@@ -1226,6 +1238,16 @@
                 "custom_on": "```fix\n✅ Este servidor permite customizações pessoais.```",
                 "custom_off": "```fix\n❌ Este servidor ignora customizações pessoais.```",
                 "usuarios_autorizados": "Usuários autorizados",
+                "limite_usuarios_autorizados": "Você selecionou mais membros além do permitido, os seguintes membros não foram adicionados:\nauto_repl",
+                "configurando_ativadores": "> Configurando ativadores",
+                "descricao_ativadores": "```fix\n🔊 Configure ativadores de voz extras para o servidor abaixo!\n\nCom ativadores extras, você poderá definir funcionamentos diferentes para cada ativador, com canais dinâmicos ainda mais especializados para alguma função.\n\nComo por exemplo, canais limitados para squads, duos, e o que der na telha!\n\nauto_repl```",
+                "title_trigger": "Configurando um ativador",
+                "descricao_trigger": "```fix\n🔊 Defina configurações especiais para este ativador abaixo.\n\nCom um ativador customizado você poderá definir o funcionamento dos canais de voz dinâmicos que forem gerados sempre que um membro conectar no canal gatilho informado abaixo.auto_repl",
+                "ativadores_duplicados": "\n\n🕵️‍♂️ Há ativadores configurados com o mesmo canal gatilho neste servidor!\nPor padrão, estarei utilizando apenas o primeiro ativador que possuir este canal gatilho configurado, por ordem de criação do ativador.",
+                "limite_triggers": "O limite de ativadores já foi atingido neste servidor!\nConfigure os ativadores existentes ou exclua algum para poder criar outros.",
+                "limite_habilitar": "O limite de ativadores habilitados foi atingido, não é possível habilitar este ativador.",
+                "habilitado": "Habilitado",
+                "desligado": "Desligado",
                 "nicknames": {
                     "all": "Usar todos",
                     "nicknames": "Apelidos",
@@ -1342,6 +1364,7 @@
                 "versao_add": "Versão adicionada",
                 "empilhavel": "Empilhável",
                 "renovavel": "Renovável",
+                "durabilidade": "Durabilidade",
                 "nome_interno": "Nome interno",
                 "construcao": "Construção",
                 "pocoes": "Poções",
@@ -1350,6 +1373,7 @@
                 "disco_musical": "Disco musical",
                 "livro_encantado": "Livro encantado",
                 "sugestao_pesquisa": "Item errado? Tente pesquisar utilizando aspas, por exemplo </mine:1018609879562334390> \"auto_repl\"",
+                "wiki_sobre": "Wiki sobre auto_repl",
                 "mais_detalhes_wiki": "[Veja mais detalhes na wiki](auto_repl)",
                 "nota_rodape": "Este item ainda não foi oficialmente implementado, seus dados não são oficiais",
                 "sim": "Sim",
@@ -1710,7 +1734,17 @@
                 "customizacoes": "Customizações",
                 "nomes": "Nomes",
                 "permitir_texto": "Permitir texto",
-                "preferencias": "Preferências"
+                "preferencias": "Preferências",
+                "impulso": "Impulso",
+                "impulsionar": "Impulsionar",
+                "remover_impulso": "Remover impulso",
+                "impulsionar_servidor": "Impulsionar servidor",
+                "virar_assinante": "Tornar-se assinante",
+                "vitrine": "Vitrine",
+                "ativadores": "Ativadores",
+                "novo_ativador": "Novo ativador",
+                "escolher_canal": "Escolher canal",
+                "modo_resumido": "Modo resumido"
             },
             "menus": {
                 "escolher_esse": "Escolher esse",

@@ -1105,7 +1105,7 @@
                 "mover_membros": "Mover usuarios",
                 "conectar_canal": "Conectarse a los canales",
                 "falar_canal": "Hablar en canales",
-                "descricao_modulo": "```🧻 | Este módulo otorga la posibilidad a los miembros del servidor de crear canales de voz dinámicos al unirse a un canal específico.\n\nEstablezca un canal de voz predeterminado y una categoría fija, después de eso, todos los miembros que se conecten a este canal serán transferidos a un nuevo canal creado al mismo tiempo en la categoría seleccionada, cada miembro diferente que se conecte al canal activador generará un canal separado.\n\nCuando todos los miembros abandonen sus canales, serán eliminados después del tiempo de expiración definido a continuación.```",
+                "descricao_modulo": "```🧻 | Este módulo permite a los miembros del servidor crear canales de voz dinámicos al unirse a un canal específico. Defina uno o más canales de voz predeterminados y una o más categorías. Posteriormente, todos los miembros que se conecten a los canales de activación serán transferidos a nuevos canales creados simultáneamente en la categoría seleccionada. Cada miembro que se conecte a un canal de activación generará un canal independiente.\n\nCuando todos los miembros abandonen sus canales y estos queden vacíos, se eliminarán tras el tiempo de expiración definido a continuación.```",
                 "canal_errado_voz": "El canal definido debe ser de tipo voz, inténtelo nuevamente.",
                 "canal_errado_categoria": "El canal definido debe ser de tipo categoría, inténtelo nuevamente.",
                 "titulo_controle_canal": "> Controles del canal auto_repl",
@@ -1584,7 +1584,14 @@
                 "limpar_membros": "Eliminar usuarios",
                 "customizacoes": "Personalizaciones",
                 "nomes": "Nombres",
-                "preferencias": "Preferencias"
+                "preferencias": "Preferencias",
+                "remover_impulso": "Eliminar impulso",
+                "virar_assinante": "Hazte suscriptor",
+                "vitrine": "Escaparate",
+                "ativadores": "Activadores",
+                "novo_ativador": "Nuevo activador",
+                "escolher_canal": "Elige canal",
+                "modo_resumido": "Modo resumen"
             },
             "menus": {
                 "escolher_esse": "Elige esto",

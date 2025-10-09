@@ -75,7 +75,16 @@
                 "vitalicia": "Infini",
                 "frase_assinante": "\n🌟 **Vous êtes abonné!**\nVotre abonnement est valable jusqu'au auto_repl\n💸 Profitez de `auto_repl% OFF` sur les fonctionnalités qui dépensent des Bufunfas!",
                 "frase_nao_assinante": "\n🌟 **Vous n'êtes pas encore abonné!**\nAidez Alonsal financièrement et devenez abonné!\n🎇 En devenant abonné, vous pourrez profiter de `auto_repl% OFF` sur les ressources qui dépensent des Bufunfas, avoir des limites de ressources étendues et des avantages spéciaux!",
-                "notifica_user": "Bonjour! Vous êtes désormais abonné à Alonsal! Votre abonnement sera valable jusqu'au auto_repl, profitez-en!!!"
+                "notifica_user": "Bonjour! Vous êtes désormais abonné à Alonsal! Votre abonnement sera valable jusqu'au auto_repl, profitez-en!!!",
+                "impulso_servidor": "> Boost du serveur ⚡",
+                "servidor_impulsionado": "```⚡ Ce serveur est actuellement alimenté par Alonsal !```",
+                "servidor_sem_impulso": "```❌ Ce serveur n'est actuellement pas boosté par Alonsal...\nBoostez-le!! 👩‍🚀⚡```",
+                "descricao_impulso_servidor": "Ce serveur est en cours de boost pour devenir auto_repl!\n\nLes avantages actuellement actifs du boost sont les suivants:",
+                "descricao_sem_impulso_servidor": "En tant qu'abonné Alonsal, vous pouvez lier votre abonnement à un serveur !\n\nLes serveurs boostés bénéficient de limites de ressources Alonsal accrues,\niboostez ce serveur pour débloquer les fonctionnalités suivantes pour tous les membres!",
+                "recursos_impulso": "\n\n**⚡ Modules serveur**\n- 🌐 La limite des modules serveur est passée de `2` à `10` pour tous les types.\n- 📣 Accès aux modules d'auto-édition, similaires aux vitrines.\n\n**🔊 Canaux vocaux dynamiques**\n- 🧛‍♀️ La limite d'utilisateurs autorisés est passée de `10` à `30` par serveur.\n- 💂‍♂️ Les multi-activateurs en tant que modérateur sont passés de `2` à `10`.\n\n**🌐 Réseau**\n- 🌐 La limite du serveur réseau est passée de `10` à `30`.",
+                "vinculado_servidor": "Boost a été ajouté au serveur!",
+                "vinculo_removido": "Le boost a été supprimé du serveur!",
+                "validade_impulso_servidor": "⚡ **Alonsal Boost**\nValable jusqu'en "
             },
             "modulo": {
                 "cabecalho_menu": "> Création d'un module",
@@ -132,7 +141,8 @@
                 "titulo": "> Ses modules ⚡",
                 "modulos_configurados": "modules` configurés.",
                 "modulo_configurado": "`1 module` configuré.",
-                "descricao_lista": "Vous trouverez ci-dessous la liste de tous les modules et leurs montants configurés pour chacun!\n:gear: Il y a actuellement auto_repl\n:bank: Le montant en Bufunfas est `B$ auto_repl` pour tous les modules actifs.\n----------------------------------------------------------------------------\nauto_repl"
+                "descricao_lista": "Vous trouverez ci-dessous la liste de tous les modules et leurs montants configurés pour chacun!\n:gear: Il y a actuellement auto_repl\n:bank: Le montant en Bufunfas est `B$ auto_repl` pour tous les modules actifs.\n----------------------------------------------------------------------------\nauto_repl",
+                "modulo_vitrine": "\n```📣 Ce module modifiera le message précédent à chaque fois qu'il sera déclenché, mettant à jour son contenu sans créer de nouveaux messages.```"
             },
             "b_historico": {
                 "movimentacoes": "Vos dernières opérations bancaires",
@@ -1140,7 +1150,7 @@
                 "mover_membros": "Bouger les membres",
                 "conectar_canal": "Se connecter aux chaînes",
                 "falar_canal": "Parlez sur les chaînes",
-                "descricao_modulo": "```🧻 | Ce module permet aux membres du serveur de créer des canaux vocaux dynamiques lorsqu'ils rejoignent un canal spécifique.\n\nDéfinissez un canal vocal par défaut et une catégorie fixe. Ensuite, tous les membres qui se connectent à ce canal seront transférés vers un nouveau canal créé simultanément dans la catégorie sélectionnée, chaque membre différent qui se connecte au canal d'activation génère un canal distinct.\n\nLorsque tous les membres quittent leur canal, ils sont supprimés après le délai d'expiration défini ci-dessous..```",
+                "descricao_modulo": "```🧻 | Ce module permet aux membres du serveur de créer des canaux vocaux dynamiques lorsqu'ils rejoignent un canal spécifique. Définissez un ou plusieurs canaux vocaux par défaut et une ou plusieurs catégories. Ensuite, tous les membres se connectant aux canaux déclencheurs seront transférés vers les nouveaux canaux créés simultanément dans la catégorie sélectionnée. Chaque membre se connectant à un canal déclencheur génère un canal distinct.\n\nLorsque tous les membres quittent leurs canaux et que ceux-ci deviennent vides, ils sont supprimés après le délai d'expiration défini ci-dessous.```",
                 "canal_errado_voz": "Le canal défini doit être de type vocal, veuillez réessayer.",
                 "canal_errado_categoria": "Le canal défini doit être de type catégorie, veuillez réessayer.",
                 "titulo_controle_canal": "> Commandes du canal auto_repl",
@@ -1681,7 +1691,16 @@
                 "customizacoes": "Personnalisations",
                 "nomes": "Noms",
                 "permitir_texto": "Autoriser le texte",
-                "preferencias": "Préférences"
+                "preferencias": "Préférences",
+                "impulso": "Impulsion",
+                "impulsionar": "Booster",
+                "remover_impulso": "Supprimer l'impulsion",
+                "impulsionar_servidor": "Serveur Boost",
+                "virar_assinante": "Devenez abonné",
+                "ativadores": "Activateurs",
+                "novo_ativador": "Nouvel activateur",
+                "escolher_canal": "Choisissez la chaîne",
+                "modo_resumido": "Mode résumé"
             },
             "menus": {
                 "escolher_esse": "Choisissez ceci",
