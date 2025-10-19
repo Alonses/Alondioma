@@ -305,6 +305,15 @@
                 "na_superficie": "sulla superficie",
                 "o_nether": "nel Nether",
                 "a_superficie": "la superficie"
+            },
+            "chunk": {
+                "titulo": "La tua posizione nel chunk",
+                "coordenadas": "Coordinate",
+                "dentro_chunk": "All'interno del chunk",
+                "norte": "Nord",
+                "leste": "Est",
+                "sul": "Sud",
+                "oeste": "Ovest"
             }
         },
         "manu": {

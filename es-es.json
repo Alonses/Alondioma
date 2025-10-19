@@ -309,6 +309,12 @@
                 "na_superficie": "en la superficie",
                 "o_nether": "en el Nether",
                 "a_superficie": "la superficie"
+            },
+            "chunk": {
+                "titulo": "Tu posición en el chunk",
+                "dentro_chunk": "Dentro del chunk",
+                "leste": "Este",
+                "sul": "Sur"
             }
         },
         "manu": {

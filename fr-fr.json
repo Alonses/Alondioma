@@ -339,6 +339,15 @@
                 "na_superficie": "à la Surface",
                 "o_nether": "au Nether",
                 "a_superficie": "la Surface"
+            },
+            "chunk": {
+                "titulo": "Votre position dans le chunk",
+                "coordenadas": "Coordonnées",
+                "dentro_chunk": "À l'intérieur du chunk",
+                "norte": "Nord",
+                "leste": "Est",
+                "sul": "Sud",
+                "oeste": "Ouest"
             }
         },
         "manu": {

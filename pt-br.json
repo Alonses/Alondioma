@@ -365,6 +365,15 @@
                 "na_superficie": "na Superfície",
                 "o_nether": "no Nether",
                 "a_superficie": "a Superfície"
+            },
+            "chunk": {
+                "titulo": "Sua posição na chunk",
+                "coordenadas": "Coordenadas",
+                "dentro_chunk": "Dentro da chunk",
+                "norte": "Norte",
+                "leste": "Leste",
+                "sul": "Sul",
+                "oeste": "Oeste"
             }
         },
         "manu": {

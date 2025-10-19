@@ -353,6 +353,15 @@
                 "na_superficie": "in the Overworld",
                 "o_nether": "in the Nether",
                 "a_superficie": "the Overworld"
+            },
+            "chunk": {
+                "titulo": "Your position in the chunk",
+                "coordenadas": "Coordinates",
+                "dentro_chunk": "Inside the chunk",
+                "norte": "North",
+                "leste": "East",
+                "sul": "South",
+                "oeste": "West"
             }
         },
         "manu": {

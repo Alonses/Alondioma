@@ -302,6 +302,15 @@
                 "na_superficie": "в верхнем мире",
                 "o_nether": "в Nether",
                 "a_superficie": "в верхний мир"
+            },
+            "chunk": {
+                "titulo": "Ваша позиция в чанке",
+                "coordenadas": "Координаты",
+                "dentro_chunk": "В пределах chunk",
+                "norte": "Север",
+                "leste": "Восток",
+                "sul": "Юг",
+                "oeste": "Запад"
             }
         },
         "manu": {
