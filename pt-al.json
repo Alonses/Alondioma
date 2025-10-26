@@ -6,13 +6,15 @@
         "volte": "volta",
         "novamente": "dnv",
         "não": "n",
-        "slash": "barra",
+        "slash": "slasho",
         "fixada": "colada",
         "servers": "serveres",
         "esta": "sta",
+        "está": "sta",
         "botão": "butão",
         "jogos": "joojs",
         "moderador": "admir",
+        "moderadores": "admirs",
         "outros": "otros",
         "outras": "otras",
         "dados": "🎲",
@@ -22,12 +24,15 @@
         "canal": "knel",
         "xp": "exp",
         "experiência": "exp",
+        "removido": "apagado",
         "removidos": "apagados",
         "também": "tbm",
         "ativo": "ligado",
         "ativados": "ligados",
         "usuário": "corno",
+        "usuários": "cornos",
         "idioma": "lingua",
-        "idiomas": "linguas"
+        "idiomas": "linguas",
+        "que": "q"
     }
 }

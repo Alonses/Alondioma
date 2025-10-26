@@ -142,7 +142,9 @@
                 "modulos_configurados": "moduli` configurati.",
                 "modulo_configurado": "`1 modulo` configurato.",
                 "descricao_lista": "Di seguito sono riportati tutti i moduli e i valori configurati!\n:gear: Attualmente c'è auto_repl\n:bank: Il valore in Bufunfas è `B$ auto_repl` tenendo conto dei moduli attivi.\n----------------------------------------------------------------------------\nauto_repl",
-                "modulo_vitrine": "\n```📣 Questo modulo modificherà il messaggio precedente ogni volta che verrà attivato, aggiornandone il contenuto senza creare nuovi messaggi.```"
+                "modulo_vitrine": "\n```📣 Questo modulo modificherà il messaggio precedente ogni volta che verrà attivato, aggiornandone il contenuto senza creare nuovi messaggi.```",
+                "falta_permissao_server": "Вы не сможете создать серверный модуль, не имея разрешения `Управление сообщениями`. Создайте модуль для личного использования.",
+                "tipo_invalido_games": "Questo tipo di modulo non può essere attivo sui server, per farlo usa il comando </panel guild:1107163338930126869> e vai alla scheda `🎮 Annuncio di gioco`."
             },
             "b_historico": {
                 "movimentacoes": "Le tue ultime transazioni bancarie",
@@ -815,6 +817,8 @@
                 "id_membro": "ID membro:",
                 "canal_entrada": "<@auto_repl> entrato nel canale vocale <#auto_repl>",
                 "canal_saida": "<@auto_repl> lasciato il canale vocale <#auto_repl>",
+                "canal_antigo": "Vecchio canale",
+                "canal_novo": "Nuovo canale",
                 "canal_troca": "<@auto_repl> cambiato dal canale vocale <#auto_repl> al <#auto_repl>",
                 "convite_criado_titulo": "> Invito creato 🔗",
                 "convite_excluido_titulo": "> Invito cancellato 🔗",
@@ -1781,6 +1785,8 @@
                 "604800": "Ultimi 7 giorni"
             },
             "invalid": {
+                "titulo": "Non c'è niente in questo campo!",
+                "descricao": "Hai effettuato l'accesso a questa risorsa, ma non trovi nulla...",
                 "role": "Al momento non ci sono ruoli da selezionare...",
                 "channel": "Al momento non ci sono canali da selezionare...",
                 "category": "Al momento non ci sono categorie da selezionare...",

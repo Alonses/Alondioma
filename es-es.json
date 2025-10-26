@@ -806,6 +806,8 @@
                 "id_membro": "ID de miembro:",
                 "canal_entrada": "<@auto_repl> entró en el canal de voz <#auto_repl>",
                 "canal_saida": "<@auto_repl> abandonó el canal de voz <#auto_repl>",
+                "canal_antigo": "Canal antiguo",
+                "canal_novo": "Nuevo canal",
                 "canal_troca": "<@auto_repl> cambiado del canal de voz <#auto_repl> a <#auto_repl>",
                 "convite_criado_titulo": "> Invitación creada 🔗",
                 "convite_excluido_titulo": "> Invitación eliminada 🔗",
@@ -1689,6 +1691,8 @@
                 "604800": "Últimos 7 días"
             },
             "invalid": {
+                "titulo": "¡No hay nada en este campo!",
+                "descricao": "Accediste a este recurso, pero no hay nada aquí...",
                 "role": "No hay roles para seleccionar en este momento...",
                 "channel": "No hay canales para seleccionar en este momento...",
                 "category": "No hay categorías para seleccionar en este momento...",

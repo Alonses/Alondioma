@@ -74,14 +74,14 @@
             "assinante": {
                 "assinatura_infinita": "o infinito e além!",
                 "vitalicia": "Vitalícia",
-                "frase_assinante": "\n🌟 **Você é um assinante!**\nSua assinatura está válida até auto_repl\n💸 Aproveite `auto_repl% OFF` em recursos que gastam Bufunfas!",
-                "frase_nao_assinante": "\n🌟 **Você ainda não é um assinante!**\nAjude o Alonsal monetariamente e torne-se um assinante!\n🎇 Ao ser assinante, você poderá aproveitar `auto_repl% OFF` em recursos que gastam Bufunfas, ter limites de recursos expandidos e benefícios especiais!",
-                "notifica_user": "Aoba! Agora você é um assinante Alonsal! Sua assinatura estará válida até auto_repl, aproveite!!!",
+                "frase_assinante": "\n🌟 **Você é um impulsionador!**\nSua assinatura está válida até auto_repl\n💸 Aproveite `auto_repl% OFF` em recursos que gastam Bufunfas!",
+                "frase_nao_assinante": "\n🌟 **Você ainda não é um impulsionador!**\nAjude o Alonsal monetariamente e torne-se um impulsionador!\n🎇 Ao ser impulsionador, você poderá aproveitar `auto_repl% OFF` em recursos que gastam Bufunfas, ter limites de recursos expandidos e benefícios especiais!",
+                "notifica_user": "Aoba! Agora você é um impulsionador Alonsal! Sua assinatura estará válida até auto_repl, aproveite!!!",
                 "impulso_servidor": "> Impulso de servidor ⚡",
                 "servidor_impulsionado": "```⚡ Este servidor está sendo impulsinado pelo Alonsal atualmente!```",
                 "servidor_sem_impulso": "```❌ Este servidor não está sendo impulsinado pelo Alonsal no momento...\nImpulsione!! 👩‍🚀⚡```",
                 "descricao_impulso_servidor": "Este servidor está sendo impulsionado até auto_repl!\n\nOs benefícios ativos no momento pelo impulso são os seguintes:",
-                "descricao_sem_impulso_servidor": "Como assinante do Alonsal, você pode vincular sua assinatura a um servidor!\n\nServidores impulsionados ganham limites maiores de recursos do Alonsal,\nimpulsione este servidor para desbloquear os seguintes recursos a todos os membros!",
+                "descricao_sem_impulso_servidor": "Como impulsionador do Alonsal, você pode vincular sua assinatura a um servidor!\n\nServidores impulsionados ganham limites maiores de recursos do Alonsal,\nimpulsione este servidor para desbloquear os seguintes recursos a todos os membros!",
                 "recursos_impulso": "\n\n**⚡ Módulos em servidores**\n- 🌐 Limite de módulos em servidor altera de `2` para `10` entre todos os tipos.\n- 📣 Acesso a módulos auto-editáveis, semelhante a vitrines.\n\n**🔊 Canais de voz dinâmicos**\n- 🧛‍♀️ Limite de usuários autorizados altera de `10` para `30` por servidor.\n- 💂‍♂️ Multi-ativadores como moderador altera de `2` para `10`.\n\n**🌐 Network**\n- 🌐 Limite de servidores do Network altera de `10` para `30`.",
                 "vinculado_servidor": "O impulso foi adicionado ao servidor!",
                 "vinculo_removido": "O impulso foi removido do servidor!",
@@ -143,7 +143,9 @@
                 "modulos_configurados": "módulos` configurados.",
                 "modulo_configurado": "`1 módulo` configurado.",
                 "descricao_lista": "Abaixo estão listados todos os módulos, e suas quantias configuradas de cada!\n:gear: Atualmente há auto_repl\n:bank: O valor em bufunfas é de `B$ auto_repl` considerando todos os módulos ativos.\n----------------------------------------------------------------------------\nauto_repl",
-                "modulo_vitrine": "\n```📣 Este módulo irá editar a mensagem anterior sempre que for acionado, atualizando seu conteúdo sem criar novas mensagens.```"
+                "modulo_vitrine": "\n```📣 Este módulo irá editar a mensagem anterior sempre que for acionado, atualizando seu conteúdo sem criar novas mensagens.```",
+                "falta_permissao_server": "Você não pode criar um módulo de servidor sem possuir a permissão para `Gerenciar mensagens`, por gentileza, crie um módulo para uso pessoal.",
+                "tipo_invalido_games": "Esse tipo de módulo não pode ser ativo em servidores, para isso, utilize o comando </panel guild:1107163338930126869> e vá até a guia `🎮 Anúncio de Games`."
             },
             "b_historico": {
                 "movimentacoes": "Suas últimas movimentações",
@@ -428,7 +430,7 @@
             "apoio": {
                 "apoie": "> Apoie o Alonsal!",
                 "contribua": "Contribuir",
-                "escaneie": "Ao ajudar o Alonsal monetariamente você será recompensado com o status de `👑 Assinante Alonsal`.\nComo assinante, você terá diversos benefícios em recursos do bot, como desconto de Bufunfas em `⚡ módulos` e `🎨 customizações`, limites maiores de `⚡ módulos` configurados, servidores em `🌎 Network`, membros autorizados em `🔊 canais de voz dinâmicos` e mais!\n\nScaneie o código QR ou clique no botão abaixo para doar\ne ajudar a manter e desenvolver o Alonsal!\n\nToda ajuda é ultra Bem-vinda ;D\n\n\n**🌟 Benefícios para assinantes**\n\n**⚡ Módulos**\n- 🕵️‍♂️ Limite de módulos pessoais altera de `3` para `10` por cada tipo.\n- 🌐 Limite de módulos em servidor altera de `2` para `10` entre todos os tipos.\n- 📣 Acesso a módulos auto-editáveis, semelhante a vitrines.\n\n**🔊 Canais de voz dinâmicos**\n- 🧛‍♀️ Limite de usuários autorizados altera de `10` para `30` por servidor.\n- 💂‍♂️ Multi-ativadores como moderador altera de `2` para `10`.\n\n**🌐 Network**\n- 🌐 Limite de servidores do Network altera de `10` para `30`.\n- \n\n**👑 Cosméticos**\n- 🏆 Badge exclusiva de ajudante.\n- 💸 Desconto `75% ++` em tudo que gaste Bufunfas."
+                "escaneie": "Ao ajudar o Alonsal monetariamente você será recompensado com o status de `👑 Impulsionador Alonsal`.\nComo impulsionador, você terá diversos benefícios em recursos do bot, como desconto de Bufunfas em `⚡ módulos` e `🎨 customizações`, limites maiores de `⚡ módulos` configurados, servidores em `🌎 Network`, membros autorizados em `🔊 canais de voz dinâmicos` e mais!\n\nScaneie o código QR ou clique no botão abaixo para doar\ne ajudar a manter e desenvolver o Alonsal!\n\nToda ajuda é ultra Bem-vinda ;D\n\n\n**🌟 Benefícios para impulsionadores**\n\n**⚡ Módulos**\n- 🕵️‍♂️ Limite de módulos pessoais altera de `3` para `10` por cada tipo.\n- 🌐 Limite de módulos em servidor altera de `2` para `10` entre todos os tipos.\n- 📣 Acesso a módulos auto-editáveis, semelhante a vitrines.\n\n**🔊 Canais de voz dinâmicos**\n- 🧛‍♀️ Limite de usuários autorizados altera de `10` para `30` por servidor.\n- 💂‍♂️ Multi-ativadores como moderador altera de `2` para `10`.\n\n**🌐 Network**\n- 🌐 Limite de servidores do Network altera de `10` para `30`.\n- \n\n**👑 Cosméticos**\n- 🏆 Badge exclusiva de ajudante.\n- 💸 Desconto `75% ++` em tudo que gaste Bufunfas."
             },
             "hub": {
                 "hub_alonsal": "> Hub do Alonsal",
@@ -885,6 +887,8 @@
                 "id_membro": "ID do membro:",
                 "canal_entrada": "<@auto_repl> entrou no canal de voz <#auto_repl>",
                 "canal_saida": "<@auto_repl> saiu do canal de voz <#auto_repl>",
+                "canal_antigo": "Canal antigo",
+                "canal_novo": "Canal novo",
                 "canal_troca": "<@auto_repl> mudou do canal de voz <#auto_repl> para o <#auto_repl>",
                 "convite_criado_titulo": "> Convite criado 🔗",
                 "convite_excluido_titulo": "> Convite excluído 🔗",
@@ -1748,7 +1752,7 @@
                 "impulsionar": "Impulsionar",
                 "remover_impulso": "Remover impulso",
                 "impulsionar_servidor": "Impulsionar servidor",
-                "virar_assinante": "Tornar-se assinante",
+                "virar_assinante": "Tornar-se impulsionador",
                 "vitrine": "Vitrine",
                 "ativadores": "Ativadores",
                 "novo_ativador": "Novo ativador",
@@ -1864,6 +1868,8 @@
                 "604800": "Últimos 7 dias"
             },
             "invalid": {
+                "titulo": "Não há nada neste campo!",
+                "descricao": "Você acessou um recurso, mas não tem nada aqui...",
                 "role": "Não há cargos para selecionar no momento...",
                 "channel": "Não há canais para selecionar no momento...",
                 "category": "Não há categorias para selecionar no momento...",

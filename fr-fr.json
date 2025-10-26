@@ -142,7 +142,9 @@
                 "modulos_configurados": "modules` configurés.",
                 "modulo_configurado": "`1 module` configuré.",
                 "descricao_lista": "Vous trouverez ci-dessous la liste de tous les modules et leurs montants configurés pour chacun!\n:gear: Il y a actuellement auto_repl\n:bank: Le montant en Bufunfas est `B$ auto_repl` pour tous les modules actifs.\n----------------------------------------------------------------------------\nauto_repl",
-                "modulo_vitrine": "\n```📣 Ce module modifiera le message précédent à chaque fois qu'il sera déclenché, mettant à jour son contenu sans créer de nouveaux messages.```"
+                "modulo_vitrine": "\n```📣 Ce module modifiera le message précédent à chaque fois qu'il sera déclenché, mettant à jour son contenu sans créer de nouveaux messages.```",
+                "falta_permissao_server": "Vous ne pouvez pas créer un module serveur sans avoir l'autorisation `Gérer les messages`, veuillez créer un module pour un usage personnel.",
+                "tipo_invalido_games": "Ce type de module ne peut pas être actif sur les serveurs, pour cela utilisez la commande </panel guild:1107163338930126869> et allez dans l'onglet `🎮 Annonce du jeu`."
             },
             "b_historico": {
                 "movimentacoes": "Vos dernières opérations bancaires",
@@ -851,6 +853,8 @@
                 "id_membro": "ID de l'utilisateur:",
                 "canal_entrada": "<@auto_repl> est entré dans le canal vocal <#auto_repl>",
                 "canal_saida": "<@auto_repl> a quitté le canal vocal <#auto_repl>",
+                "canal_antigo": "Ancienne chaîne",
+                "canal_novo": "Nouvelle chaîne",
                 "canal_troca": "<@auto_repl> changé du canal vocal <#auto_repl> au canal <#auto_repl>",
                 "convite_criado_titulo": "> Invitation créée 🔗",
                 "convite_excluido_titulo": "> Invitation supprimée 🔗",
@@ -1820,6 +1824,8 @@
                 "604800": "Dernières 7 jours"
             },
             "invalid": {
+                "titulo": "Il n'y a rien dans ce champ!",
+                "descricao": "Vous avez accédé à cette ressource, mais il n'y a rien ici...",
                 "role": "Il n'y a aucun rôle à sélectionner pour le moment...",
                 "channel": "Il n'y a aucune chaîne à sélectionner pour le moment...",
                 "category": "Il n'y a aucune catégorie à sélectionner pour le moment...",

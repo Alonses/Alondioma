@@ -142,7 +142,9 @@
                 "modulos_configurados": "modules` configured.",
                 "modulo_configurado": "`1 module` configured.",
                 "descricao_lista": "Below are listed all modules, and their configured amounts for each!\n:gear: Currently there is auto_repl\n:bank: The value in Bufunfas is `B$ auto_repl` for all active modules.\n----------------------------------------------------------------------------\nauto_repl",
-                "modulo_vitrine": "\n```📣 This module will edit the previous message whenever it is triggered, updating its content without creating new messages.```"
+                "modulo_vitrine": "\n```📣 This module will edit the previous message whenever it is triggered, updating its content without creating new messages.```",
+                "falta_permissao_server": "You cannot create a server module without having the `Manage Messages` permission, please create a module for personal use instead.",
+                "tipo_invalido_games": "This type of module cannot be activated on servers; to do so, use the command </panel guild:1107163338930126869> and go to the `🎮 Game Announcements` tab."
             },
             "b_historico": {
                 "movimentacoes": "Your last bank transactions",
@@ -863,6 +865,8 @@
                 "id_membro": "Member ID:",
                 "canal_entrada": "<@auto_repl> entered the voice channel <#auto_repl>",
                 "canal_saida": "<@auto_repl> left the voice channel <#auto_repl>",
+                "canal_antigo": "Old channel",
+                "canal_novo": "New channel",
                 "canal_troca": "<@auto_repl> changed from the voice channel <#auto_repl> to the <#auto_repl>",
                 "convite_criado_titulo": "> Invitation created 🔗",
                 "convite_excluido_titulo": "> Invitation deleted 🔗",
@@ -1839,6 +1843,8 @@
                 "604800": "Last 7 days"
             },
             "invalid": {
+                "titulo": "There is nothing in this field!",
+                "descricao": "You've accessed this resource, but there's nothing here...",
                 "role": "There are no roles to select at this time...",
                 "channel": "There are no channels to select at this time...",
                 "category": "There are no categories to select at this time...",

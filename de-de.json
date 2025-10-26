@@ -142,7 +142,9 @@
                 "modulos_configurados": "Module` konfigurierte.",
                 "modulo_configurado": "`1 Modul` konfiguriert.",
                 "descricao_lista": "Nachfolgend sind alle Module und die jeweils konfigurierten Beträge aufgelistet!\n:gear: Derzeit gibt es auto_repl\n:bank: Der Wert in Bufunfas ist `B$ auto_repl` unter Berücksichtigung der aktiven Module.\n----------------------------------------------------------------------------\nauto_repl",
-                "modulo_vitrine": "\n```📣 Dieses Modul bearbeitet die vorherige Nachricht, wenn es ausgelöst wird, und aktualisiert ihren Inhalt, ohne neue Nachrichten zu erstellen.```"
+                "modulo_vitrine": "\n```📣 Dieses Modul bearbeitet die vorherige Nachricht, wenn es ausgelöst wird, und aktualisiert ihren Inhalt, ohne neue Nachrichten zu erstellen.```",
+                "falta_permissao_server": "Sie können kein Servermodul erstellen, ohne über die Berechtigung `Nachrichten verwalten` zu verfügen. Erstellen Sie bitte ein Modul für den persönlichen Gebrauch.",
+                "tipo_invalido_games": "Dieser Modultyp kann auf Servern nicht aktiv sein. Verwenden Sie dazu den Befehl </panel guild:1107163338930126869> und gehen Sie zur Registerkarte `🎮 Spielankündigung`."
             },
             "b_historico": {
                 "movimentacoes": "Ihre letzten Banktransaktionen",
@@ -823,6 +825,8 @@
                 "id_membro": "Benutzer-ID:",
                 "canal_entrada": "<@auto_repl> betrat den Sprachkanal <#auto_repl>",
                 "canal_saida": "<@auto_repl> hat den Sprachkanal verlassen <#auto_repl>",
+                "canal_antigo": "Alter Kanal",
+                "canal_novo": "Neuer Kanal",
                 "canal_troca": "<@auto_repl> vom Sprachkanal <#auto_repl> zu <#auto_repl> geändert",
                 "convite_criado_titulo": "> Einladung erstellt 🔗",
                 "convite_excluido_titulo": "> Einladung gelöscht 🔗",
@@ -1795,6 +1799,8 @@
                 "604800": "Letzte 7 Tage"
             },
             "invalid": {
+                "titulo": "In diesem Feld steht nichts!",
+                "descricao": "Sie haben auf diese Ressource zugegriffen, aber hier ist nichts...",
                 "role": "Zurzeit können keine Rollen ausgewählt werden...",
                 "channel": "Zurzeit stehen keine Kanäle zur Auswahl...",
                 "category": "Zurzeit stehen keine Kategorien zur Auswahl...",
