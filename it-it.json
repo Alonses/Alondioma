@@ -820,6 +820,7 @@
                 "canal_antigo": "Vecchio canale",
                 "canal_novo": "Nuovo canale",
                 "canal_troca": "<@auto_repl> cambiato dal canale vocale <#auto_repl> al <#auto_repl>",
+                "canal_movido": "<@auto_repl> ha spostato <@auto_repl> dal canale vocale <#auto_repl> a <#auto_repl>",
                 "convite_criado_titulo": "> Invito creato 🔗",
                 "convite_excluido_titulo": "> Invito cancellato 🔗",
                 "convite_criado": "È stato creato un nuovo invito al server!",

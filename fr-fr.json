@@ -856,6 +856,7 @@
                 "canal_antigo": "Ancienne chaîne",
                 "canal_novo": "Nouvelle chaîne",
                 "canal_troca": "<@auto_repl> changé du canal vocal <#auto_repl> au canal <#auto_repl>",
+                "canal_movido": "<@auto_repl> a déplacé <@auto_repl> du canal vocal <#auto_repl> vers <#auto_repl>",
                 "convite_criado_titulo": "> Invitation créée 🔗",
                 "convite_excluido_titulo": "> Invitation supprimée 🔗",
                 "convite_criado": "Une nouvelle invitation de serveur a été créée!",

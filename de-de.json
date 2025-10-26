@@ -828,6 +828,7 @@
                 "canal_antigo": "Alter Kanal",
                 "canal_novo": "Neuer Kanal",
                 "canal_troca": "<@auto_repl> vom Sprachkanal <#auto_repl> zu <#auto_repl> geändert",
+                "canal_movido": "<@auto_repl> hat <@auto_repl> vom Sprachkanal <#auto_repl> nach <#auto_repl> verschoben",
                 "convite_criado_titulo": "> Einladung erstellt 🔗",
                 "convite_excluido_titulo": "> Einladung gelöscht 🔗",
                 "convite_criado": "Eine neue Servereinladung wurde erstellt!",
