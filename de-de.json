@@ -1174,7 +1174,8 @@
                     "phonetic": "Phonetisches Alphabet",
                     "cities": "Städtenamen",
                     "aliens": "Außerirdische Namen",
-                    "villains": "Namen berühmter Bösewichte"
+                    "villains": "Namen berühmter Bösewichte",
+                    "pokemons": "Pokémon-Namen"
                 }
             }
         },

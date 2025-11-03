@@ -1222,7 +1222,8 @@
                     "phonetic": "Phonetic Alphabet",
                     "cities": "City names",
                     "aliens": "Alien names",
-                    "villains": "Famous villains"
+                    "villains": "Famous villains",
+                    "pokemons": "Pokémon names"
                 }
             }
         },

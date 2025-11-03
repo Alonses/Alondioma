@@ -1150,7 +1150,8 @@
                     "precious_gems": "Piedras preciosas",
                     "cities": "Nombres de ciudades",
                     "aliens": "Nombres extraterrestres",
-                    "villains": "Nombres de villanos famosos"
+                    "villains": "Nombres de villanos famosos",
+                    "pokemons": "Nombres de pokémon"
                 }
             }
         },
