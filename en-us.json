@@ -947,6 +947,7 @@
                 "descricao_canais_desconfigurados": "Below are listed the channels that lack permissions for Anti-spam to work correctly, grant these permissions to Alonsal so that there are no errors during occurrences, if they occur.",
                 "sem_canais_desconfigurados": "```There are no channels on the server that lack read, send, and message history permissions for Alonsal.```",
                 "sem_categoria": "Uncategorized",
+                "arquivos_anexo": "🔗 Attached files",
                 "spam_titulo_user": [
                     "Stop right there!",
                     "Wait a minute!",

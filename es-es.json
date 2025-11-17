@@ -888,6 +888,7 @@
                 "descricao_canais_desconfigurados": "A continuación se listan los canales que carecen de permisos para que Anti-spam funcione correctamente, otorga estos permisos a Alonsal para que no haya errores durante las ocurrencias, si es que ocurren.",
                 "sem_canais_desconfigurados": "```No hay canales en el servidor que carezcan de permisos de lectura, envío e historial de mensajes para Alonsal.```",
                 "sem_categoria": "Sin categorizar",
+                "arquivos_anexo": "🔗 Archivos adjuntos",
                 "spam_titulo_user": "¡Detente ahí!",
                 "expulsao_em": "Expulsión en",
                 "gerenciar_moderadores": "Administrar moderadores",

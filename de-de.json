@@ -907,6 +907,7 @@
                 "descricao_canais_desconfigurados": "Nachfolgend sind die Kanäle aufgelistet, denen die Berechtigungen für die ordnungsgemäße Funktion von Anti-Spam fehlen. Erteilen Sie Alonsal diese Berechtigungen, damit bei Auftreten keine Fehler auftreten.",
                 "sem_canais_desconfigurados": "```Es gibt keine Kanäle auf dem Server, denen die Lese-, Sende- und Nachrichtenverlaufsberechtigungen für Alonsal fehlen.```",
                 "sem_categoria": "Unkategorisiert",
+                "arquivos_anexo": "🔗 Angehängte Dateien",
                 "spam_titulo_user": "Bleiben Sie stehen!",
                 "expulsao_em": "Platzverweis nach",
                 "gerenciar_moderadores": "Moderatoren verwalten",

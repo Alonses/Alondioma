@@ -935,6 +935,7 @@
                 "descricao_canais_desconfigurados": "Vous trouverez ci-dessous la liste des canaux qui ne disposent pas des autorisations nécessaires pour qu'Anti-spam fonctionne correctement. Accordez ces autorisations à Alonsal afin qu'il n'y ait pas d'erreurs lors des événements, s'ils se produisent.",
                 "sem_canais_desconfigurados": "```Il n'y a aucun canal sur le serveur qui ne dispose pas des autorisations de lecture, d'envoi et d'historique des messages pour Alonsal.```",
                 "sem_categoria": "Non classé",
+                "arquivos_anexo": "🔗 Fichiers joints",
                 "spam_titulo_user": "Arrêtez-vous là!",
                 "expulsao_em": "Expulsion en",
                 "gerenciar_moderadores": "Gérer les modérateurs",

@@ -970,6 +970,7 @@
                 "descricao_canais_desconfigurados": "Abaixo estão listados os canais que possuem falta de permissões para que o Anti-spam possa funcionar corretamente, conceda essas permissões ao Alonsal para que não haja erros durante as ocorrências, caso ocorrerem.",
                 "sem_canais_desconfigurados": "```Não há canais no servidor com falta de permissões de leitura, envio de mensagens e acesso ao histórico de mensagens para o Alonsal.```",
                 "sem_categoria": "Sem categoria",
+                "arquivos_anexo": "🔗 Arquivos em anexo",
                 "spam_titulo_user": [
                     "Parado ai!",
                     "Espera ai!",

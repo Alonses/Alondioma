@@ -898,6 +898,7 @@
                 "descricao_canais_desconfigurados": "Di seguito sono elencati i canali che non dispongono delle autorizzazioni necessarie affinché l'Anti-spam funzioni correttamente. È necessario concedere queste autorizzazioni ad Alonsal in modo che non si verifichino errori durante gli eventi, se si verificano.",
                 "sem_canais_desconfigurados": "```Non ci sono canali sul server privi di autorizzazioni di lettura, invio e cronologia dei messaggi per Alonsal.```",
                 "sem_categoria": "Non categorizzato",
+                "arquivos_anexo": "🔗 File allegati",
                 "spam_titulo_user": "Fermati subito!",
                 "expulsao_em": "Espulsione in",
                 "gerenciar_moderadores": "Gestisci moderatori",
