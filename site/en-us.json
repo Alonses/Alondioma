@@ -19,5 +19,9 @@
     "tipo.moderacao": "Moderation",
     "tipo.usuario": "User",
     "tipo.customizacao": "Customizations",
-    "tipo.monetario": "Bufunfas"
+    "tipo.monetario": "Bufunfas",
+    "comando.uso": "Use",
+    "comando.usos": "Uses",
+    "comando.funcionamento": "Action",
+    "comando.erro_carregamento": "It was not possible to load information for this command at this time 😿"
 }
