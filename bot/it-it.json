@@ -610,7 +610,10 @@
                 "canal_fechado": "Non hai un canale di segnalazione aperto!",
                 "fechando_canal": "Questo canale verrà chiuso auto_repl, grazie!",
                 "erro_1": "Si è verificato un errore e non è stato possibile creare il canale in questo momento, riprova più tardi",
-                "falta_vinculo": "Un canale deve essere configurato con il comando </conf guild:1094346210636214304> prima di poter essere attivato tramite il pannello."
+                "falta_vinculo": "Un canale deve essere configurato con il comando </conf guild:1094346210636214304> prima di poter essere attivato tramite il pannello.",
+                "canal_iniciado": "Il tuo canale di reclamo è stato creato! <@auto_repl>\nUtilizza il comando </complaint close:1094356024091217990> per chiudere il canale in qualsiasi momento.",
+                "canal_encerrado": "L'utente `auto_repl` ( <@auto_repl> | `auto_repl` ) ha chiuso questo canale in <t:auto_repl:f>",
+                "sem_permissao": "Non si dispone dell'autorizzazione per `Eliminare i canali`."
             },
             "report": {
                 "reporte": "Reclami",

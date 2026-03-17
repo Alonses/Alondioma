@@ -645,7 +645,10 @@
                 "canal_fechado": "Vous n'avez pas de canal de signalement ouvert!",
                 "fechando_canal": "Cette chaîne sera fermée auto_repl, merci!",
                 "erro_1": "Une erreur s'est produite et la chaîne n'a pas pu être créée pour le moment, veuillez réessayer plus tard",
-                "falta_vinculo": "Un canal doit être configuré avec la commande </conf guild:1094346210636214304> avant de pouvoir être activé via le panneau."
+                "falta_vinculo": "Un canal doit être configuré avec la commande </conf guild:1094346210636214304> avant de pouvoir être activé via le panneau.",
+                "canal_iniciado": "Votre canal de réclamation a été créé! <@auto_repl>\nUtilisez la commande </complaint close:1094356024091217990> pour fermer le canal à tout moment.",
+                "canal_encerrado": "L'utilisateur `auto_repl` ( <@auto_repl> | `auto_repl` ) a fermé ce canal dans <t:auto_repl:f>",
+                "sem_permissao": "Vous n'êtes pas autorisé à `supprimer des chaînes`."
             },
             "report": {
                 "reporte": "Réclamations",

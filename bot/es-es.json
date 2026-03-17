@@ -603,7 +603,10 @@
                 "canal_fechado": "¡No tienes un canal de denuncia abierto!",
                 "fechando_canal": "Este canal se cerrará auto_repl, ¡gracias!",
                 "erro_1": "Ocurrió un error y no se pudo crear el canal en este momento, inténtalo de nuevo más tarde",
-                "falta_vinculo": "Un canal debe configurarse con el comando </conf guild:1094346210636214304> antes de que pueda activarse a través del panel."
+                "falta_vinculo": "Un canal debe configurarse con el comando </conf guild:1094346210636214304> antes de que pueda activarse a través del panel.",
+                "canal_iniciado": "¡Se ha creado su canal de quejas! <@auto_repl>\nUtilice el comando </complaint close:1094356024091217990> para cerrar el canal en cualquier momento.",
+                "canal_encerrado": "El usuario `auto_repl` ( <@auto_repl> | `auto_repl` ) cerró este canal en <t:auto_repl:f>",
+                "sem_permissao": "No tienes permiso para `Eliminar canales`."
             },
             "report": {
                 "reporte": "Quejas",

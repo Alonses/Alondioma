@@ -658,7 +658,10 @@
                 "canal_fechado": "You do not have an open reporting channel!",
                 "fechando_canal": "This channel will be closed auto_repl, thank you!",
                 "erro_1": "There was an error and the channel could not be created at the moment, please try again later",
-                "falta_vinculo": "It is necessary to configure a channel with the command </conf guild:1094346210636214304> before being able to activate it through the panel."
+                "falta_vinculo": "It is necessary to configure a channel with the command </conf guild:1094346210636214304> before being able to activate it through the panel.",
+                "canal_iniciado": "Your complaint channel has been created! <@auto_repl>\nUse the command </complaint close:1094356024091217990> to close the channel at any time.",
+                "canal_encerrado": "The user `auto_repl` ( <@auto_repl> | `auto_repl` ) closed this channel in <t:auto_repl:f>",
+                "sem_permissao": "You do not have permission to `Delete channels`."
             },
             "report": {
                 "reporte": "Complaints",
