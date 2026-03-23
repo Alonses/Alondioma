@@ -611,6 +611,8 @@
                 "fechando_canal": "Questo canale verrà chiuso auto_repl, grazie!",
                 "erro_1": "Si è verificato un errore e non è stato possibile creare il canale in questo momento, riprova più tardi",
                 "falta_vinculo": "Un canale deve essere configurato con il comando </conf guild:1094346210636214304> prima di poter essere attivato tramite il pannello.",
+                "confirma_canal": "Un canale di ticket sarà creato affinché tu possa conversare con la moderazione del server separato dagli altri membri,\nConfermi la creazione del canale?",
+                "confirma_exclusao": "Questo canale sarà bloccato e tu non avrai più accesso, conferma l'ostruzione?",
                 "canal_iniciado": "Il tuo canale di reclamo è stato creato! <@auto_repl>\nUtilizza il comando </complaint close:1094356024091217990> per chiudere il canale in qualsiasi momento.",
                 "canal_encerrado": "L'utente `auto_repl` ( <@auto_repl> | `auto_repl` ) ha chiuso questo canale in <t:auto_repl:f>",
                 "sem_permissao": "Non si dispone dell'autorizzazione per `Eliminare i canali`."
@@ -843,6 +845,7 @@
                 "apelido_antigo": "Vecchio",
                 "sem_permissoes_vinculadas": "Non ci sono autorizzazioni diverse collegate a questo ruolo",
                 "canal_dinamico": "Canale dinamico.",
+                "canal_ticket": "Canale dinamico per biglietto.",
                 "canal_dinamico_remocao": "Verrà eliminato dopo auto_repl secondi, quando diventerà vuoto.",
                 "canal_dinamico_excluido": "È stato eliminato dopo auto_repl secondi di inutilizzo."
             },
@@ -911,7 +914,10 @@
                 "tipo_varredura": "Stile spazzato",
                 "apenas_links": "🔗 Considera solo i messaggi con link",
                 "qualquer_entrada": "🌟 Considera tutti i messaggi",
-                "indice_matriz": "\n\n```🐱‍👤 È stato configurato uno strike per bannare i membri prima dell'ultimo strike; gli strike successivi evidenziati in rosso possono essere modificati, ma non avranno alcun effetto pratico se un membro supera uno strike che causa l'espulsione o il ban e ritorna se viene sbloccato in futuro.```"
+                "indice_matriz": "\n\n```🐱‍👤 È stato configurato uno strike per bannare i membri prima dell'ultimo strike; gli strike successivi evidenziati in rosso possono essere modificati, ma non avranno alcun effetto pratico se un membro supera uno strike che causa l'espulsione o il ban e ritorna se viene sbloccato in futuro.```",
+                "expulsao_automatica": "Espellere i nuovi arrivati",
+                "remover_se": "Se il membro si è connesso al server meno di auto_repl",
+                "definir_tempo": "È arrivato a..."
             },
             "warn": {
                 "advertencias": "Avvertenze",

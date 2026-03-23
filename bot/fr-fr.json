@@ -646,6 +646,8 @@
                 "fechando_canal": "Cette chaîne sera fermée auto_repl, merci!",
                 "erro_1": "Une erreur s'est produite et la chaîne n'a pas pu être créée pour le moment, veuillez réessayer plus tard",
                 "falta_vinculo": "Un canal doit être configuré avec la commande </conf guild:1094346210636214304> avant de pouvoir être activé via le panneau.",
+                "confirma_canal": "Un canal sera créé pour gérer les demandes, vous permettant de communiquer avec les modérateurs du serveur séparément des autres participants. Confirmez-vous la création de ce canal?",
+                "confirma_exclusao": "Cette chaîne sera fermée et vous n'y aurez plus accès. Confirmez-vous sa fermeture?",
                 "canal_iniciado": "Votre canal de réclamation a été créé! <@auto_repl>\nUtilisez la commande </complaint close:1094356024091217990> pour fermer le canal à tout moment.",
                 "canal_encerrado": "L'utilisateur `auto_repl` ( <@auto_repl> | `auto_repl` ) a fermé ce canal dans <t:auto_repl:f>",
                 "sem_permissao": "Vous n'êtes pas autorisé à `supprimer des chaînes`."
@@ -879,6 +881,7 @@
                 "apelido_antigo": "Vieux",
                 "sem_permissoes_vinculadas": "Il n'y a pas d'autorisations différentes liées à ce rôle",
                 "canal_dinamico": "Canal dynamique.",
+                "canal_ticket": "Canal dynamique par ticket.",
                 "canal_dinamico_remocao": "Il sera supprimé après auto_repl secondes lorsqu'il sera vide.",
                 "canal_dinamico_excluido": "Il a été supprimé après auto_repl secondes de vide."
             },
@@ -948,7 +951,10 @@
                 "tipo_varredura": "Style de balayage",
                 "apenas_links": "🔗 Ne considérez que les messages contenant des liens",
                 "qualquer_entrada": "🌟 Prendre en compte tous les messages",
-                "indice_matriz": "\n\n```🐱‍👤 Il existe une grève configurée pour bannir les membres avant la dernière grève, les grèves suivantes surlignées en rouge peuvent être modifiées, mais n'auront aucun effet pratique si un membre dépasse une grève qui provoque l'expulsion ou le bannissement et revient s'il n'est pas banni à l'avenir.```"
+                "indice_matriz": "\n\n```🐱‍👤 Il existe une grève configurée pour bannir les membres avant la dernière grève, les grèves suivantes surlignées en rouge peuvent être modifiées, mais n'auront aucun effet pratique si un membre dépasse une grève qui provoque l'expulsion ou le bannissement et revient s'il n'est pas banni à l'avenir.```",
+                "expulsao_automatica": "Expulser les nouveaux arrivants",
+                "remover_se": "S'il a rejoint le serveur il y a plus auto_repl",
+                "definir_tempo": "Il est entré avant..."
             },
             "warn": {
                 "advertencias": "Avertissements",

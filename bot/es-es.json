@@ -604,6 +604,8 @@
                 "fechando_canal": "Este canal se cerrará auto_repl, ¡gracias!",
                 "erro_1": "Ocurrió un error y no se pudo crear el canal en este momento, inténtalo de nuevo más tarde",
                 "falta_vinculo": "Un canal debe configurarse con el comando </conf guild:1094346210636214304> antes de que pueda activarse a través del panel.",
+                "confirma_canal": "Se creará un canal de soporte para que puedas chatear con los moderadores del servidor por separado de los demás miembros. ¿Confirmas la creación del canal?",
+                "confirma_exclusao": "Este canal se cerrará y ya no tendrás acceso. ¿Confirmas el cierre?",
                 "canal_iniciado": "¡Se ha creado su canal de quejas! <@auto_repl>\nUtilice el comando </complaint close:1094356024091217990> para cerrar el canal en cualquier momento.",
                 "canal_encerrado": "El usuario `auto_repl` ( <@auto_repl> | `auto_repl` ) cerró este canal en <t:auto_repl:f>",
                 "sem_permissao": "No tienes permiso para `Eliminar canales`."
@@ -832,6 +834,7 @@
                 "apelido_antigo": "Viejo",
                 "sem_permissoes_vinculadas": "No hay diferentes permisos vinculados a este rol",
                 "canal_dinamico": "Canal dinámico.",
+                "canal_ticket": "Canal dinámico por ticket.",
                 "canal_dinamico_remocao": "Se eliminará después de auto_repl segundos cuando quede vacío.",
                 "canal_dinamico_excluido": "Se eliminó después de auto_repl segundos de estar vacío."
             },
@@ -901,7 +904,10 @@
                 "tipo_varredura": "Estilo de barrido",
                 "apenas_links": "🔗 Sólo considere mensajes con enlaces",
                 "qualquer_entrada": "🌟 Considere todos los mensajes",
-                "indice_matriz": "\n\n```🐱‍👤 Hay una huelga configurada para banear a miembros antes de la última huelga, las huelgas posteriores resaltadas en rojo se pueden editar, pero no tendrán ningún efecto práctico si un miembro excede una huelga que causa expulsión o destierro y regresa si se le desbloquea en el futuro.```"
+                "indice_matriz": "\n\n```🐱‍👤 Hay una huelga configurada para banear a miembros antes de la última huelga, las huelgas posteriores resaltadas en rojo se pueden editar, pero no tendrán ningún efecto práctico si un miembro excede una huelga que causa expulsión o destierro y regresa si se le desbloquea en el futuro.```",
+                "expulsao_automatica": "Eliminar a los novatos",
+                "remover_se": "Si te uniste al servidor hace auto_repl",
+                "definir_tempo": "Entró antes..."
             },
             "warn": {
                 "advertencias": "Advertencias",

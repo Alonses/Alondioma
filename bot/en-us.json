@@ -659,6 +659,8 @@
                 "fechando_canal": "This channel will be closed auto_repl, thank you!",
                 "erro_1": "There was an error and the channel could not be created at the moment, please try again later",
                 "falta_vinculo": "It is necessary to configure a channel with the command </conf guild:1094346210636214304> before being able to activate it through the panel.",
+                "confirma_canal": "A ticket channel will be created so you can chat with the server moderators separately from other members. Do you confirm the creation of the channel?",
+                "confirma_exclusao": "This channel will be closed and you will no longer have access. Do you confirm the closure?",
                 "canal_iniciado": "Your complaint channel has been created! <@auto_repl>\nUse the command </complaint close:1094356024091217990> to close the channel at any time.",
                 "canal_encerrado": "The user `auto_repl` ( <@auto_repl> | `auto_repl` ) closed this channel in <t:auto_repl:f>",
                 "sem_permissao": "You do not have permission to `Delete channels`."
@@ -891,6 +893,7 @@
                 "apelido_antigo": "Old",
                 "sem_permissoes_vinculadas": "There are no different permissions linked to this role",
                 "canal_dinamico": "Dynamic channel.",
+                "canal_ticket": "Dynamic channel per ticket.",
                 "canal_dinamico_remocao": "It will be deleted after auto_repl seconds when it becomes empty.",
                 "canal_dinamico_excluido": "It was deleted after auto_repl seconds of being empty."
             },
@@ -964,7 +967,10 @@
                 "tipo_varredura": "Sweep Style",
                 "apenas_links": "🔗 Only consider messages with links",
                 "qualquer_entrada": "🌟 Consider all messages",
-                "indice_matriz": "\n\n```🐱‍👤 There is a strike configured to ban members before the last strike, subsequent strikes highlighted in red can be edited, but will have no practical effect if a member exceeds a Strike that causes expulsion or banishment and returns if he is unbanned in the future.```"
+                "indice_matriz": "\n\n```🐱‍👤 There is a strike configured to ban members before the last strike, subsequent strikes highlighted in red can be edited, but will have no practical effect if a member exceeds a Strike that causes expulsion or banishment and returns if he is unbanned in the future.```",
+                "expulsao_automatica": "Remove newbies",
+                "remover_se": "If you joined the server before auto_repl",
+                "definir_tempo": "He entered before..."
             },
             "warn": {
                 "advertencias": "Warns",

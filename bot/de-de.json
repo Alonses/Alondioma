@@ -619,6 +619,8 @@
                 "fechando_canal": "Dieser Kanal wird auto_repl geschlossen, vielen Dank!",
                 "erro_1": "Es ist ein Fehler aufgetreten und der Kanal konnte derzeit nicht erstellt werden. Bitte versuchen Sie es später noch einmal",
                 "falta_vinculo": "Es ist notwendig, einen Kanal mit dem Befehl </conf guild:1094346210636214304> zu konfigurieren, bevor Sie ihn über das Panel aktivieren können.",
+                "confirma_canal": "Es wird ein Ticketkanal erstellt, damit Sie getrennt von anderen Mitgliedern mit den Servermoderatoren chatten können. Bestätigen Sie die Erstellung des Kanals?",
+                "confirma_exclusao": "Dieser Kanal wird geschlossen und Sie haben keinen Zugriff mehr darauf. Bestätigen Sie die Schließung?",
                 "canal_iniciado": "Ihr Beschwerdekanal wurde erstellt! <@auto_repl>\nVerwenden Sie den Befehl </complaint close:1094356024091217990>, um den Kanal jederzeit zu schließen.",
                 "canal_encerrado": "Der Benutzer `auto_repl` ( <@auto_repl> | `auto_repl` ) hat diesen Kanal in <t:auto_repl:f> geschlossen.",
                 "sem_permissao": "Sie haben keine Berechtigung zum `Löschen von Kanälen`."
@@ -851,6 +853,7 @@
                 "apelido_antigo": "Alt",
                 "sem_permissoes_vinculadas": "Mit dieser Rolle sind keine anderen Berechtigungen verknüpft",
                 "canal_dinamico": "Dynamischer Kanal.",
+                "canal_ticket": "Dynamischer Kanal pro Ticket.",
                 "canal_dinamico_remocao": "Es wird nach auto_repl Sekunden gelöscht, wenn es leer ist.",
                 "canal_dinamico_excluido": "Es wurde nach auto_repl Sekunden Leerzeit gelöscht."
             },
@@ -920,7 +923,10 @@
                 "tipo_varredura": "Sweep-Stil",
                 "apenas_links": "🔗 Nur Nachrichten mit Links berücksichtigen",
                 "qualquer_entrada": "🌟 Alle Nachrichten berücksichtigen",
-                "indice_matriz": "\n\n```🐱‍👤 Es gibt einen Strike, der so konfiguriert ist, dass Mitglieder vor dem letzten Strike gesperrt werden. Nachfolgende Strikes, die rot hervorgehoben sind, können bearbeitet werden, haben aber keine praktische Auswirkung, wenn ein Mitglied einen Strike überschreitet, der zum Ausschluss oder zur Verbannung führt, und kehrt zurück, wenn sein Bann in der Zukunft aufgehoben wird.```"
+                "indice_matriz": "\n\n```🐱‍👤 Es gibt einen Strike, der so konfiguriert ist, dass Mitglieder vor dem letzten Strike gesperrt werden. Nachfolgende Strikes, die rot hervorgehoben sind, können bearbeitet werden, haben aber keine praktische Auswirkung, wenn ein Mitglied einen Strike überschreitet, der zum Ausschluss oder zur Verbannung führt, und kehrt zurück, wenn sein Bann in der Zukunft aufgehoben wird.```",
+                "expulsao_automatica": "Neuankömmlinge ausweisen",
+                "remover_se": "Wenn Sie dem Server vor dem auto_repl beigetreten sind",
+                "definir_tempo": "Er kam an in..."
             },
             "warn": {
                 "advertencias": "Warnungen",

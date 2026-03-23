@@ -678,6 +678,8 @@
                 "fechando_canal": "Este canal será fechado auto_repl, obrigado!",
                 "erro_1": "Houve um erro e não foi possível criar o canal no momento, por favor, tente novamente mais tarde",
                 "falta_vinculo": "É preciso configurar um canal com o comando </conf guild:1094346210636214304> antes de poder ativar pelo painel.",
+                "confirma_canal": "Um canal de ticket será criado para que você possa conversar com a moderação do servidor separado dos outros membros,\nVocê confirma a criação do canal?",
+                "confirma_exclusao": "Este canal será encerrado e você não terá mais acesso, confirma o encerramento?",
                 "canal_iniciado": "Seu canal de denúncias foi criado! <@auto_repl>\nUtilize o comando </complaint close:1094356024091217990> para encerrar o canal a qualquer momento.",
                 "canal_encerrado": "O usuário `auto_repl` ( <@auto_repl> | `auto_repl` ) encerrou este canal em <t:auto_repl:f>",
                 "sem_permissao": "Você não possui permissões para `Excluir canais`."
@@ -906,13 +908,14 @@
                 "motivo_castigo": "Motivo do castigo",
                 "tempo_castigo": "Tempo de castigo",
                 "apelido_atualizado_titulo": "> Apelido atualizado 🔖",
-                "apelido_alterado": "Um membro do servidor atualizou o seu apelido!",
-                "apelido_alterado_moderador": "Um membro teve o seu apelido atualizado por um moderador!",
+                "apelido_alterado": "Um membro do servidor atualizou o apelido!",
+                "apelido_alterado_moderador": "Um membro teve o apelido atualizado por um moderador!",
                 "apelido": "O Apelido",
                 "apelido_novo": "Novo",
                 "apelido_antigo": "Antigo",
                 "sem_permissoes_vinculadas": "Não há permissões diferentes vinculados neste cargo",
                 "canal_dinamico": "Canal dinâmico.",
+                "canal_ticket": "Canal dinâmico por ticket.",
                 "canal_dinamico_remocao": "Será excluído após auto_repl segundos ao ficar vazio.",
                 "canal_dinamico_excluido": "Foi excluído após auto_repl segundos ao ficar vazio."
             },
@@ -988,7 +991,10 @@
                 "tipo_varredura": "Estilo de varredura",
                 "apenas_links": "🔗 Considerar apenas mensagens com links",
                 "qualquer_entrada": "🌟 Considerar todas as mensagens",
-                "indice_matriz": "\n\n```🐱‍👤 Há um strike configurado para banir membros antes do último strike, strikes posteriores destacados em vermelho podem ser editados, porém não terão efeito prático caso um membro ultrapasse um Strike que cause expulsão ou banimento e retorne caso venha a ser desbanido no futuro.```"
+                "indice_matriz": "\n\n```🐱‍👤 Há um strike configurado para banir membros antes do último strike, strikes posteriores destacados em vermelho podem ser editados, porém não terão efeito prático caso um membro ultrapasse um Strike que cause expulsão ou banimento e retorne caso venha a ser desbanido no futuro.```",
+                "expulsao_automatica": "Expulsar novatos",
+                "remover_se": "Se entrou no servidor antes de auto_repl",
+                "definir_tempo": "Entrou antes de..."
             },
             "warn": {
                 "advertencias": "Advertências",
