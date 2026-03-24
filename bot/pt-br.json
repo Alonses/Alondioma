@@ -992,7 +992,7 @@
                 "apenas_links": "🔗 Considerar apenas mensagens com links",
                 "qualquer_entrada": "🌟 Considerar todas as mensagens",
                 "indice_matriz": "\n\n```🐱‍👤 Há um strike configurado para banir membros antes do último strike, strikes posteriores destacados em vermelho podem ser editados, porém não terão efeito prático caso um membro ultrapasse um Strike que cause expulsão ou banimento e retorne caso venha a ser desbanido no futuro.```",
-                "expulsao_automatica": "Expulsar novatos",
+                "expulsar_novatos": "Expulsar novatos",
                 "remover_se": "Se entrou no servidor antes de auto_repl",
                 "definir_tempo": "Entrou antes de..."
             },
