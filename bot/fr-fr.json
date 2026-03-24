@@ -952,7 +952,7 @@
                 "apenas_links": "🔗 Ne considérez que les messages contenant des liens",
                 "qualquer_entrada": "🌟 Prendre en compte tous les messages",
                 "indice_matriz": "\n\n```🐱‍👤 Il existe une grève configurée pour bannir les membres avant la dernière grève, les grèves suivantes surlignées en rouge peuvent être modifiées, mais n'auront aucun effet pratique si un membre dépasse une grève qui provoque l'expulsion ou le bannissement et revient s'il n'est pas banni à l'avenir.```",
-                "expulsao_novatos": "Expulser les nouveaux arrivants",
+                "expulsar_novatos": "Expulser les nouveaux arrivants",
                 "remover_se": "S'il a rejoint le serveur il y a plus auto_repl",
                 "definir_tempo": "Il est entré avant..."
             },

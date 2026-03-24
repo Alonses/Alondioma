@@ -924,7 +924,7 @@
                 "apenas_links": "🔗 Nur Nachrichten mit Links berücksichtigen",
                 "qualquer_entrada": "🌟 Alle Nachrichten berücksichtigen",
                 "indice_matriz": "\n\n```🐱‍👤 Es gibt einen Strike, der so konfiguriert ist, dass Mitglieder vor dem letzten Strike gesperrt werden. Nachfolgende Strikes, die rot hervorgehoben sind, können bearbeitet werden, haben aber keine praktische Auswirkung, wenn ein Mitglied einen Strike überschreitet, der zum Ausschluss oder zur Verbannung führt, und kehrt zurück, wenn sein Bann in der Zukunft aufgehoben wird.```",
-                "expulsao_novatos": "Neuankömmlinge ausweisen",
+                "expulsar_novatos": "Neuankömmlinge ausweisen",
                 "remover_se": "Wenn Sie dem Server vor dem auto_repl beigetreten sind",
                 "definir_tempo": "Er kam an in..."
             },

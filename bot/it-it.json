@@ -915,7 +915,7 @@
                 "apenas_links": "🔗 Considera solo i messaggi con link",
                 "qualquer_entrada": "🌟 Considera tutti i messaggi",
                 "indice_matriz": "\n\n```🐱‍👤 È stato configurato uno strike per bannare i membri prima dell'ultimo strike; gli strike successivi evidenziati in rosso possono essere modificati, ma non avranno alcun effetto pratico se un membro supera uno strike che causa l'espulsione o il ban e ritorna se viene sbloccato in futuro.```",
-                "expulsao_novatos": "Espellere i nuovi arrivati",
+                "expulsar_novatos": "Espellere i nuovi arrivati",
                 "remover_se": "Se il membro si è connesso al server meno di auto_repl",
                 "definir_tempo": "È arrivato a..."
             },
