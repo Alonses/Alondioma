@@ -968,7 +968,7 @@
                 "apenas_links": "🔗 Only consider messages with links",
                 "qualquer_entrada": "🌟 Consider all messages",
                 "indice_matriz": "\n\n```🐱‍👤 There is a strike configured to ban members before the last strike, subsequent strikes highlighted in red can be edited, but will have no practical effect if a member exceeds a Strike that causes expulsion or banishment and returns if he is unbanned in the future.```",
-                "expulsao_automatica": "Remove newbies",
+                "expulsao_novatos": "Remove newbies",
                 "remover_se": "If you joined the server before auto_repl",
                 "definir_tempo": "He entered before..."
             },

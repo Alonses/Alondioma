@@ -905,7 +905,7 @@
                 "apenas_links": "🔗 Sólo considere mensajes con enlaces",
                 "qualquer_entrada": "🌟 Considere todos los mensajes",
                 "indice_matriz": "\n\n```🐱‍👤 Hay una huelga configurada para banear a miembros antes de la última huelga, las huelgas posteriores resaltadas en rojo se pueden editar, pero no tendrán ningún efecto práctico si un miembro excede una huelga que causa expulsión o destierro y regresa si se le desbloquea en el futuro.```",
-                "expulsao_automatica": "Eliminar a los novatos",
+                "expulsao_novatos": "Eliminar a los novatos",
                 "remover_se": "Si te uniste al servidor hace auto_repl",
                 "definir_tempo": "Entró antes..."
             },
